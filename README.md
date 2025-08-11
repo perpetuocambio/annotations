@@ -76,7 +76,7 @@ Si decides usar este contenido:
 
 ### Errores y Correcciones
 
-Si encuentras errores factuales importantes, te agradezco que me lo digas para poder corregirlos, estos textos son generados con IA Generativa sin mucha supervisión para intentar en lo posible no contaminar con sesgos propios, únicamente se dan indicaciones simples para su generación. Pero recuerda que **las diferencias de opinión política o interpretación** no son errores - son parte de mi perspectiva personal.
+Si encuentras errores factuales importantes, te agradezco que me lo digas para poder corregirlos, estos textos son generados con IA Generativa sin mucha supervisión para intentar en lo posible no contaminar con sesgos propios, únicamente se dan indicaciones simples para su generación.
 
 ### Uso del Contenido
 
