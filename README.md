@@ -4,7 +4,7 @@
 
 ### Naturaleza del Contenido
 
-Este repositorio contiene **análisis personales y reflexiones individuales** sobre diversos temas de mi interés. Los documentos aquí presentados son **trabajo personal de alguien que no es historiador, sociólogo, economista ni investigador profesional**. No pretenden establecer verdades absolutas ni sentar cátedra sobre los temas tratados.
+Este repositorio contiene **análisis con IA Generativa de temás de interés o reflexiones individuales realizadas en redes sociales** sobre diversos temas de mi interés. Los documentos aquí presentados son **trabajo personal de alguien que no es historiador, sociólogo, economista ni investigador profesional**. No pretenden establecer verdades absolutas ni sentar cátedra sobre los temas tratados.
 
 ### Limitaciones y Sesgos
 
