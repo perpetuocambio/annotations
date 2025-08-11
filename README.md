@@ -40,7 +40,7 @@ El contenido refleja mi **punto de vista personal** como:
 
 #### **Economía**
 - Análisis con sesgo hacia críticas del sistema capitalista
-- Interpretaciones favorables a perspectivas heterodoxas (Escuela Austriaca crítica, marxismo)
+- Interpretaciones favorables a perspectivas heterodoxas
 - Selección de datos que puede enfatizar problemas sistémicos
 
 #### **Historia**
