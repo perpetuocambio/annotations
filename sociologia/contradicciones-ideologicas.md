@@ -82,7 +82,7 @@ Si estos sectores no encuentran **ningún espacio en el espectro completo de la 
 #### La Posición Estratégica (Irrenunciable)
 
 **Como anarcocomunista:**
-- **Anticlericalismo público radical** - eliminación total de influencia religiosa en el espacio público
+- **Anticlericalismo público** - eliminación total de influencia religiosa en el espacio público
 - **Educación laica integral** para superar todas las formas de pensamiento religioso
 - **Objetivo a largo plazo:** sociedad sin religiones en ningún ámbito social
 
