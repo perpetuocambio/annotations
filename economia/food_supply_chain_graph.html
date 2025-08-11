@@ -1,0 +1,707 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cadena Alimentaria Global - Conexiones y Porcentajes</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.8.5/d3.min.js"></script>
+    <style>
+        body {
+            margin: 0;
+            padding: 15px;
+            font-family: 'Arial', sans-serif;
+            background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);
+            color: #212529;
+            overflow-x: auto;
+        }
+        
+        .container {
+            max-width: 1600px;
+            margin: 0 auto;
+            background: rgba(255, 255, 255, 0.95);
+            border-radius: 20px;
+            padding: 25px;
+            backdrop-filter: blur(15px);
+            box-shadow: 0 8px 32px rgba(0, 0, 0, 0.1);
+        }
+        
+        h1 {
+            text-align: center;
+            margin-bottom: 8px;
+            font-size: 2.2em;
+            background: linear-gradient(45deg, #FFD700, #FF6B35);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+        }
+        
+        .subtitle {
+            text-align: center;
+            margin-bottom: 20px;
+            font-size: 1.1em;
+            opacity: 0.85;
+            color: #FFA726;
+        }
+        
+        #graph {
+            width: 100%;
+            height: 900px;
+            border: 2px solid rgba(255, 165, 38, 0.5);
+            border-radius: 15px;
+            background: radial-gradient(circle at center, rgba(248, 249, 250, 0.9), rgba(233, 236, 239, 0.95));
+            cursor: grab;
+        }
+        
+        #graph:active {
+            cursor: grabbing;
+        }
+        
+        .zoom-controls {
+            position: absolute;
+            top: 15px;
+            left: 15px;
+            display: flex;
+            flex-direction: column;
+            gap: 8px;
+        }
+        
+        .zoom-btn {
+            background: rgba(255, 107, 53, 0.9);
+            border: 2px solid rgba(255, 215, 0, 0.6);
+            color: white;
+            width: 40px;
+            height: 40px;
+            border-radius: 50%;
+            cursor: pointer;
+            font-size: 18px;
+            font-weight: bold;
+            transition: all 0.3s ease;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+        
+        .zoom-btn:hover {
+            background: rgba(255, 107, 53, 1);
+            transform: scale(1.1);
+            box-shadow: 0 4px 15px rgba(255, 107, 53, 0.5);
+        }
+        
+        .node {
+            cursor: pointer;
+            transition: all 0.3s ease;
+        }
+        
+        .node:hover {
+            filter: brightness(1.4) drop-shadow(0 0 10px currentColor);
+            transform: scale(1.1);
+        }
+        
+        .node-seed {
+            fill: #8E44AD;
+            stroke: #F39C12;
+            stroke-width: 4px;
+            filter: drop-shadow(0 0 10px #8E44AD);
+        }
+        
+        .node-fertilizer {
+            fill: #27AE60;
+            stroke: #E67E22;
+            stroke-width: 3px;
+            filter: drop-shadow(0 0 8px #27AE60);
+        }
+        
+        .node-abcd {
+            fill: #FF4757;
+            stroke: #FFD700;
+            stroke-width: 4px;
+            filter: drop-shadow(0 0 8px #FF4757);
+        }
+        
+        .node-processor {
+            fill: #00D2D3;
+            stroke: #FFA726;
+            stroke-width: 3px;
+            filter: drop-shadow(0 0 6px #00D2D3);
+        }
+        
+        .node-brand {
+            fill: #5DADE2;
+            stroke: #F39C12;
+            stroke-width: 2.5px;
+            filter: drop-shadow(0 0 5px #5DADE2);
+        }
+        
+        .node-retail {
+            fill: #58D68D;
+            stroke: #E74C3C;
+            stroke-width: 3px;
+            filter: drop-shadow(0 0 6px #58D68D);
+        }
+        
+        .link {
+            transition: all 0.3s ease;
+        }
+        
+        .link-high {
+            stroke: #28a745;
+            stroke-width: 6px;
+            opacity: 0.9;
+            filter: drop-shadow(0 0 3px #28a745);
+        }
+        
+        .link-medium {
+            stroke: #007bff;
+            stroke-width: 4px;
+            opacity: 0.7;
+        }
+        
+        .link-low {
+            stroke: rgba(108, 117, 125, 0.6);
+            stroke-width: 2px;
+            opacity: 0.5;
+        }
+        
+        .link:hover {
+            stroke: #FF6B35 !important;
+            stroke-width: 8px !important;
+            opacity: 1 !important;
+            filter: drop-shadow(0 0 5px #FF6B35);
+        }
+        
+        .node-text {
+            fill: #212529;
+            font-size: 11px;
+            font-weight: bold;
+            text-anchor: middle;
+            dominant-baseline: middle;
+            text-shadow: 1px 1px 2px rgba(255, 255, 255, 0.8);
+            pointer-events: none;
+        }
+        
+        .percentage-text {
+            fill: #495057;
+            font-size: 9px;
+            font-weight: bold;
+            text-anchor: middle;
+            text-shadow: 1px 1px 2px rgba(255, 255, 255, 0.8);
+            pointer-events: none;
+        }
+        
+        .link-label {
+            fill: #212529;
+            font-size: 12px;
+            font-weight: bold;
+            text-anchor: middle;
+            text-shadow: 1px 1px 2px rgba(255, 255, 255, 0.9);
+            pointer-events: none;
+        }
+        
+        .legend {
+            position: absolute;
+            top: 15px;
+            right: 15px;
+            background: rgba(255, 255, 255, 0.95);
+            color: #212529;
+            padding: 15px;
+            border-radius: 10px;
+            border: 2px solid rgba(255, 215, 0, 0.6);
+            font-size: 12px;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+        }
+        
+        .legend-item {
+            display: flex;
+            align-items: center;
+            margin: 6px 0;
+        }
+        
+        .legend-color {
+            width: 18px;
+            height: 18px;
+            border-radius: 50%;
+            margin-right: 8px;
+            border: 2px solid rgba(255, 255, 255, 0.6);
+        }
+        
+        .info-panel {
+            position: absolute;
+            bottom: 15px;
+            left: 15px;
+            background: rgba(255, 255, 255, 0.95);
+            color: #212529;
+            padding: 15px;
+            border-radius: 10px;
+            border: 2px solid rgba(255, 165, 38, 0.6);
+            max-width: 350px;
+            display: none;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+        }
+        
+        .controls {
+            text-align: center;
+            margin: 15px 0;
+        }
+        
+        .control-btn {
+            background: linear-gradient(45deg, #FF6B35 0%, #F7931E 100%);
+            border: none;
+            color: white;
+            padding: 8px 16px;
+            margin: 0 8px;
+            border-radius: 20px;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            font-weight: bold;
+            font-size: 11px;
+        }
+        
+        .control-btn:hover {
+            transform: translateY(-2px) scale(1.05);
+            box-shadow: 0 6px 20px rgba(255, 107, 53, 0.4);
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Cadena Alimentaria Global: El Verdadero Poder</h1>
+        <p class="subtitle">Conexiones Reales, Porcentajes de Mercado y Flujos de Control</p>
+        
+        <div class="controls">
+            <button class="control-btn" onclick="resetSimulation()">Reiniciar</button>
+            <button class="control-btn" onclick="highlightMonopoly()">Monopolio ABCD</button>
+            <button class="control-btn" onclick="showSupplyFlow()">Flujo Suministro</button>
+            <button class="control-btn" onclick="highlightConnections()">Conexiones Críticas</button>
+        </div>
+        
+        <div style="position: relative;">
+            <svg id="graph"></svg>
+            
+            <div class="zoom-controls">
+                <button class="zoom-btn" onclick="zoomIn()" title="Zoom In">+</button>
+                <button class="zoom-btn" onclick="zoomOut()" title="Zoom Out">−</button>
+                <button class="zoom-btn" onclick="resetZoom()" title="Reset" style="font-size: 14px;">⌂</button>
+            </div>
+            
+            <div class="legend">
+                <h3 style="margin-top: 0; color: #FFD700; font-size: 14px;">Control Total de la Cadena</h3>
+                <div class="legend-item">
+                    <div class="legend-color" style="background: #8E44AD; border-color: #F39C12;"></div>
+                    <span>Semillas: 60% Big4 global</span>
+                </div>
+                <div class="legend-item">
+                    <div class="legend-color" style="background: #27AE60; border-color: #E67E22;"></div>
+                    <span>Fertilizantes: 31% Top5</span>
+                </div>
+                <div class="legend-item">
+                    <div class="legend-color" style="background: #FF4757; border-color: #FFD700;"></div>
+                    <span>ABCD: 70-90% granos globales</span>
+                </div>
+                <div class="legend-item">
+                    <div class="legend-color" style="background: #00D2D3; border-color: #FFA726;"></div>
+                    <span>Procesadores: 40-60% regional</span>
+                </div>
+                <div class="legend-item">
+                    <div class="legend-color" style="background: #5DADE2; border-color: #F39C12;"></div>
+                    <span>Marcas: 10-30% categoría</span>
+                </div>
+                <div class="legend-item">
+                    <div class="legend-color" style="background: #58D68D; border-color: #E74C3C;"></div>
+                    <span>Retail: 15-40% nacional</span>
+                </div>
+                <hr style="border-color: rgba(255,255,255,0.3); margin: 8px 0;">
+                <div style="font-size: 10px; color: #495057;">
+                    <strong>Grosor líneas:</strong><br>
+                    🟢 Alto (>50% suministro)<br>
+                    🔵 Medio (20-50%)<br>
+                    ⚫ Bajo (<20%)
+                </div>
+            </div>
+            
+            <div class="info-panel" id="infoPanel">
+                <h4 id="infoTitle" style="color: #28a745;">Información</h4>
+                <p id="infoContent">Haz clic en un nodo para ver detalles de mercado</p>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        // Datos con TODA la cadena: desde semillas hasta retail
+        const data = {
+            nodes: [
+                // NIVEL 0: Semillas y Agroquímicos - Control del ADN y química básica
+                {id: "bayer", name: "Bayer-Monsanto", type: "seed", market_share: "23%", 
+                 description: "23% mercado semillas global tras adquirir Monsanto por $63B. Control ADN cultivos: 96% algodón GM EEUU, 22 de 33 cultivos GM Canadá. Patents 325 traits transgénicos EU"},
+                 
+                {id: "corteva", name: "Corteva", type: "seed", market_share: "17%", 
+                 description: "Fusión DowDuPont 2019. 17% semillas + 11% agroquímicos global. 70% DuPont era semillas/traits, 80% Dow era químicos. 6 de 33 cultivos GM Canadá"},
+                 
+                {id: "syngenta", name: "ChemChina-Syngenta", type: "seed", market_share: "8%", 
+                 description: "Adquirida por ChemChina $43B. 8% semillas + mayor en agroquímicos. 3 de 33 cultivos GM Canadá. Control Europa-Asia"},
+                 
+                {id: "basf", name: "BASF", type: "seed", market_share: "5%", 
+                 description: "Compró activos Bayer obligatorios tras fusión Monsanto. Herbicida Liberty + semillas LibertLink. 11% agroquímicos global"},
+
+                // NIVEL 0.5: Fertilizantes - Control nutrientes del suelo
+                {id: "nutrien", name: "Nutrien", type: "fertilizer", market_share: "12%", 
+                 description: "Fusión PotashCorp+Agrium 2018. Líder mundial fertilizantes: 12% global. 29.5M ton capacidad. Mayor productor potasa mundial. $24.2B market cap"},
+                 
+                {id: "yara", name: "Yara", type: "fertilizer", market_share: "8%", 
+                 description: "Noruega. 8% fertilizantes global. Líder nitrógeno mundial. 150+ países. €7.750M ingresos. Control Europa-África"},
+                 
+                {id: "cf_industries", name: "CF Industries", type: "fertilizer", market_share: "6%", 
+                 description: "Mayor productor nitrógeno EEUU. 6% fertilizantes global. Plantas Norteamérica + 50% planta Trinidad Tobago"},
+                 
+                {id: "mosaic", name: "Mosaic", type: "fertilizer", market_share: "5%", 
+                 description: "Líder fosfato/potasa mundial. 26M ton capacidad. Integración vertical: minas→ácido fosfórico→fertilizante. EEUU-Brasil-India"},
+
+                // NIVEL 1: ABCD Trading Houses - Controlan 70-90% del comercio global de granos
+                {id: "cargill", name: "Cargill", type: "abcd", market_share: "25%", 
+                 description: "$165B ingresos 2022. Privada. 25% del comercio global de granos. 'Somos la harina de tu pan, el trigo de tus fideos, la sal de tus papas fritas' - Cargill 2001"},
+                 
+                {id: "adm", name: "ADM", type: "abcd", market_share: "20%", 
+                 description: "$94B ingresos. 20% comercio global granos. Procesa 275,000t/día. Rey Maíz: 164,000t oleaginosas, 36,000t trigo diarios"},
+                 
+                {id: "bunge", name: "Bunge", type: "abcd", market_share: "15%", 
+                 description: "$59.5B ingresos. 15% comercio granos. Mayor procesador oleaginosas mundial. 160M toneladas comercializadas"},
+                 
+                {id: "louis_dreyfus", name: "Louis Dreyfus", type: "abcd", market_share: "12%", 
+                 description: "$50B ingresos. Familiar francesa. 12% comercio granos. Control puertos Amsterdam-Rotterdam"},
+                 
+                {id: "cofco", name: "COFCO Intl", type: "abcd", market_share: "8%", 
+                 description: "$31B ingresos. Brazo internacional de COFCO China. 100M toneladas/año. Puerta entrada mercado chino"},
+
+                // NIVEL 2: Procesadores 
+                {id: "viterra", name: "Viterra", type: "processor", market_share: "10%", 
+                 description: "37 países. 24 puertos, 180+ elevadores, 30+ plantas. Fusión con Bunge pendiente: crearía súper-gigante"},
+
+                {id: "tyson", name: "Tyson Foods", type: "processor", market_share: "23%", 
+                 description: "23% mercado carne EEUU. $53B ingresos. Integración vertical brutal: de granja a supermercado"},
+                 
+                {id: "jbs", name: "JBS", type: "processor", market_share: "18%", 
+                 description: "Mayor procesador carne mundial. $54B ingresos. Domina Brasil, expandido globalmente"},
+                 
+                {id: "wilmar", name: "Wilmar", type: "processor", market_share: "45%", 
+                 description: "$53B ingresos. 45% aceites vegetales Asia. Control palma aceitera Indonesia-Malasia"},
+
+                // NIVEL 3: Marcas finales
+                {id: "nestle", name: "Nestlé", type: "brand", market_share: "4.1%", 
+                 description: "Líder mundial alimentos: $100B+ ingresos. 4.1% mercado global F&B. 97% cereales infantiles India. 2,000 marcas"},
+                 
+                {id: "pepsico", name: "PepsiCo", type: "brand", market_share: "2.8%", 
+                 description: "$91B ingresos. 24.3% bebidas carbonatadas EEUU. 15.1% snacks Canadá. Segundo global F&B"},
+                 
+                {id: "coca_cola", name: "Coca-Cola", type: "brand", market_share: "1.9%", 
+                 description: "$43B ingresos. Líder bebidas sin alcohol. Presente 200+ países. Poder marca brutal"},
+                 
+                {id: "unilever", name: "Unilever", type: "brand", market_share: "1.2%", 
+                 description: "$60B ingresos. Líder productos consumo. Hellmann's, Knorr, Ben & Jerry's"},
+                 
+                {id: "kraft", name: "Kraft Heinz", type: "brand", market_share: "1.8%", 
+                 description: "$26B ingresos. Procesados EEUU. Kraft, Heinz, Oscar Mayer. Dependencia ADM brutal"},
+
+                // NIVEL 4: Retail
+                {id: "walmart", name: "Walmart", type: "retail", market_share: "26%", 
+                 description: "26% retail alimentario EEUU. $611B ingresos totales. Poder negociación absoluto. Dicta términos a toda la cadena"},
+                 
+                {id: "amazon", name: "Amazon", type: "retail", market_share: "12%", 
+                 description: "12% e-commerce alimentario EEUU y creciendo. $574B ingresos. Whole Foods + tecnología = disrupción"}
+            ],
+            
+            links: [
+                // NIVEL 0: Semillas → Fertilizantes (Sinergia química)
+                {source: "bayer", target: "nutrien", strength: 0.60, percentage: "40%", type: "medium", description: "Herbicidas+fertilizantes"},
+                {source: "corteva", target: "cf_industries", strength: 0.70, percentage: "50%", type: "high", description: "Integración química"},
+                {source: "syngenta", target: "yara", strength: 0.65, percentage: "45%", type: "medium", description: "Europa-Asia"},
+                {source: "basf", target: "mosaic", strength: 0.50, percentage: "30%", type: "low", description: "Fosfatos"},
+                
+                // NIVEL 0→1: Semillas/Fertilizantes → ABCD (Control suministro básico)
+                {source: "bayer", target: "cargill", strength: 0.80, percentage: "60%", type: "high", description: "GM seeds→granos"},
+                {source: "bayer", target: "adm", strength: 0.75, percentage: "55%", type: "high", description: "Soja/maíz GM"},
+                {source: "corteva", target: "bunge", strength: 0.85, percentage: "65%", type: "high", description: "Pioneer seeds"},
+                {source: "corteva", target: "adm", strength: 0.70, percentage: "50%", type: "high", description: "DuPont legacy"},
+                {source: "syngenta", target: "cofco", strength: 0.90, percentage: "70%", type: "high", description: "Puerta China"},
+                {source: "syngenta", target: "louis_dreyfus", strength: 0.60, percentage: "40%", type: "medium", description: "Europa"},
+                {source: "nutrien", target: "cargill", strength: 0.85, percentage: "65%", type: "high", description: "Fertilizante masivo"},
+                {source: "yara", target: "louis_dreyfus", strength: 0.70, percentage: "50%", type: "high", description: "Europa-Rotterdam"},
+                {source: "cf_industries", target: "adm", strength: 0.80, percentage: "60%", type: "high", description: "Nitrógeno EEUU"},
+                {source: "mosaic", target: "bunge", strength: 0.75, percentage: "55%", type: "high", description: "Fosfato/potasa"},
+                
+                // NIVEL 1→2: ABCD → Procesadores (Flujo materia prima)
+                {source: "cargill", target: "tyson", strength: 0.85, percentage: "65%", type: "high"},
+                {source: "cargill", target: "jbs", strength: 0.60, percentage: "40%", type: "medium"},
+                {source: "adm", target: "tyson", strength: 0.90, percentage: "70%", type: "high"},
+                {source: "bunge", target: "wilmar", strength: 0.75, percentage: "55%", type: "high"},
+                {source: "bunge", target: "viterra", strength: 0.95, percentage: "75%", type: "high", description: "Fusión pendiente"},
+                {source: "louis_dreyfus", target: "viterra", strength: 0.50, percentage: "35%", type: "medium"},
+                {source: "cofco", target: "jbs", strength: 0.40, percentage: "25%", type: "low"},
+                
+                // NIVEL 1→3: ABCD → Marcas (Salto procesamiento)
+                {source: "cargill", target: "nestle", strength: 0.80, percentage: "60%", type: "high"},
+                {source: "cargill", target: "pepsico", strength: 0.70, percentage: "50%", type: "high"},
+                {source: "cargill", target: "coca_cola", strength: 0.65, percentage: "45%", type: "medium"},
+                {source: "adm", target: "kraft", strength: 0.95, percentage: "75%", type: "high"},
+                {source: "adm", target: "pepsico", strength: 0.60, percentage: "40%", type: "medium"},
+                {source: "bunge", target: "unilever", strength: 0.85, percentage: "65%", type: "high"},
+                {source: "bunge", target: "nestle", strength: 0.55, percentage: "35%", type: "medium"},
+                
+                // NIVEL 2→3: Procesadores → Marcas (Integración vertical)
+                {source: "tyson", target: "kraft", strength: 0.90, percentage: "70%", type: "high"},
+                {source: "jbs", target: "nestle", strength: 0.50, percentage: "30%", type: "medium"},
+                {source: "wilmar", target: "unilever", strength: 0.85, percentage: "65%", type: "high"},
+                {source: "wilmar", target: "nestle", strength: 0.60, percentage: "40%", type: "medium"},
+                
+                // NIVEL 3→4: Marcas → Retail (Acceso consumidor)
+                {source: "nestle", target: "walmart", strength: 0.95, percentage: "75%", type: "high"},
+                {source: "nestle", target: "amazon", strength: 0.45, percentage: "30%", type: "medium"},
+                {source: "pepsico", target: "walmart", strength: 0.90, percentage: "70%", type: "high"},
+                {source: "pepsico", target: "amazon", strength: 0.55, percentage: "35%", type: "medium"},
+                {source: "coca_cola", target: "walmart", strength: 0.80, percentage: "60%", type: "high"},
+                {source: "kraft", target: "walmart", strength: 0.85, percentage: "65%", type: "high"},
+                {source: "unilever", target: "walmart", strength: 0.75, percentage: "55%", type: "high"}
+            ]
+        };
+
+        // Configuración del SVG con zoom
+        const width = 1550;
+        const height = 900;
+        const svg = d3.select("#graph")
+            .attr("width", width)
+            .attr("height", height);
+
+        // Crear contenedor para zoom
+        const container = svg.append("g");
+
+        // Configurar zoom
+        const zoom = d3.zoom()
+            .scaleExtent([0.3, 3])
+            .on("zoom", function(event) {
+                container.attr("transform", event.transform);
+            });
+
+        svg.call(zoom);
+
+        // Configuración de la simulación con mejor distribución
+        const simulation = d3.forceSimulation(data.nodes)
+            .force("link", d3.forceLink(data.links).id(d => d.id).distance(d => {
+                if (d.type === "high") return 180;
+                if (d.type === "medium") return 220;
+                return 280;
+            }).strength(d => {
+                if (d.type === "high") return 0.6;
+                if (d.type === "medium") return 0.4;
+                return 0.2;
+            }))
+            .force("charge", d3.forceManyBody().strength(-800))
+            .force("center", d3.forceCenter(width / 2, height / 2))
+            .force("collision", d3.forceCollide().radius(60))
+            .force("x", d3.forceX(d => {
+                // Distribución horizontal por tipo - Flujo temporal
+                if (d.type === "seed") return width * 0.08;
+                if (d.type === "fertilizer") return width * 0.15;
+                if (d.type === "abcd") return width * 0.35;
+                if (d.type === "processor") return width * 0.55;
+                if (d.type === "brand") return width * 0.75;
+                return width * 0.92;
+            }).strength(0.4))
+            .force("y", d3.forceY(d => {
+                // Distribución vertical para evitar superposición
+                const typeOrder = {seed: 0, fertilizer: 0.5, abcd: 1, processor: 2, brand: 3, retail: 4};
+                const sameTypeNodes = data.nodes.filter(n => n.type === d.type);
+                const index = sameTypeNodes.indexOf(d);
+                return height * 0.15 + (height * 0.7 / sameTypeNodes.length) * index + (height * 0.2 * (typeOrder[d.type] || 0));
+            }).strength(0.2));
+
+        // Crear los enlaces en el contenedor
+        const link = container.append("g")
+            .selectAll("line")
+            .data(data.links)
+            .enter().append("line")
+            .attr("class", d => `link link-${d.type}`);
+
+        // Etiquetas de los enlaces en el contenedor
+        const linkLabels = container.append("g")
+            .selectAll("text")
+            .data(data.links)
+            .enter().append("text")
+            .attr("class", "link-label")
+            .text(d => d.percentage);
+
+        // Crear los nodos en el contenedor
+        const node = container.append("g")
+            .selectAll("circle")
+            .data(data.nodes)
+            .enter().append("circle")
+            .attr("class", d => `node node-${d.type}`)
+            .attr("r", d => {
+                if (d.type === "seed") return 30;
+                if (d.type === "fertilizer") return 26;
+                if (d.type === "abcd") return 35;
+                if (d.type === "processor") return 28;
+                if (d.type === "retail") return 30;
+                return 24;
+            })
+            .on("click", showNodeInfo)
+            .call(d3.drag()
+                .on("start", dragstarted)
+                .on("drag", dragged)
+                .on("end", dragended));
+
+        // Crear las etiquetas de los nodos en el contenedor
+        const label = container.append("g")
+            .selectAll("text")
+            .data(data.nodes)
+            .enter().append("text")
+            .attr("class", "node-text")
+            .text(d => d.name);
+
+        // Crear etiquetas de porcentaje en el contenedor
+        const percentageLabels = container.append("g")
+            .selectAll("text")
+            .data(data.nodes)
+            .enter().append("text")
+            .attr("class", "percentage-text")
+            .text(d => d.market_share);
+
+        // Actualizar posiciones en cada tick
+        simulation.on("tick", () => {
+            link
+                .attr("x1", d => d.source.x)
+                .attr("y1", d => d.source.y)
+                .attr("x2", d => d.target.x)
+                .attr("y2", d => d.target.y);
+
+            linkLabels
+                .attr("x", d => (d.source.x + d.target.x) / 2)
+                .attr("y", d => (d.source.y + d.target.y) / 2);
+
+            node
+                .attr("cx", d => Math.max(40, Math.min(width - 40, d.x)))
+                .attr("cy", d => Math.max(40, Math.min(height - 40, d.y)));
+
+            label
+                .attr("x", d => d.x)
+                .attr("y", d => d.y - 8);
+
+            percentageLabels
+                .attr("x", d => d.x)
+                .attr("y", d => d.y + 18);
+        });
+
+        // Funciones de zoom
+        function zoomIn() {
+            svg.transition().duration(300).call(
+                zoom.scaleBy, 1.5
+            );
+        }
+
+        function zoomOut() {
+            svg.transition().duration(300).call(
+                zoom.scaleBy, 1 / 1.5
+            );
+        }
+
+        function resetZoom() {
+            svg.transition().duration(500).call(
+                zoom.transform,
+                d3.zoomIdentity
+            );
+        }
+
+        // Funciones de drag
+        function dragstarted(event, d) {
+            if (!event.active) simulation.alphaTarget(0.3).restart();
+            d.fx = d.x;
+            d.fy = d.y;
+        }
+
+        function dragged(event, d) {
+            d.fx = event.x;
+            d.fy = event.y;
+        }
+
+        function dragended(event, d) {
+            if (!event.active) simulation.alphaTarget(0);
+            d.fx = null;
+            d.fy = null;
+        }
+
+        // Mostrar información del nodo
+        function showNodeInfo(event, d) {
+            const infoPanel = document.getElementById("infoPanel");
+            const infoTitle = document.getElementById("infoTitle");
+            const infoContent = document.getElementById("infoContent");
+            
+            infoTitle.textContent = `${d.name} - ${d.market_share} mercado`;
+            infoContent.textContent = d.description;
+            infoPanel.style.display = "block";
+            
+            setTimeout(() => {
+                infoPanel.style.display = "none";
+            }, 8000);
+        }
+
+        // Funciones de control
+        function resetSimulation() {
+            simulation.alpha(1).restart();
+            node.style("opacity", 1);
+            label.style("opacity", 1);
+            percentageLabels.style("opacity", 1);
+            link.style("opacity", d => d.type === "high" ? 0.9 : d.type === "medium" ? 0.7 : 0.5);
+            linkLabels.style("opacity", 0.8);
+        }
+
+        function highlightMonopoly() {
+            // Destacar solo semillas, fertilizantes y ABCD - el verdadero poder
+            node.style("opacity", d => 
+                (d.type === "seed" || d.type === "fertilizer" || d.type === "abcd") ? 1 : 0.2
+            );
+            label.style("opacity", d => 
+                (d.type === "seed" || d.type === "fertilizer" || d.type === "abcd") ? 1 : 0.2
+            );
+            percentageLabels.style("opacity", d => 
+                (d.type === "seed" || d.type === "fertilizer" || d.type === "abcd") ? 1 : 0.2
+            );
+            link.style("opacity", d => {
+                const sourceNode = data.nodes.find(n => n.id === d.source.id);
+                return (sourceNode && (sourceNode.type === "seed" || sourceNode.type === "fertilizer" || sourceNode.type === "abcd")) ? 0.8 : 0.1;
+            });
+            linkLabels.style("opacity", d => {
+                const sourceNode = data.nodes.find(n => n.id === d.source.id);
+                return (sourceNode && (sourceNode.type === "seed" || sourceNode.type === "fertilizer" || sourceNode.type === "abcd")) ? 1 : 0.1;
+            });
+            
+            setTimeout(resetSimulation, 6000);
+        }
+
+        function showSupplyFlow() {
+            // Mostrar flujo: Semillas → Fertilizantes → ABCD → Procesadores → Marcas → Retail
+            const flow = ["seed", "fertilizer", "abcd", "processor", "brand", "retail"];
+            let step = 0;
+            
+            function highlightStep() {
+                if (step < flow.length) {
+                    node.style("opacity", d => d.type === flow[step] ? 1 : 0.3);
+                    label.style("opacity", d => d.type === flow[step] ? 1 : 0.3);
+                    percentageLabels.style("opacity", d => d.type === flow[step] ? 1 : 0.3);
+                    
+                    step++;
+                    setTimeout(highlightStep, 1200);
+                } else {
+                    setTimeout(resetSimulation, 1000);
+                }
+            }
+            
+            highlightStep();
+        }
+
+        function highlightConnections() {
+            // Destacar solo conexiones de alta dependencia
+            link.style("opacity", d => d.type === "high" ? 1 : 0.1);
+            linkLabels.style("opacity", d => d.type === "high" ? 1 : 0.1);
+            
+            setTimeout(resetSimulation, 4000);
+        }
+    </script>
+</body>
+</html>
