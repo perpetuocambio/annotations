@@ -9,7 +9,7 @@ Este repositorio contiene **análisis con IA Generativa de temás de interés o 
 ### Limitaciones y Sesgos
 
 #### **Temas Políticos e Historiográficos**
-- **Los análisis políticos reflejan una perspectiva de izquierda** del autor
+- **Los análisis políticos reflejan una perspectiva de izquierda** forzada por el autor
 - **La selección de fuentes y enfoques interpretativos** puede estar influenciada por esta orientación ideológica
 - **No se pretende neutralidad absoluta** en temas que involucran posicionamientos políticos
 - **Los análisis historiográficos** están sujetos a la interpretación personal del autor y pueden diferir de otras perspectivas 
