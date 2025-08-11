@@ -316,32 +316,6 @@ Este documento compila exhaustivamente todos los enlaces específicos disponible
 - **Análisis**: Internacionalización del conflicto facilitada en gran parte por Portugal
 
 ---
-
-## PRÓXIMAS BÚSQUEDAS PROGRAMADAS
-
-### Búsquedas Pendientes Prioritarias:
-
-1. **Archivos Franceses**: Service Historique de la Défense, Archives Nationales sobre intervención francesa y control fronterizo
-2. **Archivos Suizos**: Bancos suizos y transferencias financieras internacionales  
-3. **International Brigades**: Archivos de voluntarios internacionales por países
-4. **Non-Intervention Committee**: Documentos británicos sobre el Comité de No Intervención
-5. **Archivos Mexicanos**: Apoyo del gobierno de Cárdenas a la República
-6. **Standard Oil**: Documentos corporativos sobre suministros de combustible
-7. **Bancos internacionales**: Chase National Bank, otros bancos estadounidenses
-8. **Ford Motor Company**: Apoyo corporativo al bando franquista
-9. **Archivos Italianos**: Documentos del Servizio Informazioni Militari (SIM)
-10. **Archivos Japoneses**: Documentos sobre reconocimiento diplomático del bando franquista
-
-### Metodología de Búsqueda Continua:
-
-- Verificación de enlaces activos cada 3 meses
-- Búsqueda de nuevas desclasificaciones trimestrales
-- Actualización de bases de datos académicas semestralmente
-- Seguimiento de liberaciones FOIA estadounidenses
-- Monitoreo de archivos europeos digitalizados
-
----
-
 **Fecha de última actualización**: Agosto 2025
 **Próxima revisión programada**: Noviembre 2025
 
