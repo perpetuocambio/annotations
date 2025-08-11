@@ -19,7 +19,9 @@
 - Crítica radical al Estado como estructura de dominación
 - Prefiguración de relaciones sociales postcapitalistas
 
-### La Función Específica de la Izquierda Revolucionaria
+### La Función Específica de la Izquierda Revolucionaria     
+
+
 
 **Target político exclusivo:** La clase obrera - quienes no poseen medios de producción ni extraen renta del trabajo ajeno
 
@@ -293,46 +295,3 @@ Reclus, E. (1895). *L'Évolution, la révolution et l'idéal anarchique*. P.-V. 
 Schmidt, M., & van der Walt, L. (2009). *Black Flame: The Revolutionary Class Politics of Anarchism and Syndicalism*. AK Press.
 
 Solnit, R. (2009). *A Paradise Built in Hell: The Extraordinary Communities That Arise in Disaster*. Penguin Books.
-
----
-
-## BOCETOS PARA DESARROLLO FUTURO
-
-### Ampliación Caso 2: Anticlericalismo e Islamofobia - Análisis Más Profundo
-
-**Temas a desarrollar:**
-- ¿Es la islamofobia una herramienta de fragmentación de clase?
-- Distinción entre crítica al islam como religión vs islamofobia como racismo
-- El anticlericalismo ante religiones minoritarias vs dominantes
-- Caso práctico: palestina, musulmanes y izquierda española
-
-**Preguntas clave:**
-- ¿Cómo mantener anticlericalismo sin caer en islamofobia?
-- ¿Las religiones minoritarias requieren defensa táctica diferente?
-- ¿El anticlericalismo debe priorizar poder institucional?
-
-### Nueva Sección: Identidades vs Clase - Crítica al Postmodernismo
-
-**Análisis a desarrollar:**
-- La pérdida del discurso de clase en la izquierda moderna
-- Postmodernismo vs materialismo histórico
-- "Diversidad" como herramienta de fragmentación obrera
-- Identidades múltiples vs identidad de clase
-- Análisis del caso Amazon: "diversidad disminuye sindicalismo"
-
-**Estructura propuesta:**
-
-#### El Problema de la Política Identitaria
-- Fragmentación vs unidad de clase
-- Individualismo vs solidaridad colectiva
-- Ombliguismo identitario vs lucha sistémica
-
-#### La Estrategia Divide y Vencerás
-- Cómo el capital usa "diversidad" contra trabajadores
-- De la lucha de clases a las luchas fragmentadas
-- El postmodernismo como ideología burguesa
-
-#### Recuperando el Discurso de Clase
-- Universalismo obrero vs particularismos identitarios
-- Opresiones específicas dentro de marco de clase
-- Unidad en la diversidad vs diversidad fragmentadora
