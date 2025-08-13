@@ -267,31 +267,3 @@ La madurez política consiste en mantener esta tensión creativa, reconociendo q
 En última instancia, ser consecuentemente anarcocomunista incluye la capacidad de análisis integral de la realidad social, lo que paradójicamente requiere comprender sectores y dinámicas que políticamente no podemos abrazar, pero tácticamente debemos considerar para desarrollar estrategias eficaces de transformación que vayan a la raíz de los problemas sistémicos.
 
 **La tradición del apoyo mutuo anarquista** nos enseña que incluso dentro de las contradicciones del presente, podemos prefigurar relaciones postcapitalistas: como demostró la huelga de alquileres de Barcelona en 1931, cuando "90.000 familias barcelonesas se declararon en huelga y dejaron de pagar sus alquileres" (Ealham, 2005: 167), y como sigue mostrando la tradición contemporánea de apoyo mutuo en catástrofes y situaciones de emergencia.
-
-## Referencias
-
-Bakunin, M. (1871). *La Comuna de París y la noción de Estado*. En *Obras Completas*, Vol. 3. Editorial Proyección.
-
-Day, R. J. F. (2005). *Gramsci Is Dead: Anarchist Currents in the Newest Social Movements*. Pluto Press.
-
-Ealham, C. (2005). *Class, Culture and Conflict in Barcelona, 1898-1937*. Routledge.
-
-Goldman, E. (1969). *Anarchism and Other Essays*. Dover Publications.
-
-Gramsci, A. (1971). *Selections from Prison Notebooks*. International Publishers.
-
-Guattari, F. (1977). *Revolución molecular*. Errata Naturae.
-
-Guérin, D. (1970). *Anarchism: From Theory to Practice*. Monthly Review Press.
-
-Kropotkin, P. (1902). *Mutual Aid: A Factor of Evolution*. William Heinemann.
-
-Luxemburg, R. (1906). *The Mass Strike, the Political Party and the Trade Unions*. Bookmarks Publications.
-
-Malatesta, E. (1965). *Anarquía*. Editorial Proyección.
-
-Reclus, E. (1895). *L'Évolution, la révolution et l'idéal anarchique*. P.-V. Stock.
-
-Schmidt, M., & van der Walt, L. (2009). *Black Flame: The Revolutionary Class Politics of Anarchism and Syndicalism*. AK Press.
-
-Solnit, R. (2009). *A Paradise Built in Hell: The Extraordinary Communities That Arise in Disaster*. Penguin Books.
