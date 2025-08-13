@@ -226,13 +226,13 @@ Cada euro gastado en vigilancia masiva es un euro no invertido en:
 
 ### 8.2 El Impacto en la Innovación: Destrucción Creativa
 
-**Efecto refrigerante:** La vigilancia masiva destruye la innovación al eliminar la experimentación libre.
+- **Efecto refrigerante:** La vigilancia masiva destruye la innovación al eliminar la experimentación libre.
 
-**Fuga de cerebros:** Los profesionales tecnológicos migran a países con menor vigilancia.
+- **Fuga de cerebros:** Los profesionales tecnológicos migran a países con menor vigilancia.
 
-**Muerte de startups:** Las empresas evitan desarrollar tecnologías que puedan ser monitorizadas.
+- **Muerte de startups:** Las empresas evitan desarrollar tecnologías que puedan ser monitorizadas.
 
-**Paradoja perversa:** Los únicos que se benefician son las grandes corporaciones que construyen los sistemas de vigilancia.
+- **Paradoja perversa:** Los únicos que se benefician son las grandes corporaciones que construyen los sistemas de vigilancia.
 
 ## 9. El Patrón Global: Un Proceso Autoritario Coordinado Mundialmente
 
