@@ -585,7 +585,7 @@ timeline
 **BASADO EN LEGISLACIÓN YA APROBADA:**
 
 **📈 Verificación Edad = Identificación Universal:**
-- UK ya implementada, EU en preparación [misma justificación "proteger niños"]
+- UK ya implementada, EU en preparación misma justificación "proteger niños"
 - Precedente técnico: imposible verificar edad sin identificar persona
 - Escalada predecible: de pornografía → redes sociales → toda internet
 
