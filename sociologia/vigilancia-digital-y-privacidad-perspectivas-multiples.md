@@ -126,7 +126,7 @@ Cada euro gastado en vigilancia masiva es un euro no invertido en:
 - [Millones de DNI españoles ofrecidos en la dark web](https://www.apolocybersecurity.com/en/blog-posts/filtracion-masiva-de-dni-espanoles-en-la-dark-web) por el hacker "Cypher404x" con "información completamente nueva"
 - [Datos incluyen fotos del anverso y reverso, direcciones, firmas, fechas de nacimiento y nombres de padres](https://elchapuzasinformatico.com/2025/08/hacker-venta-dni-espanoles/)
 - Precio: 10-20 euros por DNI completo, facilitando la "circulación ilegal" según expertos
-- [Caso separado: Operación Borraska](https://www.opensecurity.es/alerta-en-espana-se-ponen-a-la-venta-millones-de-dni-en-la-dark-web/) donde José Luis Huertas (19 años) infiltró múltiples instituciones estatales con "datos sensibles de millones de residentes españoles"
+- [Caso separado: Operación Borraska]([https://www.opensecurity.es/alerta-en-espana-se-ponen-a-la-venta-millones-de-dni-en-la-dark-web/](https://www.policia.es/_es/comunicacion_prensa_detalle.php?ID=16562#)) La red instrumentalizó sus relaciones personales y profesionales para presentarse como un entorno legítimo de asesoramiento tecnológico, blanqueando su operativa mediante estructuras societarias y servicios de “consultoría” que facilitaban su inserción en entornos económicos e institucionales
 
 ### 5.3 Australia: Vendiendo la Soberanía Digital
 
