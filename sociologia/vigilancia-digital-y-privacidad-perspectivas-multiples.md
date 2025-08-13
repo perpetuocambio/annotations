@@ -80,7 +80,6 @@ Cada euro gastado en vigilancia masiva es un euro no invertido en:
 - Infraestructuras realmente necesarias
 - Programas sociales que sí reducen la criminalidad
 
-**Ejemplo práctico:** El dinero gastado en sistemas de reconocimiento facial en una ciudad media europea podría financiar 50 agentes de policía de barrio durante 5 años, una medida probadamente más efectiva para la seguridad ciudadana.
 
 ## 4. Los Ciudadanos como Víctimas: Riesgos Reales y Concretos
 
