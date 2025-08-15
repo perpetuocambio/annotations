@@ -1,8 +1,6 @@
 # Repositorio de Análisis y Reflexiones Personales
 
-## Disclaimer y Advertencias Importantes
-
-### Sobre la Ausencia de Autoría Individual
+## Sobre la Ausencia de Autoría Individual
 
 **Nos llamamos el grupo NOSOTROS**
 
@@ -25,7 +23,7 @@ El contenido se libera bajo la **licencia GPL del repositorio** sin más protecc
 
 *"Mientras quede uno, nosotros vivimos. Nada más."*
 
-### Naturaleza del Contenido
+## Naturaleza del Contenido
 
 Este repositorio contiene **análisis con IA Generativa de temás de interés** sobre diversos temas de mi interés. Los documentos aquí presentados son **trabajo personal de alguien que no es historiador, sociólogo, economista ni investigador profesional**. No pretenden establecer verdades absolutas ni sentar cátedra sobre los temas tratados.
 
@@ -178,15 +176,15 @@ El que lucha con disciplina es ¡PELIGROSO!
 El que compromete su vida es ¡PELIGROSO!
 ```
 
-### Limitaciones y Sesgos
+## Limitaciones y Sesgos
 
-#### **Temas Políticos e Historiográficos**
+### **Temas Políticos e Historiográficos**
 - **Los análisis políticos reflejan una perspectiva de izquierda** forzada por el autor
 - **La selección de fuentes y enfoques interpretativos** puede estar influenciada por esta orientación ideológica
 - **No se pretende neutralidad absoluta** en temas que involucran posicionamientos políticos
 - **Los análisis historiográficos** están sujetos a la interpretación personal del autor y pueden diferir de otras perspectivas 
 
-#### **Exactitud y Verificabilidad**
+### **Exactitud y Verificabilidad**
 - **No puedo garantizar que toda la información sea completamente exacta**
 - **He intentado verificar las fuentes en la medida de mis posibilidades**, pero pueden haber errores
 - **Los datos y fechas** necesitan verificación independiente si son importantes para ti
@@ -200,9 +198,9 @@ El contenido refleja mi **punto de vista personal** como:
 - Individual con experiencias y sesgos que influyen en mis interpretaciones
 - Persona con acceso limitado a fuentes primarias especializadas
 
-### Uso Responsable
+## Uso Responsable
 
-#### **Si Decides Leer Esto**
+### **Si Decides Leer Esto**
 - **Úsalo como punto de partida** si te interesan los temas, no como fuente final
 - **Contrasta lo que digo** con otras fuentes y perspectivas
 - **Ten en cuenta mi sesgo político** al leer mis argumentos
