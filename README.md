@@ -2,6 +2,29 @@
 
 ## Disclaimer y Advertencias Importantes
 
+### Sobre la Ausencia de Autoría Individual
+
+**Nos llamamos el grupo NOSOTROS**
+
+*"Los que no tenemos nombre, los que no tenemos orgullo, los que somos una masa, los que pagaremos uno a uno. Nosotros, tenemos una deuda. Nosotros pagamos por la revolución y en honor al compromiso. Los que queramos de otros, el tiempo lo ha ido afirmando. No es una prueba de un día ni de un año, es una prueba de años. Han ido pagando, han ido cumpliendo. Los revolucionarios cumplieron y los que quedan de nosotros cumplirán. La muerte no es nada. Nuestras vidas individuales no es nada. Por eso somos nosotros. Mientras quede uno, nosotros vivimos. Nada más."*
+
+— **Juan García Oliver** (1901-1980), anarcosindicalista español, Ministro de Justicia durante la Revolución Española de 1936.
+
+**Intervención histórica de García Oliver:** [Discurso de 1937](https://archive.org/details/juan-garcia-oliver-speech-1937-1)
+
+**Por qué no hay firma individual en estos documentos:**
+
+Como García Oliver expresaba sobre el colectivo revolucionario, este trabajo se concibe desde una **perspectiva colectiva y anónima**. Las ideas aquí desarrolladas pertenecen al patrimonio común del pensamiento crítico, construido por generaciones de luchadores sociales anónimos - anarquistas, socialistas, marxistas y todos quienes dieron su vida por un mundo mejor.
+
+- **No buscamos reconocimiento personal** sino contribuir al debate colectivo
+- **Las ideas son de todos** quienes las necesiten para organizar y transformar
+- **Mientras las ideas sirvan a la emancipación, cumplimos nuestro propósito**
+- **La revolución es obra colectiva**, no de individuos que buscan prestigio
+
+El contenido se libera bajo la **licencia GPL del repositorio** sin más protección legal que la del software libre: **que permanezca libre y modificable** para quien lo necesite.
+
+*"Mientras quede uno, nosotros vivimos. Nada más."*
+
 ### Naturaleza del Contenido
 
 Este repositorio contiene **análisis con IA Generativa de temás de interés** sobre diversos temas de mi interés. Los documentos aquí presentados son **trabajo personal de alguien que no es historiador, sociólogo, economista ni investigador profesional**. No pretenden establecer verdades absolutas ni sentar cátedra sobre los temas tratados.
