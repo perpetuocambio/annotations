@@ -21,7 +21,7 @@ Como García Oliver expresaba sobre el colectivo revolucionario, este trabajo se
 
 El contenido se libera bajo la **licencia GPL del repositorio** sin más protección legal que la del software libre: **que permanezca libre y modificable** para quien lo necesite.
 
-*"Mientras quede uno, nosotros vivimos. Nada más."*
+*"Mientras quede uno, nosotros vivimos.*
 
 ## Naturaleza del Contenido
 
