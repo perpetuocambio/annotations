@@ -460,27 +460,20 @@ La alternativa es seguir multiplicando siglas irrelevantes mientras el capitalis
 ### Referencias Bibliográficas
 
 **Fuentes sobre Revolución Española y coordinación organizativa:**
-Guillamón, A. *La revolución de los comités. Hambre y violencia en la Barcelona revolucionaria*.
+- Guillamón, A. *La revolución de los comités. Hambre y violencia en la Barcelona revolucionaria*.
 
 **Referencias historiográficas generales sugeridas por IA:**
-Ealham, C. (2005). *Class, Culture and Conflict in Barcelona, 1898-1937*. Routledge.
-
-Federación Anarquista Ibérica (1936). *Estatutos y Finalidades*. Archivo histórico CNT.
-
-Goldman, E. (1969). *Anarchism and Other Essays*. Dover Publications.
-
-Kropotkin, P. (1902). *Mutual Aid: A Factor of Evolution*. McClure Phillips & Co.
+- Ealham, C. (2005). *Class, Culture and Conflict in Barcelona, 1898-1937*. Routledge.
+- Federación Anarquista Ibérica (1936). *Estatutos y Finalidades*. Archivo histórico CNT.
+- Goldman, E. (1969). *Anarchism and Other Essays*. Dover Publications.
+- Kropotkin, P. (1902). *Mutual Aid: A Factor of Evolution*. McClure Phillips & Co.
 
 **Referencias teóricas contemporáneas sugeridas por IA:**
-Graeber, D. (2013). *The Democracy Project: A History, a Crisis, a Movement*. Spiegel & Grau.
-
-Holloway, J. (2010). *Crack Capitalism*. Pluto Press.
-
-Solnit, R. (2009). *A Paradise Built in Hell: The Extraordinary Communities That Arise in Disaster*. Penguin Books.
-
-Flesher Fominaya, C. (2020). *Democracy Reloaded: Inside Spain's Political Laboratory from 15-M to Podemos*. Oxford University Press.
-
-Taibo, C. (2013). *Repensar la Anarquía: Acción directa, autogestión, autonomía*. Los Libros de la Catarata.
+- Graeber, D. (2013). *The Democracy Project: A History, a Crisis, a Movement*. Spiegel & Grau.
+- Holloway, J. (2010). *Crack Capitalism*. Pluto Press.
+- Solnit, R. (2009). *A Paradise Built in Hell: The Extraordinary Communities That Arise in Disaster*. Penguin Books.
+- Flesher Fominaya, C. (2020). *Democracy Reloaded: Inside Spain's Political Laboratory from 15-M to Podemos*. Oxford University Press.
+- Taibo, C. (2013). *Repensar la Anarquía: Acción directa, autogestión, autonomía*. Los Libros de la Catarata.
 
 ---
 
