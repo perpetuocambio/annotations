@@ -102,12 +102,34 @@ La persona en la conversación de Twitter que hace afirmaciones categóricas sin
 3. **Examinar el contexto histórico**: Los eventos deben entenderse en su contexto temporal y geopolítico
 4. **Cuestionar narrativas dominantes**: Especialmente aquellas que simplifican realidades complejas
 
-## Fuentes Académicas Principales
+## Fuentes Académicas Verificables
 
-- Berlin Wall Foundation: Datos oficiales sobre víctimas y escape attempts
-- Demographic Research Journal: Análisis de patrones migratorios alemanes
-- Peterson Institute for International Economics: Análisis económico del embargo cubano
-- Academic studies on North Korean refugees: Múltiples estudios sobre integración y discriminación
-- Cold War migration studies: Investigación interdisciplinaria sobre patrones migratorios
+### Enlaces Directos a Fuentes Oficiales:
+
+**Sobre el Muro de Berlín:**
+- **Berlin Wall Foundation**: https://www.stiftung-berliner-mauer.de/en/topics/victims-berlin-wall
+- **Chronicle of the Wall**: https://www.chronik-der-mauer.de/en/victims/
+- **Wikipedia - List of deaths at the Berlin Wall**: https://en.wikipedia.org/wiki/List_of_deaths_at_the_Berlin_Wall
+- **Berlin.de - Victims of the Wall**: https://www.berlin.de/mauer/en/history/victims-of-the-wall/
+- **Statista - Deaths at Berlin Wall**: https://www.statista.com/statistics/1054672/number-of-deaths-per-year-at-the-berlin-wall-1961-1989/
+
+**Sobre Cuba y el Embargo:**
+- **Washington Office on Latin America (WOLA)**: https://www.wola.org/analysis/understanding-failure-of-us-cuba-embargo/
+- **UN Press Release**: https://press.un.org/en/2023/ga12552.doc.htm
+- **Wikipedia - US embargo against Cuba**: https://en.wikipedia.org/wiki/United_States_embargo_against_Cuba
+- **Amnesty International Report**: https://www.amnesty.org/en/documents/amr25/007/2009/en/
+- **Georgia Tech Research**: https://inta.gatech.edu/projects/impacts-of-the-us-embargo-on-cuba
+- **Columbia Law School**: https://horizontecubano.law.columbia.edu/news/what-effects-do-us-sanctions-have-cuban-economy
+
+**Sobre Migración Este-Oeste:**
+- **Wikipedia - Escape attempts and victims**: https://en.wikipedia.org/wiki/Escape_attempts_and_victims_of_the_inner_German_border
+- **Wikipedia - Emigration from Eastern Bloc**: https://en.wikipedia.org/wiki/Emigration_from_the_Eastern_Bloc
+
+### Datos Verificables Clave:
+
+1. **Víctimas del Muro de Berlín**: Según la Fundación del Muro de Berlín, 140 personas murieron entre 1961-1989
+2. **Migración bidireccional**: Entre 1949-1961, 393,000 personas migraron de Oeste a Este
+3. **Costos del embargo cubano**: $144 mil millones según estimaciones de 2021 reconocidas por la ONU
+4. **Votación UN contra embargo**: 187 países a favor de levantarlo vs. 2 en contra (solo EE.UU. e Israel)
 
 Esta investigación demuestra que los argumentos simplistas presentados en la conversación de Twitter carecen de rigor académico y ignoran la complejidad real de los fenómenos históricos analizados.
