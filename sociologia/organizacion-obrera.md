@@ -447,7 +447,7 @@ La alternativa es seguir multiplicando siglas irrelevantes mientras el capitalis
 ## Referencias
 
 ### Fuentes Primarias Analizadas
-- Notas de conversación sobre Movimiento Socialista y organización obrera (notas.md)
+- Notas de conversación sobre Movimiento Socialista y organización obrera (tweets)
 - Filosofía del blog expresada en "Hazte Peligroso" de Subverso (README.md)
 
 ### Referencias Historiográficas dadas por la IA:
