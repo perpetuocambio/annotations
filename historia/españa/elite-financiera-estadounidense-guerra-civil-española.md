@@ -18,7 +18,10 @@ La literatura historiográfica ha establecido que los bancos estadounidenses ope
 
 ### 1.2 La Elite Financiera como Actor Geopolítico
 
-**Definición Operacional**: Para este estudio, la "elite financiera estadounidense" incluye: (1) instituciones bancarias de inversión de Wall Street con capacidad de financiamiento internacional, (2) corporaciones multinacionales operando como entidades crediticias, y (3) individuos con patrimonio suficiente para influir resultados políticos a través de financiamiento directo.
+**Definición Operacional**: Para este estudio, la "elite financiera estadounidense" incluye:
+(1) instituciones bancarias de inversión de Wall Street con capacidad de financiamiento internacional, 
+(2) corporaciones multinacionales operando como entidades crediticias, y 
+(3) individuos con patrimonio suficiente para influir resultados políticos a través de financiamiento directo.
 
 **Precedentes Históricos**: La participación financiera estadounidense en conflictos europeos tenía precedentes establecidos durante la Primera Guerra Mundial, cuando J.P. Morgan & Co. prestó $1.5 mil millones a los Aliados y actuó como único suscriptor de bonos de guerra para Gran Bretaña y Francia (Carosso, 1987: 289-334).
 
@@ -667,4 +670,3 @@ Yamm Finance (2024). "Juan March Ordinas." Disponible online: https://yamm.finan
 ---
 
 **Fecha de elaboración**: Agosto 2025  
-**Próxima revisión**: Programada para incorporar hallazgos de investigación archivística directa en archivos bancarios y financieros relevantes
