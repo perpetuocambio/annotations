@@ -12,7 +12,7 @@ La participación de los servicios de inteligencia estadounidenses en la monitor
 
 **Datos organizativos centrales:**
 - **Military Intelligence Division**: Responsable de agregados militares desde 1889, archivos 1917-1941
-- **Agregado militar en España**: Colonel Stephen O. Fuqua (1936), evacuation ordenada por State Department
+- **Agregado militar en España**: Coronel Stephen O. Fuqua (1936), evacuación ordenada por State Department
 - **Cronología crítica**: OSS creada junio 1942, tres años DESPUÉS del final de la Guerra Civil
 - **Documentación**: "Regional Files" 1933-44, reportes de agregados militares 1900-44
 
@@ -91,10 +91,10 @@ Esta investigación revela cómo los servicios de inteligencia estadounidenses p
 
 ## 3. Presencia de Inteligencia Estadounidense en España (1935-1936)
 
-### 3.1 Colonel Stephen O. Fuqua: Agregado Militar Estadounidense
+### 3.1 Coronel Stephen O. Fuqua: Agregado Militar Estadounidense
 
 **Perfil y responsabilidades:**
-**Colonel Stephen O. Fuqua** sirvió como Agregado Militar estadounidense en España durante el período crítico de la conspiración militar y el inicio de la Guerra Civil. Su posición le proporcionaba acceso privilegiado a desarrollos militares y políticos.
+**Coronel Stephen O. Fuqua** sirvió como Agregado Militar estadounidense en España durante el período crítico de la conspiración militar y el inicio de la Guerra Civil. Su posición le proporcionaba acceso privilegiado a desarrollos militares y políticos.
 
 **Actividades documentadas:**
 - **Monitorización militar**: Observación de preparativos y movimientos militares
@@ -115,7 +115,7 @@ Los reportes de Fuqua habrían sido procesados según el sistema de clasificaci�
 ### 3.2 Evacuación Diplomática y Continuidad de Operaciones
 
 **Orden de evacuación (1936):**
-> "El Departamento de Estado ordenó la retirada del personal diplomático estadounidense de Madrid, incluyendo 'Johnson y todo el personal estadounidense' así como 'Col. Fuqua' debido al deterioro de la situación de seguridad"
+> "El Departamento de Estado ordenó la retirada del personal diplomático estadounidense de Madrid, incluyendo 'Johnson y todo el personal estadounidense' así como 'Coronel Fuqua' debido al deterioro de la situación de seguridad"
 
 **Implicaciones operativas:**
 - **Interrupción de inteligencia HUMINT**: Pérdida de fuentes humanas directas
@@ -433,8 +433,8 @@ La experiencia española estableció:
 **Documentación específica:**
 - **"Regional Files" 1933-44**: Reportes de inteligencia clasificados por países
 - **"Dispatch Lists" 1900-44**: Registros de comunicaciones de agregados militares
-- **Correspondencia diplomática**: Evacuation de personal estadounidense Madrid 1936
-- **Reportes de agregados militares**: Colonel Stephen O. Fuqua y sucesores
+- **Correspondencia diplomática**: Evacuación de personal estadounidense Madrid 1936
+- **Reportes de agregados militares**: Coronel Stephen O. Fuqua y sucesores
 
 ### 10.2 Limitaciones y Fuentes Pendientes
 
@@ -557,7 +557,7 @@ La experiencia de los servicios de inteligencia estadounidenses pre-OSS en la Gu
 
 **Documentos específicos:**
 - State Department. Orden de evacuación de personal diplomático estadounidense de Madrid, 1936.
-- Military Intelligence Division. Reportes de Colonel Stephen O. Fuqua, Agregado Militar España, 1936.
+- Military Intelligence Division. Reportes de Coronel Stephen O. Fuqua, Agregado Militar España, 1936.
 
 ### Fuentes Secundarias
 
