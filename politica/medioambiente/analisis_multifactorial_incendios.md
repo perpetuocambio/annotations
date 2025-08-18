@@ -241,7 +241,7 @@ graph TD
 timeline
     title Evolución Política Forestal España
     1940-1975 : Plan Franquista : 2.5M hectáreas pino/eucalipto : Criterio económico exclusivo
-    1975-1986 : Transición : Continuidad técnicos franquistas : Sin depuración institucional
+    1975-1986 : Transición : Continuidad técnicos : Sin depuración institucional
     1986-2025 : UE/PAC : Subvenciones monocultivos : Perpetuación modelo productivista
 ```
 
