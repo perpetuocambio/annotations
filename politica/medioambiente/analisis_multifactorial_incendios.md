@@ -1,4 +1,4 @@
-# Análisis Multifactorial de la Crisis de Incendios Forestales en España
+# Crisis Estructural de los Incendios Forestales en España: Análisis Sistémico de Factores Políticos, Sociales y Ambientales (2025)
 
 ## Factores Sistémicos y Responsabilidades Institucionales (2025)
 
