@@ -26,9 +26,6 @@ flowchart TD
     H --> P[Modelo Reactivo vs Preventivo]
     I --> Q[Cultura Anti-Ecologista]
     
-    classDef crisis fill:#ffcccc,stroke:#990000,stroke-width:3px
-    classDef factor fill:#ffffcc,stroke:#cc9900,stroke-width:2px
-    classDef efecto fill:#ccffcc,stroke:#006600,stroke-width:2px
     
     class A crisis
     class B,C,D,E,F,G,H,I factor
@@ -92,9 +89,6 @@ flowchart LR
     D --> E[Impunidad Garantizada]
     E --> A
     
-    classDef problema fill:#ffcccc,stroke:#cc0000,stroke-width:2px
-    classDef proceso fill:#fff2cc,stroke:#cc9900,stroke-width:2px
-    classDef resultado fill:#ffcccc,stroke:#cc0000,stroke-width:2px
     
     class A,E problema
     class B,C,D proceso
