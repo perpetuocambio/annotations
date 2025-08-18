@@ -154,9 +154,6 @@ graph LR
     
     G[Despoblación] --> D
     H[Abandono Gestión] --> D
-    
-    style A fill:#90EE90
-    style D fill:#ff9999
 ```
 
 **Transformación del Paisaje:**
@@ -194,9 +191,6 @@ graph TD
     F[Resultados] --> G[Francia: -60% incendios]
     F --> H[Portugal: -45% incendios]
     F --> I[España: +120% superficie quemada]
-    
-    style D fill:#ff9999
-    style I fill:#ff9999
 ```
 
 ---
@@ -304,11 +298,7 @@ flowchart TD
     G --> J
     H --> J
     I --> J
-    
-    classDef recursos fill:#e1f5fe,stroke:#0277bd,stroke-width:2px
-    classDef problemas fill:#ffebee,stroke:#c62828,stroke-width:2px
-    classDef efecto fill:#fff3e0,stroke:#ef6c00,stroke-width:2px
-    
+        
     class A recursos
     class B,C,D,E recursos
     class F,G,H,I problemas
@@ -388,13 +378,6 @@ graph TD
     
     D --> I[Colapso 2016 eutrofización]
     D --> J[85% praderas marinas perdidas]
-    
-    style E fill:#ff9999
-    style F fill:#ff9999
-    style G fill:#ff9999
-    style H fill:#ff9999
-    style I fill:#ff9999
-    style J fill:#ff9999
 ```
 
 **Doñana (Andalucía - PP-VOX):**
@@ -441,12 +424,6 @@ graph LR
     D --> F
     F --> G[Polarización Anti-Científica]
     G --> H[Rechazo Políticas Ambientales]
-    
-    style A fill:#ff6666
-    style E fill:#ff6666
-    style F fill:#ff9999
-    style G fill:#ff9999
-    style H fill:#ff9999
 ```
 
 ---
@@ -524,11 +501,6 @@ flowchart TD
     
     D --> E[Rechazo Políticas Ambientales]
     E --> F[Vulnerabilidad a Incendios]
-    
-    style A fill:#ff6666
-    style D fill:#ff9999
-    style E fill:#ff9999
-    style F fill:#ff0000
 ```
 
 ---
