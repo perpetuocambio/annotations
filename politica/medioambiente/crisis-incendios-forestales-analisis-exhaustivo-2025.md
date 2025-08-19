@@ -414,10 +414,6 @@ flowchart TD
     C --> L
     E --> L
     J --> M[Prisión Real]
-    
-    style L fill:#ff9999
-    style M fill:#99ff99
-    style A fill:#ffcc99
 ```
 
 ---
@@ -744,10 +740,6 @@ flowchart LR
     H --> K
     I --> K
     J --> K
-    
-    style B fill:#90EE90
-    style C fill:#FFB6C1
-    style K fill:#ff9999
 ```
 
 ---
