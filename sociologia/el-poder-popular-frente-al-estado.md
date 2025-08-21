@@ -33,7 +33,7 @@ La consigna "solo el pueblo salva al pueblo", hoy criticada como "romanticismo",
 ### Estructura del Análisis
 
 - **Marco teórico**: Confrontación entre el contractualismo estatal (Hobbes) y el federalismo anarquista
-- **Cronología del poder popular**: 50 años de experiencias anarquistas en España (1890-1939)
+- **Cronología del poder popular**: 100 años de experiencias de autoorganización obrera en España (1839-1939)
 - **Análisis de casos**: Huelgas, colectividades, comunas y formas de autogestión
 - **Dialéctica pueblo-estado**: Por qué los estados reprimen el poder popular autónomo
 - **Lecciones contemporáneas**: Aplicabilidad de la experiencia española a la transformación social actual
@@ -119,11 +119,23 @@ Las instituciones públicas no constituyen entidades neutrales al servicio del "
 
 ### 3.1 España: La Sangre Obrera Como Precio de los Derechos
 
-#### Cronología del Poder Popular Español (1890-1939)
+#### Cronología del Poder Popular Español (1839-1939)
 
 ```mermaid
 timeline
-    title Experiencias de Poder Popular en España (1890-1939)
+    title Poder Popular y Autoorganización Obrera en España (1839-1939)
+    
+    1839 : Primeras sociedades socorros mutuos
+         : Asociacionismo obrero autónomo
+         : Solidaridad horizontal organizada
+    
+    1854 : Unión de Clases - Primera confederación
+         : Barcelona - Coordinación territorial
+         : Precedente organizativo del anarcosindicalismo
+    
+    1887 : Ley Asociaciones - 663 sociedades registradas
+         : Reconocimiento legal de lo preexistente
+         : 50 años de autoorganización clandestina
     
     1890 : 1 Mayo - Primera manifestación coordinada
          : 20.000-100.000 participantes Barcelona
@@ -205,6 +217,65 @@ La **CNT de construcción** logró en Sevilla la **jornada laboral de 6 horas di
 - **Ley de Contratos de Trabajo (1931)**: Resultado de las presiones conjugadas de UGT y **CNT**  
 - **Ley de Términos Municipales (1931)**: Conquistada través de la lucha sindical agraria, especialmente **campesinos anarquistas andaluces**
 - **Colectivizaciones (1936-1937)**: **2.500 colectividades** (450 en Aragón, 900 en Catalunya) gestionadas directamente por trabajadores sin mediación estatal
+
+**Instituciones "públicas" conquistadas por lucha popular:**
+
+- **Educación pública laica**: Las **Escuelas Racionalistas** de Ferrer i Guardia y los **Ateneos Libertarios** obreros precedieron y presionaron la creación del sistema educativo público laico de la II República
+
+- **Inspección de Trabajo**: Emergió de las **comisiones obreras de vigilancia** y denuncias sindicales sobre condiciones laborales que obligaron al estado a crear mecanismos oficiales de control
+
+- **Tribunales laborales**: Los **tribunales populares** y sistemas de mediación sindical desarrollados por organizaciones obreras fueron posteriormente institucionalizados como jurisdicción social oficial
+
+- **Libertad de asociación y reunión**: El **asociacionismo obrero clandestino** (1840-1887) forzó el reconocimiento legal através de décadas de presión, culminando en la Ley de Asociaciones de 1887
+
+- **Hospitales y dispensarios públicos**: Las **casas de socorro obreras** y dispensarios mutualistas crearon la infraestructura sanitaria que posteriormente fue incorporada al sistema público de salud
+
+**Estas conquistas institucionales revelan un patrón sistemático**: el estado no creó estas instituciones sino que **institucionalizó, controló y centralizó** experiencias previas de autoorganización popular. El caso más paradigmático de este proceso son los socorros mutuos obreros.
+
+### Los Socorros Mutuos: Del Poder Popular a la Institucionalización Estatal
+
+**Cronología de la autoorganización obrera (1839-1904):**
+
+**1839-1854**: Articulación del asociacionismo obrero autónomo - sociedades de socorros mutuos, cooperativas de consumo y producción, sociedades de resistencia. En 1840 se crea en Barcelona la **Sociedad Mutua de Protección de Tejedores de Algodón** y en 1854 aparece la **Unión de Clases**, primera confederación de sociedades obreras de España.
+
+**1887**: La Ley de Asociaciones reconoce legalmente lo que ya existía - **663 sociedades de socorros mutuos** registradas por el Ministerio de Gobernación.
+
+**1904**: El crecimiento exponencial demuestra la vitalidad de la autoorganización: **1.271 mutualidades "populares"** con 238.351 socios y **309 mutualidades obreras** con 84.426 cotizantes.
+
+**Funciones de las mutualidades obreras:**
+Los sindicatos ejercían funciones de **asistencia y socorro de los trabajadores** através de cooperativas de consumo, de trabajo, de vivienda, sociedades de socorros mutuos, fundaciones con fines asistenciales. El **"sindicalismo de base múltiple"** desarrollado por la **UGT** (1888) y heredado por la **CNT** (1910) combinaba organización de resistencia con sistemas de socorros que abarcaban enfermedad, invalidez y paro.
+
+**La cosificación estatal posterior:**
+**Las mutuas se encuentran en el origen de los sistemas contemporáneos de seguridad social**. El estado no "concedió" la seguridad social sino que institucionalizó, controló y centralizó lo que los trabajadores habían creado autónomamente durante décadas. La historia demuestra nuevamente que **el pueblo salvó al pueblo** através de solidaridad organizada, mientras las instituciones estatales posteriormente se apropiaron del mérito y el control de estas conquistas populares.
+
+```mermaid
+flowchart TD
+    A[Necesidad Social] --> B[Autoorganización Popular]
+    B --> C[Práctica Masiva Autónoma]
+    C --> D[Presión sobre el Estado]
+    D --> E[Institucionalización Estatal]
+    E --> F[Control y Centralización]
+    F --> G[Narrativa de Concesión Estatal]
+    G --> H[Falsa Narrativa: Las Instituciones Salvan al Pueblo]
+    
+    %% Ejemplos históricos de autoorganización
+    B --> B1[Socorros Mutuos 1839-1904]
+    B --> B2[Escuelas Racionalistas 1901-1906]
+    B --> B3[Tribunales Populares 1936-1937]
+    B --> B4[Hospitales Obreros 1840s-1900s]
+    
+    %% Conexiones específicas históricas
+    B1 --> E1[Seguridad Social]
+    B2 --> E2[Educación Pública Laica]  
+    B3 --> E3[Jurisdicción Social]
+    B4 --> E4[Sistema Nacional Salud]
+    
+    %% Todas convergen en control estatal
+    E1 --> F
+    E2 --> F
+    E3 --> F
+    E4 --> F
+```
 
 **Edward P. Thompson y la formación histórica de la clase obrera:** Thompson demostró que la clase obrera no es una categoría económica sino una formación histórica resultado de experiencias de lucha. En España, la clase obrera se formó através de confrontaciones directas con patronos y estado, desarrollando una **cultura de resistencia autónoma** especialmente visible en la tradición anarquista que rechazaba toda salvación institucional.
 
@@ -437,7 +508,7 @@ flowchart LR
         A6 --> A7[Ciudadanos Subordinados]
     end
     
-    subgraph "Modelo Anarquista (España 1890-1939)"
+    subgraph "Modelo Anarquista (España 1839-1939)"
         B1[Comunidades Autoorganizadas] --> B2[Solidaridad/Apoyo Mutuo]
         B2 --> B3[Federación Voluntaria]
         B3 --> B4[Asambleas Populares]
