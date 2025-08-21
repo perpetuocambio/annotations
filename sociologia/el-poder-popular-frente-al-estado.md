@@ -2,7 +2,7 @@
 
 ## Resumen Ejecutivo
 
-Este análisis examina la experiencia del **anarquismo español** (1890-1939) como laboratorio histórico del poder popular frente al estado, extrayendo lecciones para la transformación social contemporánea. A partir del debate actual sobre la consigna "solo el pueblo salva al pueblo", el estudio demuestra que **el anarcosindicalismo español desarrolló la práctica más radical y efectiva del poder popular autónomo**, creando alternativas viables al poder estatal através de autoorganización, acción directa y autogestión.
+Este análisis examina la experiencia del **anarquismo español** (1890-1939) como laboratorio histórico del poder popular frente al estado, extrayendo lecciones para la transformación social contemporánea. A partir del debate actual sobre la consigna "solo el pueblo salva al pueblo", el estudio demuestra que **el anarcosindicalismo español desarrolló la práctica más radical y efectiva del poder popular autónomo**, creando alternativas viables al poder estatal a través de autoorganización, acción directa y autogestión.
 
 ### Lecciones del Anarquismo Español
 
@@ -24,7 +24,7 @@ Este análisis examina la experiencia del **anarquismo español** (1890-1939) co
 
 ## 1. Introducción: El Laboratorio Español del Poder Popular
 
-Entre 1890 y 1939, España se convirtió en el **laboratorio mundial más significativo del poder popular autónomo**. El anarquismo español no fue solo una corriente ideológica sino una práctica social masiva que involucró millones de trabajadores en experiencias concretas de autoorganización, autogestión y resistencia al estado.
+Entre 1890 y 1939, España se convirtió en el **laboratorio mundial más significativo del poder popular autónomo**. El anarquismo español no fue solo una corriente ideológica sino una práctica social extensa que involucró millones de trabajadores en experiencias concretas de autoorganización, autogestión y resistencia al estado.
 
 La consigna "solo el pueblo salva al pueblo", hoy criticada como "romanticismo", fue en España una **realidad histórica verificable**: 100.000 familias coordinando la huelga de alquileres sin mediación estatal, 2.500 colectividades gestionando la producción mediante asambleas populares, 35.000 mineros estableciendo comunas revolucionarias durante semanas.
 
@@ -155,7 +155,7 @@ timeline
     
     1932 : Comuna Alto Llobregat
          : Comunismo libertario 5 días
-         : Represión republicana brutal
+         : Represión republicana violenta
          
     1933 : Masacre Casas Viejas
          : 26 campesinos anarquistas asesinados
@@ -166,7 +166,7 @@ timeline
          : Poder popular 15 días
          : 1.300 muertos, 40.000 detenidos
     
-    1936 : Colectivizaciones masivas
+    1936 : Colectivizaciones generalizadas
          : 2.500 colectividades
          : 450 Aragón, 900 Catalunya
          : Autogestión sin estado
@@ -184,10 +184,10 @@ timeline
 El 1 de mayo de 1890 marcó la primera manifestación obrera coordinada en España, con entre 20.000 y 100.000 participantes en Barcelona. Aunque la manifestación inicial fue pacífica, **los días posteriores trajeron la huelga general y la represión**. La división entre socialistas y anarquistas ya era evidente: mientras el PSOE propugnaba la vía legalista, los anarquistas defendían la **acción directa** y la **autoorganización obrera**. **Las instituciones no concedieron este derecho; fue arrancado través de décadas de huelgas, sabotajes, y enfrentamiento directo con patronos y estado.**
 
 **Semana Trágica de Barcelona (1909):**
-La Semana Trágica (26 julio-2 agosto 1909) ilustra la confluencia explosiva entre antimilitarismo popular, anticlericalismo y crisis económica. La huelga general espontánea contra el envío de reservistas a Marruecos se extendió por Catalunya, con barricadas, incendio de conventos y enfrentamientos directos con fuerzas del orden. **La represión fue brutal: 78-113 muertos (75 civiles, 3 militares), aproximadamente 500 heridos, y 2.000 procesamientos que resultaron en 175 condenas de exilio, 59 cadenas perpetuas y 5 penas de muerte**, incluyendo la ejecución de **Francisco Ferrer i Guardia**, pedagogo anarquista símbolo de la educación popular autónoma. Las instituciones respondieron con violencia masiva, no con protección.
+La Semana Trágica (26 julio-2 agosto 1909) ilustra la convergencia entre antimilitarismo popular, anticlericalismo y crisis económica. La huelga general espontánea contra el envío de reservistas a Marruecos se extendió por Catalunya, con barricadas, incendio de conventos y enfrentamientos directos con fuerzas del orden. **La represión causó 78-113 muertos (75 civiles, 3 militares), aproximadamente 500 heridos, y 2.000 procesamientos que resultaron en 175 condenas de exilio, 59 cadenas perpetuas y 5 penas de muerte**, incluyendo la ejecución de **Francisco Ferrer i Guardia**, pedagogo anarquista símbolo de la educación popular autónoma. Las instituciones respondieron con violencia sistemática, no con protección.
 
 **La Conquista del Sufragio Universal (1890-1931):**
-El sufragio universal masculino (1890) y posteriormente el femenino (1931) no fueron concesiones graciosas del sistema sino el resultado de décadas de presión popular. La Revolución de 1868 ("La Gloriosa"), la Primera República (1873-1874), y finalmente la Segunda República emergieron de procesos de movilización popular que forzaron cambios institucionales.
+El sufragio universal masculino (1890) y posteriormente el femenino (1931) no fueron concesiones voluntarias del sistema sino el resultado de décadas de presión popular. La Revolución de 1868 ("La Gloriosa"), la Primera República (1873-1874), y finalmente la Segunda República emergieron de procesos de movilización popular que forzaron cambios institucionales.
 
 **La Concepción Anarquista del Poder Popular:**
 En España, **la CNT** (fundada 1910) desarrolló la conceptualización más radical del poder popular como **autoorganización de la clase trabajadora**. Frente al socialismo marxista que buscaba conquistar el estado, **el anarcosindicalismo español propugnaba la destrucción del estado y su substitución por federaciones de sindicatos obreros**.
@@ -228,7 +228,7 @@ La **CNT de construcción** logró en Sevilla la **jornada laboral de 6 horas di
 
 - **Hospitales y dispensarios públicos**: Las **casas de socorro obreras** y dispensarios mutualistas crearon la infraestructura sanitaria que posteriormente fue incorporada al sistema público de salud
 
-**Estas conquistas institucionales revelan un patrón sistemático**: el estado no creó estas instituciones sino que **institucionalizó, controló y centralizó** experiencias previas de autoorganización popular. El caso más paradigmático de este proceso son los socorros mutuos obreros.
+**Estas conquistas institucionales revelan un patrón sistemático**: el estado no creó estas instituciones sino que **institucionalizó, controló y centralizó** experiencias previas de autoorganización popular. El caso más representativo de este proceso son los socorros mutuos obreros.
 
 ### Los Socorros Mutuos: Del Poder Popular a la Institucionalización Estatal
 
@@ -305,7 +305,7 @@ Los fascismos del siglo XX no surgieron de instituciones sino de movilizaciones 
 **Fenómenos populistas contemporáneos:**
 El ascenso de movimientos populistas autoritarios (Trump, Bolsonaro, Orbán) siguió el mismo patrón: movilización popular previa que posteriormente captura instituciones. Las instituciones no generaron estos fenómenos sino que fueron instrumentalizadas por ellos.
 
-### 3.3 El Patrón Histórico Verificable
+### 3.5 El Patrón Histórico Verificable
 
 La evidencia histórica muestra un patrón consistente:
 
@@ -422,7 +422,7 @@ El estallido social de octubre 2019 demostró cómo el malestar popular acumulad
 ### 6.2 España: Poder Popular y Democracia Institucional
 
 **La Revolución de Asturias (1934) - Paradigma del Poder Popular:**
-La insurrección de octubre de 1934 en Asturias representa el ejemplo más claro de **poder popular constituyente** en España moderna. Durante dos semanas, **35.000 mineros armados** controlaron la cuenca minera, estableciendo **comités revolucionarios, tribunales populares y distribución comunal de alimentos**. La CNT y UGT superaron sus divisiones creando **la Alianza Obrera**. **La represión fue feroz: 1.300 muertos, 3.000 heridos, 40.000 detenidos** - las instituciones republicanas aplastaron el poder popular con violencia extrema.
+La insurrección de octubre de 1934 en Asturias representa el ejemplo más claro de **poder popular constituyente** en España moderna. Durante dos semanas, **35.000 mineros armados** controlaron la cuenca minera, estableciendo **comités revolucionarios, tribunales populares y distribución comunal de alimentos**. La CNT y UGT superaron sus divisiones creando **la Alianza Obrera**. **La represión causó 1.300 muertos, 3.000 heridos, 40.000 detenidos** - las instituciones republicanas reprimieron el poder popular mediante violencia sistemática.
 
 **Las Colectivizaciones (1936-1937) - Autogestión Sin Estado:**
 Durante la Guerra Civil, **1.700 colectividades** gestionaron la producción sin mediación estatal, especialmente en **Aragón** (450 colectividades) y **Catalunya** (900). Los **campesinos anarquistas** demostraron que **"el pueblo se salvaba a sí mismo"** organizando la producción, distribución y defensa mediante **asambleas populares** y **federaciones territoriales**. La represión vino tanto de fascistas como de **comunistas estalinistas** que consideraban estas experiencias un obstáculo para el "estado proletario".
@@ -443,7 +443,7 @@ Las **2.500 colectividades** desarrollaron sistemas económicos basados en **dem
 La transición democrática española combinó movilización popular (huelgas, manifestaciones) con negociación institucional de élites. El papel popular fue fundamental para presionar la democratización, pero las élites controlaron los marcos institucionales de la transición, **marginando deliberadamente la memoria del poder popular republicano**.
 
 **15M y Podemos (2011-2015) - Paradigma de la Domesticación Institucional:**
-El movimiento 15M representó una **irrupción genuina de poder popular**: asambleas horizontales, acción directa, crítica radical al sistema. Sin embargo, su canalización através de **Podemos** ilustra perfectamente cómo las instituciones **domestican y neutralizan** el poder popular: de asambleas populares a partidos verticales, de crítica sistémica a reformismo parlamentario, de autonomía popular a dependencia electoral. **Podemos no fue la institucionalización del 15M sino su sepultura política** - ejemplo paradigmático de cómo el estado absorbe y neutraliza movimientos que inicialmente lo desafiaban.
+El movimiento 15M representó una **irrupción genuina de poder popular**: asambleas horizontales, acción directa, crítica radical al sistema. Sin embargo, su canalización através de **Podemos** ilustra perfectamente cómo las instituciones **domestican y neutralizan** el poder popular: de asambleas populares a partidos verticales, de crítica sistémica a reformismo parlamentario, de autonomía popular a dependencia electoral. **Podemos no institucionalizó el 15M sino que lo neutralizó** - ejemplo representativo de cómo el estado absorbe y domestica movimientos que inicialmente lo desafiaban.
 
 ### 6.3 América Latina: Gobiernos Progresistas y Movimientos Sociales
 
@@ -627,7 +627,7 @@ La disputa sobre "quién salva al pueblo" tiene implicaciones que exceden el deb
 
 ### 10.1 Principios Operativos Verificados Históricamente
 
-La experiencia anarquista española (1890-1939) demostró la viabilidad práctica de principios organizativos que hoy parecen utópicos pero que fueron realidades sociales masivas:
+La experiencia anarquista española (1890-1939) demostró la viabilidad práctica de principios organizativos que hoy parecen utópicos pero que fueron realidades sociales extensas:
 
 #### Autoorganización Sin Mediación Estatal
 
@@ -754,7 +754,7 @@ La experiencia del anarquismo español (1890-1939) demuestra que **"solo el pueb
 
 ### La Vigencia de las Lecciones Anarquistas
 
-En el contexto contemporáneo de crisis climática, desigualdad extrema y autoritarismo creciente, las lecciones del anarquismo español adquieren **relevancia estratégica urgente**:
+En el contexto contemporáneo de crisis climática, desigualdad creciente y autoritarismo emergente, las lecciones del anarquismo español adquieren **relevancia estratégica urgente**:
 
 #### Crisis de Legitimidad Institucional Global
 
