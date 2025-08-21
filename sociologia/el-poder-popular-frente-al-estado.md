@@ -496,7 +496,7 @@ La experiencia histórica muestra que el poder popular progresivo requiere proce
 ### 8.0 Modelos Organizativos: Anarquismo vs. Estatismo
 
 ```mermaid
-flowchart LR
+flowchart TD
     subgraph "Modelo Estatal (Hobbes-Schmitt)"
         A1[Individuos Atomizados] --> A2[Crisis/Miedo]
         A2 --> A3[Contrato Social Forzado]
