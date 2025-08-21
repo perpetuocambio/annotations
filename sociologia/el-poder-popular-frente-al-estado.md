@@ -26,7 +26,7 @@ Este análisis examina la experiencia del **anarquismo español** (1890-1939) co
 
 Entre 1890 y 1939, España se convirtió en el **laboratorio mundial más significativo del poder popular autónomo**. El anarquismo español no fue solo una corriente ideológica sino una práctica social masiva que involucró millones de trabajadores en experiencias concretas de autoorganización, autogestión y resistencia al estado.
 
-La consigna "solo el pueblo salva al pueblo", hoy criticada como "romanticismo", fue en España una **realidad histórica verificable**: 100.000 familias coordinando la huelga de alquileres sin mediación estatal, 2.500 colectividades gestionando la producción mediante asambleas populares, 35.000 mineros estableciendo communes revolucionarias durante semanas.
+La consigna "solo el pueblo salva al pueblo", hoy criticada como "romanticismo", fue en España una **realidad histórica verificable**: 100.000 familias coordinando la huelga de alquileres sin mediación estatal, 2.500 colectividades gestionando la producción mediante asambleas populares, 35.000 mineros estableciendo comunas revolucionarias durante semanas.
 
 **El caso español demuestra que la aparente dicotomía entre poder popular e instituciones estatales oculta una dialéctica más profunda**: el estado, independientemente de su signo político, tiende a reprimir las experiencias de poder popular autónomo que desafían su monopolio de la organización social.
 
