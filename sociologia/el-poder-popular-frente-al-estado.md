@@ -224,8 +224,6 @@ La **CNT de construcción** logró en Sevilla la **jornada laboral de 6 horas di
 
 - **Inspección de Trabajo**: Emergió de las **comisiones obreras de vigilancia** y denuncias sindicales sobre condiciones laborales que obligaron al estado a crear mecanismos oficiales de control
 
-- **Tribunales laborales**: Los **tribunales populares** y sistemas de mediación sindical desarrollados por organizaciones obreras fueron posteriormente institucionalizados como jurisdicción social oficial
-
 - **Libertad de asociación y reunión**: El **asociacionismo obrero clandestino** (1840-1887) forzó el reconocimiento legal através de décadas de presión, culminando en la Ley de Asociaciones de 1887
 
 - **Hospitales y dispensarios públicos**: Las **casas de socorro obreras** y dispensarios mutualistas crearon la infraestructura sanitaria que posteriormente fue incorporada al sistema público de salud
@@ -261,13 +259,13 @@ flowchart TD
     %% Ejemplos históricos de autoorganización
     B --> B1[Socorros Mutuos 1839-1904]
     B --> B2[Escuelas Racionalistas 1901-1906]
-    B --> B3[Tribunales Populares 1936-1937]
+    B --> B3[Vigilancia Obrera Condiciones Laborales]
     B --> B4[Hospitales Obreros 1840s-1900s]
     
     %% Conexiones específicas históricas
     B1 --> E1[Seguridad Social]
     B2 --> E2[Educación Pública Laica]  
-    B3 --> E3[Jurisdicción Social]
+    B3 --> E3[Inspección del Trabajo]
     B4 --> E4[Sistema Nacional Salud]
     
     %% Todas convergen en control estatal
