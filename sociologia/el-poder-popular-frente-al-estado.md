@@ -74,9 +74,9 @@ En contraposición al esquema hobbesiano, el poder popular refiere a la capacida
 
 #### Bakunin vs. Marx - El Debate Histórico Fundamental
 
-Mijaíl Bakunin anticipó en la Primera Internacional (1864-1876) que **"el estado popular" marxista reproduciría nuevas formas de dominación**. Su crítica al "despotismo de los sabios" se verificó históricamente en España: los comunistas estalinistas destruyeron las colectividades anarquistas en 1937 precisamente en nombre del "estado proletario". **Bakunin había predicho que cualquier estado, incluso "obrero", oprimiría la autoorganización popular espontánea**.
+Mijaíl Bakunin anticipó en la Primera Internacional (1864-1876) que **"el estado popular" marxista reproduciría nuevas formas de dominación**. Su crítica al "despotismo de los sabios" se verificó históricamente en España: los marxistas estalinistas destruyeron las colectividades anarquistas en 1937 precisamente en nombre del "estado proletario". **Bakunin había predicho que cualquier estado, incluso "obrero", oprimiría la autoorganización popular espontánea**.
 
-**La predicción bakuniniana verificada:** *"If you took the most ardent revolutionary, vested him in absolute power, within a year he would be worse than the Tsar himself"* [Si tomaran al revolucionario más ardiente, lo invistieran de poder absoluto, en un año sería peor que el propio Zar]. En España, dirigentes comunistas que habían sido perseguidos por la monarquía terminaron reprimiendo violentamente experiencias de poder popular más avanzadas que sus propios programas políticos.
+**La predicción bakuniniana verificada:** *"If you took the most ardent revolutionary, vested him in absolute power, within a year he would be worse than the Tsar himself"* [Si tomaran al revolucionario más ardiente, lo invistieran de poder absoluto, en un año sería peor que el propio Zar]. En España, dirigentes marxistas que habían sido perseguidos por la monarquía terminaron reprimiendo violentamente experiencias de poder popular más avanzadas que sus propios programas políticos.
 
 Esta tensión histórica marxismo-anarquismo explica por qué **el poder popular auténtico tiende a chocar incluso con estados "progresistas"**: estos requieren subordinación de la iniciativa popular a la lógica estatal, mientras el poder popular busca preservar su autonomía constituyente.
 
@@ -425,7 +425,7 @@ El estallido social de octubre 2019 demostró cómo el malestar popular acumulad
 La insurrección de octubre de 1934 en Asturias representa el ejemplo más claro de **poder popular constituyente** en España moderna. Durante dos semanas, **35.000 mineros armados** controlaron la cuenca minera, estableciendo **comités revolucionarios, tribunales populares y distribución comunal de alimentos**. La CNT y UGT superaron sus divisiones creando **la Alianza Obrera**. **La represión causó 1.300 muertos, 3.000 heridos, 40.000 detenidos** - las instituciones republicanas reprimieron el poder popular mediante violencia sistemática.
 
 **Las Colectivizaciones (1936-1937) - Autogestión Sin Estado:**
-Durante la Guerra Civil, **1.700 colectividades** gestionaron la producción sin mediación estatal, especialmente en **Aragón** (450 colectividades) y **Catalunya** (900). Los **campesinos anarquistas** demostraron que **"el pueblo se salvaba a sí mismo"** organizando la producción, distribución y defensa mediante **asambleas populares** y **federaciones territoriales**. La represión vino tanto de fascistas como de **comunistas estalinistas** que consideraban estas experiencias un obstáculo para el "estado proletario".
+Durante la Guerra Civil, **1.700 colectividades** gestionaron la producción sin mediación estatal, especialmente en **Aragón** (450 colectividades) y **Catalunya** (900). Los **campesinos anarquistas** demostraron que **"el pueblo se salvaba a sí mismo"** organizando la producción, distribución y defensa mediante **asambleas populares** y **federaciones territoriales**. La represión vino tanto de fascistas como de **marxistas estalinistas** que consideraban estas experiencias un obstáculo para el "estado proletario".
 
 ### 6.2.1 Economía Política de las Colectividades - Autogestión Como Alternativa
 
@@ -657,7 +657,7 @@ La experiencia española reveló **patrones de represión que trascienden las di
 - **1932**: Comuna Alto Llobregat → represión inmediata del gobierno Azaña  
 - **1933**: Masacre Casas Viejas → 26 campesinos anarquistas asesinados por la Guardia de Asalto republicana
 - **1934**: Revolución Asturias → 1.300 muertos, 40.000 detenidos por el estado republicano
-- **1937**: Colectivizaciones → destruidas por comunistas "antifascistas"
+- **1937**: Colectivizaciones → destruidas por marxistas "antifascistas"
 
 #### Lección Contemporánea: Los Estados Progresistas También Reprimen
 
@@ -714,7 +714,7 @@ La derrota del anarquismo español también ofrece **lecciones cruciales sobre l
 
 #### La Relación con Aliados Políticos
 
-- **Contradicción histórica**: La alianza con comunistas durante la Guerra Civil terminó con la destrucción estalinista de las colectividades.
+- **Contradicción histórica**: La alianza con marxistas durante la Guerra Civil terminó con la destrucción estalinista de las colectividades.
 
 - **Lección**: Las alianzas tácticas requieren **preservación de autonomía organizativa** y **claridad sobre objetivos finales**.
 
