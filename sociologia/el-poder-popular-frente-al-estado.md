@@ -32,11 +32,11 @@ La consigna "solo el pueblo salva al pueblo", hoy criticada como "romanticismo",
 
 ### Estructura del Análisis
 
-• **Marco teórico**: Confrontación entre el contractualismo estatal (Hobbes) y el federalismo anarquista
-• **Cronología del poder popular**: 50 años de experiencias anarquistas en España (1890-1939)
-• **Análisis de casos**: Huelgas, colectividades, comunas y formas de autogestión
-• **Dialéctica pueblo-estado**: Por qué los estados reprimen el poder popular autónomo
-• **Lecciones contemporáneas**: Aplicabilidad de la experiencia española a la transformación social actual
+- **Marco teórico**: Confrontación entre el contractualismo estatal (Hobbes) y el federalismo anarquista
+- **Cronología del poder popular**: 50 años de experiencias anarquistas en España (1890-1939)
+- **Análisis de casos**: Huelgas, colectividades, comunas y formas de autogestión
+- **Dialéctica pueblo-estado**: Por qué los estados reprimen el poder popular autónomo
+- **Lecciones contemporáneas**: Aplicabilidad de la experiencia española a la transformación social actual
 
 ## 2. Marco Teórico: Del Leviatán Hobbesiano al Poder Constituyente Popular
 
