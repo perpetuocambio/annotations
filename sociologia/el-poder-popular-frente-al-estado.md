@@ -442,8 +442,8 @@ Las **2.500 colectividades** desarrollaron sistemas económicos basados en **dem
 **Transición española (1975-1982):**
 La transición democrática española combinó movilización popular (huelgas, manifestaciones) con negociación institucional de élites. El papel popular fue fundamental para presionar la democratización, pero las élites controlaron los marcos institucionales de la transición, **marginando deliberadamente la memoria del poder popular republicano**.
 
-**15M y Podemos (2011-2015):**
-El movimiento 15M generó un nuevo sentido común político que posteriormente se canalizó institucionalmente através de Podemos. Este proceso ilustra cómo el poder popular puede generar nuevas institucionalidades, pero también cómo la institucionalización puede domesticar el ímpetu transformador original - **dilema clásico entre autonomía popular y eficacia institucional**.
+**15M y Podemos (2011-2015) - Paradigma de la Domesticación Institucional:**
+El movimiento 15M representó una **irrupción genuina de poder popular**: asambleas horizontales, acción directa, crítica radical al sistema. Sin embargo, su canalización através de **Podemos** ilustra perfectamente cómo las instituciones **domestican y neutralizan** el poder popular: de asambleas populares a partidos verticales, de crítica sistémica a reformismo parlamentario, de autonomía popular a dependencia electoral. **Podemos no fue la institucionalización del 15M sino su sepultura política** - ejemplo paradigmático de cómo el estado absorbe y neutraliza movimientos que inicialmente lo desafiaban.
 
 ### 6.3 América Latina: Gobiernos Progresistas y Movimientos Sociales
 
