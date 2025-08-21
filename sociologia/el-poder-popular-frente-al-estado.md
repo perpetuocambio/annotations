@@ -6,19 +6,19 @@ Este análisis examina la experiencia del **anarquismo español** (1890-1939) co
 
 ### Lecciones del Anarquismo Español
 
-• **Autoorganización efectiva**: La CNT demostró que **100.000 familias** podían coordinar la huelga de alquileres más masiva de Europa sin mediación estatal
+- **Autoorganización efectiva**: La CNT demostró que **100.000 familias** podían coordinar la huelga de alquileres más masiva de Europa sin mediación estatal
 
-• **Autogestión productiva**: Las **2.500 colectividades** (1936-1937) gestionaron producción, distribución y servicios mediante asambleas populares y federalismo horizontal  
+- **Autogestión productiva**: Las **2.500 colectividades** (1936-1937) gestionaron producción, distribución y servicios mediante asambleas populares y federalismo horizontal  
 
-• **Resistencia a la cooptación**: El movimiento mantuvo autonomía frente a partidos políticos, rechazando tanto el reformismo socialdemócrata como el autoritarismo comunista
+- **Resistencia a la cooptación**: El movimiento mantuvo autonomía frente a partidos políticos, rechazando tanto el reformismo socialdemócrata como el autoritarismo comunista
 
-• **Educación popular transformadora**: Los Ateneos Libertarios y Escuelas Racionalistas crearon una **cultura obrera autónoma** que sostenía la resistencia
+- **Educación popular transformadora**: Los Ateneos Libertarios y Escuelas Racionalistas crearon una **cultura obrera autónoma** que sostenía la resistencia
 
-• **Acción directa como método**: Conquistas concretas (36 horas semanales, control obrero) se lograron mediante **presión directa**, no negociación parlamentaria
+- **Acción directa como método**: Conquistas concretas (36 horas semanales, control obrero) se lograron mediante **presión directa**, no negociación parlamentaria
 
-• **Federalismo como alternativa**: La estructura federativa CNT-FAI prefiguró un **modelo organizativo no-estatal** basado en la coordinación voluntaria
+- **Federalismo como alternativa**: La estructura federativa CNT-FAI prefiguró un **modelo organizativo no-estatal** basado en la coordinación voluntaria
 
-• **Dialéctica pueblo-estado inevitable**: Tanto gobiernos "progresistas" (República) como reaccionarios (franquismo) reprimieron violentamente las experiencias de poder popular
+- **Dialéctica pueblo-estado inevitable**: Tanto gobiernos "progresistas" (República) como reaccionarios (franquismo) reprimieron violentamente las experiencias de poder popular
 
 **Palabras clave:** poder popular, instituciones públicas, transformación social, correlación de fuerzas, dialéctica política, movilización social, legitimidad democrática, anarquismo español
 
@@ -46,13 +46,13 @@ Thomas Hobbes, en el *Leviatán* (1651), construyó la narrativa fundacional del
 
 #### La Operación Ideológica Hobbesiana
 
-• **Naturalización del miedo**: Presenta el caos como consecuencia inevitable de la ausencia de autoridad estatal
+- **Naturalización del miedo**: Presenta el caos como consecuencia inevitable de la ausencia de autoridad estatal
 
-• **Legitimación de la subordinación**: El pueblo debe entregar su poder para ser "salvado" por el soberano
+- **Legitimación de la subordinación**: El pueblo debe entregar su poder para ser "salvado" por el soberano
 
-• **Invisibilización de la dominación**: El estado aparece como protector neutral, no como cristalización de relaciones de fuerza
+- **Invisibilización de la dominación**: El estado aparece como protector neutral, no como cristalización de relaciones de fuerza
 
-• **Desmovilización de la resistencia**: Cualquier cuestionamiento al orden constituye regreso al caos primordial
+- **Desmovilización de la resistencia**: Cualquier cuestionamiento al orden constituye regreso al caos primordial
 
 #### Carl Schmitt y la Decisión Soberana
 
@@ -86,20 +86,20 @@ Esta tensión histórica marxismo-anarquismo explica por qué **el poder popular
 
 #### Mecanismos de la Apropiación Ultraderechista
 
-• **Vaciamiento de contenido de clase**: "Pueblo" deja de referir a sectores explotados y pasa a significar "ciudadanos de bien"
+- **Vaciamiento de contenido de clase**: "Pueblo" deja de referir a sectores explotados y pasa a significar "ciudadanos de bien"
 
-• **Individualización**: La salvación del pueblo se traduce en responsabilidad individual, no acción colectiva
+- **Individualización**: La salvación del pueblo se traduce en responsabilidad individual, no acción colectiva
 
-• **Demonización institucional**: Se critica el "estado profundo" para justificar autoritarismo
+- **Demonización institucional**: Se critica el "estado profundo" para justificar autoritarismo
 
-• **Nacionalismo reaccionario**: "Pueblo" se define por exclusión (anti-inmigración, anti-diversidad)
+- **Nacionalismo reaccionario**: "Pueblo" se define por exclusión (anti-inmigración, anti-diversidad)
 
 ### 2.5 Características del Poder Popular Auténtico
 
-• **Capacidad instituyente**: Crear nuevas relaciones sociales y políticas
-• **Autonomía relativa**: Operar independientemente de las instituciones formales
-• **Dinamismo transformador**: Generar cambios en correlaciones de fuerza existentes
-• **Legitimidad de origen**: Basarse en la participación directa de los sectores afectados
+- **Capacidad instituyente**: Crear nuevas relaciones sociales y políticas
+- **Autonomía relativa**: Operar independientemente de las instituciones formales
+- **Dinamismo transformador**: Generar cambios en correlaciones de fuerza existentes
+- **Legitimidad de origen**: Basarse en la participación directa de los sectores afectados
 
 ### 2.6 Las Instituciones Públicas Como Campo de Disputa
 
@@ -107,13 +107,13 @@ Las instituciones públicas no constituyen entidades neutrales al servicio del "
 
 #### Funciones Institucionales Según Correlación de Fuerzas
 
-• **Función conservadora**: Reproducir el status quo cuando dominan sectores conservadores
+- **Función conservadora**: Reproducir el status quo cuando dominan sectores conservadores
 
-• **Función progresiva**: Materializar conquistas populares cuando existe presión social suficiente
+- **Función progresiva**: Materializar conquistas populares cuando existe presión social suficiente
 
-• **Función regresiva**: Implementar contrarreformas cuando dominan sectores reaccionarios
+- **Función regresiva**: Implementar contrarreformas cuando dominan sectores reaccionarios
 
-• **Función mediadora**: Canalizar conflictos sociales hacia formas institucionalizadas
+- **Función mediadora**: Canalizar conflictos sociales hacia formas institucionalizadas
 
 ## 3. Evidencia Histórica: El Pueblo Como Precursor del Cambio
 
@@ -737,11 +737,11 @@ En un contexto de crisis civilizatoria, **el poder popular no es una opción ide
 
 - **Carl Schmitt** (1922): *Teología política*. "Soberano es quien decide sobre el estado de excepción" - la soberanía como decisión por encima de la norma.
 
-**Antonio Gramsci** (1948-1951): *Cuadernos de la cárcel*. Concepto de hegemonía, guerra de posiciones, y el papel de la sociedad civil en la dominación.
+- **Antonio Gramsci** (1948-1951): *Cuadernos de la cárcel*. Concepto de hegemonía, guerra de posiciones, y el papel de la sociedad civil en la dominación.
 
 - **Walter Benjamin** (1921): *Para una crítica de la violencia*. Distinción entre violencia mítica (conservadora del derecho) y violencia divina (creadora de nuevos órdenes).
 
-**Antonio Negri** (1992): *Il potere costituente* (ed. española 2015). Diferenciación entre poder constituido (instituciones) y poder constituyente (capacidad popular de crear nuevos órdenes).
+- **Antonio Negri** (1992): *Il potere costituente* (ed. española 2015). Diferenciación entre poder constituido (instituciones) y poder constituyente (capacidad popular de crear nuevos órdenes).
 
 - **Nicos Poulantzas** (1978): *Estado, poder y socialismo*. Análisis de la selectividad estructural del estado capitalista y su capacidad de procesamiento de conflictos de clase.
 
@@ -755,7 +755,7 @@ En un contexto de crisis civilizatoria, **el poder popular no es una opción ide
 
 - **Mijaíl Bakunin** (1873): *Estatismo y Anarquía*. Crítica al marxismo autoritario y predicción sobre la degeneración del "estado obrero".
 
-**Michel de Certeau** (1980): *La invención de lo cotidiano*. Diferenciación entre estrategias (de los poderosos) y tácticas (de los dominados) en la resistencia cotidiana.
+- **Michel de Certeau** (1980): *La invención de lo cotidiano*. Diferenciación entre estrategias (de los poderosos) y tácticas (de los dominados) en la resistencia cotidiana.
 
 - **Daniel Guérin** (1970): *Anarchism: From Theory to Practice*. Análisis histórico del pensamiento anarquista y sus aplicaciones prácticas, incluyendo documentación de textos clásicos de Bakunin.
 
