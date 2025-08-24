@@ -125,7 +125,7 @@ graph TB
 
 **Turismo de Mínimo Impacto**:
 - **Refugios primitivos**: Cabañas básicas sin electricidad ni agua corriente
-- Máximo 2-3 refugios por cada 10,000 hectáreas
+- Densidad muy baja de refugios distribuidos según criterios de capacidad de carga
 - Acceso mediante permisos limitados (cupos anuales estrictos)
 - Estancias máximas de 3-5 días
 - Obligación de portar todo el equipamiento y retirar todos los residuos
@@ -159,6 +159,7 @@ graph TB
 
 **Intervenciones Autorizadas para Rewilding Activo**:
 - Reintroducción de especies nativas extintas localmente
+- Control activo de especies exóticas invasoras
 - Restauración de hábitats degradados
 - Quemas prescritas para restauración ecológica
 - Construcción de infraestructuras para fauna (pasos de fauna, bebederos naturales)
@@ -217,9 +218,9 @@ La fragmentación de hábitats constituye una de las principales amenazas para l
 ```mermaid
 graph TB
     subgraph "Red de Conectividad Ecológica"
-        N1[Zona Núcleo A<br/>5000+ ha] 
-        N2[Zona Núcleo B<br/>5000+ ha]
-        N3[Zona Núcleo C<br/>5000+ ha]
+        N1[Zona Núcleo A] 
+        N2[Zona Núcleo B]
+        N3[Zona Núcleo C]
         
         T1[Zona Tampón A<br/>Rewilding Activo]
         T2[Zona Tampón B<br/>Rewilding Activo]
@@ -275,7 +276,7 @@ graph TB
 
 ### Elementos Conectores Específicos
 
-**Corredores Riparios**: Restauración y protección de márgenes fluviales con vegetación autóctona continua de al menos 30 metros de anchura.
+**Corredores Riparios**: Restauración y protección de márgenes fluviales con vegetación autóctona continua de anchura ecológicamente funcional.
 
 **Setos y Linderos**: Red de elementos lineales woody con especies autóctonas, conectando fragmentos de hábitat dentro de la matriz agrícola.
 
