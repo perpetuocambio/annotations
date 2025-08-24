@@ -159,7 +159,6 @@ graph TB
 
 **Intervenciones Autorizadas para Rewilding Activo**:
 - Reintroducción de especies nativas extintas localmente
-- Control activo de especies exóticas invasoras
 - Restauración de hábitats degradados
 - Quemas prescritas para restauración ecológica
 - Construcción de infraestructuras para fauna (pasos de fauna, bebederos naturales)
