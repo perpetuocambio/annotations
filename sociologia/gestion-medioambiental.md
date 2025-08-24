@@ -318,11 +318,6 @@ flowchart LR
 - Presencia de especies clave reintroducidas exitosamente
 - Conectividad efectiva con otras zonas núcleo
 - Ausencia de amenazas antrópicas significativas
-# Análisis Comparativo: Marco Legal Actual de Protección Ambiental en España vs. Modelo Propuesto de Zonificación
-
-## Introducción
-
-El sistema español de espacios protegidos ha evolucionado desde la primera Ley de Parques Nacionales de 1916 hasta el actual marco normativo establecido por la Ley 42/2007 del Patrimonio Natural y la Biodiversidad, y la Ley 30/2014 de Parques Nacionales. Este análisis examina las diferencias fundamentales entre el modelo legal vigente y la propuesta de zonificación concéntrica presentada, identificando limitaciones del sistema actual y oportunidades de mejora.
 
 ## Marco Legal Vigente en España
 
