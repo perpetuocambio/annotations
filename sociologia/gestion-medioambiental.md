@@ -88,26 +88,237 @@ La aspiración a estilos de vida "integrados en la naturaleza" presenta paradoja
 
 Un denominador común en las críticas a los enfoques intervencionistas es el reconocimiento de las limitaciones del conocimiento científico actual. Los ecosistemas son sistemas complejos adaptativos cuyo comportamiento emergente es difícil de predecir. Esta realidad sugiere que las estrategias conservacionistas deberían incorporar principios de gestión adaptativa y precaución.
 
-### Zonificación Funcional
+### Zonificación Funcional y Marco Regulatorio
 
-Una síntesis pragmática podría involucrar la zonificación funcional del territorio según gradientes de intervención:
+Una síntesis pragmática podría involucrar la zonificación funcional del territorio según gradientes de intervención, con marcos legales específicos para cada zona:
 
-**Zonas de alta protección**: Áreas núcleo con mínima intervención humana, donde los procesos naturales operen libremente.
+```mermaid
+graph TB
+    subgraph "Modelo de Zonificación Concéntrica"
+        A[Zona Núcleo - Rewilding Pasivo] --> B[Zona Tampón - Rewilding Activo]
+        B --> C[Zona Extensiva - Gestión Ecológica]
+        C --> D[Zona de Interfaz - Gestión Preventiva]
+        D --> E[Zona Urbana/Productiva]
+    end
+    
+    subgraph "Marco Legal por Zonas"
+        F[Reserva Natural Integral<br/>- Acceso restringido científico<br/>- Prohibición total extractiva]
+        G[Parque Natural<br/>- Gestión científica dirigida<br/>- Reintroducciones controladas]
+        H[Área Agroecológica<br/>- Certificación obligatoria<br/>- Contratos ambientales]
+        I[Zona de Prevención<br/>- Ordenanzas municipales<br/>- Planes de autoprotección]
+        J[Suelo Urbanizable/Productivo<br/>- Normativa sectorial<br/>- EIA obligatorias]
+    end
+    
+    A -.-> F
+    B -.-> G
+    C -.-> H
+    D -.-> I
+    E -.-> J
+```
 
-**Zonas de gestión extensiva**: Áreas donde se mantengan prácticas tradicionales compatibles con la conservación, como la ganadería extensiva bien gestionada.
+#### Zona Núcleo - Reserva Natural Integral
+**Protección Legal**: Máxima protección bajo figura de Reserva Natural Integral o equivalente.
+- Prohibición absoluta de actividades extractivas
+- Acceso científico y turístico altamente restringido
+- Gestión basada en rewilding pasivo estricto
+- Régimen sancionador severo por infracciones
 
-**Zonas de gestión intensiva**: Áreas destinadas a actividades productivas con criterios de sostenibilidad.
+**Turismo de Mínimo Impacto**:
+- **Refugios primitivos**: Cabañas básicas sin electricidad ni agua corriente
+- Máximo 2-3 refugios por cada 10,000 hectáreas
+- Acceso mediante permisos limitados (cupos anuales estrictos)
+- Estancias máximas de 3-5 días
+- Obligación de portar todo el equipamiento y retirar todos los residuos
+- Prohibición de fogatas y uso de combustibles fósiles
 
-**Zonas de interfaz urbano-forestal**: Áreas con gestión activa orientada a la prevención de riesgos.
+**Intervenciones Estrictamente Prohibidas**:
+- **Control de especies exóticas invasoras**: La naturaleza debe encontrar su propio equilibrio
+- Cualquier tipo de manejo de fauna o flora
+- Infraestructura permanente más allá de refugios primitivos
+- Senderos marcados o señalización
 
-### Criterios de Intervención
+**Únicas Excepciones para Intervención**:
+- Rescate de personas en emergencias
+- Monitoreo científico completamente pasivo (cámaras trampa, estaciones meteorológicas automáticas)
+- Control perimetral de incendios **solo** cuando amenacen directamente zonas habitadas
 
-Los criterios para decidir cuándo intervenir en los ecosistemas deberían basarse en:
+#### Zona Tampón - Parque Natural
+**Protección Legal**: Parque Natural con plan de gestión científica.
+- Gestión dirigida por criterios científicos
+- Rewilding activo con especies nativas
+- Prohibición de actividades productivas no compatibles
 
-1. **Causalidad antropogénica**: Priorizar la corrección de impactos claramente atribuibles a actividades humanas.
-2. **Riesgo para poblaciones humanas**: Intervenir cuando existan amenazas directas a la seguridad humana.
-3. **Magnitud del impacto**: Considerar intervenciones cuando se prevean efectos de gran escala o irreversibles.
-4. **Disponibilidad de conocimiento**: Actuar solo cuando exista evidencia científica suficiente sobre la efectividad de las medidas propuestas.
+**Actividades Turísticas y Educativas**:
+- **Ecoturismo regulado**: Similar a parques nacionales actuales
+- Red de senderos señalizados y mantenidos
+- Centros de visitantes e interpretación ambiental
+- Refugios con servicios básicos (agua, electricidad renovable)
+- Actividades de educación ambiental y turismo científico
+- Observación de fauna desde observatorios fijos
+- Campamentos organizados con cupos limitados
+
+**Intervenciones Autorizadas para Rewilding Activo**:
+- Reintroducción de especies nativas extintas localmente
+- Control activo de especies exóticas invasoras
+- Restauración de hábitats degradados
+- Quemas prescritas para restauración ecológica
+- Construcción de infraestructuras para fauna (pasos de fauna, bebederos naturales)
+- **Corredores ecológicos**: Construcción y mantenimiento de conexiones con zona núcleo
+
+#### Zona Extensiva - Certificación Agroecológica Obligatoria
+**Marco Legal Específico**: Área de Gestión Agroecológica con certificación obligatoria.
+- **Requisito legal**: Toda actividad agroganadera debe mantener certificación ecológica vigente
+- Contratos ambientales con administración pública
+- Régimen de ayudas condicionado al cumplimiento ambiental
+- **Cláusulas de expropiación por mala gestión**
+
+**Turismo Rural Sostenible**:
+- Agroturismo certificado ecológico
+- Turismo gastronómico basado en productos locales
+- Actividades tradicionales (trashumancia, oficios rurales)
+- Rutas ecuestres y senderismo de baja intensidad
+- Turismo ornitológico y de observación de fauna
+- Talleres de educación ambiental en explotaciones modelo
+
+**Mecanismos de Control y Sanción**:
+- **Expropiación forzosa sin compensación** en casos de:
+  - Provocación intencional de incendios
+  - Uso de productos químicos prohibidos
+  - Sobrepastoreo demostrable
+  - Destrucción de elementos naturales protegidos
+- **Expropiación compensada** cuando se requiera ampliación de zona núcleo por criterios científicos
+- Sistema de monitoreo continuo mediante teledetección y inspecciones
+
+**Actividades Permitidas bajo Certificación**:
+- Ganadería extensiva ecológica certificada
+- Agricultura ecológica de bajo impacto
+- Silvicultura de baja intensidad
+- Recolección tradicional regulada (hongos, frutos silvestres)
+- **Corredores biológicos**: Mantenimiento de setos, riberas y elementos conectores
+
+#### Zona de Interfaz - Prevención de Riesgos
+**Regulación**: Ordenanzas municipales de prevención de incendios.
+- Planes de autoprotección obligatorios
+- Mantenimiento de cortafuegos
+- Restricciones urbanísticas específicas
+
+**Intervenciones Intensivas Autorizadas**:
+- Tratamientos silvícolas preventivos
+- Quemas prescritas programadas
+- Construcción y mantenimiento de cortafuegos
+- Redes de detección temprana de incendios
+- Infraestructuras de extinción (puntos de agua, pistas forestales)
+
+## Gestión de la Fragmentación y Conectividad Ecológica
+
+### Problema de la Fragmentación en Paisajes Antropizados
+
+La fragmentación de hábitats constituye una de las principales amenazas para la biodiversidad en paisajes mediterráneos. El modelo de zonificación propuesto debe abordar específicamente la conectividad entre fragmentos para asegurar el flujo genético, la dispersión de especies y la resiliencia ecosistémica.
+
+```mermaid
+graph TB
+    subgraph "Red de Conectividad Ecológica"
+        N1[Zona Núcleo A<br/>5000+ ha] 
+        N2[Zona Núcleo B<br/>5000+ ha]
+        N3[Zona Núcleo C<br/>5000+ ha]
+        
+        T1[Zona Tampón A<br/>Rewilding Activo]
+        T2[Zona Tampón B<br/>Rewilding Activo]
+        T3[Zona Tampón C<br/>Rewilding Activo]
+        
+        C1[Corredor Principal<br/>Ribera + Setos]
+        C2[Corredor Secundario<br/>Monte Bajo]
+        C3[Paso de Fauna<br/>Infraestructura Verde]
+        
+        E1[Zona Extensiva<br/>Elementos Conectores]
+        E2[Zona Extensiva<br/>Elementos Conectores]
+    end
+    
+    N1 -.-> T1
+    N2 -.-> T2  
+    N3 -.-> T3
+    T1 --> C1
+    T2 --> C2
+    T3 --> C3
+    C1 --> E1
+    C2 --> E2
+    E1 --> E2
+    
+    style N1 fill:#1f4e3d
+    style N2 fill:#1f4e3d  
+    style N3 fill:#1f4e3d
+    style T1 fill:#2d5a3d
+    style T2 fill:#2d5a3d
+    style T3 fill:#2d5a3d
+    style C1 fill:#8fbc8f
+    style C2 fill:#8fbc8f
+    style C3 fill:#8fbc8f
+```
+
+### Estrategias de Conectividad por Zona
+
+#### En Zona Núcleo
+- **Conectividad pasiva**: Sin intervención para crear corredores
+- Los procesos naturales determinan la expansión hacia zonas adyacentes
+- Aceptación de que algunos fragmentos puedan permanecer aislados
+
+#### En Zona Tampón  
+- **Corredores activos**: Restauración dirigida de conexiones naturales
+- Plantaciones de especies nativas para crear continuidad
+- Eliminación de barreras artificiales (vallados, infraestructuras menores)
+- Pasos de fauna en carreteras principales
+
+#### En Zona Extensiva
+- **Infraestructura verde obligatoria**: Mantenimiento de setos, riberas, linderos
+- **Stepping stones**: Pequeños bosquetes y humedales como puntos de conexión
+- Rotación de cultivos que mantenga siempre corredores verdes
+- Certificación ecológica que incluya criterios de conectividad
+
+### Elementos Conectores Específicos
+
+**Corredores Riparios**: Restauración y protección de márgenes fluviales con vegetación autóctona continua de al menos 30 metros de anchura.
+
+**Setos y Linderos**: Red de elementos lineales woody con especies autóctonas, conectando fragmentos de hábitat dentro de la matriz agrícola.
+
+**Pasos de Fauna**: Infraestructuras específicas en carreteras principales, dimensionadas según las especies objetivo (grandes mamíferos, pequeños vertebrados, invertebrados).
+
+**Mosaicos Agroforestales**: Sistemas que integren arbolado disperso, cultivos y pastizales, creando gradientes de hábitat que faciliten el movimiento de fauna.
+
+#### Incentivos y Desincentivos Económicos
+**Zona Extensiva - Sistema de Contratos Ambientales**:
+- Pagos por servicios ecosistémicos (captura de carbono, conservación de biodiversidad, prevención de erosión)
+- Primas por certificación ecológica mantenida durante períodos superiores a 10 años
+- Bonificaciones fiscales por adopción voluntaria de prácticas de rewilding pasivo
+- Seguros agrarios preferenciales para explotaciones certificadas
+
+**Mecanismo de Transición Progresiva**:
+```mermaid
+flowchart LR
+    A[Explotación Convencional] --> B[Período de Adaptación<br/>3 años]
+    B --> C{Certificación Ecológica<br/>Obtenida}
+    C -->|Sí| D[Integración en Zona Extensiva<br/>Contratos Ambientales]
+    C -->|No| E[Reubicación Incentivada<br/>o Expropiación Compensada]
+    D --> F[Monitoreo Continuo<br/>Teledetección + Inspección]
+    F --> G{Cumplimiento<br/>Criterios}
+    G -->|Sí| H[Renovación Contrato<br/>Incremento Ayudas]
+    G -->|No| I[Período de Corrección<br/>6 meses]
+    I --> J{Corrección<br/>Efectiva}
+    J -->|Sí| D
+    J -->|No| K[Expropiación Forzosa<br/>Sin Compensación]
+```
+
+#### Criterios Científicos para Transición de Zonas
+**De Zona Extensiva a Zona Tampón**:
+- Recuperación demostrable de especies indicadoras
+- Ausencia de actividad agroganadera durante mínimo 5 años
+- Colonización espontánea por fauna nativa
+- Viabilidad ecológica para reintroducciones
+
+**De Zona Tampón a Zona Núcleo**:
+- Funcionamiento autónomo de procesos ecológicos durante mínimo 10 años
+- Presencia de especies clave reintroducidas exitosamente
+- Conectividad efectiva con otras zonas núcleo
+- Ausencia de amenazas antrópicas significativas
 
 ## Conclusiones
 
