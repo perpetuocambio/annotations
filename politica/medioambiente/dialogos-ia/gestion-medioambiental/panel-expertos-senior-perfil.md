@@ -10,7 +10,6 @@
 
 ### **ESPECIALISTAS ESTRATÉGICOS**
 - **D. Rodríguez-Vega (Legislador Senior)**: Ex-Diputado, ponente Ley 42/2007, 20 años normativa ambiental
-- **Cnel. Gutiérrez (Inteligencia Geoespacial)**: CNI, análisis territorial estratégico, 15 años experiencia
 - **Dr. Chen-Liu (Analista IA/Big Data)**: IBM Research, modelización predictiva ecosistemas complejos
 - **Ing. Fernández-Costa (Cartógrafo Geodésico)**: IGN, 28 años sistemas geodésicos nacionales
 
