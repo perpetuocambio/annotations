@@ -996,8 +996,6 @@ La ventana de oportunidad actual sugiere que España podría posicionarse como r
   - URL: https://datos.gob.es/catalogo/a02002834-zonificacion-de-los-espacios-naturales-protegidos
 
 ### Sistemas GIS para Monitoreo de Biodiversidad
-- **ESRI España** - Sistemas de Información Geográfica aplicados
-  - URL: https://www.esri.es/es-es/descubre-los-gis/qu-es-sig/que-es-sig
 - **Geoinnova** - 100 herramientas y recursos SIG aplicados al medio ambiente
   - URL: https://geoinnova.org/blog-territorio/100-herramientas-y-recursos-sig-aplicados-al-medio-ambiente/
 
