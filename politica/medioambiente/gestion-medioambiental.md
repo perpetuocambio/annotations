@@ -793,9 +793,9 @@ La ventana de oportunidad actual sugiere que España podría posicionarse como r
 
 ## Documentos Relacionados (borradores)
 
-- [La Crisis Epistemológica de la Biología de Invasores: Anatomía de una Pseudociencia Multimillonaria](biología/biologia-invasores.md)
-- [Crisis Estructural de los Incendios Forestales en España: Análisis Sistémico de Factores Políticos, Sociales y Ambientales](politica/medioambiente/analisis_multifactorial_incendios.md)
-- [Crisis Estructural de los Incendios Forestales en España: Análisis Exhaustivo de Factores Sistémicos](politica/medioambiente/crisis-incendios-forestales-analisis-exhaustivo-2025.md)
+- [La Crisis Epistemológica de la Biología de Invasores: Anatomía de una Pseudociencia Multimillonaria](/biología/biologia-invasores.md)
+- [Crisis Estructural de los Incendios Forestales en España: Análisis Sistémico de Factores Políticos, Sociales y Ambientales](/politica/medioambiente/analisis_multifactorial_incendios.md)
+- [Crisis Estructural de los Incendios Forestales en España: Análisis Exhaustivo de Factores Sistémicos](/politica/medioambiente/crisis-incendios-forestales-analisis-exhaustivo-2025.md)
 ---
 
 *Nota: Este documento constituye una propuesta conceptual que requiere desarrollo técnico específico, consulta con sectores afectados, y adaptación a marcos normativos vigentes para su implementación efectiva.*
