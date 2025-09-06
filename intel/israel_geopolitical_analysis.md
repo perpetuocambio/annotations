@@ -602,7 +602,46 @@ graph TD
 
 ## 9. Función Estratégica para las Potencias Occidentales
 
-### 8.1 Para Estados Unidos
+### 9.1 El Caso Español: Dependencia Tecnológica vs. Postura Política
+
+**Contradicción Estratégica de España (2024):**
+
+España representa un caso paradigmático de la **dependencia tecnológica-militar** occidental hacia Israel, evidenciando la brecha entre postura política oficial y realidad económica:
+
+```mermaid
+flowchart TD
+    A[España Postura Oficial<br/>Anti-Israel 2024] --> B[Cancelación Contratos<br/>325M USD Rafael]
+    A --> C[Embargo Armas<br/>Oficial desde Oct 2023]
+    A --> D[Reconocimiento Estado<br/>Palestino Mayo 2024]
+    
+    E[Realidad Económica<br/>Dependencia Israel] --> F[Contratos Continuos<br/>1.027B EUR Oct 2023-2024]
+    E --> G[Tecnología SPIKE<br/>237M EUR PAP Tecnos]
+    E --> H[Sistema SILAM<br/>576M EUR Elbit Systems]
+    E --> I[Pods Láser Eurofighter<br/>207M EUR hasta 2027]
+    
+    F --> J[Doble Discurso<br/>Político vs Económico]
+    G --> J
+    H --> J
+    I --> J
+    
+    J --> K[Imposibilidad Desconexión<br/>Tecnológica Real]
+    
+    style A fill:#32cd32,stroke:#fff,stroke-width:2px,color:#000
+    style E fill:#ff4444,stroke:#fff,stroke-width:2px,color:#fff
+    style J fill:#ffa500,stroke:#fff,stroke-width:2px,color:#fff
+    style K fill:#ff6666,stroke:#fff,stroke-width:2px,color:#fff
+```
+
+**Datos Económicos España-Israel (2024):**
+- **Contratos militares activos:** 1.027 mil millones EUR (Oct 2023-Mayo 2024)
+- **Principales sistemas:** SPIKE (237M€), SILAM (576M€), Pods láser (207M€)  
+- **Empresas españolas dependientes:** PAP Tecnos (Rafael), Escribano-EXPAL (Elbit)
+- **Migración tecnológica:** Barcelona como "capital cibernética ofensiva europea"
+
+**Análisis Crítico:**
+La posición española revela cómo la **integración tecnológica-militar** con Israel hace imposible la "desconexión total" proclamada oficialmente, demostrando que la dependencia tecnológica trasciende posturas políticas.
+
+### 9.2 Para Estados Unidos
 
 Israel cumple múltiples funciones estratégicas críticas:
 
