@@ -1,4 +1,4 @@
-# Análisis completo del poema "采石" (Cǎi Shí - "Cantera")
+# Análisis completo de la canción "采石" (Cǎi Shí - "Cantera")
 
 ## Texto original, pinyin y traducción
 
