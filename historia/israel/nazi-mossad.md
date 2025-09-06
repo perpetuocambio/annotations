@@ -1,4 +1,4 @@
-# La Paradoja del Pragmatismo: Colaboración entre el Mossad Israelí y Ex-Criminales de Guerra Nazis durante la Guerra Fría (1949-1975)
+# Colaboración entre el Mossad Israelí y Ex-Criminales de Guerra Nazis durante la Guerra Fría (1949-1975)
 
 ## Resumen
 
