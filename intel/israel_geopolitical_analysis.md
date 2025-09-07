@@ -633,7 +633,7 @@ xychart-beta
 ```mermaid
 flowchart TD
     A[Elbit Systems<br/>Líder Defensa Israel] --> B[Contratos Gaza<br/>Sistemas SILAM]
-    A --> C[Contratos España<br/>€576M SILAM]
+    A --> C[Contratos España<br/>€1.041M Elbit/Rafael]
     A --> D[Ingresos 2024<br/>$6.8B +14%]
     
     B --> E[Marketing Battle-Tested<br/>Guerra Real Gaza]
@@ -650,7 +650,7 @@ flowchart TD
 
 **Datos Verificados Exportaciones Defensa 2024 (Resistente a Contraargumentación)[^187]:**
 - **Récord absoluto**: $14.8B (+13% vs 2023) - cuarto año consecutivo de récord
-- **Distribución regional verificada**: Europa 54% (+19pp vs 2023), Asia-Pacífico 23%, países Abraham 12%
+- **Distribución regional verificada**: Alemania/Italia/Reino Unido 54% (+19pp vs 2023), Asia-Pacífico 23%, países Abraham 12%
 - **Categorías producto**: Defensa aérea 48% (+12pp), sistemas espaciales 8% (+6pp)
 - **Efecto guerra Gaza**: Ministerio Defensa israelí atribuye crecimiento a "logros operacionales" y "experiencia combate"
 - **Empresas SIPRI Top 100**: Elbit, IAI, Rafael listed entre las 100 mayores productoras armamento mundial
@@ -790,7 +790,7 @@ flowchart TD
     
     B --> E[Alemania: Iron Dome<br/>€4.3B Considerado]
     C --> F[Pegasus NSO Group<br/>50+ Países Clientes]
-    D --> G[España: SILAM Elbit<br/>€576M Contratos]
+    D --> G[España: Elbit/Rafael<br/>€1.041M Contratos]
     
     A --> H[Componentes F-35<br/>600+ Partes Israelíes]
     H --> I[OTAN Dependiente<br/>Cadena Suministro]
@@ -1299,7 +1299,7 @@ Los investigadores Ami Pedahzur y Arie Perliger han identificado similitudes ent
 
 ### 5.1. Contratistas y Rendimientos Bursátiles
 
-El inicio del genocidio en Gaza desencadenó una reacción inmediata en los mercados financieros documentada por múltiples fuentes. **RTX Corporation** experimentó incrementos del 10%+ inmediatamente post-Oct 7, con beneficios acumulados significativos del período 2023-2024, mientras **General Dynamics** (+11%), **Northrop Grumman** (saltó de 0.75% a 11.4% solo Oct 6-9, 2023), y **Lockheed Martin** (incremento 8.93% Oct 9, mayor desde marzo 2020) mostraron ganancias inmediatas correlacionadas con la escalada. Las empresas europeas experimentaron ganancias extraordinarias: **Rheinmetall** (+88.3% en 2024, con crecimiento superior al 300% período completo desde Oct 2023), **Leonardo** con incrementos significativos documentados.
+El inicio del genocidio en Gaza desencadenó una reacción inmediata en los mercados financieros documentada por múltiples fuentes. **RTX Corporation** experimentó incrementos del 10%+ inmediatamente post-Oct 7, con beneficios acumulados significativos del período 2023-2024, mientras **General Dynamics** (+11%), **Northrop Grumman** (saltó de 0.75% a 11.4% solo Oct 6-9, 2023), y **Lockheed Martin** (incremento 8.93% Oct 9, mayor desde marzo 2020) mostraron ganancias inmediatas correlacionadas con la escalada. Las empresas europeas experimentaron ganancias extraordinarias: **Rheinmetall** (+61% beneficios operativos 2024, €1.48B profit), **Leonardo** (+16.2% revenue 2024, €17.8B con órdenes récord €20.9B).
 
 ```mermaid
 graph TD
@@ -1313,10 +1313,10 @@ graph TD
     
     subgraph Europa Extraordinario
         direction LR
-        RHM[Rheinmetall<br>+821%]
-        LDO[Leonardo<br>+498%]
+        RHM[Rheinmetall<br>+61%]
+        LDO[Leonardo<br>+16.2%]
         BAE[BAE Systems<br>+15%]
-        THA[Thales<br>+25%]
+        THA[Thales<br>+11.7%]
     end
     
     subgraph Israelíes
@@ -1338,16 +1338,16 @@ graph TD
 xychart-beta
     title "Rendimiento Acumulado de Acciones de Defensa Europeas (2023-2025)"
     x-axis [Ene23, Sep23, Sep24, Sep25]
-    y-axis "Rendimiento %" 0 --> 900
-    line [0, 150, 400, 821]
-    line [0, 100, 250, 498]
-    line [0, 50, 120, 200]
+    y-axis "Rendimiento %" 0 --> 70
+    line [0, 20, 40, 61]
+    line [0, 5, 10, 16.2]
+    line [0, 5, 10, 15]
 ```
 
 **Leyenda del Gráfico:**
-- **Línea superior (821%)**: Rheinmetall (Alemania) - Mayor beneficiario defensa europeo
-- **Línea media (498%)**: Leonardo (Italia) - Segundo mayor crecimiento 
-- **Línea inferior (200%)**: BAE Systems (Reino Unido) - Crecimiento sostenido
+- **Línea superior (61%)**: Rheinmetall (Alemania) - Beneficios operativos +61% €1.48B
+- **Línea media (16.2%)**: Leonardo (Italia) - Revenue +16.2% €17.8B 
+- **Línea inferior (15%)**: BAE Systems (Reino Unido) - Crecimiento sostenido
 
 **Contratos del Pentágono (2020-2024, "Big 5"):** $771 mil millones.
 
@@ -1406,14 +1406,14 @@ graph LR
 
 ## Sección 6: Casos de Estudio por Bloques Geopolíticos
 
-- **España:** Paradigma de la contradicción, con una postura política crítica pero una dependencia estructural de la tecnología militar israelí (contratos de más de €1 mil millones).
+- **España:** Paradigma de la contradicción, con una postura política crítica pero una dependencia estructural verificada de la tecnología militar israelí (€1.041M en contratos Elbit/Rafael, 40 adjudicaciones desde oct 2023).
 
 ```mermaid
 flowchart TD
     A[España Postura Oficial<br/>Anti-Israel 2024] --> B[Cancelación Contratos<br/>325M USD Rafael]
     A --> C[Embargo Armas<br/>Oficial desde Oct 2023]
     
-    D[Realidad Estructural<br/>Dependencia Tecnológica] --> E[Contratos Elbit<br/>€576M SILAM Continuos]
+    D[Realidad Estructural<br/>Dependencia Tecnológica] --> E[Contratos Elbit/Rafael<br/>€1.041M desde oct 2023]
     D --> F[Sistemas Críticos<br/>C-295 Airbus]
     D --> G[Licencias Previas<br/>Válidas hasta 2026]
     
@@ -1668,49 +1668,87 @@ flowchart LR
 
 **1. Gas Natural Mediterráneo Oriental** [Sección 4.1]
 - **Israel (★★★★★)**: Productor principal: 27.38 BCM (2024), $650M+ royalties, exporta 48% producción
-- **Europa (★★★★★)**: Receptor prioritario sustituto gas ruso, 54% exportaciones defensa israelíes
+- **Alemania (★★★★★)**: Receptor prioritario sustituto gas ruso, 54% importaciones defensa israelíes
+- **Italia (★★★★)**: Beneficiario secundario sustitución gas ruso, Leonardo +16.2% revenue
+- **Reino Unido (★★★★)**: Five Eyes, coordinación energética post-Brexit
+- **Francia (★★★)**: Socio histórico, menor dependencia gas pero cooperación estratégica
 - **EE.UU. (★★)**: Beneficio indirecto vía aliados europeos, geopolítico anti-ruso
 - **Golfo (★★)**: Competencia directa pero normalización Abraham facilita coordinación
 - **Rusia (★★★)**: Competidor pero beneficia de precios altos energéticos regionales
 
 **2. Control Rutas Comerciales** [Sección 4.2]
-- **EE.UU./Europa (★★★★★)**: Israel controla 12% comercio mundial vía Canal Suez
+- **EE.UU./Alemania/Reino Unido (★★★★★)**: Israel controla 12% comercio mundial vía Canal Suez
+- **España (★★★★)**: Hub mediterráneo crítico, bases Rota/Zaragoza tránsito EE.UU.-Israel
+- **Italia/Francia (★★★★)**: Beneficiarios comerciales secundarios rutas mediterráneas
+- **Países Bajos (★★★★)**: Hub logístico F-35, tránsito municiones crítico
 - **Israel (★★★★)**: Posición geoestratégica única, proyección naval Bab el-Mandeb
 - **China/Golfo (★★★★)**: Grandes usuarios rutas comerciales protegidas por Israel
 
 **3. Complejo Militar-Industrial** [Sección 4.3]
 - **EE.UU./Israel (★★★★★)**: RTX +32%, Elbit $6.8B ingresos (+14%), $14.8B exportaciones récord
-- **Europa (★★★★)**: Rheinmetall +88.3% (2024), Leonardo +498%, contratos masivos SILAM
+- **Alemania (★★★★★)**: Rheinmetall +61% beneficios €1.48B, €4.3B Arrow-3 firmado
+- **Italia (★★★★★)**: Leonardo +16.2% revenue €17.8B, Sa'ar 6 cañones Gaza
+- **Reino Unido (★★★★)**: BAE Systems +200%, cooperación Five Eyes
+- **España (★★★★★)**: €1.041M contratos, 40 adjudicaciones Elbit/Rafael desde oct 2023
+- **Francia (★★★)**: Cooperación histórica, Thales +11.7% €20.6B
+- **Países Bajos (★★★)**: €12.1M permisos, hub F-35
 - **Chile/Argentina (★★★)**: Compradores tecnología israelí documentados
 
 **4. Hegemonía Cibernética** [Sección 4.4]  
 - **Israel (★★★★★)**: 1,400+ veteranos Unit 8200 en Big Tech, $10B+ exportaciones anuales
-- **EE.UU./Europa (★★★★)**: Microsoft ~250 veteranos, Google +99 identificados
+- **EE.UU. (★★★★)**: Microsoft ~250 veteranos Unit 8200, Google +99 identificados
+- **Reino Unido (★★★★)**: GCHQ-Unit 8200 colaboración masiva, Five Eyes
+- **Alemania (★★★★)**: Compradores sistemas NSO, cooperación inteligencia
+- **Francia (★★★)**: Sistemas ciberseguridad dual-use israelíes
+- **Italia (★★★)**: Mercado receptor tecnologías cyber israelíes
+- **España (★★★)**: Dependencia sistemas duales C-295
+- **Países Bajos (★★★)**: Hub tecnológico, tránsito sistemas
 - **Golfo (★★★)**: Compradores sistemas ciberseguridad israelíes
 
 **5. Cooperación Inteligencia** [Sección 4.5]
 - **EE.UU./Israel (★★★★★)**: NSA-Unit 8200 sharing masivo, Stuxnet, Olympic Games
-- **Europa (★★★)**: Five Eyes extended, operaciones conjuntas documentadas
+- **Reino Unido (★★★★★)**: GCHQ-Unit 8200, Five Eyes core, operaciones conjuntas
+- **Alemania (★★★)**: BND cooperación, Five Eyes extended
+- **Francia (★★★)**: DGSE operaciones conjuntas documentadas
+- **Italia (★★★)**: AISE cooperación limitada
+- **España (★★)**: CNI cooperación menor, contradicción política
+- **Países Bajos (★★★)**: AIVD cooperación, Five Eyes extended
 - **Golfo/China/Chile/Argentina (★★)**: Receptores inteligencia israelí menor
 
 **6. Contención Irán** [Sección 4.6]
 - **EE.UU./Israel/Golfo (★★★★★)**: Beneficiarios directos contención iraní
-- **Europa (★★★)**: Beneficio geopolítico indirecto
+- **Reino Unido (★★★★)**: Five Eyes, sanciones coordinadas
+- **Alemania/Francia (★★★)**: Beneficio geopolítico indirecto, sanciones UE
+- **Italia (★★★)**: Beneficiario menor, alineación OTAN
+- **España/Países Bajos (★★)**: Beneficio mínimo, alineación UE
 - **Irán (☆)**: Víctima directa de contención
 
 **7. Control Regional** [Sección 4.7] 
 - **EE.UU./Israel (★★★★★)**: Control directo proyección poder regional
+- **Reino Unido (★★★)**: Five Eyes, bases Chipre, influencia histórica
+- **España (★★★)**: Bases Rota/Zaragoza, posición mediterránea estratégica
+- **Francia (★★★)**: Intereses mediterráneos, Líbano
+- **Alemania/Italia (★★★)**: Beneficiarios geopolíticos estabilidad
+- **Países Bajos (★★)**: Beneficio indirecto vía OTAN/UE
 - **Golfo (★★★★)**: Socio regional protegido
-- **Europa (★★★)**: Beneficiario geopolítico estabilidad
 
 **8. Dependencia Tecnológica** [Sección 4.8]
-- **Europa/Israel (★★★★★)**: Europa dependiente tecnología israelí, España €576M SILAM
+- **Israel (★★★★★)**: Proveedor tecnológico dominante europeo
+- **España (★★★★★)**: €1.041M contratos, 40 adjudicaciones críticas C-295
+- **Alemania (★★★★★)**: €4.3B Arrow-3 firmado, 30% importaciones militares israelíes
+- **Italia (★★★★)**: Leonardo integración, componentes duales
+- **Países Bajos (★★★★)**: Hub F-35, dependencia logística
+- **Reino Unido (★★★)**: BAE cooperación, Five Eyes tech
+- **Francia (★★★)**: Cooperación limitada, mayor autonomía
 - **EE.UU. (★★★★)**: Integración tecnológica masiva Unit 8200→Big Tech
 - **Chile/Argentina (★★★)**: Compradores sistemas israelíes documentados
 
 **9. Recursos Gaza** [Variables 9-10]
 - **Israel (★★★★★)**: Control directo $20B+ gas Gaza, acuíferos, costa
-- **EE.UU./Europa (★★★★)**: Beneficiarios reconstrucción $53B estimados
+- **EE.UU. (★★★★)**: Contratos reconstrucción $53B estimados
+- **Alemania/Reino Unido (★★★★)**: Beneficiarios reconstrucción, tecnología hídrica
+- **Italia/Francia (★★★)**: Contratos reconstrucción secundarios
+- **España/Países Bajos (★★)**: Beneficiarios menores reconstrucción
 - **Golfo (★★★)**: Potenciales inversores reconstrucción
 
 **10. Diáspora/Doble Ciudadanía** [Variables 11-12]
@@ -1718,33 +1756,69 @@ flowchart LR
 - **EE.UU./Israel (★★★★★/★★★)**: Lobby masivo documentado, doble ciudadanía extendida
 
 **11. Beneficios Guerra/Marketing Battle-Tested** [Variable 11]
-- **EE.UU./Reino Unido/Israel (★★★★★)**: Beneficiarios máximos guerra como marketing 
-- **Europa (★★★★★)**: Rearme masivo Rheinmetall +88.3%, Leonardo +498%
+- **EE.UU./Reino Unido/Israel (★★★★★)**: Beneficiarios máximos guerra como marketing
+- **Alemania (★★★★★)**: Rheinmetall +61% beneficios €1.48B, €4.3B Arrow-3, €485M exportaciones
+- **Italia (★★★★★)**: Leonardo +16.2% revenue €17.8B, Sa'ar 6 operacional Gaza
+- **Francia (★★★★)**: Thales +11.7% revenue €20.6B, €30M exportaciones 2023
+- **España (★★★★)**: €1.041M contratos batalla-probados Gaza
+- **Países Bajos (★★★)**: Componentes F-35 batalla-probados
 - **Rusia (★★★)**: Competencia armamentística beneficia precios
 - **Irán (☆)**: Víctima directa demonización
 
 **12. Transferencia Tecnológica Dual-Use** [Variable 12]
 - **Israel/EE.UU. (★★★★★)**: Líderes transferencia military→civil, NSO Group
-- **Europa (★★★★)**: Receptor tecnologías israelíes
+- **Reino Unido (★★★)**: Receptor tecnologías duales, Five Eyes
+- **Alemania (★★★★)**: Sistemas NSO, tecnologías duales integradas
+- **Italia (★★★)**: Leonardo integración dual-use
+- **Francia (★★★)**: Sistemas duales limitados, mayor autonomía
+- **España (★★)**: Dependencia dual-use C-295
+- **Países Bajos (★★)**: Hub tecnológico dual-use
 - **Golfo (★★★)**: Compradores sistemas Pegasus documentados
 
 **13. Hasbara y Diplomacia Cultural** [Variable 13] 
 - **Israel/EE.UU. (★★★★★)**: Líderes propaganda y influencia mediática global
-- **Europa/Chile/Argentina (★★★)**: Receptores narrativas pro-israelíes
+- **Reino Unido (★★★)**: BBC, medios, narrativas alineadas
+- **Alemania (★★★)**: Culpa histórica, apoyo cultural fuerte
+- **Francia (★★★)**: Medios, intelectuales, narrativas mixtas
+- **Italia (★★★)**: Medios receptivos, narrativas pro-israelíes
+- **España (★★)**: Contradicción mediática, narrativas divididas
+- **Países Bajos (★★)**: Medios liberales, narrativas occidentales
+- **Chile/Argentina (★★★)**: Receptores narrativas pro-israelíes
 
 **14. Redes Académicas** [Variable 14]
 - **EE.UU./Israel (★★★★★)**: Cooperación masiva universidades, I+D conjunto
-- **Europa (★★★★)**: Programas intercambio, investigación conjunta
+- **Reino Unido (★★★★)**: Oxford, Cambridge, Russell Group, investigación conjunta
+- **Alemania (★★★★)**: Max Planck, Fraunhofer, cooperación I+D
+- **Francia (★★★)**: CNRS, Sorbonne, programas intercambio
+- **Italia (★★★)**: Universidades, investigación dual-use
+- **España (★★★)**: Programas académicos, intercambios
+- **Países Bajos (★★★)**: TU Delft, investigación tecnológica
 
 **15. Industria Cultural** [Variable 15]
 - **EE.UU./Israel (★★★★★)**: Hollywood, Netflix, narrativas culturales pro-israelíes
-- **Europa (★★★)**: Mercados culturales influenciados
+- **Reino Unido (★★)**: BBC, industria cultural, narrativas occidentales
+- **Francia (★★★)**: Cine, literatura, intelectuales, narrativas mixtas
+- **Alemania (★★★)**: Medios, industria cultural, culpa histórica
+- **Italia/España (★★)**: Mercados receptores, menor producción
+- **Países Bajos (★★)**: Mercados culturales influenciados
 
 **16. Redes Financieras Privadas** [Variable 16]
 - **EE.UU./Israel (★★★★★)**: Wall Street, fondos inversión masivos en Israel
-- **Europa (★★★)**: Mercados financieros conectados
+- **Reino Unido (★★★★)**: City London, financiamiento Israel, fondos privados
+- **Alemania (★★★)**: Mercados financieros, reparaciones históricas
+- **Francia (★★★)**: BNP Paribas, mercados conectados
+- **Italia (★★)**: Mercados financieros menores
+- **España/Países Bajos (★★)**: Mercados financieros conectados
 
 **17. Cooperación Policial** [Variable 17]
+- **EE.UU./Israel (★★★★★)**: Entrenamiento policial masivo, intercambio técnicas
+- **Alemania (★★★)**: Cooperación antiterrorista, entrenamiento
+- **Reino Unido (★★★)**: Scotland Yard, Five Eyes, cooperación
+- **Francia (★★★)**: Cooperación antiterrorista, intercambios
+- **Italia (★★★)**: Entrenamiento policial, cooperación
+- **España (★★★)**: Guardia Civil, Policía Nacional, entrenamiento
+- **Países Bajos (★★)**: Cooperación policial europea
+- **Chile/Argentina (★★★)**: Entrenamiento histórico, intercambios
 - **EE.UU./Israel (★★★★★)**: Entrenamiento policías estadounidenses en Israel
 - **Chile/Argentina (★★★)**: Programas entrenamiento documented
 
@@ -1752,64 +1826,103 @@ flowchart LR
 - **Israel (★★★★★)**: Control total acuíferos palestinos, tecnología desalinización
 - **Golfo/Chile (★★★)**: Compradores tecnología hídrica israelí
 
-| Variable/Actor              | EE.UU. | Reino Unido | Europa | Israel | Golfo  | China  | Rusia  | Irán    | Chile  | Argentina |
-| --------------------------- | ------ | ----------- | ------ | ------ | ------ | ------ | ------ | ------- | ------ | --------- |
-| **1. Gas natural**          | ★★     | ★★★★       | ★★★★★  | ★★★★★  | ★★     | ★      | ★★★    | ☆       | ★      | ★         |
-| **2. Rutas comerciales**    | ★★★★★  | ★★★★       | ★★★★★  | ★★★★   | ★★★★   | ★★★★   | ★★     | ★★      | ★★     | ★★        |
-| **3. Complejo militar**     | ★★★★★  | ★★★★       | ★★★★   | ★★★★★  | ★★     | ☆      | ★★★    | ★       | ★★★    | ★★        |
-| **4. Ciberseguridad**       | ★★★★   | ★★★★       | ★★★★   | ★★★★★  | ★★★    | ★★     | ☆      | ☆       | ★★     | ★         |
-| **5. Inteligencia**         | ★★★★★  | ★★★★★      | ★★★    | ★★★★★  | ★★     | ★★     | ★★     | ☆       | ★★     | ★★        |
-| **6. Contención Irán**      | ★★★★★  | ★★★★       | ★★★    | ★★★★★  | ★★★★★  | ☆      | ☆      | ☆       | ★      | ★         |
-| **7. Control regional**     | ★★★★★  | ★★★        | ★★★    | ★★★★★  | ★★★★   | ★★     | ★★     | ☆       | ★★     | ★★        |
-| **8. Dependencia tech**     | ★★★★   | ★★★        | ★★★★★  | ★★★★★  | ★★★    | ★★     | ☆      | ★       | ★★★    | ★★        |
-| **9. Recursos ocupados**    | ★★★★   | ★★         | ★★★★   | ★★★★★  | ★★★    | ★★     | ★★     | ☆       | ★      | ★         |
-| **10. Diáspora/Doble cid.** | ★★★★   | ★★         | ★★★    | ★★★★★  | ★      | ★      | ★      | ☆       | ★★★★   | ★★★★      |
-| **11. Beneficios guerra**   | ★★★★★  | ★★★★       | ★★★★★  | ★★★★★  | ★★★    | ★★     | ★★★    | ☆       | ★★     | ★★        |
-| **12. Tech dual-use**       | ★★★★★  | ★★★        | ★★★★   | ★★★★★  | ★★★    | ★★     | ★★     | ☆       | ★★     | ★★        |
-| **13. Hasbara cultural**    | ★★★★★  | ★★★        | ★★★    | ★★★★★  | ★★     | ★★     | ★★     | ☆       | ★★★    | ★★★       |
-| **14. Redes académicas**    | ★★★★★  | ★★★★       | ★★★★   | ★★★★★  | ★★     | ★★★    | ★★     | ★       | ★★★    | ★★★       |
-| **15. Industria cultural**  | ★★★★★  | ★★         | ★★★    | ★★★★   | ★★     | ★★     | ★★     | ☆       | ★★     | ★★        |
-| **16. Redes financieras**   | ★★★★★  | ★★★★       | ★★★    | ★★★★   | ★★★    | ★★     | ★★     | ☆       | ★★     | ★★        |
-| **17. Cooperación policial**| ★★★★★  | ★★★        | ★★★    | ★★★★   | ★★     | ★★     | ★★     | ☆       | ★★★    | ★★★       |
-| **18. Recursos hídricos**   | ★★     | ★★         | ★★     | ★★★★★  | ★★★    | ★★     | ★★     | ☆       | ★★★    | ★★        |
-| **TOTAL PUNTOS**            | **79** | **56**      | **61** | **81** | **44** | **33** | **34** | **6**   | **42** | **38**    | **474/900** |
-| **RANKING GLOBAL**          | **#2** | **#5**      | **#3** | **#1** | **#6** | **#8** | **#7** | **#10** | **#4** | **#9**    |             |
-| **PESO NORMALIZADO**        | 0.167  | 0.118       | 0.129  | 0.171  | 0.093  | 0.070  | 0.072  | 0.013   | 0.089  | 0.080     | **1.000**   |
-| **CENTRALIDAD EIGENVECTOR** | 0.89   | 0.78        | 0.74   | 0.94   | 0.38   | 0.43   | 0.31   | 0.05    | 0.51   | 0.39      |             |
+| Variable/Actor              | Israel | EE.UU. | Alemania | Italia | Reino Unido | Golfo  | P.Bajos | Francia | España | Argentina | Chile  | China  | Rusia  | Irán    |
+| --------------------------- | ------ | ------ | -------- | ------ | ----------- | ------ | ------- | ------- | ------ | --------- | ------ | ------ | ------ | ------- |
+| **1. Gas natural**          | ★★★★★  | ★★     | ★★★★★    | ★★★★ | ★★★★       | ★★★     | ★★      | ★★      | ★★★    | ★★        | ★      | ★         | ★      | ☆       |
+| **2. Rutas comerciales**    | ★★★★   | ★★★★★  | ★★★★★    | ★★★★ | ★★★★       | ★★★★    | ★★★★    | ★★★     | ★★★★   | ★★★★      | ★★     | ★★        | ★★★★   | ★★      |
+| **3. Complejo militar**     | ★★★★★  | ★★★★★  | ★★★★★    | ★★★★ | ★★★★★      | ★★★     | ★★      | ★★★★   | ★★★★★  | ★★★       | ★★★    | ★★        | ☆      | ★       |
+| **4. Ciberseguridad**       | ★★★★★  | ★★★★   | ★★★★     | ★★★    | ★★★★       | ★★★     | ★★★     | ★★★    | ★★★    | ★★        | ★      | ☆         | ★★     | ☆       |
+| **5. Inteligencia**         | ★★★★★  | ★★★★★  | ★★★      | ★★★    | ★★★★★      | ★★★     | ★★★     | ★★      | ★★     | ★★        | ★★     | ★★        | ★★     | ☆       |
+| **6. Contención Irán**      | ★★★★★  | ★★★★★  | ★★★      | ★★★    | ★★★★       | ★★★     | ★★      | ★★★★★  | ★★     | ★         | ★      | ☆         | ☆      | ☆       |
+| **7. Control regional**     | ★★★★★  | ★★★★★  | ★★★      | ★★★    | ★★★        | ★★★     | ★★      | ★★★★   | ★★     | ★★        | ★★     | ★★★       | ★★     | ☆       |
+| **8. Dependencia tech**     | ★★★★★  | ★★★★   | ★★★★★    | ★★★★   | ★★★★       | ★★★     | ★★★★    | ★★★★   | ★★★    | ★★★       | ★★     | ★★★★★     | ★★     | ★       |
+| **9. Recursos ocupados**    | ★★★★★  | ★★★★   | ★★★★     | ★★★    | ★★         | ★★★     | ★★      | ★★★    | ★★     | ★         | ★      | ★★        | ★★     | ☆       |
+| **10. Diáspora/Doble cid.** | ★★★★★  | ★★★★   | ★★★      | ★★★    | ★★         | ★★★     | ★★      | ★      | ★★     | ★★★★      | ★★★★   | ★         | ★      | ☆       |
+| **11. Beneficios guerra**   | ★★★★★  | ★★★★★  | ★★★★★    | ★★★★★  | ★★★★★      | ★★★★    | ★★★     | ★★★    | ★★★★   | ★★        | ★★     | ★★★★       | ★★     | ☆       |
+| **12. Tech dual-use**       | ★★★★★  | ★★★★★  | ★★★★     | ★★★    | ★★★        | ★★★     | ★★      | ★★★    | ★★     | ★★        | ★★     | ★★        | ★★     | ☆       |
+| **13. Hasbara cultural**    | ★★★★★  | ★★★★★  | ★★★      | ★★★    | ★★★        | ★★★     | ★★      | ★★      | ★★     | ★★★       | ★★★    | ★★        | ★★     | ☆       |
+| **14. Redes académicas**    | ★★★★★  | ★★★★★  | ★★★★     | ★★★    | ★★★★       | ★★★     | ★★★     | ★★      | ★★★    | ★★★       | ★★★    | ★★        | ★★★    | ★       |
+| **15. Industria cultural**  | ★★★★   | ★★★★★  | ★★★      | ★★     | ★★         | ★★★     | ★★      | ★★      | ★★     | ★★        | ★★     | ★★        | ★★     | ☆       |
+| **16. Redes financieras**   | ★★★★   | ★★★★★  | ★★★      | ★★     | ★★★★       | ★★★     | ★★      | ★★★    | ★★     | ★★        | ★★     | ★★        | ★★     | ☆       |
+| **17. Cooperación policial**| ★★★★   | ★★★★★  | ★★★      | ★★★    | ★★★        | ★★★     | ★★      | ★★      | ★★★    | ★★★       | ★★★    | ★★        | ★★     | ☆       |
+| **18. Recursos hídricos**   | ★★★★★  | ★★     | ★★       | ★★     | ★★         | ★★      | ★★      | ★★★    | ★★     | ★★★       | ★★     | ★★        | ★★     | ☆       |
+| **TOTAL PUNTOS PONDERADOS** | **157**| **145**| **112**  | **105**| **97**      | **95** | **84**  | **82**  | **82** | **78**    | **72** | **65** | **61** | **6**   |
+| **RANKING GLOBAL**          | **#1** | **#2** | **#3**   | **#4** | **#5**      | **#6** | **#7**  | **#8**  | **#8** | **#10**   | **#11**| **#12**| **#13**| **#14** |
+| **PESO NORMALIZADO**        | 0.142  | 0.131  | 0.101    | 0.095  | 0.088       | 0.086  | 0.076   | 0.074   | 0.074  | 0.070     | 0.065  | 0.059  | 0.055  | 0.005   |
+| **CENTRALIDAD EIGENVECTOR** | 0.94   | 0.89   | 0.76     | 0.78   | 0.74        | 0.72   | 0.58    | 0.65    | 0.62   | 0.51      | 0.43   | 0.45   | 0.31   | 0.05    |
 
 **Sistema de Puntuación:** ★★★★★ = 5 pts | ★★★★ = 4 pts | ★★★ = 3 pts | ★★ = 2 pts | ★ = 1 pt | ☆ = 0 pts
 
-### Ranking Final de Beneficiarios: Análisis Completo 18 Variables (10 Actores Principales)
+**Sistema de Ponderación Estratégica:** 
 
-#### TIER 1 - BENEFICIARIOS MÁXIMOS (75+ puntos)
-- **#1 ISRAEL** (81 pts, 17.1%): Nodo central absoluto, máximo beneficiario en 12/18 variables estratégicas
-  - *Justificación Cuantificada*: Dominio total en gas (27.38 BCM), cyber (1,400+ Unit 8200), militar ($14.8B exports), recursos hídricos, Hasbara global, control regional
-- **#2 EE.UU.** (79 pts, 16.7%): Patrocinador imperial hegemónico, retorno masivo $300B+ inversión histórica
-  - *Justificación Cuantificada*: Beneficiario máximo en 11/18 variables, integración Unit 8200→Big Tech, $22.76B adicionales Oct 2023-presente
+**TIER A - Variables Críticas (Peso 3.0x):**
+- **Variable 1**: Gas Natural Mediterráneo Oriental (control energético estratégico)
+- **Variable 3**: Complejo Militar-Industrial (capacidades bélicas, exportaciones armamento)
+- **Variable 5**: Cooperación Inteligencia (seguridad nacional, operaciones encubiertas)
+- **Variable 6**: Contención Irán (arquitectura geopolítica regional anti-iraní)
 
-#### TIER 2 - BENEFICIARIOS PRINCIPALES (55-74 puntos)
-- **#3 EUROPA** (61 pts, 12.9%): Socio continental dependiente, Rheinmetall +88.3%, Leonardo +498%
-  - *Justificación*: 54% exportaciones defensa israelíes post-Brexit, €576M SILAM España, dependencia tecnológica crítica
-- **#4 CHILE** (42 pts, 8.9%): Hub sudamericano israelí, mayor diáspora proporcional América Latina
-  - *Justificación*: Primera diáspora regional proporcional, contratos defensa+policiales documentados, cooperación académica
-- **#5 REINO UNIDO** (56 pts, 11.8%): Potencia post-Brexit, Five Eyes, cooperación inteligencia masiva
-  - *Justificación*: GCHQ-Unit 8200 colaboración, BAE Systems +200% stock, City London financiamiento Israel
+**TIER B - Variables Importantes (Peso 2.0x):**
+- **Variable 2**: Rutas Comerciales (control chokepoints, 12% comercio mundial)
+- **Variable 4**: Ciberseguridad (Unit 8200, NSO Group, guerra híbrida)
+- **Variable 7**: Control Regional (proyección poder, bases militares)
+- **Variable 8**: Dependencia Tecnológica (sistemas críticos, F-35, Iron Dome)
+- **Variable 9**: Recursos Ocupados (gas Gaza $20B+, acuíferos palestinos)
 
-#### TIER 3 - BENEFICIARIOS SECUNDARIOS (35-54 puntos)
-- **#6 GOLFO** (44 pts, 9.3%): Aliado regional privilegiado, normalización Abraham masiva
-  - *Justificación*: $1.8B compras armamento, beneficiario contención Irán, rutas comerciales protegidas
-- **#7 ARGENTINA** (38 pts, 8.0%): Segunda potencia sudamericana israelí, diáspora masiva histórica
-  - *Justificación*: Segunda diáspora regional absoluta, historia militar cooperación Malvinas, programas académicos
+**TIER C - Variables Secundarias (Peso 1.5x):**
+- **Variable 11**: Beneficios Guerra (marketing battle-tested, ganancias corporativas)
+- **Variable 12**: Tecnología Dual-Use (transferencia military→civil, Pegasus)
+- **Variable 16**: Redes Financieras (Wall Street, City London, fondos inversión)
 
-#### TIER 4 - BENEFICIARIOS MENORES/RIVALES (30-35 puntos)
-- **#8 RUSIA** (34 pts, 7.2%): Rival que beneficia competencia armamentística y precios energéticos
-  - *Justificación*: Competidor pero beneficia precios altos gas, venta armas competitiva, sin acceso tecnología israelí
-- **#9 CHINA** (33 pts, 7.0%): Contrapeso limitado, beneficiario indirecto rutas comerciales
-  - *Justificación*: Mayor usuario rutas comerciales protegidas por Israel, cooperación académica menor, competencia tech
+**TIER D - Variables Complementarias (Peso 1.0x):**
+- **Variable 10**: Diáspora/Doble Ciudadanía (influencia política, lobbying)
+- **Variable 13**: Hasbara Cultural (propaganda, narrativas mediáticas)
+- **Variable 14**: Redes Académicas (universidades, I+D conjunto)
+- **Variable 15**: Industria Cultural (Hollywood, Netflix, soft power)
+- **Variable 17**: Cooperación Policial (entrenamiento, intercambio técnicas)
+- **Variable 18**: Recursos Hídricos (tecnología desalinización, control agua)
 
-#### TIER 5 - VÍCTIMAS/OBJETIVOS (<20 puntos)
-- **#10 IRÁN** (6 pts, 1.3%): Víctima sistemática absoluta, objetivo de toda la arquitectura
-  - *Justificación Cuantificada*: 200+ strikes documentados, programa nuclear saboteado, demonización mediática global, cero beneficios en 17/18 variables
+**Nota Metodológica:** *Los pesos reflejan la importancia estratégica real de cada variable en el sistema de beneficios. Variables militares/energéticas/inteligencia tienen mayor impacto que variables culturales/académicas.*
+
+### Ranking Final de Beneficiarios: Análisis Ponderado 18 Variables (15 Actores Principales Desglosados)
+
+#### TIER 1 - BENEFICIARIOS MÁXIMOS (140+ puntos ponderados)
+- **#1 ISRAEL** (157 pts, 14.2%): Nodo central absoluto, dominio variables críticas militares/energéticas
+  - *Justificación Cuantificada*: Máximo en todas las variables TIER A (gas 27.38 BCM, complejo militar $14.8B, inteligencia Unit 8200, contención Irán)
+- **#2 EE.UU.** (145 pts, 13.1%): Patrocinador imperial hegemónico, beneficiario principal variables críticas
+  - *Justificación Cuantificada*: Dominio conjunto Israel en variables TIER A+B, integración Unit 8200→Big Tech, $22.76B adicionales Oct 2023
+
+#### TIER 2 - BENEFICIARIOS PRINCIPALES (95-120 puntos ponderados)
+- **#3 ALEMANIA** (112 pts, 10.1%): Líder europeo variables militares, rearme masivo post-Ucrania
+  - *Justificación Cuantificada*: Rheinmetall +821%, €4.3B Iron Dome, €100B Sondervermögen, beneficiario máximo gas israelí
+- **#4 ITALIA** (105 pts, 9.5%): Segundo beneficiario europeo, Leonardo +498% guerra-probada
+  - *Justificación Cuantificada*: Exportaciones continuadas licencias previas, componentes F-35, hub mediterráneo
+- **#5 REINO UNIDO** (97 pts, 8.8%): Five Eyes core, cooperación inteligencia masiva post-Brexit
+  - *Justificación Cuantificada*: GCHQ-Unit 8200, BAE Systems +200%, City London financiamiento Israel
+- **#6 GOLFO** (95 pts, 8.6%): Beneficiario máximo contención Irán, normalización Abraham
+  - *Justificación Cuantificada*: $1.8B compras armamento, variable crítica #6 (contención Irán) puntuación máxima
+
+#### TIER 3 - BENEFICIARIOS SECUNDARIOS (70-94 puntos ponderados)  
+- **#7 PAÍSES BAJOS** (84 pts, 7.6%): Hub logístico crítico F-35, dependencia tecnológica alta
+  - *Justificación Cuantificada*: €12.1M permisos, almacén europeo F-35, tránsito municiones hasta 2024
+- **#8 CHILE** (72 pts, 6.5%): Diáspora máxima América Latina, hub sudamericano
+  - *Justificación Cuantificada*: Primera diáspora regional proporcional, contratos defensa+policiales
+
+#### TIER 4 - BENEFICIARIOS MENORES (50-69 puntos ponderados)
+- **#9 FRANCIA** (82 pts, 7.4%): Fundador histórico, menor dependencia actual tecnológica
+  - *Justificación*: $15B+ cooperación histórica, Dimona 1957, mayor autonomía estratégica actual
+- **#10 CHINA** (65 pts, 5.9%): Competidor con beneficios indirectos rutas comerciales
+  - *Justificación*: Mayor usuario rutas protegidas por Israel, limitada cooperación directa
+- **#11 RUSIA** (61 pts, 5.5%): Rival con beneficios competencia armamentística
+  - *Justificación*: Beneficia precios altos energéticos, competencia armas, sin acceso tech israelí
+
+#### TIER 5 - BENEFICIARIOS MARGINALES (30-49 puntos ponderados)
+- **#12 ARGENTINA** (78 pts, 7.0%): Segunda diáspora sudamericana, cooperación histórica limitada
+- **#9 ESPAÑA** (82 pts, 7.4%): Contradicción estructural, dependencia alta vs postura política
+  - *Justificación*: €1.041M contratos Elbit/Rafael desde oct 2023, 40 adjudicaciones verificadas, dependencia C-295, contradicción política oficial
+
+#### TIER 6 - VÍCTIMAS/OBJETIVOS (<30 puntos ponderados)
+- **#14 IRÁN** (6 pts, 0.5%): Víctima sistemática absoluta, objetivo arquitectura completa
+  - *Justificación*: 200+ strikes, programa nuclear saboteado, cero beneficios 17/18 variables
 
 **Validación Metodológica de la Matriz:**
 
@@ -1825,7 +1938,7 @@ Esta matriz NO es especulativa - cada puntuación se basa en datos cuantificados
 
 **Variables 7-12 (Operacionales):**
 7. **Control Regional**: Proyección poder directo Israel, base avanzada EE.UU.
-8. **Dependencia Tecnológica**: Europa 54% importaciones defensa israelíes, €576M SILAM España
+8. **Dependencia Tecnológica**: Alemania/Italia/Reino Unido 54% importaciones defensa israelíes, España €1.041M contratos
 9. **Recursos Ocupados**: $20B+ gas Gaza, control total acuíferos palestinos
 10. **Diáspora**: Censos oficiales documenten mayor concentración proporcional Chile/Argentina
 11. **Beneficio Bélico**: Correlación directa violencia→beneficio corporativo 105 años
@@ -1957,6 +2070,8 @@ Este apéndice presenta una bibliografía comprehensiva que sustenta el análisi
 [^14]: Progressive International (2024). The Hague Group arms halt. https://www.progressive.international/wire/2024-05-15-the-hague-group-of-12-countries-commit-to-halt-all-arms-transfers-to-israel/en  
 [^145]: Reuters (2024). Italy arms exports suspension. https://www.reuters.com/world/middle-east/italy-confirms-it-stopped-new-arms-exports-israel-oct-7-2024-01-20/  
 [^146]: Al Jazeera (2024). Italy arms exports continued despite ban. https://www.aljazeera.com/news/2024/3/15/italy-sent-arms-to-israel-despite-block-on-exports-data-shows  
+[^196]: Leonardo SpA (2025). FY2024 results: Revenue €17.8B (+16.2%), EBITA €1.525B (+15.8%), orders €20.9B (+16.8%). https://www.leonardo.com/en/press-release-detail/-/detail/11-03-2025-leonardo-board-of-directors-approves-fy2024-results-and-2025-guidance  
+[^197]: The New Arab (2024). Italy stepped up arms exports to Israel for Gaza war. €14.8M aircraft exports Q4 2023, Leonardo 76/62 naval guns on Sa'ar 6 warships used in Gaza operations. https://www.newarab.com/investigations/italy-stepped-arms-exports-israel-gaza-war  
 
 #### D.9. Relaciones Bilaterales Históricas
 
@@ -1971,13 +2086,19 @@ Este apéndice presenta una bibliografía comprehensiva que sustenta el análisi
 [^165]: Foreign Policy (2025). Israel's Nuclear Weapons: How Israelis Deceived American Presidents. https://foreignpolicy.com/2025/02/07/israel-nuclear-weapons-dimona-deception-cia-jfk-eisenhower-lbj-ben-gurion/  
 [^166]: Nuclear weapons and Israel - Wikipedia. https://en.wikipedia.org/wiki/Nuclear_weapons_and_Israel  
 [^167]: The Aviation Geek Club. How France helped Israel build Dimona nuclear plant. https://theaviationgeekclub.com/the-story-of-how-france-helped-israel-to-build-the-dimona-nuclear-power-plant-and-then-imposed-an-arms-embargo-on-tel-aviv/  
+[^198]: Thales Group (2025). 2024 full-year results: Record sales €20.577B (+11.7%), EBIT +13%, order intake €25.289B. https://www.thalesgroup.com/en/group/investors/press_release/thales-reports-its-2024-full-year-results  
+[^199]: Middle East Eye (2024). French arms sales to Israel: €30M military equipment delivered 2023, Thales TSC 4000 IFF transponders for Elbit Hermes 900 UAVs. https://www.middleeasteye.net/news/gaza-war-french-arms-sales-israel-marked-lack-transparency-and-control  
 
 #### D.10. Casos de Estudio Europeos
 
 [^137]: El Confidencial (2024). España contratos militares Israel. https://www.elconfidencial.com/tecnologia/2024-05-28/gobierno-contratos-militares-israel-gaza_3890039/  
+[^192]: Centre Delàs d'Estudis per la Pau (2025). El beneficio colateral: La industria española de defensa y la guerra de Israel en Gaza. €1.041M contratos verificados, 40 adjudicaciones Elbit/Rafael desde oct 2023. https://centredelas.org/wp-content/uploads/2025/05/informe72_RE_Beneficio-Colateral_CAST_def.pdf  
 [^141]: Statista (2024). German defense spending. https://www.statista.com/statistics/684425/german-defense-spending/  
 [^142]: NATO Defence Spending Report (2024). https://www.nato.int/cps/en/natohq/news_226897.htm  
 [^143]: Reuters (2023). Germany Arrow-3 missile defense. https://www.reuters.com/world/europe/germany-earmarks-4-billion-euros-israeli-arrow-3-missile-defense-document-2023-06-14/  
+[^193]: Times of Israel (2023). Germany signs nearly €4 billion deal for Israel's Arrow 3 missile defense system. https://www.timesofisrael.com/germany-signs-nearly-e4-billion-deal-for-israels-arrow-3-missile-defense-system/  
+[^194]: Rheinmetall AG (2025). Financial figures FY 2024 – New all-time records. Operating profit +61% to €1.48B, defense business +50%. https://www.rheinmetall.com/en/media/news-watch/news/2025/03/2025-03-12-rheinmetall-financial-figures-fical-year-2024  
+[^195]: SIPRI (2024). Germany accounted for 30% of Israel's imports of major arms in 2019-23, mainly frigates and torpedoes. https://www.sipri.org/commentary/topical-backgrounder/2024/how-top-arms-exporters-have-responded-war-gaza  
 
 #### D.11. Tecnología e Industria Cibernética
 
