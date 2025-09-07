@@ -1718,7 +1718,8 @@ flowchart LR
 - **EE.UU./Israel (★★★★★/★★★)**: Lobby masivo documentado, doble ciudadanía extendida
 
 **11. Beneficios Guerra/Marketing Battle-Tested** [Variable 11]
-- **EE.UU./Europa/Israel (★★★★★)**: Beneficiarios máximos guerra como marketing
+- **EE.UU./Reino Unido/Israel (★★★★★)**: Beneficiarios máximos guerra como marketing 
+- **Europa (★★★★★)**: Rearme masivo Rheinmetall +88.3%, Leonardo +498%
 - **Rusia (★★★)**: Competencia armamentística beneficia precios
 - **Irán (☆)**: Víctima directa demonización
 
@@ -1751,59 +1752,63 @@ flowchart LR
 - **Israel (★★★★★)**: Control total acuíferos palestinos, tecnología desalinización
 - **Golfo/Chile (★★★)**: Compradores tecnología hídrica israelí
 
-| Variable/Actor              | EE.UU. | Europa | Israel | Golfo  | China  | Rusia  | Irán    | Chile  | Argentina |
-| --------------------------- | ------ | ------ | ------ | ------ | ------ | ------ | ------- | ------ | --------- |
-| **1. Gas natural**          | ★★     | ★★★★★  | ★★★★★  | ★★     | ★      | ★★★    | ☆       | ★      | ★         |
-| **2. Rutas comerciales**    | ★★★★★  | ★★★★★  | ★★★★   | ★★★★   | ★★★★   | ★★     | ★★      | ★★     | ★★        |
-| **3. Complejo militar**     | ★★★★★  | ★★★★   | ★★★★★  | ★★     | ☆      | ★★★    | ★       | ★★★    | ★★        |
-| **4. Ciberseguridad**       | ★★★★   | ★★★★   | ★★★★★  | ★★★    | ★★     | ☆      | ☆       | ★★     | ★         |
-| **5. Inteligencia**         | ★★★★★  | ★★★    | ★★★★★  | ★★     | ★★     | ★★     | ☆       | ★★     | ★★        |
-| **6. Contención Irán**      | ★★★★★  | ★★★    | ★★★★★  | ★★★★★  | ☆      | ☆      | ☆       | ★      | ★         |
-| **7. Control regional**     | ★★★★★  | ★★★    | ★★★★★  | ★★★★   | ★★     | ★★     | ☆       | ★★     | ★★        |
-| **8. Dependencia tech**     | ★★★★   | ★★★★★  | ★★★★★  | ★★★    | ★★     | ☆      | ★       | ★★★    | ★★        |
-| **9. Recursos ocupados**    | ★★★★   | ★★★★   | ★★★★★  | ★★★    | ★★     | ★★     | ☆       | ★      | ★         |
-| **10. Diáspora/Doble cid.** | ★★★★   | ★★★    | ★★★★★  | ★      | ★      | ★      | ☆       | ★★★★   | ★★★★      |
-| **11. Beneficios guerra**   | ★★★★★  | ★★★★★  | ★★★★★  | ★★★    | ★★     | ★★★    | ☆       | ★★     | ★★        |
-| **12. Tech dual-use**       | ★★★★★  | ★★★★   | ★★★★★  | ★★★    | ★★     | ★★     | ☆       | ★★     | ★★        |
-| **13. Hasbara cultural**    | ★★★★★  | ★★★    | ★★★★★  | ★★     | ★★     | ★★     | ☆       | ★★★    | ★★★       |
-| **14. Redes académicas**    | ★★★★★  | ★★★★   | ★★★★★  | ★★     | ★★★    | ★★     | ★       | ★★★    | ★★★       |
-| **15. Industria cultural**  | ★★★★★  | ★★★    | ★★★★   | ★★     | ★★     | ★★     | ☆       | ★★     | ★★        |
-| **16. Redes financieras**   | ★★★★★  | ★★★    | ★★★★   | ★★★    | ★★     | ★★     | ☆       | ★★     | ★★        |
-| **17. Cooperación policial**| ★★★★★  | ★★★    | ★★★★   | ★★     | ★★     | ★★     | ☆       | ★★★    | ★★★       |
-| **18. Recursos hídricos**   | ★★     | ★★     | ★★★★★  | ★★★    | ★★     | ★★     | ☆       | ★★★    | ★★        |
-| **TOTAL PUNTOS**            | **79** | **59** | **81** | **44** | **33** | **34** | **6**   | **42** | **38**    | **415/810** |
-| **RANKING GLOBAL**          | **#2** | **#4** | **#1** | **#5** | **#8** | **#7** | **#9**  | **#6** | **#6**    |             |
-| **PESO NORMALIZADO**        | 0.190  | 0.142  | 0.195  | 0.106  | 0.080  | 0.082  | 0.014   | 0.101  | 0.092     | **1.000**   |
-| **CENTRALIDAD EIGENVECTOR** | 0.89   | 0.76   | 0.94   | 0.38   | 0.43   | 0.31   | 0.05    | 0.51   | 0.39      |             |
+| Variable/Actor              | EE.UU. | Reino Unido | Europa | Israel | Golfo  | China  | Rusia  | Irán    | Chile  | Argentina |
+| --------------------------- | ------ | ----------- | ------ | ------ | ------ | ------ | ------ | ------- | ------ | --------- |
+| **1. Gas natural**          | ★★     | ★★★★       | ★★★★★  | ★★★★★  | ★★     | ★      | ★★★    | ☆       | ★      | ★         |
+| **2. Rutas comerciales**    | ★★★★★  | ★★★★       | ★★★★★  | ★★★★   | ★★★★   | ★★★★   | ★★     | ★★      | ★★     | ★★        |
+| **3. Complejo militar**     | ★★★★★  | ★★★★       | ★★★★   | ★★★★★  | ★★     | ☆      | ★★★    | ★       | ★★★    | ★★        |
+| **4. Ciberseguridad**       | ★★★★   | ★★★★       | ★★★★   | ★★★★★  | ★★★    | ★★     | ☆      | ☆       | ★★     | ★         |
+| **5. Inteligencia**         | ★★★★★  | ★★★★★      | ★★★    | ★★★★★  | ★★     | ★★     | ★★     | ☆       | ★★     | ★★        |
+| **6. Contención Irán**      | ★★★★★  | ★★★★       | ★★★    | ★★★★★  | ★★★★★  | ☆      | ☆      | ☆       | ★      | ★         |
+| **7. Control regional**     | ★★★★★  | ★★★        | ★★★    | ★★★★★  | ★★★★   | ★★     | ★★     | ☆       | ★★     | ★★        |
+| **8. Dependencia tech**     | ★★★★   | ★★★        | ★★★★★  | ★★★★★  | ★★★    | ★★     | ☆      | ★       | ★★★    | ★★        |
+| **9. Recursos ocupados**    | ★★★★   | ★★         | ★★★★   | ★★★★★  | ★★★    | ★★     | ★★     | ☆       | ★      | ★         |
+| **10. Diáspora/Doble cid.** | ★★★★   | ★★         | ★★★    | ★★★★★  | ★      | ★      | ★      | ☆       | ★★★★   | ★★★★      |
+| **11. Beneficios guerra**   | ★★★★★  | ★★★★       | ★★★★★  | ★★★★★  | ★★★    | ★★     | ★★★    | ☆       | ★★     | ★★        |
+| **12. Tech dual-use**       | ★★★★★  | ★★★        | ★★★★   | ★★★★★  | ★★★    | ★★     | ★★     | ☆       | ★★     | ★★        |
+| **13. Hasbara cultural**    | ★★★★★  | ★★★        | ★★★    | ★★★★★  | ★★     | ★★     | ★★     | ☆       | ★★★    | ★★★       |
+| **14. Redes académicas**    | ★★★★★  | ★★★★       | ★★★★   | ★★★★★  | ★★     | ★★★    | ★★     | ★       | ★★★    | ★★★       |
+| **15. Industria cultural**  | ★★★★★  | ★★         | ★★★    | ★★★★   | ★★     | ★★     | ★★     | ☆       | ★★     | ★★        |
+| **16. Redes financieras**   | ★★★★★  | ★★★★       | ★★★    | ★★★★   | ★★★    | ★★     | ★★     | ☆       | ★★     | ★★        |
+| **17. Cooperación policial**| ★★★★★  | ★★★        | ★★★    | ★★★★   | ★★     | ★★     | ★★     | ☆       | ★★★    | ★★★       |
+| **18. Recursos hídricos**   | ★★     | ★★         | ★★     | ★★★★★  | ★★★    | ★★     | ★★     | ☆       | ★★★    | ★★        |
+| **TOTAL PUNTOS**            | **79** | **56**      | **61** | **81** | **44** | **33** | **34** | **6**   | **42** | **38**    | **474/900** |
+| **RANKING GLOBAL**          | **#2** | **#5**      | **#3** | **#1** | **#6** | **#8** | **#7** | **#10** | **#4** | **#9**    |             |
+| **PESO NORMALIZADO**        | 0.167  | 0.118       | 0.129  | 0.171  | 0.093  | 0.070  | 0.072  | 0.013   | 0.089  | 0.080     | **1.000**   |
+| **CENTRALIDAD EIGENVECTOR** | 0.89   | 0.78        | 0.74   | 0.94   | 0.38   | 0.43   | 0.31   | 0.05    | 0.51   | 0.39      |             |
 
 **Sistema de Puntuación:** ★★★★★ = 5 pts | ★★★★ = 4 pts | ★★★ = 3 pts | ★★ = 2 pts | ★ = 1 pt | ☆ = 0 pts
 
-### Ranking Final de Beneficiarios: Análisis Completo 18 Variables (Corregido y Justificado)
+### Ranking Final de Beneficiarios: Análisis Completo 18 Variables (10 Actores Principales)
 
 #### TIER 1 - BENEFICIARIOS MÁXIMOS (75+ puntos)
-- **#1 ISRAEL** (81 pts, 19.5%): Nodo central absoluto, máximo beneficiario en 12/18 variables estratégicas
+- **#1 ISRAEL** (81 pts, 17.1%): Nodo central absoluto, máximo beneficiario en 12/18 variables estratégicas
   - *Justificación Cuantificada*: Dominio total en gas (27.38 BCM), cyber (1,400+ Unit 8200), militar ($14.8B exports), recursos hídricos, Hasbara global, control regional
-- **#2 EE.UU.** (79 pts, 19.0%): Patrocinador imperial hegemónico, retorno masivo $300B+ inversión histórica
+- **#2 EE.UU.** (79 pts, 16.7%): Patrocinador imperial hegemónico, retorno masivo $300B+ inversión histórica
   - *Justificación Cuantificada*: Beneficiario máximo en 11/18 variables, integración Unit 8200→Big Tech, $22.76B adicionales Oct 2023-presente
 
-#### TIER 2 - BENEFICIARIOS PRINCIPALES (45-74 puntos)
-- **#3 EUROPA** (59 pts, 14.2%): Socio dependiente, transformación completa arsenal con tecnología israelí
-  - *Justificación*: 54% exportaciones defensa israelíes, dependencia crítica €576M SILAM España, Rheinmetall +88.3%
-- **#4 GOLFO** (44 pts, 10.6%): Aliado regional privilegiado, normalización Abraham masiva
-  - *Justificación*: $1.8B compras armamento, beneficiario contención Irán, rutas comerciales protegidas
-- **#5 CHILE** (42 pts, 10.1%): Hub sudamericano israelí, mayor diáspora proporcional América Latina
+#### TIER 2 - BENEFICIARIOS PRINCIPALES (55-74 puntos)
+- **#3 EUROPA** (61 pts, 12.9%): Socio continental dependiente, Rheinmetall +88.3%, Leonardo +498%
+  - *Justificación*: 54% exportaciones defensa israelíes post-Brexit, €576M SILAM España, dependencia tecnológica crítica
+- **#4 CHILE** (42 pts, 8.9%): Hub sudamericano israelí, mayor diáspora proporcional América Latina
   - *Justificación*: Primera diáspora regional proporcional, contratos defensa+policiales documentados, cooperación académica
+- **#5 REINO UNIDO** (56 pts, 11.8%): Potencia post-Brexit, Five Eyes, cooperación inteligencia masiva
+  - *Justificación*: GCHQ-Unit 8200 colaboración, BAE Systems +200% stock, City London financiamiento Israel
 
-#### TIER 3 - BENEFICIARIOS SECUNDARIOS (30-44 puntos)
-- **#6 ARGENTINA** (38 pts, 9.2%): Segunda potencia sudamericana israelí, diáspora masiva histórica
+#### TIER 3 - BENEFICIARIOS SECUNDARIOS (35-54 puntos)
+- **#6 GOLFO** (44 pts, 9.3%): Aliado regional privilegiado, normalización Abraham masiva
+  - *Justificación*: $1.8B compras armamento, beneficiario contención Irán, rutas comerciales protegidas
+- **#7 ARGENTINA** (38 pts, 8.0%): Segunda potencia sudamericana israelí, diáspora masiva histórica
   - *Justificación*: Segunda diáspora regional absoluta, historia militar cooperación Malvinas, programas académicos
-- **#7 RUSIA** (34 pts, 8.2%): Rival que beneficia competencia armamentística y precios energéticos
+
+#### TIER 4 - BENEFICIARIOS MENORES/RIVALES (30-35 puntos)
+- **#8 RUSIA** (34 pts, 7.2%): Rival que beneficia competencia armamentística y precios energéticos
   - *Justificación*: Competidor pero beneficia precios altos gas, venta armas competitiva, sin acceso tecnología israelí
-- **#8 CHINA** (33 pts, 8.0%): Contrapeso limitado, beneficiario indirecto rutas comerciales
+- **#9 CHINA** (33 pts, 7.0%): Contrapeso limitado, beneficiario indirecto rutas comerciales
   - *Justificación*: Mayor usuario rutas comerciales protegidas por Israel, cooperación académica menor, competencia tech
 
-#### TIER 4 - VÍCTIMAS/OBJETIVOS (<20 puntos)
-- **#9 IRÁN** (6 pts, 1.4%): Víctima sistemática absoluta, objetivo de toda la arquitectura
+#### TIER 5 - VÍCTIMAS/OBJETIVOS (<20 puntos)
+- **#10 IRÁN** (6 pts, 1.3%): Víctima sistemática absoluta, objetivo de toda la arquitectura
   - *Justificación Cuantificada*: 200+ strikes documentados, programa nuclear saboteado, demonización mediática global, cero beneficios en 17/18 variables
 
 **Validación Metodológica de la Matriz:**
