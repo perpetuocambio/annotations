@@ -2144,21 +2144,17 @@ Este apéndice presenta una bibliografía comprehensiva que sustenta el análisi
 #### D.16. Fuentes Contemporáneas y Análisis Actualizados (2024-2025)
 
 **Gas Natural y Recursos Energéticos:**
-
 [^183]: TBN Israel (2024). Israel Records Record Royalties from Natural Gas and Minerals. <https://www.tbnisrael.com/news/israel-records-record-royalties-from-natural-gas-a>  
 [^184]: Enerdata (2024). Israel's gas exports to Egypt and Jordan increased by over 13% in 2024. <https://www.enerdata.net/publications/daily-energy-news/israels-gas-exports-egypt-and-jordan-increased-over-13-2024.html>  
 
 **Penetración Tecnológica e Inteligencia:**
-
 [^185]: DropSite News (2024). Hundreds of Former Israeli Spies Are Working in Big Tech, Database Shows. <https://www.dropsitenews.com/p/israel-technology-palo-alto-networks-microsoft-unit-8200>  
 
 **Exportaciones Defensa e Industria Militar:**
-
 [^186]: Times of Israel (2024). Israeli arms sales break record for 4th year in row, reaching $14.8 billion. <https://www.timesofisrael.com/israeli-arms-sales-break-record-for-4th-year-in-row-reaching-14-8-billion-in-2024/>  
 [^187]: Breaking Defense (2025). Israeli defense exports hit record $14.7 billion, despite regional conflicts. <https://breakingdefense.com/2025/06/israeli-defense-exports-hit-record-14-7-billion-despite-regional-conflicts/>  
 
 **Industria Cultural y Diplomacia Pública:**
-
 [^188]: Times of Israel (2024). Facing criticism, Netflix insists it does invest in original Israeli content. <https://www.timesofisrael.com/facing-criticism-netflix-insists-it-does-invest-in-original-israeli-content/>  
 [^189]: Jewish Insider (2024). Israel's foreign minister is looking for a way to spend $150 million on hasbara. <https://jewishinsider.com/2024/12/israels-foreign-minister-is-looking-for-a-way-to-spend-150-million-on-hasbara/>  
 [^190]: Variety (2013). Israel's Engine of TV Exports - Israeli Export Institute data shows global TV and cinema sales hit $269 million in 2016. <https://variety.com/2013/tv/features/israel-tv-homeland-in-treatment-1200350025/>  
