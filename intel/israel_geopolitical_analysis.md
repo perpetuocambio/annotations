@@ -145,7 +145,7 @@ flowchart TD
     A --> C[Contratos España<br/>€576M SILAM]
     A --> D[Contratos Globales<br/>Backlog $22.6B]
 
-    B --> E[Experiencia Combate<br/>"Battle-Tested"]
+    B --> E[Experiencia Combate<br/>Battle-Tested]
     C --> F[Dependencia Europea<br/>Tecnología Crítica]
     D --> G[Expansión Global<br/>Post-Genocidio]
 
