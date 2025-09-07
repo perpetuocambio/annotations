@@ -119,21 +119,22 @@ xychart-beta
     title "Exportaciones Defensa Israelíes: La Guerra Como Catalizador (2019-2024)"
     x-axis [2019, 2020, 2021, 2022, 2023, 2024]
     y-axis "Miles de Millones USD" 0 --> 16
-    line [7.3, 8.4, 11.3, 12.5, 13.07, 14.795]
+    line [7.3, 8.4, 11.3, 12.5, 13.0, 14.8]
 ```
 
 **Crecimiento Exponencial Documentado:**
 
-- **2019:** $7.3 mil millones
-- **2023:** $13.07 mil millones
-- **2024:** $14.795 mil millones (**récord histórico**)
-- **Crecimiento 2019-2024:** +102.6% en cinco años
+- **2022:** $12.5 mil millones
+- **2023:** $13.0 mil millones[^1]
+- **2024:** $14.8 mil millones (**récord histórico**)[^2]
+- **Crecimiento 2022-2024:** +18.4% en dos años de conflicto intensificado.
 
 **Empresas Israelíes: Beneficiarios Directos del Genocidio**
 
 **Elbit Systems (NASDAQ: ESLT) - Líder del Sector:**
 
-- **Ingresos 2024:** $6.8 mil millones (+13% vs 2023)
+- **Ingresos 2023:** $5.975 mil millones.
+- **Ingresos 2024:** $6.828 mil millones (+14% vs 2023)[^3].
 - **Backlog órdenes:** $22.6 mil millones (+33% crecimiento)
 - **Beneficio neto:** +25% incremento anual
 - **Rendimiento bursátil:** +15% (conservador comparado con competidores)
@@ -238,91 +239,88 @@ Los ejercicios conjuntos permiten a Estados Unidos "aprender de la experiencia d
 
 ## 3. La Economía del Genocidio: Beneficiarios Corporativos Occidentales (Octubre 2023 - Septiembre 2025)
 
-### 3.1 Contratistas Estadounidenses: Rendimientos Bursátiles Excepcionales
+### 3.1 Contratistas Estadounidenses: Rendimientos Bursátiles Divergentes
 
-El inicio del genocidio de Gaza el 7 de octubre de 2023 desencadenó una **reacción inmediata y sostenida** en los mercados financieros, con las acciones de contratistas militares experimentando alzas históricas correlacionadas directamente con la intensidad y duración del conflicto.
+El inicio del genocidio de Gaza el 7 de octubre de 2023 desencadenó una **reacción inmediata** en los mercados financieros, con las acciones de los principales contratistas militares mostrando un alza inicial significativa. Sin embargo, el rendimiento a largo plazo (12 meses) ha sido divergente, cuestionando la narrativa de un beneficio universal y sostenido para todo el sector.
 
-**Rendimiento Bursátil Durante el Genocidio (Oct 2023 - Sep 2024):**
-
-```mermaid
-xychart-beta
-    title "Rendimiento Acciones Defensa EE.UU. Durante Genocidio Gaza"
-    x-axis [Oct23, Ene24, Abr24, Jul24, Sep24]
-    y-axis "Rendimiento Porcentual" 0 --> 20
-    line [0, 4.2, 8.8, 14.1, 18.1]
-    line [0, 3.9, 7.6, 13.2, 17.8]
-    line [0, 3.1, 6.4, 11.7, 15.9]
-    line [0, 2.8, 5.9, 9.8, 13.4]
-```
-
-**Leyenda Rendimientos:**
-
-🔴 **RTX (Raytheon):** +18.1% - Sistemas Iron Dome, misiles Patriot  
-🟠 **Lockheed Martin:** +17.8% - F-35, sistemas HIMARS  
-🟡 **General Dynamics:** +15.9% - Munición 155mm, sistemas terrestres  
-🟢 **Northrop Grumman:** +13.4% - Drones, sistemas C4ISR
-
-**Contratos Pentagon 2020-2024 (Las "Big 5"):**
-
-| Empresa              | Rendimiento Genocidio | Contratos Pentagon    | Productos en Gaza               |
-| -------------------- | --------------------- | --------------------- | ------------------------------- |
-| **Lockheed Martin**  | +17.8%                | **$313 mil millones** | F-35, HIMARS, misiles           |
-| **RTX (Raytheon)**   | +18.1%                | **$145 mil millones** | Iron Dome, Patriot, AIM-9X      |
-| **General Dynamics** | +15.9%                | **$116 mil millones** | Munición 155mm, blindados       |
-| **Boeing**           | +11.2%                | **$115 mil millones** | F-15, componentes aeronáuticos  |
-| **Northrop Grumman** | +13.4%                | **$81 mil millones**  | Drones Global Hawk, sistemas C4 |
-
-**Total Contratos Pentagon (5 empresas): $771 mil millones (2020-2024)**
-
-**Observación crítica:** Los contratistas con productos más directamente utilizados en Gaza (RTX, Lockheed) muestran los mayores rendimientos, evidenciando la **correlación directa entre genocidio y beneficios corporativos**.
-
-### 3.2 Escalada de Ayuda Militar: El Financiamiento del Genocidio
-
-La ayuda militar estadounidense a Israel experimentó una escalada sin precedentes desde octubre 2023, transformando los $3.8 mil millones anuales tradicionales en un flujo de más de $45 mil millones en menos de dos años.
-
-**Escalada de Ayuda Militar EE.UU. Durante Genocidio:**
+**Rendimiento Bursátil 12 Meses (Sep 2023 - Sep 2024):**[^7]
 
 ```mermaid
 graph TD
-    A[Genocidio Gaza Oct 7 2023] --> B[Ayuda Militar Tradicional<br/>3.8B USD anuales]
-    A --> C[Ayuda Emergencia 2024<br/>14.3B USD]
-    A --> D[Operaciones Regionales<br/>4.86B USD anti-Houthíes]
+    subgraph Rendimiento a 12 Meses
+        direction LR
+        RTX[RTX Corp<br>+32%]
+        GD[General Dynamics<br>+11%]
+        NOC[Northrop Grumman<br>+10%]
+        LMT(Lockheed Martin<br>-16%)
+    end
 
-    C --> E[Abril 2024<br/>Paquete 95B USD]
-    C --> F[Agosto 2024<br/>3.5B USD armas]
-    C --> G[Sept 2024<br/>20B USD F-15]
+    style RTX fill:#32cd32,stroke:#fff,stroke-width:2px,color:#000
+    style GD fill:#32cd32,stroke:#fff,stroke-width:2px,color:#000
+    style NOC fill:#32cd32,stroke:#fff,stroke-width:2px,color:#000
+    style LMT fill:#ff4444,stroke:#fff,stroke-width:2px,color:#fff
+```
 
-    A --> H[Nuevas Aprobaciones 2025]
-    H --> I[Enero 2025<br/>8B USD]
-    H --> J[Febrero 2025<br/>3B USD Trump]
-    H --> K[Trump Express<br/>4B USD expedited]
+**Análisis de Rendimiento:**
 
-    B --> L[TOTAL 2023-2025<br/>45+ mil millones USD]
-    C --> L
-    D --> L
-    I --> L
-    J --> L
-    K --> L
+- **Ganadores Claros:** **RTX Corporation** (+32%), **General Dynamics** (+11%) y **Northrop Grumman** (+10%) han mostrado un sólido rendimiento positivo en los 12 meses posteriores al inicio del conflicto.
+- **Caso Atípico:** **Lockheed Martin (LMT)**, a pesar de un alza inicial del 8.9% el 9 de octubre de 2023, ha tenido un rendimiento negativo en el período de 12 meses, con una **caída del -16%**[^7]. Esto contradice la idea de un beneficio garantizado y sostenido.
 
-    L --> M[Record Histórico<br/>Ayuda Militar]
+**Contratos Pentagon 2020-2024 (Las "Big 5"):**
+
+| Empresa              | Rendimiento 12 Meses                     | Contratos Pentagon    | Productos en Gaza               |
+| -------------------- | ---------------------------------------- | --------------------- | ------------------------------- |
+| **Lockheed Martin**  | <span style="color:red;">-16.0%</span>   | **$313 mil millones** | F-35, HIMARS, misiles           |
+| **RTX (Raytheon)**   | <span style="color:green;">+32.2%</span> | **$145 mil millones** | Iron Dome, Patriot, AIM-9X      |
+| **General Dynamics** | <span style="color:green;">+11.2%</span> | **$116 mil millones** | Munición 155mm, blindados       |
+| **Boeing**           | +11.2% (No verificado)                   | **$115 mil millones** | F-15, componentes aeronáuticos  |
+| **Northrop Grumman** | <span style="color:green;">+10.6%</span> | **$81 mil millones**  | Drones Global Hawk, sistemas C4 |
+
+**Total Contratos Pentagon (5 empresas): $771 mil millones (2020-2024)**
+
+**Observación crítica:** Si bien el conflicto parece correlacionarse con beneficios para ciertos contratistas como RTX, el caso de Lockheed Martin demuestra que la relación no es automática. El rendimiento negativo de LMT, el mayor contratista del Pentágono, introduce una complejidad significativa en el análisis, sugiriendo que otros factores de mercado o corporativos también influyen en la valoración de estas empresas.
+
+### 3.2 Escalada de Ayuda Militar: El Financiamiento del Genocidio
+
+La ayuda militar estadounidense a Israel experimentó una escalada sin precedentes desde octubre de 2023. Si bien la base histórica ha sido de $3.8 mil millones anuales, el apoyo aprobado desde el inicio del conflicto ha superado los $17.9 mil millones en ayuda militar directa, y más de $22 mil millones si se incluyen los costos de operaciones estadounidenses en la región.
+
+**Escalada de Ayuda Militar EE.UU. Durante Genocidio (Oct 2023 - Sep 2025):**
+
+```mermaid
+graph TD
+    A["Genocidio Gaza Oct 7 2023"] --> B["Ayuda Militar Tradicional<br>3.8B USD anuales"]
+    A --> C("Paquete Ayuda Suplementaria<br>Abril 2024")
+
+    subgraph "Desglose Paquete Suplementario"
+        direction LR
+        C --> D("FMF<br>3.5B USD")
+        C --> E("Defensa Antimisiles<br>5.2B USD")
+        C --> F("Otros<br>9.2B USD")
+    end
+
+    B --> G(("Total Aprobado<br>17.9B USD Directos"))
+    C --> G
+
+    G --> H{"Gasto Regional Total<br>22.76B USD"}
+    H --> I["Incluye Operaciones EE.UU.<br>en Mar Rojo 4.86B USD"]
+
+    G --> J(("Flujo Continuo<br>+100 transferencias<br>no notificadas"))
 
     style A fill:#ff4444,stroke:#fff,stroke-width:2px,color:#fff
-    style L fill:#ff6666,stroke:#fff,stroke-width:3px,color:#fff
-    style M fill:#ff8888,stroke:#fff,stroke-width:2px,color:#fff
+    style G fill:#ff6666,stroke:#fff,stroke-width:3px,color:#fff
+    style H fill:#ff8888,stroke:#fff,stroke-width:2px,color:#fff
 ```
 
 **Cronología Detallada del Financiamiento:**
 
-- **Ayuda tradicional:** $3.8B anuales (base histórica)
-- **Ayuda emergencia 2024:** $14.3B aprobados
-- **Operaciones anti-Houthíes:** $4.86B (protección rutas comerciales)
-- **Nuevas aprobaciones 2025:** $15B+ ya comprometidos
+- **Base de ayuda anual:** $3.8 mil millones (Acuerdo a 10 años).
+- **Ayuda suplementaria (Abril 2024):** Parte de un paquete de seguridad de $95 mil millones, asignó fondos específicos para Israel, incluyendo $5.2 mil millones para defensa antimisiles y $3.5 mil millones en Financiamiento Militar Extranjero (FMF)[^4].
+- **Transferencias adicionales:** La administración Biden ha realizado más de 100 transferencias de armas por debajo del umbral monetario que requiere notificación al Congreso, manteniendo un flujo constante de material militar[^6].
 
-**Resumen Ayuda Militar EE.UU. (Oct 2023 - Feb 2025):**
+**Resumen Ayuda Militar EE.UU. (Oct 2023 - Sep 2024):**
 
-- **Total confirmado:** $17.9 mil millones desde Oct 7, 2023 (Brown University)
-- **Gasto regional total:** $22.76 mil millones (incluye operaciones anti-Houthíes)
-- **Proyección 2025:** +$15B adicionales ya aprobados/expeditados
+- **Total confirmado en ayuda directa:** Al menos **$17.9 mil millones** desde el 7 de octubre de 2023[^4] [^5].
+- **Gasto regional total:** La cifra asciende a **$22.76 mil millones** cuando se incluyen los costos de las operaciones militares de EE.UU. en la región para proteger las rutas marítimas y contrarrestar a grupos como los Hutíes[^5].
 
 ### 3.3 Declaraciones Explícitas: La Guerra Como Oportunidad de Negocio
 
@@ -346,57 +344,52 @@ Los ejecutivos de las principales corporaciones militares han realizado declarac
 
 ## 4. Mercados Europeos: La Guerra Como Catalizador Financiero
 
-Las empresas europeas de defensa experimentaron ganancias extraordinarias durante el período de escalada bélica, con rendimientos que superaron significativamente tanto a sus competidores estadounidenses como a los índices generales de mercado.
+Las empresas europeas de defensa han experimentado ganancias bursátiles extraordinarias, impulsadas tanto por el conflicto en Gaza como por el continuo rearmamento derivado de la guerra en Ucrania. Los rendimientos desde principios de 2023 hasta la fecha actual han sido masivos.
 
-**Rendimiento Acciones Defensa Europea (2023-2024):**
+**Rendimiento Acumulado Acciones Defensa Europea (Ene 2023 - Sep 2025):**[^8]
 
 ```mermaid
 xychart-beta
-    title "Rendimiento Acciones Defensa Europea Oct 2023 - Sept 2024"
-    x-axis [Oct23, Ene24, Abr24, Jul24, Sep24]
-    y-axis "Rendimiento Porcentual" 0 --> 90
-    line [0, 12, 28, 42, 83]
-    line [0, 8, 15, 22, 28]
-    line [0, 5, 9, 16, 12]
-    line [0, 15, 32, 55, 68]
+    title "Rendimiento Acumulado de Acciones de Defensa Europeas (2023-2025)"
+    x-axis [Ene23, Sep23, Sep24, Sep25]
+    y-axis "Rendimiento Porcentual (%)" 0 --> 850
+    line [0, 200, 500, 821]
+    line [0, 150, 350, 498]
+    line [0, 40, 80, 107]
+    line [0, 30, 60, 82]
 ```
 
-**Leyenda Externa Mercados Europeos:**
-
-🔵 **Leonardo (Italia):** +83.4% (2023) - Líder absoluto crecimiento  
-🟢 **BAE Systems (Reino Unido):** +28.6% (2023), +22% (Q1 2025)  
-🟨 **Thales (Francia):** +12.3% (2023), +38% (Q1 2025)  
-🟥 **Rheinmetall (Alemania):** +68% ganancia excepcional
+**Leyenda de Rendimiento (Ene 2023 - Sep 2025):**
+🟥 **Rheinmetall (Alemania):** +821%
+🔵 **Leonardo (Italia):** +498%
+🟢 **BAE Systems (Reino Unido):** +107%
+🟨 **Thales (Francia):** +82%
 
 ### 4.1 Líderes Sectoriales Europeos
 
-**Leonardo S.p.A. (Italia) - Campeón Absoluto:**
+**Rheinmetall AG (Alemania) - Crecimiento Exponencial:**
 
-- **Rendimiento 2023:** +83.4% (líder europeo indiscutible)
-- **Ingresos 2024:** €15.3 mil millones
-- **Especialización:** Helicópteros, sistemas navales, electrónicos de defensa
-- **Beneficio Gaza:** Sistemas utilizados por fuerzas israelíes y aliados
-
-**BAE Systems (Reino Unido) - Potencia Post-Brexit:**
-
-- **Rendimiento 2023:** +28.6%
-- **Q1 2025:** +22% adicional
-- **Ingresos 2024:** £26.3 mil millones ($32.8B USD)
-- **Beneficio Gaza:** Componentes F-35, sistemas navales, municiones
-
-**Rheinmetall AG (Alemania) - Rearme Europeo:**
-
-- **Rendimiento excepcional:** +68%
+- **Rendimiento excepcional:** +821% (Ene 2023 - Sep 2025), convirtiéndose en el líder absoluto de crecimiento en el sector.[^8]
 - **Ingresos 2024:** €7.4 mil millones
-- **Beneficio clave:** Munición 155mm, sistemas terrestres
-- **Simbolismo:** Alemania como líder del rearme europeo post-Rusia
+- **Beneficio clave:** Munición 155mm, sistemas terrestres, beneficiario directo del rearmamento alemán y europeo.
 
-**Thales (Francia) - Recuperación Acelerada:**
+**Leonardo S.p.A. (Italia) - Rendimiento Extraordinario:**
 
-- **Rendimiento 2023:** +12.3%
-- **Q1 2025:** Explosión +38%
+- **Rendimiento 2023-2025:** +498%[^8]
+- **Ingresos 2024:** €15.3 mil millones
+- **Especialización:** Helicópteros, sistemas navales, electrónicos de defensa.
+
+**BAE Systems (Reino Unido) - Potencia Estable:**
+
+- **Rendimiento 2023-2025:** +107%[^8]
+- **Ingresos 2024:** £26.3 mil millones ($32.8B USD)
+- **Beneficio Gaza:** Componentes para los F-35, sistemas navales y municiones.
+
+**Thales (Francia) - Sólido Crecimiento:**
+
+- **Rendimiento 2023-2025:** +82%[^8]
 - **Ingresos 2024:** €18.4 mil millones
-- **Especialización:** Sistemas C4ISR, radares, misiles
+- **Especialización:** Sistemas C4ISR, radares, misiles.
 
 ### 4.2 Contexto de Mercado Europeo
 
@@ -433,6 +426,8 @@ Para mapear sistemáticamente los beneficiarios del genocidio, desarrollamos una
 Estados Unidos, Europa, España, Israel, Estados del Golfo, China, Rusia, Irán, Chile, Argentina
 
 ### 5.2 Matriz Global de Beneficiarios: Resultados Cuantitativos
+
+**Nota sobre la Metodología de la Matriz:** La siguiente matriz es una herramienta de análisis cualitativo diseñada para resumir y visualizar los hallazgos presentados en este informe. La puntuación (de ☆ a ★★★★★) no se deriva de un modelo matemático, sino que representa una evaluación analítica del grado de beneficio que cada actor obtiene de cada variable estratégica, basándose en la evidencia documentada en las secciones anteriores. El objetivo es ofrecer una visión comparativa y estructurada de las interdependencias geopolíticas.
 
 | Variable/Actor              | EE.UU. | Europa | España | Israel | Golfo  | China  | Rusia  | Irán    | Chile  | Argentina | PUNTUACIÓN  |
 | --------------------------- | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------- | ------ | --------- | ----------- |
@@ -506,15 +501,6 @@ flowchart LR
     style G fill:#ff4444,stroke:#fff,stroke-width:2px,color:#fff
 ```
 
-**Técnicas Analíticas Estructurales Aplicadas:**
-
-1. **Análisis de Centralidad:** Israel score 0.94 (máximo teórico 1.0)
-2. **Coeficiente de Agrupamiento:** Bloque Occidental 0.847 vs Eje Alternativo 0.523
-3. **Distancia Geodésica:** Promedio 2.1 saltos entre cualquier par de actores
-4. **Coeficiente Asortatividad:** +0.67 (alta homofilia ideológica intra-bloques)
-5. **Modularidad Newman:** 0.73 (estructura modular clara en 4 bloques)
-6. **Índice de Densidad:** 0.84 red muy densa de interdependencias
-
 ## 6. Casos de Estudio por Bloques Geopolíticos
 
 ### 6.1 Bloque Occidental: Dependencia Estructural
@@ -575,7 +561,7 @@ flowchart TD
     E --> G[Iron Dome Evaluación<br/>€4.3B Considerado]
     E --> H[Cooperación I+D<br/>€120M Defense Tech]
 
-    D --> I[Rheinmetall +68%<br/>€7.4B Ingresos]
+    D --> I[Rheinmetall +821%<br/>€7.4B Ingresos]
     F --> I
     G --> I
     H --> I
@@ -592,8 +578,47 @@ flowchart TD
 - **Gastos defensa:** €90.6 mil millones (2024) vs €50.1B (2021) - **+80% incremento**
 - **Participación PIB:** 2.12% (2024) vs 1.53% (2022)
 - **Contratos israelíes:** €4.67 mil millones considerados (Iron Dome + sistemas complementarios)
-- **Rheinmetall performance:** +68% acciones, €7.4B ingresos
+- **Rheinmetall performance:** +821% acciones (Ene 2023 - Sep 2025), €7.4B ingresos[^8]
 - **Sistemas Smart Shooter:** €350M contrato C-UAS
+
+#### El Caso Italiano: Pragmatismo Económico y Ambivalencia Política
+
+Italia, al igual que España, presenta un caso de estudio sobre la ambivalencia política frente a los arraigados intereses económicos de su complejo militar-industrial. A pesar de una postura oficial que prohíbe la venta de armas a países en guerra, la evidencia apunta a una continuidad en la cooperación y el suministro, impulsada por gigantes de la defensa como Leonardo S.p.A.
+
+**La Contradicción Italiana (2023-2024):**
+
+```mermaid
+flowchart TD
+    A[Postura Oficial del Gobierno Italiano] --> B["Suspensión de <b>nuevas</b> licencias<br>de exportación de armas desde Oct 2023[^15]"]
+    A --> C["Ley prohíbe ventas a<br>países en guerra"]
+
+    D[Realidad Industrial y Contractual] --> E["Exportaciones de armas y municiones<br>por €2.1M en Q4 2023[^16]"]
+    D --> F["Leonardo S.p.A. (+498% rendimiento bursátil)<br>proveedor clave de la Marina y Fuerza Aérea Israelí[^17]"]
+    D --> G["Contratos existentes<br>siguen siendo honrados"]
+
+    B --> H{Doble Discurso}
+    C --> H
+    E --> H
+    F --> H
+    G --> H
+
+    H --> I[Dependencia y Beneficio<br>del Complejo Militar-Industrial]
+
+    style A fill:#32cd32,stroke:#fff,stroke-width:2px,color:#000
+    style D fill:#ff4444,stroke:#fff,stroke-width:2px,color:#fff
+    style H fill:#ffa500,stroke:#fff,stroke-width:2px,color:#000
+    style I fill:#ff6666,stroke:#fff,stroke-width:2px,color:#fff
+```
+
+**Datos Clave de la Relación Italia-Israel:**
+
+- **Postura Oficial vs. Realidad:** El gobierno italiano afirmó haber bloqueado nuevas ventas de armas, pero datos de ISTAT muestran que las exportaciones continuaron bajo licencias previas[^16].
+- **Rol de Leonardo S.p.A.:** La empresa es un proveedor fundamental para Israel, suministrando cañones navales OTO Melara 76/62 para las corbetas Sa'ar, 30 aviones de entrenamiento avanzado M-346, y componentes para helicópteros de ataque Apache[^17].
+- **Cooperación Tecnológica:** La filial estadounidense de Leonardo, DRS, se fusionó con el fabricante de radares israelí RADA, cuya tecnología se utiliza en la Franja de Gaza[^17].
+- **Contratos en Pausa:** La presión política ha llevado a la suspensión de algunos acuerdos nuevos, como la compra de drones submarinos israelíes por valor de 254 millones de euros en abril de 2024.
+
+**Análisis Crítico:**
+El caso italiano demuestra que, aunque un gobierno puede adoptar una postura pública restrictiva, los contratos preexistentes y la profunda integración de su industria de defensa (especialmente a través de un campeón nacional como Leonardo) aseguran la continuidad del flujo de material y beneficios económicos, haciendo que la disociación total del conflicto sea inviable en la práctica.
 
 #### El Caso Israelí: Beneficiario Máximo del Propio Genocidio
 
@@ -604,8 +629,8 @@ Israel representa el único caso donde un país se beneficia económicamente mas
 ```mermaid
 graph LR
     A[Genocidio Gaza<br/>Oct 2023] --> B[Marketing Battle-Tested<br/>Armas Probadas]
-    B --> C[Exportaciones Récord<br/>$14.795B 2024]
-    C --> D[Ingresos Corporativos<br/>Elbit +25% beneficios]
+    B --> C[Exportaciones Récord<br/>$14.8B 2024]
+    C --> D[Ingresos Corporativos<br/>Elbit +14% beneficios]
     D --> E[Capacidad Militar<br/>Expandida]
     E --> F[Escalada Capacidades<br/>Genocidas]
     F --> A
@@ -621,8 +646,8 @@ graph LR
 
 **Métricas de Autobeneficio Israelí (2024):**
 
-- **Exportaciones defensa récord:** $14.795B (+13.2% vs 2023)
-- **Elbit Systems:** $6.8B ingresos (+13%), $22.6B backlog (+33%)
+- **Exportaciones defensa récord:** $14.8B en 2024 (+13.8% vs $13B en 2023)[^1][^2]
+- **Elbit Systems:** $6.828B ingresos en 2024 (+14% vs 2023)[^3]
 - **Rafael:** $5.9B ventas, récord trimestral Q4
 - **Royalties energéticos:** $1.3B anuales gasíferos
 - **Empleo sector defensa:** +19,000 empleos Elbit, +1,800 Rafael
@@ -636,9 +661,9 @@ Estados Unidos utiliza a Israel como proxy estratégico para mantener hegemonía
 
 ```mermaid
 flowchart TD
-    A[EE.UU. Hegemonía<br/>Global] --> B[$45B+ Ayuda Militar<br/>Oct 2023-2025]
+    A[EE.UU. Hegemonía<br/>Global] --> B[$17.9B+ Ayuda Militar<br/>Oct 2023-2025]
     B --> C[Contratos Pentagon<br/>$771B Big 5]
-    C --> D[RTX +18.1%<br/>Lockheed +17.8%]
+    C --> D[Rendimiento Divergente<br>RTX +32%, LMT -16%]
 
     A --> E[Proyección Poder<br/>Sin Tropas]
     E --> F[Israel Proxy<br/>Operaciones Regionales]
@@ -655,9 +680,9 @@ flowchart TD
 
 **Métricas Estadounidenses (2023-2024):**
 
-- **Ayuda militar total:** $45+ mil millones comprometidos
+- **Ayuda militar total:** $17.9 mil millones en ayuda directa aprobada desde Oct 2023[^4]
 - **Contratos Pentagon Top 5:** $771B (2020-2024)
-- **Rendimientos bursátiles:** RTX +18.1%, Lockheed +17.8%, General Dynamics +15.9%
+- **Rendimientos bursátiles (12 meses):** Divergentes. RTX +32.2%, pero Lockheed Martin -16.0%[^7]
 - **Control comercial:** 12% rutas marítimas mundiales protegidas
 - **Cooperación SIGINT:** NSA-Unit 8200, tecnologías clasificadas compartidas
 
@@ -672,7 +697,7 @@ flowchart LR
     A[Francia: Autonomía<br/>Estratégica Europea] --> B[Retórica Oficial<br/>Independencia EE.UU.]
     A --> C[Realidad Práctica<br/>Dependencia Israel]
 
-    B --> D[Thales: +12.3% 2023<br/>+38% Q1 2025]
+    B --> D[Thales: +82%<br>2023-2025]
     C --> E[Cooperación Defensa<br/>€890M anuales]
     C --> F[Tecnología Dual<br/>Sistemas Críticos]
 
@@ -688,7 +713,7 @@ flowchart LR
 
 **Métricas Francesas-Israel (2024):**
 
-- **Thales rendimiento:** +12.3% (2023), explosión +38% (Q1 2025)
+- **Thales rendimiento:** +82% (Ene 2023 - Sep 2025)[^8]
 - **Ingresos Thales:** €18.4B sistemas C4ISR, radares, misiles
 - **Cooperación bilateral:** €890M contratos defensa anuales
 - **Participación tech dual:** Sistemas críticos comunicaciones, navegación
@@ -865,7 +890,7 @@ Desde la perspectiva de las potencias occidentales, esta convergencia explica po
 
 ### 8.3 Perspectivas Críticas: Cuestionamientos al Paradigma Dominante
 
-Sin embargo, el análisis académico de 2024 presenta **visiones divergentes** sobre esta lógica:
+Sin embargo, se presenta **visiones divergentes** sobre esta lógica:
 
 **Argumentos sobre Israel como Pasivo Estratégico:**
 
@@ -900,6 +925,89 @@ Nuestro análisis sugiere que la **economía del genocidio** ha creado incentivo
 - **Los costos del genocidio** son externalizados hacia poblaciones palestinas y opinión pública global
 
 La **sostenibilidad** de este modelo dependerá de si los beneficios geoestratégicos cuantificados pueden contrarrestar los costos reputacionales y morales crecientes, una ecuación que permanece en equilibrio inestable.
+
+## 9. Análisis de Riesgos y Factores Desestabilizadores
+
+A pesar de los beneficios económicos y estratégicos descritos, el apoyo al conflicto y la participación en la cadena de suministro militar a Israel conllevan crecientes riesgos financieros, legales y reputacionales para las corporaciones y los estados involucrados.
+
+### 9.1 Riesgos Legales y de Cumplimiento
+
+La creciente evidencia de violaciones del derecho internacional en Gaza ha activado mecanismos legales que apuntan directamente a la complicidad corporativa.
+
+- **Acciones Legales Directas:** En el Reino Unido, grupos de derechos humanos han advertido formalmente a directores de empresas como BAE Systems y Lockheed Martin sobre su posible responsabilidad penal por ser cómplices de crímenes de guerra, basándose en la Ley de la Corte Penal Internacional de 2001 del Reino Unido[^9]. En Alemania también se han presentado demandas similares.
+- **Casos en la CIJ y la CPI:** El caso de Sudáfrica contra Israel en la Corte Internacional de Justicia (CIJ), que encontró un riesgo plausible de genocidio, y las órdenes de arresto de la Corte Penal Internacional (CPI) contra líderes israelíes, han creado un entorno legal en el que proporcionar armas puede ser interpretado como asistencia en la comisión de actos ilícitos internacionales.
+
+### 9.2 Riesgos Financieros y de Desinversión
+
+El riesgo reputacional se está traduciendo en consecuencias financieras materiales a través de campañas de desinversión coordinadas.
+
+- **Campañas de Desinversión (BDS):** El movimiento de Boicot, Desinversión y Sanciones (BDS) ha señalado a Elbit Systems como un objetivo principal. Estas campañas han logrado éxitos notables:
+  - **Barclays** vendió su participación en Elbit Systems en 2024 tras protestas sostenidas[^10].
+  - **HSBC** y el fondo soberano de **Australia** también han desinvertido en Elbit, citando políticas contra la inversión en fabricantes de municiones de racimo[^11].
+  - La empresa japonesa **Itochu** finalizó su cooperación con Elbit citando el fallo de la CIJ[^12].
+- **Presión de Inversores y Universidades:** Fondos de pensiones como el de Noruega y universidades en EE.UU. y el Reino Unido están aprobando resoluciones para desinvertir en RTX, BAE Systems y otras empresas de defensa, aumentando la presión sobre la base de capital de estas compañías.
+
+### 9.3 Riesgos Regulatorios y de Mercado
+
+Varios estados han comenzado a tomar medidas para restringir el flujo de armas a Israel, creando incertidumbre en el mercado y afectando contratos existentes y futuros.
+
+- **Suspensión de Venta de Armas:** Países como **Canadá, Países Bajos, Bélgica, España** e **Italia** han suspendido o detenido la venta de armas o componentes a Israel, ya sea por decisiones parlamentarias o por sentencias judiciales que citan el riesgo de violaciones de derechos humanos[^13].
+- **Prohibiciones de Tránsito:** El gobierno español ha prohibido a los barcos que transportan armas a Israel hacer escala en sus puertos.
+- **Coaliciones Internacionales:** Un grupo de 12 países, autodenominado "Grupo de La Haya", se ha comprometido a detener todas las transferencias de armas a Israel, lo que indica un creciente bloque de naciones que se oponen activamente al suministro militar[^14].
+
+Estos factores combinados crean un entorno operativo cada vez más volátil para las empresas del sector, donde los beneficios a corto plazo derivados del conflicto podrían verse erosionados por litigios costosos, pérdida de capital por desinversión y una base de clientes soberanos cada vez más reducida.
+
+## 10. Gráfico de Flujo Financiero Global: Síntesis Económica
+
+El siguiente diagrama de flujo sintetiza las principales magnitudes económicas discutidas en este análisis, mostrando el movimiento de capital desde las fuentes de gasto público y privado hacia los beneficiarios corporativos y estatales, incluyendo los beneficios actuales y potenciales.
+
+```mermaid
+graph TD
+    subgraph "Fuentes de Capital y Gasto"
+        A["<b>Gasto Público Occidental</b><br>Presupuestos de Defensa y Ayuda Militar"]
+        B["<b>Inversión Privada</b><br>Mercados Financieros"]
+    end
+
+    subgraph "Mecanismos y Flujos de Dinero"
+        C["Ayuda Militar Directa a Israel<br>(EE.UU.)<br><b>~$18B</b>"]
+        D["Aumento Gasto Defensa Europeo<br>(Ej. Alemania: +€40.5B)<br><b>Mercado Total: $133B</b>"]
+        E["Contratos Directos del Pentágono<br><b>$771B (2020-24)</b>"]
+        F["Inversión en Acciones de Defensa"]
+    end
+
+    subgraph "Beneficiarios y Valor Económico Generado"
+        G["<b>Contratistas de Defensa (Ingresos Anuales)</b><br>Elbit: $6.8B<br>Rafael: $5.9B<br>Leonardo: €15.3B<br>Rheinmetall: €7.4B"]
+        H["<b>Rendimiento Bursátil</b><br>Rheinmetall: +821%<br>Leonardo: +498%<br>RTX: +32%"]
+        I["<b>Exportaciones de Defensa Israelíes</b><br><b>$14.8B (2024)</b>"]
+        J["<b>Explotación de Recursos</b><br>Gas Israelí (Royalties): $1.3B/año<br>Gas Potencial Gaza: $20B+"]
+        K["<b>Mercado de Reconstrucción Futuro</b><br>Coste estimado Gaza: <b>$53B</b>"]
+    end
+
+    A --> C --> G
+    A --> D --> G
+    A --> E --> G
+    B --> F --> H
+
+    C --> I
+    I --> G
+
+    J --> L["Beneficio Estatal<br>y Corporativo"]
+    K --> M["Contratos Futuros<br>Constructoras, etc."]
+
+    style A fill:#ff4444,stroke:#fff,stroke-width:2px,color:#fff
+    style B fill:#ff4444,stroke:#fff,stroke-width:2px,color:#fff
+    style C fill:#4682b4,stroke:#fff,stroke-width:2px,color:#fff
+    style D fill:#4682b4,stroke:#fff,stroke-width:2px,color:#fff
+    style E fill:#4682b4,stroke:#fff,stroke-width:2px,color:#fff
+    style F fill:#4682b4,stroke:#fff,stroke-width:2px,color:#fff
+    style G fill:#32cd32,stroke:#fff,stroke-width:2px,color:#000
+    style H fill:#32cd32,stroke:#fff,stroke-width:2px,color:#000
+    style I fill:#32cd32,stroke:#fff,stroke-width:2px,color:#000
+    style J fill:#ffd700,stroke:#fff,stroke-width:2px,color:#000
+    style K fill:#ffd700,stroke:#fff,stroke-width:2px,color:#000
+    style L fill:#d3d3d3,stroke:#333,stroke-width:1px,color:#000
+    style M fill:#d3d3d3,stroke:#333,stroke-width:1px,color:#000
+```
 
 ## Referencias Académicas Completas
 
@@ -997,4 +1105,22 @@ La **sostenibilidad** de este modelo dependerá de si los beneficios geoestraté
 
 ---
 
-**Nota Metodológica Final:** Este documento ha sido actualizado en septiembre de 2025 aplicando técnicas analíticas estructurales avanzadas de inteligencia con datos verificados de 89+ fuentes primarias. El análisis cuantitativo-cualitativo integrado incorpora desarrollos clave desde octubre de 2023, mapeando sistemáticamente las redes de beneficiarios y patrones de interdependencia geoeconómica mediante matrices 11x10 variables/actores. La aplicación de metodologías de centralidad de red, análisis de componentes principales (PCA) y análisis de hipótesis competitivas proporciona robustez científica al ranking final con validez constructo 0.91, confiabilidad 0.87 y consistencia interna (α Cronbach) 0.93. Las perspectivas críticas han sido integradas para equilibrio analítico, manteniendo rigor académico en el análisis de una de las dinámicas geopolíticas más complejas y controvertidas de la actualidad.
+## Referencias Adicionales (Septiembre 2025)
+
+- [^1]: Times of Israel (2023). "Israel's defense exports hit record $13 billion in 2023".
+- [^2]: Defense News (2024). "Israel’s defense exports hit new record of nearly $14.8 billion in 2024".
+- [^3]: Elbit Systems (2024). "Elbit Systems Reports Fourth Quarter and Full Year 2024 Results".
+- [^4]: U.S. Department of State, Congressional Research Service reports (2024).
+- [^5]: Brown University, Costs of War Project (2024). "United States Spending on Israel's Military Operations, Oct 7 2023-Sept 30 2024".
+- [^6]: Middle East Eye (2024). "US has made over 100 arms transfers to Israel since Gaza war began".
+- [^7]: Financial market data from sources like TradingView and aaii.com, aggregated for the period Sep 2023 - Sep 2024.
+- [^8]: Financial market data from sources like TradingView and Investing.com, aggregated for the period Jan 2023 - Sep 2025.
+- [^9]: The Guardian (2024). "UK arms makers warned they could face criminal liability for supplying Israel".
+- [^10]: Palestine Action, Financial Times reports (2024).
+- [^11]: Reports from BDS movement and financial disclosures.
+- [^12]: Reuters, Nikkei Asia (2024). "Japan's Itochu to end partnership with Israel's Elbit Systems".
+- [^13]: Reports from governments of Canada, Netherlands, Belgium, Spain, and Italy (2024).
+- [^14]: The Hague Group official communications (2025).
+- [^15]: Declaraciones del Ministro de Asuntos Exteriores y del Ministro de Defensa de Italia (2024).
+- [^16]: Datos de ISTAT (Instituto Nacional de Estadística de Italia) reportados por la prensa (2024).
+- [^17]: Informes de AFSC y WhoProfits sobre los contratos de Leonardo S.p.A. con el ejército israelí.
