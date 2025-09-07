@@ -2002,16 +2002,26 @@ Este apéndice presenta una bibliografía comprehensiva que sustenta el análisi
 
 #### D.1. Fuentes Históricas (1920-1948)
 
-[^1]: Jewish land purchase in Palestine - Wikipedia. <https://en.wikipedia.org/wiki/Jewish_land_purchase_in_Palestine>  
-[^2]: 1922 census of Palestine - Wikipedia. <https://en.wikipedia.org/wiki/1922_census_of_Palestine>  
-[^3]: Demographic history of Palestine - Wikipedia. <https://en.wikipedia.org/wiki/Demographic_history_of_Palestine_(region)>  
-[^4]: Sursock Purchases - Wikipedia. <https://en.wikipedia.org/wiki/Sursock_Purchases>  
-[^5]: List of Irgun attacks - Wikipedia. <https://en.wikipedia.org/wiki/List_of_Irgun_attacks>  
-[^6]: Haavara Agreement - Wikipedia. <https://en.wikipedia.org/wiki/Haavara_Agreement>  
-[^7]: Einstein, Albert et al. Letter to New York Times (1948). <https://archive.org/details/AlbertEinsteinLetterToTheNewYorkTimes.December41948>  
-[^8]: Zelotes and Sicarii - Jewish Encyclopedia. <https://www.jewishencyclopedia.com/articles/15185-zealots>  
-[^9]: Jewish Virtual Library. Jewish & Non-Jewish Population of Israel/Palestine 1517-Present. <https://www.jewishvirtuallibrary.org/jewish-and-non-jewish-population-of-israel-palestine-1517-present>  
-[^10]: UN ISPAL. Acquisition of land in Palestine - demographic and land ownership statistics. <https://www.un.org/unispal/document/auto-insert-208638/>  
+[^1]: Jewish land purchase in Palestine - Wikipedia. <https://en.wikipedia.org/wiki/Jewish_land_purchase_in_Palestine>
+
+[^2]: 1922 census of Palestine - Wikipedia. <https://en.wikipedia.org/wiki/1922_census_of_Palestine>
+
+[^3]: Demographic history of Palestine - Wikipedia. <https://en.wikipedia.org/wiki/Demographic_history_of_Palestine_(region)>
+
+[^4]: Sursock Purchases - Wikipedia. <https://en.wikipedia.org/wiki/Sursock_Purchases>
+
+[^5]: List of Irgun attacks - Wikipedia. <https://en.wikipedia.org/wiki/List_of_Irgun_attacks>
+
+[^6]: Haavara Agreement - Wikipedia. <https://en.wikipedia.org/wiki/Haavara_Agreement>
+
+[^7]: Einstein, Albert et al. Letter to New York Times (1948). <https://archive.org/details/AlbertEinsteinLetterToTheNewYorkTimes.December41948>
+
+[^8]: Zelotes and Sicarii - Jewish Encyclopedia. <https://www.jewishencyclopedia.com/articles/15185-zealots>
+
+[^9]: Jewish Virtual Library. Jewish & Non-Jewish Population of Israel/Palestine 1517-Present. <https://www.jewishvirtuallibrary.org/jewish-and-non-jewish-population-of-israel-palestine-1517-present>
+
+[^10]: UN ISPAL. Acquisition of land in Palestine - demographic and land ownership statistics. <https://www.un.org/unispal/document/auto-insert-208638/>
+
 
 #### D.2. Expulsión Palestina y Nakba (1947-1949)
 
