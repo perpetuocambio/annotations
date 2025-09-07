@@ -1009,7 +1009,7 @@ graph TD
     style M fill:#d3d3d3,stroke:#333,stroke-width:1px,color:#000
 ```
 
-## Referencias Académicas Completas
+## Referencias Académicas
 
 **Artículos en Revistas Académicas:**
 
@@ -1105,22 +1105,38 @@ graph TD
 
 ---
 
-## Referencias Adicionales (Septiembre 2025)
+## Referencias Adicionales
 
-- [^1]: Times of Israel (2023). "Israel's defense exports hit record $13 billion in 2023".
-- [^2]: Defense News (2024). "Israel’s defense exports hit new record of nearly $14.8 billion in 2024".
-- [^3]: Elbit Systems (2024). "Elbit Systems Reports Fourth Quarter and Full Year 2024 Results".
-- [^4]: U.S. Department of State, Congressional Research Service reports (2024).
-- [^5]: Brown University, Costs of War Project (2024). "United States Spending on Israel's Military Operations, Oct 7 2023-Sept 30 2024".
-- [^6]: Middle East Eye (2024). "US has made over 100 arms transfers to Israel since Gaza war began".
-- [^7]: Financial market data from sources like TradingView and aaii.com, aggregated for the period Sep 2023 - Sep 2024.
-- [^8]: Financial market data from sources like TradingView and Investing.com, aggregated for the period Jan 2023 - Sep 2025.
-- [^9]: The Guardian (2024). "UK arms makers warned they could face criminal liability for supplying Israel".
-- [^10]: Palestine Action, Financial Times reports (2024).
-- [^11]: Reports from BDS movement and financial disclosures.
-- [^12]: Reuters, Nikkei Asia (2024). "Japan's Itochu to end partnership with Israel's Elbit Systems".
-- [^13]: Reports from governments of Canada, Netherlands, Belgium, Spain, and Italy (2024).
-- [^14]: The Hague Group official communications (2025).
-- [^15]: Declaraciones del Ministro de Asuntos Exteriores y del Ministro de Defensa de Italia (2024).
-- [^16]: Datos de ISTAT (Instituto Nacional de Estadística de Italia) reportados por la prensa (2024).
-- [^17]: Informes de AFSC y WhoProfits sobre los contratos de Leonardo S.p.A. con el ejército israelí.
+[^1]: Times of Israel (2023). "Israel's defense exports hit record $13 billion in 2023".
+
+[^2]: Defense News (2024). "Israel’s defense exports hit new record of nearly $14.8 billion in 2024".
+
+[^3]: Elbit Systems (2024). "Elbit Systems Reports Fourth Quarter and Full Year 2024 Results".
+
+[^4]: U.S. Department of State, Congressional Research Service reports (2024).
+
+[^5]: Brown University, Costs of War Project (2024). "United States Spending on Israel's Military Operations, Oct 7 2023-Sept 30 2024".
+
+[^6]: Middle East Eye (2024). "US has made over 100 arms transfers to Israel since Gaza war began".
+
+[^7]: Financial market data from sources like TradingView and aaii.com, aggregated for the period Sep 2023 - Sep 2024.
+
+[^8]: Financial market data from sources like TradingView and Investing.com, aggregated for the period Jan 2023 - Sep 2025.
+
+[^9]: The Guardian (2024). "UK arms makers warned they could face criminal liability for supplying Israel".
+
+[^10]: Palestine Action, Financial Times reports (2024).
+
+[^11]: Reports from BDS movement and financial disclosures.
+
+[^12]: Reuters, Nikkei Asia (2024). "Japan's Itochu to end partnership with Israel's Elbit Systems".
+
+[^13]: Reports from governments of Canada, Netherlands, Belgium, Spain, and Italy (2024).
+
+[^14]: The Hague Group official communications (2025).
+
+[^15]: Declaraciones del Ministro de Asuntos Exteriores y del Ministro de Defensa de Italia (2024).
+
+[^16]: Datos de ISTAT (Instituto Nacional de Estadística de Italia) reportados por la prensa (2024).
+
+[^17]: Informes de AFSC y WhoProfits sobre los contratos de Leonardo S.p.A. con el ejército israelí.
