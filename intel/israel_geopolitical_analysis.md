@@ -256,6 +256,7 @@ xychart-beta
 ```
 
 **Leyenda Rendimientos:**
+
 🔴 **RTX (Raytheon):** +18.1% - Sistemas Iron Dome, misiles Patriot  
 🟠 **Lockheed Martin:** +17.8% - F-35, sistemas HIMARS  
 🟡 **General Dynamics:** +15.9% - Munición 155mm, sistemas terrestres  
@@ -361,6 +362,7 @@ xychart-beta
 ```
 
 **Leyenda Externa Mercados Europeos:**
+
 🔵 **Leonardo (Italia):** +83.4% (2023) - Líder absoluto crecimiento  
 🟢 **BAE Systems (Reino Unido):** +28.6% (2023), +22% (Q1 2025)  
 🟨 **Thales (Francia):** +12.3% (2023), +38% (Q1 2025)  
