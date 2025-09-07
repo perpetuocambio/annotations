@@ -2036,8 +2036,8 @@ Este apéndice presenta una bibliografía comprehensiva que sustenta el análisi
 
 #### D.5. Industria Militar y Exportaciones de Defensa
 
-[^9]: Defense industry of Israel - Wikipedia. https://en.wikipedia.org/wiki/Defense_industry_of_Israel  
-[^19]: SIPRI Arms Transfers Database. https://www.sipri.org/databases/armstransfers  
+[^9a]: Defense industry of Israel - Wikipedia. https://en.wikipedia.org/wiki/Defense_industry_of_Israel  
+[^19a]: SIPRI Arms Transfers Database. https://www.sipri.org/databases/armstransfers  
 [^26]: SIPRI Arms Transfers Database. https://www.sipri.org/databases/armstransfers  
 [^23]: Elbit Systems Annual Reports. https://elbitsystems.com/investor-relations/  
 [^90]: Elbit Systems Financial Reports (2024). https://elbitsystems.com/investor-relations/  
@@ -2061,14 +2061,14 @@ Este apéndice presenta una bibliografía comprehensiva que sustenta el análisi
 
 #### D.7. Desinversión y Movimiento BDS
 
-[^10]: Reuters (2024). Barclays sells Elbit stake. https://www.reuters.com/business/finance/barclays-sells-its-remaining-stake-elbit-systems-2024-02-12/  
-[^11]: The Guardian (2023). HSBC, Australia fund divest from Elbit. https://www.theguardian.com/world/2023/dec/14/hsbc-australias-future-fund-divest-from-israeli-arms-manufacturer-elbit-systems  
-[^12]: Reuters (2024). Itochu ends Elbit cooperation. https://www.reuters.com/business/aerospace-defense/japans-itochu-end-cooperation-with-israels-elbit-systems-2024-02-05/  
+[^10a]: Reuters (2024). Barclays sells Elbit stake. https://www.reuters.com/business/finance/barclays-sells-its-remaining-stake-elbit-systems-2024-02-12/  
+[^11a]: The Guardian (2023). HSBC, Australia fund divest from Elbit. https://www.theguardian.com/world/2023/dec/14/hsbc-australias-future-fund-divest-from-israeli-arms-manufacturer-elbit-systems  
+[^12a]: Reuters (2024). Itochu ends Elbit cooperation. https://www.reuters.com/business/aerospace-defense/japans-itochu-end-cooperation-with-israels-elbit-systems-2024-02-05/  
 
 #### D.8. Embargos de Armas y Restricciones
 
-[^13]: Al Jazeera (2024). Countries suspending arms to Israel. https://www.aljazeera.com/news/2024/2/28/which-countries-have-suspended-arms-sales-to-israel  
-[^14]: Progressive International (2024). The Hague Group arms halt. https://www.progressive.international/wire/2024-05-15-the-hague-group-of-12-countries-commit-to-halt-all-arms-transfers-to-israel/en  
+[^13a]: Al Jazeera (2024). Countries suspending arms to Israel. https://www.aljazeera.com/news/2024/2/28/which-countries-have-suspended-arms-sales-to-israel  
+[^14a]: Progressive International (2024). The Hague Group arms halt. https://www.progressive.international/wire/2024-05-15-the-hague-group-of-12-countries-commit-to-halt-all-arms-transfers-to-israel/en  
 [^145]: Reuters (2024). Italy arms exports suspension. https://www.reuters.com/world/middle-east/italy-confirms-it-stopped-new-arms-exports-israel-oct-7-2024-01-20/  
 [^146]: Al Jazeera (2024). Italy arms exports continued despite ban. https://www.aljazeera.com/news/2024/3/15/italy-sent-arms-to-israel-despite-block-on-exports-data-shows  
 [^196]: Leonardo SpA (2025). FY2024 results: Revenue €17.8B (+16.2%), EBITA €1.525B (+15.8%), orders €20.9B (+16.8%). https://www.leonardo.com/en/press-release-detail/-/detail/11-03-2025-leonardo-board-of-directors-approves-fy2024-results-and-2025-guidance  
@@ -2076,9 +2076,9 @@ Este apéndice presenta una bibliografía comprehensiva que sustenta el análisi
 
 #### D.9. Relaciones Bilaterales Históricas
 
-[^15]: France Israel relations - Wikipedia. https://en.wikipedia.org/wiki/France%E2%80%93Israel_relations  
-[^17]: Germany Israel relations - Wikipedia. https://en.wikipedia.org/wiki/Germany%E2%80%93Israel_relations  
-[^18]: Israel South Africa relations - Wikipedia. https://en.wikipedia.org/wiki/Israel%E2%80%93South_Africa_relations  
+[^15a]: France Israel relations - Wikipedia. https://en.wikipedia.org/wiki/France%E2%80%93Israel_relations  
+[^17a]: Germany Israel relations - Wikipedia. https://en.wikipedia.org/wiki/Germany%E2%80%93Israel_relations  
+[^18a]: Israel South Africa relations - Wikipedia. https://en.wikipedia.org/wiki/Israel%E2%80%93South_Africa_relations  
 
 #### D.9.1. Programa Nuclear Francia-Israel (1957)
 
@@ -2121,8 +2121,8 @@ Este apéndice presenta una bibliografía comprehensiva que sustenta el análisi
 
 #### D.12. Instituciones Financieras Internacionales
 
-[^20]: World Bank - Israel. https://www.worldbank.org/en/country/israel  
-[^21]: IMF Working Paper. Economics of Suez 1956 Crisis. https://www.imf.org/en/Publications/WP/Issues/2016/12/30/The-Economics-of-Suez-43859  
+[^20a]: World Bank - Israel. https://www.worldbank.org/en/country/israel  
+[^21a]: IMF Working Paper. Economics of Suez 1956 Crisis. https://www.imf.org/en/Publications/WP/Issues/2016/12/30/The-Economics-of-Suez-43859  
 
 #### D.13. Marketing Militar y "Laboratorio de Guerra"
 
