@@ -1929,6 +1929,7 @@ flowchart LR
 Esta matriz NO es especulativa - cada puntuación se basa en datos cuantificados específicos documentados en las 18 variables analizadas:
 
 **Variables 1-6 (Fundacionales):**
+
 1. **Gas Natural**: 27.38 BCM producción Israel 2024, $650M+ royalties, 48% exportado
 2. **Rutas Comerciales**: 12% comercio mundial vía Canal Suez controlado por Israel
 3. **Complejo Militar**: $14.8B exportaciones récord Israel, Elbit $6.8B ingresos (+14%)
