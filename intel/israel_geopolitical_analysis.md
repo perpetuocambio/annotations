@@ -570,7 +570,7 @@ pie title Financiamiento Internacional Israel 1950s-1970s (Distribución Estimad
 ## Sección 4: Análisis Detallado de las 18 Variables Estratégicas
 
 ### 4.1. Variable 1: Recursos Energéticos del Mediterráneo Oriental
-Israel ha transitado de dependencia energética a exportador estratégico, reforzando la hegemonía occidental y proporcionando a Europa una alternativa crítica al gas ruso. La producción total en 2024 alcanzó un récord de 27.38 BCM (+8.3% vs 2023), con exportaciones de 13.11 BCM (+13% vs 2023) y royalties estatales récord de NIS 2.31 mil millones ($650M+) solo de gas natural[^83].
+Israel ha transitado de dependencia energética a exportador estratégico, reforzando la hegemonía occidental y proporcionando a Europa una alternativa crítica al gas ruso. La producción total en 2024 alcanzó un récord de 27.38 BCM (+8.3% vs 2023), con exportaciones de 13.11 BCM (+13% vs 2023) y royalties estatales récord de NIS 2.31 mil millones ($650M+) solo de gas natural.
 
 ```mermaid
 flowchart TD
@@ -590,7 +590,7 @@ flowchart TD
     style H fill:#32cd32,stroke:#fff,stroke-width:2px,color:#000
 ```
 
-**Producción Récord 2024 Verificada[^92]:**
+**Producción Récord 2024 Verificada:**
 - **Total producido**: 27.38 BCM (+8.3% vs 2023, que fueron 25.28 BCM)
 - **Exportaciones**: 13.11 BCM a Egipto y Jordania (48% de producción total)
 - **Desglose por campo**: Leviathan 12 BCM (90% export), Tamar 10.09 BCM, Karish 8 BCM capacidad
@@ -620,7 +620,7 @@ flowchart LR
 ```
 
 ### 4.3. Variable 3: Complejo Militar-Industrial y Laboratorio de Guerra
-Israel funciona como un laboratorio de guerra donde la violencia sistemática sirve para desarrollar, probar y comercializar armamento, generando beneficios masivos para corporaciones como Elbit, Rafael, y sus socios occidentales. Los datos oficiales del Ministerio de Defensa israelí confirman el récord exportador de 2024[^94].
+Israel funciona como un laboratorio de guerra donde la violencia sistemática sirve para desarrollar, probar y comercializar armamento, generando beneficios masivos para corporaciones como Elbit, Rafael, y sus socios occidentales. Los datos oficiales del Ministerio de Defensa israelí confirman el récord exportador de 2024.
 
 ```mermaid
 xychart-beta
@@ -648,7 +648,7 @@ flowchart TD
     style H fill:#32cd32,stroke:#fff,stroke-width:2px,color:#000
 ```
 
-**Datos Verificados Exportaciones Defensa 2024 (Resistente a Contraargumentación)[^95]:**
+**Datos Verificados Exportaciones Defensa 2024 (Resistente a Contraargumentación):**
 - **Récord absoluto**: $14.8B (+13% vs 2023) - cuarto año consecutivo de récord
 - **Distribución regional verificada**: Alemania/Italia/Reino Unido 54% (+19pp vs 2023), Asia-Pacífico 23%, países Abraham 12%
 - **Categorías producto**: Defensa aérea 48% (+12pp), sistemas espaciales 8% (+6pp)
@@ -679,7 +679,7 @@ flowchart TD
     style H fill:#32cd32,stroke:#fff,stroke-width:2px,color:#000
 ```
 
-**Pipeline Documentado Unit 8200 → Big Tech (Base Datos "Eagle Mission")[^93]:**
+**Pipeline Documentado Unit 8200 → Big Tech (Base Datos "Eagle Mission"):**
 - **1,400+ veteranos Unit 8200** trabajan en empresas tecnológicas estadounidenses (cifra verificada)
 - **Microsoft**: ~250 veteranos Unit 8200 (mayor empleador)
 - **Google**: +99 veteranos identificados (cifra subestimada)
@@ -1030,7 +1030,7 @@ flowchart TD
     style Q fill:#32cd32,stroke:#fff,stroke-width:2px,color:#000
 ```
 
-**Industria TV Israelí: Exportación Masiva Documentada (2024)[^98]:**
+**Industria TV Israelí: Exportación Masiva Documentada (2024):**
 
 - **Revenue total**: $269M anuales exportaciones TV/cinema (quadruplicado última década)
 - **Netflix Hebrew content**: 12+ shows hebrew-language para subscribers globales  
@@ -1057,7 +1057,7 @@ flowchart LR
     style H fill:#32cd32,stroke:#fff,stroke-width:2px,color:#000
 ```
 
-**Netflix Israeli Content Portfolio Expansión 2024-2025[^96]:**
+**Netflix Israeli Content Portfolio Expansión 2024-2025:**
 
 1. **Fauda**: Netflix "original", global distribution, "9.3x average series demand Israel"
 2. **Bros (Through Fire Water)**: Primera serie Hebrew-language original Netflix
@@ -1065,7 +1065,7 @@ flowchart LR
 4. **A Body That Works**: Top 10 Netflix mundial 2024
 5. **Bad Boy, Girl from Oslo, Trust No One**: Nuevas producciones 2025 confirmadas
 
-**Presupuesto Hasbara 2025: Escalada Masiva[^97][^99]:**
+**Presupuesto Hasbara 2025: Escalada Masiva:**
 
 - **Incremento histórico**: $150M Foreign Ministry (20x presupuesto típico años anteriores)
 - **Baseline comparison**: $8.6M total 2002, Government Press Office $100K histórico
@@ -2002,163 +2002,162 @@ Este apéndice presenta una bibliografía comprehensiva que sustenta el análisi
 
 #### D.1. Fuentes Históricas (1920-1948)
 
-[^1]: Jewish land purchase in Palestine - Wikipedia. https://en.wikipedia.org/wiki/Jewish_land_purchase_in_Palestine  
-[^2]: 1922 census of Palestine - Wikipedia. https://en.wikipedia.org/wiki/1922_census_of_Palestine  
-[^3]: Demographic history of Palestine - Wikipedia. https://en.wikipedia.org/wiki/Demographic_history_of_Palestine_(region)  
-[^4]: Sursock Purchases - Wikipedia. https://en.wikipedia.org/wiki/Sursock_Purchases  
-[^5]: List of Irgun attacks - Wikipedia. https://en.wikipedia.org/wiki/List_of_Irgun_attacks  
-[^6]: Haavara Agreement - Wikipedia. https://en.wikipedia.org/wiki/Haavara_Agreement  
-[^7]: Einstein, Albert et al. Letter to New York Times (1948). https://archive.org/details/AlbertEinsteinLetterToTheNewYorkTimes.December41948  
-[^8]: Zelotes and Sicarii - Jewish Encyclopedia. https://www.jewishencyclopedia.com/articles/15185-zealots  
-[^9]: Jewish Virtual Library. Jewish & Non-Jewish Population of Israel/Palestine 1517-Present. https://www.jewishvirtuallibrary.org/jewish-and-non-jewish-population-of-israel-palestine-1517-present  
-[^10]: UN ISPAL. Acquisition of land in Palestine - demographic and land ownership statistics. https://www.un.org/unispal/document/auto-insert-208638/  
+- **Compra de tierras judías en Palestina** - Wikipedia. https://en.wikipedia.org/wiki/Jewish_land_purchase_in_Palestine  
+- **Censo de 1922 en Palestina** - Wikipedia. https://en.wikipedia.org/wiki/1922_census_of_Palestine  
+- **Historia demográfica de Palestina** - Wikipedia. https://en.wikipedia.org/wiki/Demographic_history_of_Palestine_(region)  
+- **Compras Sursock** - Wikipedia. https://en.wikipedia.org/wiki/Sursock_Purchases  
+- **Lista de ataques del Irgun** - Wikipedia. https://en.wikipedia.org/wiki/List_of_Irgun_attacks  
+- **Acuerdo Haavara** - Wikipedia. https://en.wikipedia.org/wiki/Haavara_Agreement  
+- **Einstein, Albert et al. Carta al New York Times (1948)** - Archive.org. https://archive.org/details/AlbertEinsteinLetterToTheNewYorkTimes.December41948  
+- **Zelotes y Sicarios** - Jewish Encyclopedia. https://www.jewishencyclopedia.com/articles/15185-zealots  
+- **Población judía y no judía de Israel/Palestina 1517-Presente** - Jewish Virtual Library. https://www.jewishvirtuallibrary.org/jewish-and-non-jewish-population-of-israel-palestine-1517-present  
+- **Adquisición de tierras en Palestina - estadísticas demográficas y de propiedad de la tierra** - UN ISPAL. https://www.un.org/unispal/document/auto-insert-208638/  
 
 #### D.2. Expulsión Palestina y Nakba (1947-1949)
 
-[^11]: 1948 Palestinian expulsion and flight - Wikipedia. https://en.wikipedia.org/wiki/1948_Palestinian_exodus  
-[^12]: Pedahzur, Ami & Perliger, Arie. Jewish Terrorism Research. https://www.academia.edu/academic-papers-jewish-terrorism  
+- **Expulsión y huida palestina de 1948** - Wikipedia. https://en.wikipedia.org/wiki/1948_Palestinian_exodus  
+- **Pedahzur, Ami & Perliger, Arie. Investigación sobre Terrorismo Judío** - Academia.edu. https://www.academia.edu/academic-papers-jewish-terrorism  
 
 #### D.3. Ayuda Militar y Financiamiento Estadounidense
 
-[^13]: U.S. Aid to Israel - Council on Foreign Relations. https://www.cfr.org/backgrounder/us-aid-israel  
-[^14]: Congressional Research Service. U.S. Foreign Aid to Israel: Overview and Developments since October 7, 2023. https://crsreports.congress.gov/product/details?prodcode=RL33222  
-[^15]: Council on Foreign Relations. U.S. Aid to Israel in Four Charts. https://www.cfr.org/article/us-aid-israel-four-charts  
-[^16]: Brown University, Watson Institute. US spending on Israel's military operations Oct 7 2023-Sept 30 2024. $22.76 billion documented. https://watson.brown.edu/costsofwar/  
-[^17]: US Department of Defense News. https://www.defense.gov/News/News-Stories/Article/Article/3609017/us-israel-officials-convene-defense-policy-advisory-group/  
-[^18]: US Department of State (2024). https://www.state.gov/u-s-security-cooperation-with-israel/  
-[^19]: Associated Press (2024). Israel-Hamas war aid. https://apnews.com/article/israel-hamas-war-us-aid-congress-biden-c8636b8d13cb1a8a1b8b1c8b1c8b1c8b  
-[^20]: The Guardian (2024). US weapons to Israel Gaza. https://www.theguardian.com/us-news/2024/mar/06/us-weapons-israel-gaza  
+- **Ayuda de Estados Unidos a Israel** - Council on Foreign Relations. https://www.cfr.org/backgrounder/us-aid-israel
+- **Ayuda Exterior de Estados Unidos a Israel: Panorama y Desarrollos desde el 7 de octubre de 2023** - Congressional Research Service. https://crsreports.congress.gov/product/details?prodcode=RL33222
+- **Ayuda de Estados Unidos a Israel en Cuatro Gráficos** - Council on Foreign Relations. https://www.cfr.org/article/us-aid-israel-four-charts
+- **Gasto de Estados Unidos en operaciones militares de Israel (7 oct 2023 - 30 sept 2024): $22.76 mil millones documentados** - Brown University, Watson Institute. https://watson.brown.edu/costsofwar/
+- **Funcionarios de Estados Unidos e Israel convocan Grupo Asesor de Política de Defensa** - US Department of Defense News. https://www.defense.gov/News/News-Stories/Article/Article/3609017/us-israel-officials-convene-defense-policy-advisory-group/
+- **Cooperación de Seguridad de Estados Unidos con Israel** - US Department of State (2024). https://www.state.gov/u-s-security-cooperation-with-israel/
+- **Ayuda para la guerra Israel-Hamas** - Associated Press (2024). https://apnews.com/article/israel-hamas-war-us-aid-congress-biden-c8636b8d13cb1a8a1b8b1c8b1c8b1c8b
+- **Armas de Estados Unidos a Israel Gaza** - The Guardian (2024). https://www.theguardian.com/us-news/2024/mar/06/us-weapons-israel-gaza  
 
 #### D.4. Costos de Guerra y Análisis Económico
 
-[^21]: Watson Institute, Brown University. Costs of War Project (2024). United States Spending on Israel's Military Operations, Oct 7 2023-Sept 30 2024. https://watson.brown.edu/costsofwar/files/cow/imce/papers/2024/United%20States%20Spending%20on%20Israel's%20Military%20Operations,%20Oct%207%202023-Sept%2030%202024.pdf  
-[^22]: Brief Economic History Modern Israel - Economic History Association. https://eh.net/encyclopedia/the-economic-history-of-israel/  
+- **Gasto de Estados Unidos en Operaciones Militares de Israel (7 oct 2023 - 30 sept 2024)** - Watson Institute, Brown University Costs of War Project (2024). https://watson.brown.edu/costsofwar/files/cow/imce/papers/2024/United%20States%20Spending%20on%20Israel's%20Military%20Operations,%20Oct%207%202023-Sept%2030%202024.pdf
+- **Breve Historia Económica del Israel Moderno** - Economic History Association. https://eh.net/encyclopedia/the-economic-history-of-israel/  
 
 #### D.5. Industria Militar y Exportaciones de Defensa
 
-[^23]: Defense industry of Israel - Wikipedia. https://en.wikipedia.org/wiki/Defense_industry_of_Israel  
-[^24]: SIPRI Arms Transfers Database. https://www.sipri.org/databases/armstransfers  
-[^25]: SIPRI Arms Transfers Database. https://www.sipri.org/databases/armstransfers  
-[^26]: Elbit Systems Annual Reports. https://elbitsystems.com/investor-relations/  
-[^83]: Middle East Monitor. Israel uses Gaza as weapons laboratory. https://www.middleeastmonitor.com/20200618-israel-uses-gaza-as-laboratory-for-weapons-testing/  
-[^84]: Defense News. Iron Dome exports to Czech Republic. https://www.defensenews.com/global/mideast-africa/2021/08/23/israel-set-to-approve-iron-dome-sale-to-czech-republic/  
-[^85]: +972 Magazine. Israel-Gaza laboratory pattern. https://www.972mag.com/israel-gaza-laboratory/  
-[^71]: Haaretz. COVID-19 Israeli surveillance technology export. https://www.haaretz.com/israel-news/.premium-israeli-surveillance-tech-that-helped-fight-covid-19-is-being-exported-worldwide-1.9356123  
+- **Industria de Defensa de Israel** - Wikipedia. https://en.wikipedia.org/wiki/Defense_industry_of_Israel
+- **Base de Datos de Transferencias de Armas SIPRI** - SIPRI. https://www.sipri.org/databases/armstransfers
+- **Reportes Anuales de Elbit Systems** - Elbit Systems. https://elbitsystems.com/investor-relations/
+- **Israel usa Gaza como laboratorio de armas** - Middle East Monitor. https://www.middleeastmonitor.com/20200618-israel-uses-gaza-as-laboratory-for-weapons-testing/
+- **Exportaciones de Iron Dome a República Checa** - Defense News. https://www.defensenews.com/global/mideast-africa/2021/08/23/israel-set-to-approve-iron-dome-sale-to-czech-republic/
+- **Patrón de laboratorio Israel-Gaza** - +972 Magazine. https://www.972mag.com/israel-gaza-laboratory/
+- **Exportación mundial de tecnología de vigilancia israelí utilizada contra COVID-19** - Haaretz. https://www.haaretz.com/israel-news/.premium-israeli-surveillance-tech-that-helped-fight-covid-19-is-being-exported-worldwide-1.9356123  
 
 #### D.6. Rendimientos Bursátiles y Beneficios Corporativos
 
-[^86]: Times of Israel. Abraham Accords economic expansion Israel-UAE. https://www.timesofisrael.com/israel-uae-trade-hits-2-5-billion-in-2023-up-6-fold-since-abraham-accords/  
-[^87]: Al Jazeera (2024). Israel war Gaza weapons companies boost. https://www.aljazeera.com/news/2024/1/9/how-is-israels-war-on-gaza-boosting-weapons-companies  
-[^100]: The Intercept (2023). Israel-Gaza war defense stocks. https://theintercept.com/2023/10/09/israel-gaza-war-stocks-lockheed-northrop/  
-[^101]: Stock Analysis (2024). https://stockanalysis.com/  
-[^102]: The Intercept (2023). Defense contractors CEOs profits. https://theintercept.com/2023/10/26/israel-gaza-war-defense-contractors-ceo/  
-[^88]: UN Gaza casualties reports. https://www.un.org/unispal/gaza-strip/  
-[^103]: Sludge (2023). Lawmakers defense stocks Israel aid. https://readsludge.com/2023/10/18/lawmakers-with-defense-stocks-are-pushing-for-more-israel-aid/  
-[^38]: Rheinmetall AG Annual Report (2024). https://www.rheinmetall.com/en/investor-relations/reports-and-presentations  
-[^39]: AOAV. Stock prices of major defence companies surge after October 7th attacks. https://aoav.org.uk/2023/stock-prices-of-major-defence-companies-surge-in-wake-of-october-7th-attacks-in-israel/  
-[^40]: Jacobin. Military Contractors Frame Israeli War as Win for Investors. https://jacobin.com/2023/10/raytheon-general-dynamics-gaza-israel-war-military-industrial-complex  
-[^41]: Responsible Statecraft. Israel's wars mean 'massive' returns for US arms investors. https://responsiblestatecraft.org/october-7-hamas-attack/  
+- **Expansión económica de los Acuerdos de Abraham Israel-Emiratos Árabes Unidos** - Times of Israel. https://www.timesofisrael.com/israel-uae-trade-hits-2-5-billion-in-2023-up-6-fold-since-abraham-accords/
+- **Cómo la guerra de Israel en Gaza está impulsando a las compañías de armas** - Al Jazeera (2024). https://www.aljazeera.com/news/2024/1/9/how-is-israels-war-on-gaza-boosting-weapons-companies
+- **Acciones de defensa de la guerra Israel-Gaza** - The Intercept (2023). https://theintercept.com/2023/10/09/israel-gaza-war-stocks-lockheed-northrop/
+- **Análisis de Acciones** - Stock Analysis (2024). https://stockanalysis.com/
+- **Ganancias de CEOs de contratistas de defensa** - The Intercept (2023). https://theintercept.com/2023/10/26/israel-gaza-war-defense-contractors-ceo/
+- **Informes de bajas de Gaza de la ONU** - UN. https://www.un.org/unispal/gaza-strip/
+- **Legisladores con acciones de defensa presionando por más ayuda a Israel** - Sludge (2023). https://readsludge.com/2023/10/18/lawmakers-with-defense-stocks-are-pushing-for-more-israel-aid/
+- **Reporte Anual de Rheinmetall AG** - Rheinmetall AG (2024). https://www.rheinmetall.com/en/investor-relations/reports-and-presentations
+- **Los precios de las acciones de las principales compañías de defensa se disparan tras los ataques del 7 de octubre** - AOAV. https://aoav.org.uk/2023/stock-prices-of-major-defence-companies-surge-in-wake-of-october-7th-attacks-in-israel/
+- **Contratistas militares presentan la guerra israelí como victoria para inversores** - Jacobin. https://jacobin.com/2023/10/raytheon-general-dynamics-gaza-israel-war-military-industrial-complex
+- **Las guerras de Israel significan retornos 'masivos' para inversores de armas estadounidenses** - Responsible Statecraft. https://responsiblestatecraft.org/october-7-hamas-attack/  
 
 #### D.7. Desinversión y Movimiento BDS
 
-[^42]: Reuters (2024). Barclays sells Elbit stake. https://www.reuters.com/business/finance/barclays-sells-its-remaining-stake-elbit-systems-2024-02-12/  
-[^43]: The Guardian (2023). HSBC, Australia fund divest from Elbit. https://www.theguardian.com/world/2023/dec/14/hsbc-australias-future-fund-divest-from-israeli-arms-manufacturer-elbit-systems  
-[^44]: Reuters (2024). Itochu ends Elbit cooperation. https://www.reuters.com/business/aerospace-defense/japans-itochu-end-cooperation-with-israels-elbit-systems-2024-02-05/  
+- **Barclays vende participación en Elbit** - Reuters (2024). https://www.reuters.com/business/finance/barclays-sells-its-remaining-stake-elbit-systems-2024-02-12/
+- **HSBC y fondo australiano se desinvierten de Elbit** - The Guardian (2023). https://www.theguardian.com/world/2023/dec/14/hsbc-australias-future-fund-divest-from-israeli-arms-manufacturer-elbit-systems
+- **Itochu termina cooperación con Elbit** - Reuters (2024). https://www.reuters.com/business/aerospace-defense/japans-itochu-end-cooperation-with-israels-elbit-systems-2024-02-05/  
 
 #### D.8. Embargos de Armas y Restricciones
 
-[^45]: Al Jazeera (2024). Countries suspending arms to Israel. https://www.aljazeera.com/news/2024/2/28/which-countries-have-suspended-arms-sales-to-israel  
-[^46]: Progressive International (2024). The Hague Group arms halt. https://www.progressive.international/wire/2024-05-15-the-hague-group-of-12-countries-commit-to-halt-all-arms-transfers-to-israel/en  
-[^47]: Reuters (2024). Italy arms exports suspension. https://www.reuters.com/world/middle-east/italy-confirms-it-stopped-new-arms-exports-israel-oct-7-2024-01-20/  
-[^48]: Al Jazeera (2024). Italy arms exports continued despite ban. https://www.aljazeera.com/news/2024/3/15/italy-sent-arms-to-israel-despite-block-on-exports-data-shows  
-[^49]: Leonardo SpA (2025). FY2024 results: Revenue €17.8B (+16.2%), EBITA €1.525B (+15.8%), orders €20.9B (+16.8%). https://www.leonardo.com/en/press-release-detail/-/detail/11-03-2025-leonardo-board-of-directors-approves-fy2024-results-and-2025-guidance  
-[^50]: The New Arab (2024). Italy stepped up arms exports to Israel for Gaza war. €14.8M aircraft exports Q4 2023, Leonardo 76/62 naval guns on Sa'ar 6 warships used in Gaza operations. https://www.newarab.com/investigations/italy-stepped-arms-exports-israel-gaza-war  
+- **Países suspendiendo armas a Israel** - Al Jazeera (2024). https://www.aljazeera.com/news/2024/2/28/which-countries-have-suspended-arms-sales-to-israel
+- **Grupo de La Haya detiene armas** - Progressive International (2024). https://www.progressive.international/wire/2024-05-15-the-hague-group-of-12-countries-commit-to-halt-all-arms-transfers-to-israel/en
+- **Italia confirma suspensión de exportaciones de armas** - Reuters (2024). https://www.reuters.com/world/middle-east/italy-confirms-it-stopped-new-arms-exports-israel-oct-7-2024-01-20/
+- **Italia continuó exportaciones de armas a pesar de la prohibición** - Al Jazeera (2024). https://www.aljazeera.com/news/2024/3/15/italy-sent-arms-to-israel-despite-block-on-exports-data-shows
+- **Resultados FY2024 de Leonardo SpA: Ingresos €17.8B (+16.2%), EBITA €1.525B (+15.8%), órdenes €20.9B (+16.8%)** - Leonardo SpA (2025). https://www.leonardo.com/en/press-release-detail/-/detail/11-03-2025-leonardo-board-of-directors-approves-fy2024-results-and-2025-guidance
+- **Italia intensificó exportaciones de armas a Israel para guerra de Gaza: €14.8M exportaciones de aeronaves Q4 2023, cañones navales Leonardo 76/62 en buques Sa'ar 6 usados en operaciones de Gaza** - The New Arab (2024). https://www.newarab.com/investigations/italy-stepped-arms-exports-israel-gaza-war  
 
 #### D.9. Relaciones Bilaterales Históricas
 
-[^51]: France Israel relations - Wikipedia. https://en.wikipedia.org/wiki/France%E2%80%93Israel_relations  
-[^52]: Germany Israel relations - Wikipedia. https://en.wikipedia.org/wiki/Germany%E2%80%93Israel_relations  
-[^53]: Israel South Africa relations - Wikipedia. https://en.wikipedia.org/wiki/Israel%E2%80%93South_Africa_relations  
+- **Relaciones Francia-Israel** - Wikipedia. https://en.wikipedia.org/wiki/France%E2%80%93Israel_relations
+- **Relaciones Alemania-Israel** - Wikipedia. https://en.wikipedia.org/wiki/Germany%E2%80%93Israel_relations
+- **Relaciones Israel-Sudáfrica** - Wikipedia. https://en.wikipedia.org/wiki/Israel%E2%80%93South_Africa_relations  
 
 #### D.9.1. Programa Nuclear Francia-Israel (1957)
 
-[^54]: Wilson Center. The US Discovery of Israel's Secret Nuclear Project. https://www.wilsoncenter.org/publication/the-us-discovery-israels-secret-nuclear-project  
-[^55]: National Security Archive. 1960 Intelligence Report Said Israeli Nuclear Site Was for Weapons. https://nsarchive.gwu.edu/briefing-book/nuclear-vault/2024-12-17/1960-intelligence-report-said-israeli-nuclear-site-was  
-[^56]: Foreign Policy (2025). Israel's Nuclear Weapons: How Israelis Deceived American Presidents. https://foreignpolicy.com/2025/02/07/israel-nuclear-weapons-dimona-deception-cia-jfk-eisenhower-lbj-ben-gurion/  
-[^57]: Nuclear weapons and Israel - Wikipedia. https://en.wikipedia.org/wiki/Nuclear_weapons_and_Israel  
-[^58]: The Aviation Geek Club. How France helped Israel build Dimona nuclear plant. https://theaviationgeekclub.com/the-story-of-how-france-helped-israel-to-build-the-dimona-nuclear-power-plant-and-then-imposed-an-arms-embargo-on-tel-aviv/  
-[^59]: Thales Group (2025). 2024 full-year results: Record sales €20.577B (+11.7%), EBIT +13%, order intake €25.289B. https://www.thalesgroup.com/en/group/investors/press_release/thales-reports-its-2024-full-year-results  
-[^60]: Middle East Eye (2024). French arms sales to Israel: €30M military equipment delivered 2023, Thales TSC 4000 IFF transponders for Elbit Hermes 900 UAVs. https://www.middleeasteye.net/news/gaza-war-french-arms-sales-israel-marked-lack-transparency-and-control  
+- **El descubrimiento estadounidense del proyecto nuclear secreto de Israel** - Wilson Center. https://www.wilsoncenter.org/publication/the-us-discovery-israels-secret-nuclear-project
+- **Reporte de inteligencia de 1960 dijo que sitio nuclear israelí era para armas** - National Security Archive. https://nsarchive.gwu.edu/briefing-book/nuclear-vault/2024-12-17/1960-intelligence-report-said-israeli-nuclear-site-was
+- **Armas nucleares de Israel: Cómo los israelíes engañaron a los presidentes estadounidenses** - Foreign Policy (2025). https://foreignpolicy.com/2025/02/07/israel-nuclear-weapons-dimona-deception-cia-jfk-eisenhower-lbj-ben-gurion/
+- **Armas nucleares e Israel** - Wikipedia. https://en.wikipedia.org/wiki/Nuclear_weapons_and_Israel
+- **Cómo Francia ayudó a Israel a construir la planta nuclear de Dimona** - The Aviation Geek Club. https://theaviationgeekclub.com/the-story-of-how-france-helped-israel-to-build-the-dimona-nuclear-power-plant-and-then-imposed-an-arms-embargo-on-tel-aviv/
+- **Resultados anuales completos 2024 del Grupo Thales: Ventas récord €20.577B (+11.7%), EBIT +13%, captación de pedidos €25.289B** - Thales Group (2025). https://www.thalesgroup.com/en/group/investors/press_release/thales-reports-its-2024-full-year-results
+- **Ventas de armas francesas a Israel: €30M equipo militar entregado 2023, transpondedores IFF Thales TSC 4000 para UAV Elbit Hermes 900** - Middle East Eye (2024). https://www.middleeasteye.net/news/gaza-war-french-arms-sales-israel-marked-lack-transparency-and-control  
 
 #### D.10. Casos de Estudio Europeos
 
-[^61]: El Confidencial (2024). España contratos militares Israel. https://www.elconfidencial.com/tecnologia/2024-05-28/gobierno-contratos-militares-israel-gaza_3890039/  
-[^62]: Centre Delàs d'Estudis per la Pau (2025). El beneficio colateral: La industria española de defensa y la guerra de Israel en Gaza. €1.041M contratos verificados, 40 adjudicaciones Elbit/Rafael desde oct 2023. https://centredelas.org/wp-content/uploads/2025/05/informe72_RE_Beneficio-Colateral_CAST_def.pdf  
-[^63]: Statista (2024). German defense spending. https://www.statista.com/statistics/684425/german-defense-spending/  
-[^64]: NATO Defence Spending Report (2024). https://www.nato.int/cps/en/natohq/news_226897.htm  
-[^65]: Reuters (2023). Germany Arrow-3 missile defense. https://www.reuters.com/world/europe/germany-earmarks-4-billion-euros-israeli-arrow-3-missile-defense-document-2023-06-14/  
-[^66]: Times of Israel (2023). Germany signs nearly €4 billion deal for Israel's Arrow 3 missile defense system. https://www.timesofisrael.com/germany-signs-nearly-e4-billion-deal-for-israels-arrow-3-missile-defense-system/  
-[^67]: Rheinmetall AG (2025). Financial figures FY 2024 – New all-time records. Operating profit +61% to €1.48B, defense business +50%. https://www.rheinmetall.com/en/media/news-watch/news/2025/03/2025-03-12-rheinmetall-financial-figures-fical-year-2024  
-[^68]: SIPRI (2024). Germany accounted for 30% of Israel's imports of major arms in 2019-23, mainly frigates and torpedoes. https://www.sipri.org/commentary/topical-backgrounder/2024/how-top-arms-exporters-have-responded-war-gaza  
+- **España contratos militares Israel** - El Confidencial (2024). https://www.elconfidencial.com/tecnologia/2024-05-28/gobierno-contratos-militares-israel-gaza_3890039/
+- **El beneficio colateral: La industria española de defensa y la guerra de Israel en Gaza (€1.041M contratos verificados, 40 adjudicaciones Elbit/Rafael desde oct 2023)** - Centre Delàs d'Estudis per la Pau (2025). https://centredelas.org/wp-content/uploads/2025/05/informe72_RE_Beneficio-Colateral_CAST_def.pdf
+- **Gasto de defensa alemán** - Statista (2024). https://www.statista.com/statistics/684425/german-defense-spending/
+- **Informe de Gasto de Defensa de la OTAN** - NATO (2024). https://www.nato.int/cps/en/natohq/news_226897.htm
+- **Alemania destina 4 mil millones de euros para defensa antimisiles Arrow-3 israelí** - Reuters (2023). https://www.reuters.com/world/europe/germany-earmarks-4-billion-euros-israeli-arrow-3-missile-defense-document-2023-06-14/
+- **Alemania firma acuerdo de casi €4 mil millones para sistema de defensa antimisiles Arrow 3 de Israel** - Times of Israel (2023). https://www.timesofisrael.com/germany-signs-nearly-e4-billion-deal-for-israels-arrow-3-missile-defense-system/
+- **Cifras financieras FY 2024 de Rheinmetall AG – Nuevos récords históricos: Ganancia operativa +61% a €1.48B, negocio de defensa +50%** - Rheinmetall AG (2025). https://www.rheinmetall.com/en/media/news-watch/news/2025/03/2025-03-12-rheinmetall-financial-figures-fical-year-2024
+- **Alemania representó el 30% de las importaciones de armas principales de Israel en 2019-23, principalmente fragatas y torpedos** - SIPRI (2024). https://www.sipri.org/commentary/topical-backgrounder/2024/how-top-arms-exporters-have-responded-war-gaza  
 
 #### D.11. Tecnología e Industria Cibernética
 
-[^69]: Check Point financial reports. https://investors.checkpoint.com/  
-[^70]: Start-Up Nation Central. Israeli cyber sector analysis. https://www.startupnationcentral.org/  
-[^71]: Haaretz. COVID-19 Israeli surveillance technology export. https://www.haaretz.com/israel-news/.premium-israeli-surveillance-tech-that-helped-fight-covid-19-is-being-exported-worldwide-1.9356123  
-[^72]: Unit 8200 - Wikipedia. https://en.wikipedia.org/wiki/Unit_8200  
-[^73]: Silverstein, Richard. NSA Shares Raw Intelligence Data on U.S. Citizens with Israel. https://www.richardsilverstein.com/2013/09/11/nsa-shares-raw-intelligence-data-on-u-s-citizens-with-israel/
+- **Reportes financieros de Check Point** - Check Point. https://investors.checkpoint.com/
+- **Análisis del sector cibernético israelí** - Start-Up Nation Central. https://www.startupnationcentral.org/
+- **Exportación mundial de tecnología de vigilancia israelí utilizada contra COVID-19** - Haaretz. https://www.haaretz.com/israel-news/.premium-israeli-surveillance-tech-that-helped-fight-covid-19-is-being-exported-worldwide-1.9356123
+- **Unidad 8200** - Wikipedia. https://en.wikipedia.org/wiki/Unit_8200
+- **NSA comparte datos de inteligencia brutos sobre ciudadanos estadounidenses con Israel** - Richard Silverstein. https://www.richardsilverstein.com/2013/09/11/nsa-shares-raw-intelligence-data-on-u-s-citizens-with-israel/
 
 #### D.11.1. Operación Olympic Games y Stuxnet (2010)
 
-[^74]: Stuxnet - Wikipedia. https://en.wikipedia.org/wiki/Stuxnet  
-[^75]: Operation Olympic Games - Wikipedia. https://en.wikipedia.org/wiki/Operation_Olympic_Games  
-[^76]: CSO Online. Stuxnet explained: The first known cyberweapon. https://www.csoonline.com/article/562691/stuxnet-explained-the-first-known-cyberweapon.html  
-[^77]: Council on Foreign Relations. Connect the Dots on State-Sponsored Cyber Incidents - Stuxnet. https://www.cfr.org/cyber-operations/stuxnet  
-[^78]: The Washington Post. Stuxnet was work of U.S. and Israeli experts. https://www.washingtonpost.com/world/national-security/stuxnet-was-work-of-us-and-israeli-experts-officials-say/2012/06/01/gJQAlnEy6U_story.html  
-[^79]: Charles Denyer. The Origins of Operation Olympic Games – Stuxnet. https://www.charlesdenyer.com/post/the-origins-of-operation-olympic-games-stuxnet  
-[^80]: Sandboxx. Operation Olympic Games: The first cyberweapon. https://www.sandboxx.us/news/operation-olympic-games-the-first-cyberweapon/  
+- **Stuxnet** - Wikipedia. https://en.wikipedia.org/wiki/Stuxnet
+- **Operación Olympic Games** - Wikipedia. https://en.wikipedia.org/wiki/Operation_Olympic_Games
+- **Stuxnet explicado: La primera ciberarma conocida** - CSO Online. https://www.csoonline.com/article/562691/stuxnet-explained-the-first-known-cyberweapon.html
+- **Conectar los puntos sobre incidentes cibernéticos patrocinados por el estado - Stuxnet** - Council on Foreign Relations. https://www.cfr.org/cyber-operations/stuxnet
+- **Stuxnet fue trabajo de expertos estadounidenses e israelíes** - The Washington Post. https://www.washingtonpost.com/world/national-security/stuxnet-was-work-of-us-and-israeli-experts-officials-say/2012/06/01/gJQAlnEy6U_story.html
+- **Los orígenes de la Operación Olympic Games – Stuxnet** - Charles Denyer. https://www.charlesdenyer.com/post/the-origins-of-operation-olympic-games-stuxnet
+- **Operación Olympic Games: La primera ciberarma** - Sandboxx. https://www.sandboxx.us/news/operation-olympic-games-the-first-cyberweapon/  
 
 #### D.12. Instituciones Financieras Internacionales
 
-[^81]: World Bank - Israel. https://www.worldbank.org/en/country/israel  
-[^82]: IMF Working Paper. Economics of Suez 1956 Crisis. https://www.imf.org/en/Publications/WP/Issues/2016/12/30/The-Economics-of-Suez-43859  
+- **Banco Mundial - Israel** - World Bank. https://www.worldbank.org/en/country/israel
+- **Documento de trabajo del FMI: Economía de la Crisis de Suez 1956** - IMF. https://www.imf.org/en/Publications/WP/Issues/2016/12/30/The-Economics-of-Suez-43859  
 
 #### D.13. Marketing Militar y "Laboratorio de Guerra"
 
-[^83]: Middle East Monitor. Israel uses Gaza as weapons laboratory. https://www.middleeastmonitor.com/20200618-israel-uses-gaza-as-laboratory-for-weapons-testing/  
-[^84]: Defense News. Iron Dome exports to Czech Republic. https://www.defensenews.com/global/mideast-africa/2021/08/23/israel-set-to-approve-iron-dome-sale-to-czech-republic/  
-[^85]: +972 Magazine. Israel-Gaza laboratory pattern. https://www.972mag.com/israel-gaza-laboratory/  
+- **Israel usa Gaza como laboratorio de armas** - Middle East Monitor. https://www.middleeastmonitor.com/20200618-israel-uses-gaza-as-laboratory-for-weapons-testing/
+- **Exportaciones de Iron Dome a República Checa** - Defense News. https://www.defensenews.com/global/mideast-africa/2021/08/23/israel-set-to-approve-iron-dome-sale-to-czech-republic/
+- **Patrón de laboratorio Israel-Gaza** - +972 Magazine. https://www.972mag.com/israel-gaza-laboratory/  
 
 #### D.14. Acuerdos Abraham y Normalización
 
-[^86]: Times of Israel. Abraham Accords economic expansion Israel-UAE. https://www.timesofisrael.com/israel-uae-trade-hits-2-5-billion-in-2023-up-6-fold-since-abraham-accords/  
+- **Expansión económica de los Acuerdos de Abraham Israel-Emiratos Árabes Unidos** - Times of Israel. https://www.timesofisrael.com/israel-uae-trade-hits-2-5-billion-in-2023-up-6-fold-since-abraham-accords/  
 
 #### D.15. Genocidio Gaza y Impacto Económico
 
-[^87]: Al Jazeera (2024). Israel war Gaza weapons companies boost. https://www.aljazeera.com/news/2024/1/9/how-is-israels-war-on-gaza-boosting-weapons-companies  
-[^88]: UN Gaza casualties reports. https://www.un.org/unispal/gaza-strip/  
-[^89]: UNCTAD Report (2024). Economic impact destruction Gaza. https://unctad.org/publication/preliminary-assessment-economic-impact-destruction-gaza-and-prospects-economic-recovery  
-[^90]: IRDNA Report (2024). Gaza recovery and reconstruction plan. https://irdna.org/gaza-recovery-and-reconstruction-plan/
+- **Cómo la guerra de Israel en Gaza está impulsando a las compañías de armas** - Al Jazeera (2024). https://www.aljazeera.com/news/2024/1/9/how-is-israels-war-on-gaza-boosting-weapons-companies
+- **Informes de bajas de Gaza de la ONU** - UN. https://www.un.org/unispal/gaza-strip/
+- **Evaluación preliminar del impacto económico de la destrucción de Gaza** - UNCTAD Report (2024). https://unctad.org/publication/preliminary-assessment-economic-impact-destruction-gaza-and-prospects-economic-recovery
+- **Plan de recuperación y reconstrucción de Gaza** - IRDNA Report (2024). https://irdna.org/gaza-recovery-and-reconstruction-plan/
 
 #### D.16. Fuentes Contemporáneas y Análisis Actualizados (2024-2025)
 
 **Gas Natural y Recursos Energéticos:**
-[^91]: TBN Israel (2024). Israel Records Record Royalties from Natural Gas and Minerals. https://www.tbnisrael.com/news/israel-records-record-royalties-from-natural-gas-a  
-[^92]: Enerdata (2024). Israel's gas exports to Egypt and Jordan increased by over 13% in 2024. https://www.enerdata.net/publications/daily-energy-news/israels-gas-exports-egypt-and-jordan-increased-over-13-2024.html  
+- **Israel registra regalías récord de gas natural y minerales** - TBN Israel (2024). https://www.tbnisrael.com/news/israel-records-record-royalties-from-natural-gas-a
+- **Las exportaciones de gas de Israel a Egipto y Jordania aumentaron más del 13% en 2024** - Enerdata (2024). https://www.enerdata.net/publications/daily-energy-news/israels-gas-exports-egypt-and-jordan-increased-over-13-2024.html
 
 **Penetración Tecnológica e Inteligencia:**
-[^93]: DropSite News (2024). Hundreds of Former Israeli Spies Are Working in Big Tech, Database Shows. https://www.dropsitenews.com/p/israel-technology-palo-alto-networks-microsoft-unit-8200  
+- **Cientos de ex espías israelíes trabajan en Big Tech, muestra base de datos** - DropSite News (2024). https://www.dropsitenews.com/p/israel-technology-palo-alto-networks-microsoft-unit-8200
 
 **Exportaciones Defensa e Industria Militar:**
-[^94]: Times of Israel (2024). Israeli arms sales break record for 4th year in row, reaching $14.8 billion. https://www.timesofisrael.com/israeli-arms-sales-break-record-for-4th-year-in-row-reaching-14-8-billion-in-2024/  
-[^95]: Breaking Defense (2025). Israeli defense exports hit record $14.7 billion, despite regional conflicts. https://breakingdefense.com/2025/06/israeli-defense-exports-hit-record-14-7-billion-despite-regional-conflicts/  
+- **Ventas de armas israelíes rompen récord por 4to año consecutivo, alcanzando $14.8 mil millones** - Times of Israel (2024). https://www.timesofisrael.com/israeli-arms-sales-break-record-for-4th-year-in-row-reaching-14-8-billion-in-2024/
+- **Exportaciones de defensa israelíes alcanzan récord de $14.7 mil millones, a pesar de conflictos regionales** - Breaking Defense (2025). https://breakingdefense.com/2025/06/israeli-defense-exports-hit-record-14-7-billion-despite-regional-conflicts/
 
 **Industria Cultural y Diplomacia Pública:**
-[^96]: Times of Israel (2024). Facing criticism, Netflix insists it does invest in original Israeli content. https://www.timesofisrael.com/facing-criticism-netflix-insists-it-does-invest-in-original-israeli-content/  
-[^97]: Jewish Insider (2024). Israel's foreign minister is looking for a way to spend $150 million on hasbara. https://jewishinsider.com/2024/12/israels-foreign-minister-is-looking-for-a-way-to-spend-150-million-on-hasbara/  
-[^98]: Variety (2013). Israel's Engine of TV Exports - Israeli Export Institute data shows global TV and cinema sales hit $269 million in 2016. https://variety.com/2013/tv/features/israel-tv-homeland-in-treatment-1200350025/  
-[^99]: Forward (2024). Israel has spent millions trying win hearts and minds abroad. It's about to spend 20 times more. https://forward.com/fast-forward/685456/israel-has-spent-millions-trying-win-hearts-and-minds-abroad-its-about-to-spend-20-times-more/
+- **Enfrentando críticas, Netflix insiste en que sí invierte en contenido original israelí** - Times of Israel (2024). https://www.timesofisrael.com/facing-criticism-netflix-insists-it-does-invest-in-original-israeli-content/
+- **El ministro de relaciones exteriores de Israel busca una manera de gastar $150 millones en hasbara** - Jewish Insider (2024). https://jewishinsider.com/2024/12/israels-foreign-minister-is-looking-for-a-way-to-spend-150-million-on-hasbara/
+- **Motor de exportaciones de TV de Israel - datos del Instituto de Exportación Israelí muestran ventas globales de TV y cine alcanzaron $269 millones en 2016** - Variety (2013). https://variety.com/2013/tv/features/israel-tv-homeland-in-treatment-1200350025/
+- **Israel ha gastado millones tratando de ganar corazones y mentes en el extranjero. Está a punto de gastar 20 veces más** - Forward (2024). https://forward.com/fast-forward/685456/israel-has-spent-millions-trying-win-hearts-and-minds-abroad-its-about-to-spend-20-times-more/
 
 ---
 
