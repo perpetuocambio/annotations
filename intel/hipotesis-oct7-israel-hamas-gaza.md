@@ -355,7 +355,7 @@ Este análisis reconoce:
 18. [WikiLeaks: Contents of US Diplomatic Cables (Israel)](https://en.wikipedia.org/wiki/Contents_of_the_United_States_diplomatic_cables_leak_(Israel)) - Referencias históricas
 19. [WikiLeaks: Category Israel](https://wikileaks.org/wiki/Category:Israel) - Archivo documental completo
 
-### Fuentes Adicionales Citadas en Documento Original:
+### Fuentes Adicionales:
 20. https://en.wikipedia.org/w/index.php?title=Nova_music_festival_massacre&oldid=1189531160
 21. [Times of Israel: "Top IDF officers warning of Hamas onslaught plans was hidden in Aug 2023 report"](https://www.timesofisrael.com/top-idf-officers-warning-of-hamas-onslaught-plans-was-hidden-in-aug-2023-report/)
 22. [Middle East Monitor: "Hamas didn't know about music festival in advance, says Israel police"](https://www.middleeastmonitor.com/20231119-hamas-didnt-know-about-music-festival-in-advance-says-israel-police/)
