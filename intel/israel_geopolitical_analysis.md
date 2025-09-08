@@ -366,15 +366,15 @@ graph TD
 | ----------- | ---------------- | --------------- | ------------------------------ | --------------------------------- |
 | **1938**    | Mercado Haifa    | 49 muertos      | Tierras palestinas libres      | Jewish National Fund              |
 | **1946**    | Hotel King David | 91 muertos      | Presión independencia          | Haganah/Irgun                     |
-| **1948**    | Deir Yassin      | 120 muertos     | 750,000 refugiados → tierra    | Estado israelí                    |
-| **1956**    | Guerra Suez      | 1,650 muertos   | Primeros contratos exportación | Industria defensa emergente       |
-| **1967**    | Guerra Junio     | 15,000+ muertos | Ocupación territorial          | Sector construcción               |
-| **1976**    | Entebbe          | 7 muertos       | Marketing internacional        | Exportaciones defensa             |
-| **1981**    | Reactor iraquí   | 10 muertos      | Monopolio nuclear              | Complex militar-industrial        |
-| **1982**    | Invasión Líbano  | 19,085 muertos  | Boom exportaciones             | Elbit, Rafael, IMI                |
-| **2002**    | Operación Escudo | 1,137 muertos   | Contratos homeland security    | Sector tech-seguridad             |
-| **2006**    | Guerra Líbano II | 1,380 muertos   | $5B+ Iron Dome                 | Rafael Advanced Defense           |
-| **2023-25** | Genocidio Gaza   | 45,000+ muertos | $14.8B exportaciones récord    | Complex militar-industrial global |
+| **1948**    | Deir Yassin      | 107-120 muertos| 750,000 refugiados → tierra    | Estado israelí                    |
+| **1956**    | Guerra Suez      | 3,400+ muertos  | Apoyo francés armamentístico   | Industria defensa francesa        |
+| **1967**    | Guerra Junio     | 20,000+ muertos | Ocupación territorial          | Sector construcción               |
+| **1976**    | Entebbe          | 31-57 muertos   | Marketing internacional        | Exportaciones defensa             |
+| **1981**    | Reactor iraquí   | 11 muertos      | Monopolio nuclear              | Complex militar-industrial        |
+| **1982**    | Invasión Líbano  | 17,825 muertos  | Boom exportaciones             | Elbit, Rafael, IMI                |
+| **2002**    | Operación Escudo | 279-526 muertos | Contratos vigilancia           | Sector tech-seguridad             |
+| **2006**    | Guerra Líbano II | 1,266 muertos   | Desarrollo sistemas defensivos | Rafael, industria defensa         |
+| **2023-25** | Genocidio Gaza   | 46,000+ muertos | $14.8B exportaciones récord    | Complex militar-industrial global |
 
 **Progresión Cuantitativa del Modelo (1920-2025):**
 
