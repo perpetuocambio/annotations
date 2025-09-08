@@ -147,6 +147,10 @@ Las fuentes académicas confirman que Israel aplicó una estrategia de fomentar 
   https://www.cfr.org/backgrounder/what-hamas
 - **PBS NewsHour.** "What is Hamas? What to know about its origins, leaders and funding" (2023)
   https://www.pbs.org/newshour/world/what-is-hamas-what-to-know-about-its-origins-leaders-and-funding
+- **ABC** "Cuando Israel confesó su participación en la creación de Hamás: «Fue un error enorme y estúpido»*" (2023)
+  https://www.abc.es/historia/israel-confeso-participacion-creacion-hamas-error-enorme-20231013202039-nt.html 
+
+
 
 #### 8.4 Fuentes de Verificación Cruzada
 - Wikipedia. "Israeli support for Hamas" (Actualizada septiembre 2024)
