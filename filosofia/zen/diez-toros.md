@@ -3,13 +3,6 @@
 
 ---
 
-## **FUENTES PRIMARIAS DOCUMENTADAS**
-
-### Manuscrito Más Temprano Disponible
-- **Fuente**: 十牛圖頌並序, c. 1278 (弘安元年), conservado en Metropolitan Museum of Art
-- **URL**: https://openmuseum.tw/muse/digi_object/73b90c6987ec5469ca11be21e6c1e9f9
-- **Información contextual**: 南宋廓庵禪師著。此卷約繪製于日本弘安元年（1278）
-
 ### Texto Chino Completo (Fuente: 佛光教科書)
 - **URL**: http://www.book853.com/show.aspx?id=222&cid=167&page=11
 - **Referencia académica**: 全称《住鼎州梁山廓庵和尚十牛图颂并序》
