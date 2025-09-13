@@ -525,7 +525,8 @@ En las calles de nuestras ciudades modernas, el bodhisattva de pecho descubierto
 
 **La revolución del toro salvaje continúa.**
 
+## Enlaces:
 
-
-
-
+- **Terebess Asia Online**: https://terebess.hu/english/oxindex.html (índice completo de traducciones)
+- **Traducción de D.T. Suzuki**: https://terebess.hu/english/oxherd.html 
+- **Traducción académica de Victor Sogen Hori**: https://terebess.hu/english/oxherd31.html
