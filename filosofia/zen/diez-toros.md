@@ -232,15 +232,21 @@ Basándose en el análisis textual del chino original:
 ### **Lo Que los Diez Toros NO Eran** (Contra Interpretaciones Modernas)
 
 ❌ **Crítica social al confucianismo** (Kuoan operaba dentro del sistema imperial)
+
 ❌ **Manual de individualismo espiritual** (objetivo final es servicio colectivo)
+
 ❌ **Filosofía anti-institucional** (se convirtió en texto curricular estándar)
+
 ❌ **Espiritualidad naturalista** (usa terminología técnica budista sofisticada)
 
 ### **Lo Que Sí Eran** (Basado en Análisis Textual Original)
 
 ✅ **Manual de maduración espiritual para monjes avanzados** en grandes monasterios Song
+
 ✅ **Guía para mantener autenticidad** dentro de estructuras institucionales necesarias
+
 ✅ **Mapa de trascendencia gradual** de la propia práctica espiritual
+
 ✅ **Síntesis sofisticada** de espontaneidad Chan con responsabilidad social budista
 
 ### **La Genialidad Específica de Kuoan**
