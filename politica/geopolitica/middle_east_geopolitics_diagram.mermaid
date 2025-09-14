@@ -1,0 +1,112 @@
+graph TB
+    subgraph "FASE I: ERA COLONIAL (1916-1945)"
+        UK1[Reino Unido<br/>🇬🇧<br/>Hegemon Regional]
+        FR1[Francia<br/>🇫🇷<br/>Potencia Secundaria]
+        
+        UK1 --> PAL1[Palestina<br/>Mandato]
+        UK1 --> IRQ1[Irak<br/>Mandato]
+        UK1 --> EGY1[Egipto<br/>Protectorado]
+        FR1 --> SYR1[Siria-Líbano<br/>Mandato]
+    end
+    
+    subgraph "FASE II: GUERRA FRÍA (1945-1991)"
+        USA2[Estados Unidos<br/>🇺🇸<br/>Superpotencia]
+        USSR2[URSS<br/>🇷🇺<br/>Superpotencia]
+        
+        USA2 -.->|Doctrina Truman| TUR2[Turquía]
+        USA2 -.->|Alianza Estratégica| ISR2[Israel]
+        USA2 -.->|Petrodólares| SAU2[Arabia Saudí]
+        USA2 -.->|Golpe 1953| IRN2[Irán Shah]
+        
+        USSR2 -.->|Socialismo Árabe| EGY2[Egipto Nasser]
+        USSR2 -.->|Armas + Aswan| SYR2[Siria Baath]
+        USSR2 -.->|Cliente| IRQ2[Irak Baath]
+        USSR2 -.->|Invasión 1979| AFG2[Afganistán]
+    end
+    
+    subgraph "FASE III: UNIPOLARIDAD (1991-2001)"
+        USA3[Estados Unidos<br/>🇺🇸<br/>Hiperpotencia]
+        
+        USA3 --> IRQ3[Irak<br/>Containment]
+        USA3 --> IRN3[Irán<br/>Containment]
+        USA3 --> SAU3[Arabia Saudí<br/>Twin Pillars]
+        USA3 --> ISR3[Israel<br/>Peace Process]
+    end
+    
+    subgraph "FASE IV: MULTIPOLARIDAD (2001-2025)"
+        USA4[Estados Unidos<br/>🇺🇸<br/>Hegemon Declinante]
+        RUS4[Rusia<br/>🇷🇺<br/>Potencia Revisionista]
+        CHN4[China<br/>🇨🇳<br/>Potencia Emergente]
+        IRN4[Irán<br/>🇮🇷<br/>Potencia Regional]
+        
+        USA4 -.->|GWOT/Democratización| IRQ4[Irak]
+        USA4 -.->|GWOT| AFG4[Afganistán]
+        USA4 -.->|Sanciones| IRN5[Irán]
+        USA4 -.->|Abraham Accords| ISR4[Israel]
+        USA4 -.->|Pivote Asia| SAU4[Arabia Saudí]
+        
+        RUS4 -.->|Intervención 2015| SYR4[Siria]
+        RUS4 -.->|Armas/Nuclear| IRN6[Irán]
+        RUS4 -.->|Influencia| EGY4[Egipto]
+        
+        CHN4 -.->|BRI + Energía| IRN7[Irán]
+        CHN4 -.->|Inversión| SAU5[Arabia Saudí]
+        CHN4 -.->|Mediación 2023| PEACE[Reconciliación<br/>Irán-Arabia]
+        
+        IRN4 --> HEZ[Hezbollah<br/>Líbano]
+        IRN4 --> HAM[Hamas<br/>Gaza]
+        IRN4 --> HOU[Houthis<br/>Yemen]
+        IRN4 --> PMF[PMF<br/>Irak]
+    end
+    
+    subgraph "EVENTOS CRÍTICOS - PUNTOS DE INFLEXIÓN"
+        E1[1916: Sykes-Picot<br/>Partición Otomana]
+        E2[1948: Creación Israel<br/>Conflicto Permanente]
+        E3[1956: Crisis Suez<br/>Fin Hegemonía Euro]
+        E4[1967: Guerra 6 Días<br/>Hegemonía Israel]
+        E5[1973: Guerra Yom Kippur<br/>+ Embargo Petróleo]
+        E6[1979: Rev. Iraní<br/>+ Invasión Afganistán]
+        E7[1991: Guerra Golfo<br/>Hegemonía USA]
+        E8[2001: 9/11<br/>GWOT]
+        E9[2003: Invasión Irak<br/>Caos Regional]
+        E10[2011: Primavera Árabe<br/>Colapso Orden]
+        E11[2015: Intervención Rusia<br/>Retorno Gran Potencia]
+        E12[2020: Abraham Accords<br/>Realineamiento]
+        E13[2023: Reconciliación<br/>Irán-Arabia por China]
+    end
+    
+    subgraph "RECURSOS ESTRATÉGICOS - EVOLUCIÓN"
+        OIL1[1920s-1970s:<br/>Petróleo Reino]
+        OIL2[1970s-2000s:<br/>Petrodólares]
+        OIL3[2000s-2020s:<br/>Shale Revolution]
+        TECH[2020s+:<br/>Tecnología<br/>Semiconductores<br/>IA]
+        
+        OIL1 --> OIL2
+        OIL2 --> OIL3
+        OIL3 --> TECH
+    end
+    
+    subgraph "PATRONES DE INFLUENCIA"
+        P1[Directa:<br/>Colonias/Mandatos]
+        P2[Proxy War:<br/>Guerra Fría]
+        P3[Hegemonía:<br/>Unipolaridad]
+        P4[Competencia:<br/>Multipolaridad]
+        
+        P1 --> P2
+        P2 --> P3
+        P3 --> P4
+    end
+    
+    classDef hegemon fill:#ff6b6b,stroke:#d63031,stroke-width:3px,color:#fff
+    classDef superpower fill:#74b9ff,stroke:#0984e3,stroke-width:2px,color:#fff
+    classDef regional fill:#55a3ff,stroke:#2d3436,stroke-width:2px,color:#fff
+    classDef proxy fill:#fd79a8,stroke:#e84393,stroke-width:1px,color:#fff
+    classDef event fill:#fdcb6e,stroke:#e17055,stroke-width:2px,color:#2d3436
+    classDef resource fill:#00b894,stroke:#00a085,stroke-width:2px,color:#fff
+    
+    class USA2,USA3,USSR2 hegemon
+    class USA4,RUS4,CHN4 superpower
+    class IRN4,ISR2,ISR3,ISR4,SAU2,SAU3,SAU4,SAU5 regional
+    class HEZ,HAM,HOU,PMF,TUR2,EGY2,SYR2,IRQ2 proxy
+    class E1,E2,E3,E4,E5,E6,E7,E8,E9,E10,E11,E12,E13 event
+    class OIL1,OIL2,OIL3,TECH resource
