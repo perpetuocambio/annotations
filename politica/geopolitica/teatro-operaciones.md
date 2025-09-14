@@ -86,13 +86,15 @@ flowchart LR
     B1 -.->|Justifica| D
     D --> G[Consecuencias Reales]
     
-    classDef escenario fill:#1e40af,stroke:#ffffff,stroke-width:2px,color:#ffffff
-    classDef direccion fill:#dc2626,stroke:#ffffff,stroke-width:2px,color:#ffffff
-    classDef teatro fill:#059669,stroke:#ffffff,stroke-width:2px,color:#ffffff
+    classDef escenario fill:#00FFFF,stroke:#000000,stroke-width:3px,color:#000000
+    classDef direccion fill:#FFFF00,stroke:#000000,stroke-width:3px,color:#000000
+    classDef teatro fill:#FF69B4,stroke:#FFFFFF,stroke-width:3px,color:#FFFFFF
+    classDef consecuencia fill:#FF0000,stroke:#FFFFFF,stroke-width:3px,color:#FFFFFF
     
     class A1,B1,C1 escenario
     class A2,A3,A4,B2,C2 direccion
-    class D,E,F,G teatro
+    class D,E,F teatro
+    class G consecuencia
 ```
 
 ## La Paradoja del Término
