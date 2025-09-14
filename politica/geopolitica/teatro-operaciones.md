@@ -39,11 +39,7 @@ graph TD
     F --> F2[Desplazamientos]
     F --> F3[Destrucción Infraestructura]
     F --> F4[Inestabilidad Regional]
-    
-    style A fill:#ff9999
-    style B fill:#99ccff
-    style C fill:#ffcc99
-    style F fill:#ffcccc
+
 ```
 
 ## Ejemplos Históricos de la "Teatralidad"
