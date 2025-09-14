@@ -86,9 +86,9 @@ flowchart LR
     B1 -.->|Justifica| D
     D --> G[Consecuencias Reales]
     
-    style "🎭 ESCENARIO PÚBLICO" fill:#e1f5fe
-    style "🎯 DIRECCIÓN OCULTA" fill:#fff3e0
-    style "⚔️ TEATRO DE OPERACIONES" fill:#ffebee
+    style "🎭 ESCENARIO PÚBLICO" fill:#2d3748,stroke:#4299e1,stroke-width:2px,color:#ffffff
+    style "🎯 DIRECCIÓN OCULTA" fill:#2d3748,stroke:#f6ad55,stroke-width:2px,color:#ffffff
+    style "⚔️ TEATRO DE OPERACIONES" fill:#2d3748,stroke:#fc8181,stroke-width:2px,color:#ffffff
 ```
 
 ## La Paradoja del Término
