@@ -64,19 +64,19 @@ graph TD
 
 ```mermaid
 flowchart LR
-    subgraph "🎭 ESCENARIO PÚBLICO"
+    subgraph ESCENARIO["🎭 ESCENARIO PÚBLICO"]
         A1[Medios de Comunicación] --> B1[Narrativa Oficial]
         B1 --> C1[Opinión Pública]
     end
     
-    subgraph "🎯 DIRECCIÓN OCULTA"
+    subgraph DIRECCION["🎯 DIRECCIÓN OCULTA"]
         A2[Corporaciones] --> B2[Lobby Militar]
         B2 --> C2[Decisores Políticos]
         A3[Bancos] --> B2
         A4[Industria Armamentística] --> B2
     end
     
-    subgraph "⚔️ TEATRO DE OPERACIONES"
+    subgraph TEATRO["⚔️ TEATRO DE OPERACIONES"]
         D[Territorio en Conflicto]
         E[Población Civil]
         F[Recursos Naturales]
@@ -86,9 +86,9 @@ flowchart LR
     B1 -.->|Justifica| D
     D --> G[Consecuencias Reales]
     
-    style "🎭 ESCENARIO PÚBLICO" fill:#001122,stroke:#00aaff,stroke-width:3px,color:#00aaff
-    style "🎯 DIRECCIÓN OCULTA" fill:#220011,stroke:#ffaa00,stroke-width:3px,color:#ffaa00
-    style "⚔️ TEATRO DE OPERACIONES" fill:#220000,stroke:#ff4444,stroke-width:3px,color:#ff4444
+    style ESCENARIO fill:#001122,stroke:#00aaff,stroke-width:3px,color:#00aaff
+    style DIRECCION fill:#220011,stroke:#ffaa00,stroke-width:3px,color:#ffaa00
+    style TEATRO fill:#220000,stroke:#ff4444,stroke-width:3px,color:#ff4444
 ```
 
 ## La Paradoja del Término
