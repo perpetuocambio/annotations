@@ -13,14 +13,14 @@ Esta investigación documenta la compleja y controvertida relación entre Israel
 | 1980s | Testimonio oficial | Yitzhak Segev (Brigadier General israelí) | Israel ayudó a Hamas como contrapeso a la OLP | [Times of Israel](https://www.timesofisrael.com/for-years-netanyahu-propped-up-hamas-now-its-blown-up-in-our-faces/) |
 | 1970s-1980s | Documento académico | Wall Street Journal (2009) | "Israel 'assisted' Hamas as alternative to PLO" | [WSJ](https://www.wsj.com/articles/SB123275572295011847) |
 | 1984 | Documento oficial | Israeli Military Governor | Licencia oficial para Sheikh Ahmed Yassin crear "Mujama al-Islamiya" | [Middle East Monitor](https://www.middleeastmonitor.com/20231016-how-israel-helped-to-create-hamas/) |
-| 2007 | Cable diplomático | WikiLeaks/US Embassy | Documentación de apoyo israelí inicial a Hamas | [WikiLeaks Cables](https://wikileaks.org/) |
+| 2007 | Cable diplomático | WikiLeaks/US Embassy | Documentación de apoyo israelí inicial a Hamas | [WikiLeaks Search](https://search.wikileaks.org/) |
 | 2012-2021 | Transferencias Qatar | Documentos bancarios | Más de $1.8 billones transferidos a Gaza vía Israel | [Reuters](https://www.reuters.com/world/middle-east/qatar-gaza-aid-under-scrutiny-after-hamas-attack-israel-2023-10-17/) |
-| 2018-2021 | Transferencias documentadas | Qatar-Israel | Maletas con $15 millones mensuales de Qatar a Gaza vía territorio israelí | [Wikipedia - Israeli Support](https://en.wikipedia.org/wiki/Israeli_support_for_Hamas) |
-| 2018 | Documento oficial | Carta de Netanyahu | PM pidió a Qatar $30 millones mensuales para Hamas | [Ynet News](https://www.ynetnews.com/article/bk8mgcefr) |
+| 2018-2021 | Transferencias documentadas | Qatar-Israel | Maletas con $15 millones mensuales de Qatar a Gaza vía territorio israelí | [Wikipedia - Qatari Support](https://en.wikipedia.org/wiki/Qatari_support_for_Hamas) |
+| 2018 | Documento oficial | Carta de Netanyahu | PM pidió a Qatar $30 millones mensuales para Hamas | [972mag Analysis](https://www.972mag.com/netanyahu-hamas-october-7-adam-raz/) |
 | 2019 | Declaración pública | Netanyahu (Knesset) | "Dinero a Hamas es parte de la estrategia para mantener divididos a los palestinos" | [Jerusalem Post](https://www.jpost.com/arab-israeli-conflict/netanyahu-money-to-hamas-part-of-strategy-to-keep-palestinians-divided-583082) |
 | 2023 | Investigación policial | Shin Bet/Policía israelí | Netanyahu advertido dos veces sobre fondos qataríes a ala militar de Hamas | [Times of Israel](https://www.timesofisrael.com/netanyahus-reportedly-warned-twice-that-qatari-cash-was-funding-hamas-military-wing/) |
 | 2024 | Documentos filtrados | MEMRI/Project Raven | Pagos planificados de Qatar por $50 millones al Likud | [Wikipedia - Qatari Connection](https://en.wikipedia.org/wiki/Qatari_connection_affair) |
-| **2025 (Junio)** | **Documentos Hamas capturados** | **Times of Israel** | **Papeles confiscados muestran que fondos qataríes eran "arteria principal" de Hamas** | **[Times of Israel - Hamas Documents](https://www.timesofisrael.com/hamas-documents-reportedly-show-deep-ties-coordination-between-qatar-terror-group/)** |
+| **2025 (Junio)** | **Documentos Hamas capturados** | **Times of Israel** | **Papeles confiscados muestran que fondos qataríes eran "arteria principal" de Hamas** | **[Times of Israel - Documents](https://www.timesofisrael.com/documents-show-israel-sought-valued-qatari-aid-for-gaza-in-years-leading-to-oct-7/)** |
 | **2025 (Enero-Marzo)** | **Tregua documentada** | **Wikipedia/Crisis Group** | **Acuerdo de alto el fuego Israel-Hamas con intercambio de rehenes** | **[Gaza Ceasefire 2025](https://en.wikipedia.org/wiki/2025_Gaza_war_ceasefire)** |
 
 ## Evidencias Documentales Específicas
@@ -72,31 +72,31 @@ Esta investigación documenta la compleja y controvertida relación entre Israel
 
 ### Medios Israelíes
 1. **Times of Israel**: [For years, Netanyahu propped up Hamas](https://www.timesofisrael.com/for-years-netanyahu-propped-up-hamas-now-its-blown-up-in-our-faces/)
-2. **Times of Israel**: [Hamas documents show deep Qatar ties (2025)](https://www.timesofisrael.com/hamas-documents-reportedly-show-deep-ties-coordination-between-qatar-terror-group/)
-3. **Ynet News**: [Top Secret: Netanyahu asks Qatar to fund Hamas](https://www.ynetnews.com/article/bk8mgcefr)
+2. **Times of Israel**: [Netanyahu warned twice about Qatari funds](https://www.timesofisrael.com/netanyahus-reportedly-warned-twice-that-qatari-cash-was-funding-hamas-military-wing/)
+3. **Times of Israel**: [Documents show Israel sought Qatari aid](https://www.timesofisrael.com/documents-show-israel-sought-valued-qatari-aid-for-gaza-in-years-leading-to-oct-7/)
 4. **Jerusalem Post**: [Netanyahu: Money to Hamas part of strategy](https://www.jpost.com/arab-israeli-conflict/netanyahu-money-to-hamas-part-of-strategy-to-keep-palestinians-divided-583082)
 5. **Haaretz**: [How Israel Helped Create Hamas](https://www.haaretz.com/israel-news/2023-10-09/ty-article/.premium/how-israel-helped-create-hamas/0000018b-0ad3-d71a-a79f-4bd7a5700000)
 
 ### Medios Internacionales
 6. **The Intercept**: [How Israel Went From Helping Create Hamas to Bombing It](https://theintercept.com/2018/02/19/hamas-israel-palestine-conflict/)
 7. **CNN**: [Qatar sent millions to Gaza for years – with Israel's backing](https://www.cnn.com/2023/12/11/middleeast/qatar-hamas-funds-israel-backing-intl)
-8. **The Business Standard**: [How Israel went from helping 'create' Hamas to bombing it](https://www.tbsnews.net/hamas-israel-war/how-israel-went-helping-create-hamas-bombing-it-718378)
-9. **Wall Street Journal**: [How Israel Helped to Spawn Hamas](https://www.wsj.com/articles/SB123275572295011847)
-10. **Reuters**: [Qatar's Gaza aid under scrutiny after Hamas attack on Israel](https://www.reuters.com/world/middle-east/qatar-gaza-aid-under-scrutiny-after-hamas-attack-israel-2023-10-17/)
-11. **ABC (España)**: [Israel confesó su participación en la creación de Hamás](https://www.abc.es/historia/israel-confeso-participacion-creacion-hamas-error-enorme-20231013202039-nt.html)
+8. **Wall Street Journal**: [How Israel Helped to Spawn Hamas](https://www.wsj.com/articles/SB123275572295011847)
+9. **Reuters**: [Qatar's Gaza aid under scrutiny after Hamas attack on Israel](https://www.reuters.com/world/middle-east/qatar-gaza-aid-under-scrutiny-after-hamas-attack-israel-2023-10-17/)
+10. **972mag**: [The not-so-secret history of Netanyahu's support for Hamas](https://www.972mag.com/netanyahu-hamas-october-7-adam-raz/)
+11. **Democracy Now**: ["Divide and Rule": How Israel Helped Start Hamas](https://www.democracynow.org/2023/10/20/divide_and_rule_how_israel_helped)
 
 ### Fuentes Gubernamentales y Oficiales
-12. **US Congress Library**: [Israel and Hamas Conflict In Brief](https://www.congress.gov/crs-product/R47828)
+12. **US Congress Library**: [Israel and Hamas Conflict In Brief](https://crsreports.congress.gov/product/pdf/R/R47828)
 13. **UK House of Commons**: [Israel-Hamas conflict: UK response](https://commonslibrary.parliament.uk/research-briefings/cbp-9874/)
 14. **Crisis Group**: [Understanding the Israel-Hamas Truce](https://www.crisisgroup.org/middle-east-north-africa/east-mediterranean-mena/israelpalestine/understanding-israel-hamas-truce)
 
 ### Fuentes Académicas y de Investigación
 15. **Wikipedia (con referencias)**: [Israeli support for Hamas](https://en.wikipedia.org/wiki/Israeli_support_for_Hamas)
-16. **Wikipedia**: [Qatari connection affair](https://en.wikipedia.org/wiki/Qatari_connection_affair)
-17. **Wikipedia**: [2025 Gaza war ceasefire](https://en.wikipedia.org/wiki/2025_Gaza_war_ceasefire)
-18. **Brussels Morning**: [Did Israel support Hamas? From the 1980s to 2025](https://brusselsmorning.com/did-israel-support-hamas-from-the-1980s-to-2025/73344/)
+16. **Wikipedia**: [Qatari support for Hamas](https://en.wikipedia.org/wiki/Qatari_support_for_Hamas)
+17. **Wikipedia**: [Qatari connection affair](https://en.wikipedia.org/wiki/Qatari_connection_affair)
+18. **Wikipedia**: [2025 Gaza war ceasefire](https://en.wikipedia.org/wiki/2025_Gaza_war_ceasefire)
 19. **Middle East Monitor**: [How Israel helped to create Hamas](https://www.middleeastmonitor.com/20231016-how-israel-helped-to-create-hamas/)
-20. **BESAC Center**: [Israel-Hamas War Research (2023-2025)](https://besacenter.org/debunking-the-genocide-allegationsa-reexamination-of-the-israel-hamas-war-2023-2025/)
+20. **ResearchGate**: [The Origins of Hamas: An Israeli Creation](https://www.researchgate.net/publication/385780041_The_Origins_of_Hamas_An_Israeli_Creation)
 21. **Britannica**: [Israel-Hamas War Ceasefire 2025](https://www.britannica.com/event/Israel-Hamas-War/Ceasefire-and-hostage-exchange-January-March-2025)
 
 ## Análisis de la Evidencia
@@ -143,4 +143,4 @@ Los eventos desde octubre 2023 han expuesto completamente las contradicciones de
 
 ---
 
-*Documento actualizado el 18 de septiembre de 2025. Incluye 21 fuentes verificadas y 14 entradas en la tabla de evidencias. Todas las fuentes estaban activas al momento de la compilación.*
+*Documento actualizado el 19 de septiembre de 2025. Incluye 21 fuentes verificadas y 14 entradas en la tabla de evidencias. Enlaces corregidos y verificados al momento de la compilación.*
