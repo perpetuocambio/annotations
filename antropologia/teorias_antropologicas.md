@@ -4,6 +4,66 @@
 
 La antropología como disciplina científica ha evolucionado considerablemente desde sus inicios en el siglo XIX. Este documento presenta un recorrido cronológico por las principales escuelas teóricas, sus máximos representantes, obras clave y el estado actual de estas corrientes de pensamiento.
 
+```mermaid
+timeline
+    title Historia de las Teorías Antropológicas
+    
+    1860-1920 : Evolucionismo Unilineal
+             : Tylor "Primitive Culture" (1871)
+             : Morgan "Ancient Society" (1877)
+             : Frazer "The Golden Bough" (1890)
+    
+    1900-1940 : Particularismo Histórico
+             : Boas "The Mind of Primitive Man" (1911)
+             : Benedict "Patterns of Culture" (1934)
+             : Mead "Coming of Age in Samoa" (1928)
+    
+    1920-1960 : Funcionalismo Británico
+             : Malinowski "Argonauts" (1922)
+             : Radcliffe-Brown "Structure and Function" (1952)
+             : Evans-Pritchard "The Nuer" (1940)
+    
+    1940-1980 : Estructuralismo Francés
+             : Lévi-Strauss "Estructuras Elementales" (1949)
+             : Lévi-Strauss "Mitológicas" (1964-1971)
+             : Lévi-Strauss "El Pensamiento Salvaje" (1962)
+    
+    1950-1980 : Materialismo Cultural
+             : White "Science of Culture" (1949)
+             : Steward "Theory of Culture Change" (1955)
+             : Harris "Cultural Materialism" (1979)
+    
+    1960-1990 : Antropología Simbólica
+             : Geertz "Interpretation of Cultures" (1973)
+             : Turner "The Ritual Process" (1969)
+             : Douglas "Purity and Danger" (1966)
+    
+    1960-1990 : Antropología Marxista
+             : Wolf "Europe and People Without History" (1982)
+             : Mintz "Sweetness and Power" (1985)
+             : Godelier "Mental and Material" (1986)
+    
+    1980-presente : Antropología Postmoderna
+                  : Clifford & Marcus "Writing Culture" (1986)
+                  : Marcus "Anthropology as Cultural Critique" (1986)
+                  : Tsing "Mushroom at End of World" (2015)
+    
+    1960-presente : Antropología Cognitiva
+                  : Sperber "Rethinking Symbolism" (1975)
+                  : Boyer "Religion Explained" (2001)
+                  : Atran "In Gods We Trust" (2002)
+    
+    1990-presente : Antropología Digital
+                  : Miller "Tales from Facebook" (2011)
+                  : Horst & Miller "Digital Anthropology" (2012)
+                  : Pink "Digital Ethnography" (2015)
+    
+    2000-presente : Antropología del Antropoceno
+                  : Kohn "How Forests Think" (2013)
+                  : Descola "Beyond Nature and Culture" (2013)
+                  : Haraway "Staying with the Trouble" (2016)
+```
+
 ## I. Evolucionismo Unilineal (1860-1920)
 
 ### Contexto Histórico
@@ -399,6 +459,197 @@ Desarrollada en respuesta a la crisis climática y ambiental global.
 
 ## Síntesis: Estado Actual de las Teorías Antropológicas
 
+### Relaciones e Influencias entre Escuelas Antropológicas
+
+```mermaid
+graph TD
+    A[Evolucionismo Unilineal<br/>1860-1920] --> B[Particularismo Histórico<br/>1900-1940]
+    A --> C[Funcionalismo Británico<br/>1920-1960]
+    
+    B --> D[Escuela de Cultura y Personalidad<br/>1930-1950]
+    B --> E[Antropología Simbólica<br/>1960-1990]
+    
+    C --> F[Estructural-Funcionalismo<br/>1940-1970]
+    C --> G[Antropología Política<br/>1940-presente]
+    
+    H[Sociología Durkheim] --> C
+    H --> I[Estructuralismo Francés<br/>1940-1980]
+    
+    I --> J[Antropología Cognitiva<br/>1960-presente]
+    I --> E
+    
+    K[Marxismo] --> L[Materialismo Cultural<br/>1950-1980]
+    K --> M[Antropología Marxista<br/>1960-1990]
+    
+    L --> N[Ecología Cultural<br/>1950-presente]
+    
+    E --> O[Antropología Postmoderna<br/>1980-presente]
+    M --> O
+    
+    O --> P[Antropología Crítica<br/>1990-presente]
+    P --> Q[Estudios Decoloniales<br/>2000-presente]
+    
+    R[Revolución Digital] --> S[Antropología Digital<br/>1990-presente]
+    
+    T[Crisis Climática] --> U[Antropología del Antropoceno<br/>2000-presente]
+    
+    V[Neurociencias] --> J
+    W[Psicología Cognitiva] --> J
+    
+    X[Estudios Médicos] --> Y[Antropología Médica<br/>1960-presente]
+    
+    Z[Feminismo] --> AA[Antropología de Género<br/>1970-presente]
+    AA --> P
+    
+    style A fill:#ffcdd2
+    style B fill:#f8bbd9
+    style C fill:#e1bee7
+    style I fill:#c5cae9
+    style E fill:#bbdefb
+    style O fill:#b2dfdb
+    style P fill:#c8e6c9
+    style Q fill:#dcedc8
+    style S fill:#fff9c4
+    style U fill:#ffecb3
+    style J fill:#ffe0b2
+    style Y fill:#ffccbc
+```
+
+### Estado Actual
+
+```mermaid
+graph LR
+    A[Antropología Contemporánea] --> B[Paradigma Interpretativo]
+    A --> C[Paradigma Materialista]
+    A --> D[Paradigma Crítico]
+    A --> E[Paradigma Científico]
+    
+    B --> B1[Geertz - Descripción Densa]
+    B --> B2[Turner - Simbolismo Ritual]
+    B --> B3[Antropología Hermenéutica]
+    
+    C --> C1[Harris - Materialismo Cultural]
+    C --> C2[Wolf - Economía Política]
+    C --> C3[Ecología Cultural]
+    
+    D --> D1[Antropología Postcolonial]
+    D --> D2[Feminismo Antropológico]
+    D --> D3[Estudios Decoloniales]
+    
+    E --> E1[Antropología Cognitiva]
+    E --> E2[Antropología Evolutiva]
+    E --> E3[Métodos Cuantitativos]
+    
+    F[Nuevas Síntesis] --> F1[Antropología Digital]
+    F --> F2[Antropología del Antropoceno]
+    F --> F3[Antropología Médica Global]
+    F --> F4[Antropología Multiespecie]
+    
+    B --> F
+    C --> F
+    D --> F
+    E --> F
+    
+    G[Influencias Externas] --> G1[Neurociencias]
+    G --> G2[Estudios Ambientales]
+    G --> G3[Tecnologías Digitales]
+    G --> G4[Globalización]
+    
+    G1 --> E
+    G2 --> F2
+    G3 --> F1
+    G4 --> D
+    
+    style A fill:#e3f2fd
+    style B fill:#f3e5f5
+    style C fill:#e8f5e8
+    style D fill:#fff3e0
+    style E fill:#fce4ec
+    style F fill:#f1f8e9
+```
+
+```mermaid
+flowchart TD
+    A[Métodos Antropológicos] --> B[Siglo XIX - Métodos de Gabinete]
+    A --> C[Principios XX - Trabajo de Campo]
+    A --> D[Mediados XX - Especialización]
+    A --> E[Finales XX - Reflexividad]
+    A --> F[Siglo XXI - Hibridación]
+    
+    B --> B1[Método Comparativo]
+    B --> B2[Fuentes Secundarias]
+    B --> B3[Teoría de Poltrona]
+    B --> B4[Evolucionismo]
+    
+    C --> C1[Observación Participante]
+    C --> C2[Estancias Prolongadas]
+    C --> C3[Lengua Nativa]
+    C --> C4[Holismo Cultural]
+    
+    D --> D1[Métodos Estructurales]
+    D --> D2[Análisis Funcional]
+    D --> D3[Estudios de Parentesco]
+    D --> D4[Análisis Simbólico]
+    
+    E --> E1[Autocrítica Disciplinar]
+    E --> E2[Polifonía Etnográfica]
+    E --> E3[Etnografía Experimental]
+    E --> E4[Descolonización]
+    
+    F --> F1[Etnografía Digital]
+    F --> F2[Métodos Mixtos]
+    F --> F3[Etnografía Multisituada]
+    F --> F4[Big Data Antropológico]
+    F --> F5[Colaboración Interdisciplinar]
+    
+    G[Técnicas Específicas por Período]
+    
+    G --> G1[1860-1920: Comparación Evolutiva]
+    G --> G2[1920-1960: Observación Sistemática]
+    G --> G3[1960-1980: Análisis Estructural]
+    G --> G4[1980-2000: Interpretación Crítica]
+    G --> G5[2000-presente: Métodos Híbridos]
+    
+    H[Influencias Metodológicas]
+    H --> H1[Sociología Durkheim]
+    H --> H2[Psicología Gestalt]
+    H --> H3[Lingüística Saussure]
+    H --> H4[Hermenéutica Gadamer]
+    H --> H5[Poststructuralismo]
+    
+    H1 --> C
+    H2 --> D
+    H3 --> D1
+    H4 --> E
+    H5 --> E
+    
+    I[Innovaciones Contemporáneas]
+    I --> I1[Etnografía Virtual]
+    I --> I2[Análisis de Redes Sociales]
+    I --> I3[Métodos Participativos]
+    I --> I4[Etnografía Sensorial]
+    I --> I5[Métodos Decoloniales]
+    
+    style A fill:#e1f5fe
+    style B fill:#ffcdd2
+    style C fill:#f8bbd9
+    style D fill:#e1bee7
+    style E fill:#bbdefb
+    style F fill:#c8e6c9
+    style G fill:#fff9c4
+    style H fill:#ffecb3
+    style I fill:#dcedc8
+```
+
+```mermaid
+pie title Estado Actual de las Teorías Antropológicas
+    "Completamente Descartadas" : 15
+    "Superadas pero Influyentes" : 25
+    "Vigentes y Activas" : 35
+    "Emergentes y en Crecimiento" : 25
+```
+
+
 ### Teorías Completamente Descartadas
 1. **Evolucionismo Unilineal**: Por etnocentrismo y falta de base empírica
 2. **Determinismo Biológico Racial**: Por falsedad científica
@@ -514,24 +765,143 @@ La antropología contemporánea se caracteriza por su pluralidad teórica y meto
 
 ## Perspectivas de Síntesis
 
-### Hacia una Nueva Síntesis Antropológica
+```mermaid
+mindmap
+  root((Antropología))
+    Antropología Cultural
+      Antropología Simbólica
+        Geertz Interpretación
+        Turner Ritual
+        Douglas Clasificación
+      Estudios de Parentesco
+        Lévi-Strauss Alianzas
+        Fortes Descendencia
+        Schneider Significado
+      Antropología Religiosa
+        Evans-Pritchard Brujería
+        Geertz Islam
+        Rappaport Ecología Sagrada
+    
+    Antropología Social
+      Funcionalismo
+        Malinowski Necesidades
+        Radcliffe-Brown Estructura
+      Antropología Política
+        Fortes-Evans-Pritchard Sistemas
+        Gluckman Conflicto
+        Bailey Estrategia
+      Antropología Económica
+        Polanyi Reciprocidad
+        Sahlins Economía Primitiva
+        Godelier Producción
+    
+    Antropología Física
+      Evolución Humana
+        Paleoantropología
+        Genética Poblaciones
+      Primatología
+        Estudios Comportamiento
+        Conservación
+      Antropología Forense
+        Identificación Restos
+        Derechos Humanos
+    
+    Antropología Aplicada
+      Antropología Médica
+        Kleinman Modelos Explicativos
+        Good Medicina Narrativa
+        Farmer Violencia Estructural
+      Antropología del Desarrollo
+        Ferguson Máquina Anti-política
+        Escobar Post-desarrollo
+        Li Práctica Gobierno
+      Antropología Urbana
+        Hannerz Cosmópolis
+        Low Espacio Público
+        Caldeira Ciudad Muros
+    
+    Subdisciplinas Emergentes
+      Antropología Digital
+        Miller Redes Sociales
+        Horst Cultura Digital
+        Pink Etnografía Digital
+      Antropología Ambiental
+        Descola Naturaleza-Cultura
+        Kohn Selvas Pensantes
+        Tsing Ruinas Capitalismo
+      Antropología Multiespecie
+        Haraway Especies Compañía
+        Kirksey Ecología Multiespecie
+        Ingold Líneas Vida
+```
 
-La antropología del siglo XXI se mueve hacia una nueva gran síntesis que podría integrar:
 
-1. **Dimensión biocultural**: Reconocimiento de la co-evolución genes-cultura
-2. **Perspectiva multiespecie**: Inclusión de no-humanos como agentes
-3. **Enfoque multiescalar**: De lo molecular a lo planetario
-4. **Temporalidad compleja**: Pasado, presente y futuro interconectados
-5. **Ontologías múltiples**: Reconocimiento de diferentes formas de ser/existir
+### Principales Debates y Controversias en la Antropología
 
-### El Futuro de la Teoría Antropológica
-
-Las teorías antropológicas futuras probablemente se caractericen por:
-
-- **Pluriversalismo**: Reconocimiento de múltiples mundos y realidades
-- **Relacionalidad**: Enfoque en relaciones más que en entidades discretas
-- **Procesualidad**: Énfasis en procesos dinámicos sobre estructuras estáticas
-- **Colaboratividad**: Teorización conjunta con comunidades estudiadas
-- **Aplicabilidad**: Teorías orientadas a resolver problemas mundiales
+```mermaid
+graph TD
+    A[Grandes Debates Antropológicos] --> B[Debate Evolutivo vs Difusionista]
+    A --> C[Debate Funcionalismo vs Historia]
+    A --> D[Debate Estructura vs Agencia]
+    A --> E[Debate Emic vs Etic]
+    A --> F[Crisis de Representación]
+    A --> G[Debate Ciencia vs Humanidades]
+    
+    B --> B1[Tylor vs Boas<br/>1900-1920]
+    B --> B2[¿Evolución unilineal<br/>o difusión cultural?]
+    B --> B3[Resultado: Victoria<br/>del particularismo]
+    
+    C --> C1[Malinowski vs<br/>Escuela Histórica<br/>1920-1940]
+    C --> C2[¿Función presente<br/>o origen histórico?]
+    C --> C3[Resultado: Síntesis<br/>estructural-funcional]
+    
+    D --> D1[Lévi-Strauss vs<br/>Existencialistas<br/>1950-1970]
+    D --> D2[¿Estructuras inconscientes<br/>o acción consciente?]
+    D --> D3[Resultado: Antropología<br/>de la práctica Bourdieu]
+    
+    E --> E1[Harris vs Pike<br/>1960-1980]
+    E --> E2[¿Perspectiva del investigador<br/>o del nativo?]
+    E --> E3[Resultado: Complementariedad<br/>metodológica]
+    
+    F --> F1[Clifford & Marcus<br/>1980-1990]
+    F --> F2[¿Quién tiene autoridad<br/>para representar al Otro?]
+    F --> F3[Resultado: Etnografía<br/>reflexiva y colaborativa]
+    
+    G --> G1[Debate actual<br/>2000-presente]
+    G --> G2[¿Antropología científica<br/>o humanística?]
+    G --> G3[Resultado: Pluralismo<br/>metodológico]
+    
+    H[Controversias Específicas]
+    H --> H1[Caso Mead-Freeman<br/>Samoa]
+    H --> H2[Debate Chagnon<br/>Yanomami]
+    H --> H3[Polémica Tierney<br/>Darkness in El Dorado]
+    H --> H4[Debate Cultura<br/>vs Biología]
+    
+    H1 --> H1a[¿Adolescencia cultural<br/>o universal?]
+    H2 --> H2a[¿Violencia innata<br/>o construida?]
+    H3 --> H3a[Ética en investigación<br/>con pueblos indígenas]
+    H4 --> H4a[Naturaleza vs Crianza<br/>Debate continuo]
+    
+    I[Debates Contemporáneos]
+    I --> I1[Ontological Turn]
+    I --> I2[Decolonización]
+    I --> I3[Antropoceno]
+    I --> I4[Inteligencia Artificial]
+    
+    I1 --> I1a[¿Múltiples realidades<br/>o una sola naturaleza?]
+    I2 --> I2a[¿Cómo descolonizar<br/>la antropología?]
+    I3 --> I3a[¿Nuevas relaciones<br/>humano-naturaleza?]
+    I4 --> I4a[¿Qué significa<br/>ser humano en era digital?]
+    
+    style A fill:#e3f2fd
+    style B fill:#ffcdd2
+    style C fill:#f8bbd9
+    style D fill:#e1bee7
+    style E fill:#c5cae9
+    style F fill:#bbdefb
+    style G fill:#b2dfdb
+    style H fill:#fff3e0
+    style I fill:#c8e6c9
+```
 
 La disciplina antropológica continúa evolucionando, manteniéndose fiel a su vocación humanística mientras abraza nuevos métodos y perspectivas teóricas, siempre en diálogo con los desafíos contemporáneos de un mundo en transformación acelerada.
