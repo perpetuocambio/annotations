@@ -158,6 +158,218 @@ Estudios que intentan reconstruir patrones de vida de sociedades prehistóricas 
 ### Análisis de Redes Sociales
 Nuevos métodos para mapear relaciones de parentesco, intercambio y alianza.
 
+## Diagramas
+
+### Estructura general de las sociedades igualitarias y sus componentes
+
+```mermaid
+graph TD
+    A[Sociedad Igualitaria sin Estado] --> B[Organización Social]
+    A --> C[Sistema Económico]
+    A --> D[Resolución de Conflictos]
+    A --> E[Liderazgo]
+    
+    B --> B1[Parentesco]
+    B --> B2[Clanes/Linajes]
+    B --> B3[Bandas Flexibles]
+    
+    B1 --> B1a[Patrilineal]
+    B1 --> B1b[Matrilineal]
+    B1 --> B1c[Bilateral]
+    
+    C --> C1[Subsistencia]
+    C --> C2[Distribución]
+    C --> C3[Intercambio]
+    
+    C1 --> C1a[Caza-Recolección]
+    C1 --> C1b[Horticultura]
+    C1 --> C1c[Pastoreo]
+    
+    C2 --> C2a[Reciprocidad Generalizada]
+    C2 --> C2b[Sharing Networks]
+    C2 --> C2c[Redistribución Ceremonial]
+    
+    C3 --> C3a[Kula Ring]
+    C3 --> C3b[Potlatch]
+    C3 --> C3c[Hxaro]
+    
+    D --> D1[Mediación]
+    D --> D2[Compensación]
+    D --> D3[Ostracismo]
+    D --> D4[Rituales Reconciliación]
+    
+    E --> E1[Big Men]
+    E --> E2[Ancianos]
+    E --> E3[Especialistas Rituales]
+    E --> E4[Líderes Situacionales]
+    
+    style A fill:#e1f5fe
+    style B fill:#f3e5f5
+    style C fill:#e8f5e8
+    style D fill:#fff3e0
+    style E fill:#fce4ec
+```
+
+### Sistema de linajes segmentarios usando el ejemplo de los Nuer
+
+```mermaid
+graph TD
+    A[Antepasado Apical] --> B[Linaje Mayor A]
+    A --> C[Linaje Mayor B]
+    
+    B --> B1[Linaje Menor A1]
+    B --> B2[Linaje Menor A2]
+    C --> C1[Linaje Menor B1]
+    C --> C2[Linaje Menor B2]
+    
+    B1 --> B1a[Segmento Mínimo A1a]
+    B1 --> B1b[Segmento Mínimo A1b]
+    B2 --> B2a[Segmento Mínimo A2a]
+    B2 --> B2b[Segmento Mínimo A2b]
+    
+    C1 --> C1a[Segmento Mínimo B1a]
+    C1 --> C1b[Segmento Mínimo B1b]
+    C2 --> C2a[Segmento Mínimo B2a]
+    C2 --> C2b[Segmento Mínimo B2b]
+    
+    D[Conflicto entre A1a y A1b] --> E[Se unen contra nivel superior]
+    F[Conflicto entre A1 y A2] --> G[Se unen al nivel del Linaje Mayor A]
+    H[Conflicto entre Linaje A y B] --> I[Se unen al nivel tribal]
+    
+    style A fill:#ffeb3b
+    style B fill:#8bc34a
+    style C fill:#8bc34a
+    style B1 fill:#4caf50
+    style B2 fill:#4caf50
+    style C1 fill:#4caf50
+    style C2 fill:#4caf50
+    style D fill:#f44336
+    style F fill:#f44336
+    style H fill:#f44336
+```
+
+### Tipos de reciprocidad según el modelo de Marshall Sahlins
+
+```mermaid
+graph TD
+    A[Reciprocidad Generalizada] --> A1[Familia Nuclear]
+    A --> A2[Parientes Cercanos]
+    A --> A3[Sharing sin expectativa inmediata]
+    
+    B[Reciprocidad Balanceada] --> B1[Parientes Distantes]
+    B --> B2[Intercambio Ceremonial]
+    B --> B3[Expectativa de retorno equivalente]
+    
+    C[Reciprocidad Negativa] --> C1[Extraños]
+    C --> C2[Enemigos]
+    C --> C3[Intercambio desigual y explotación]
+    
+    D[Distancia Social] --> E[Cercana]
+    D --> F[Media]
+    D --> G[Lejana]
+    
+    E --> A
+    F --> B
+    G --> C
+    
+    style A fill:#4caf50
+    style B fill:#ff9800
+    style C fill:#f44336
+    style E fill:#e8f5e8
+    style F fill:#fff3e0
+    style G fill:#ffebee
+```
+
+### Organización de bandas de cazadores-recolectores
+
+```mermaid
+graph TD
+    A[Territorio Tribal] --> B[Banda 1 - 15 a 25 personas]
+    A --> C[Banda 2 - 20 a 30 personas]
+    A --> D[Banda 3 - 18 a 25 personas]
+    
+    B --> B1[Familia Nuclear 1]
+    B --> B2[Familia Nuclear 2]
+    B --> B3[Familia Nuclear 3]
+    B --> B4[Individuos solteros]
+    
+    B1 --> B1a[Padre cazador]
+    B1 --> B1b[Madre recolectora]
+    B1 --> B1c[Hijos]
+    
+    E[Recursos Estacionales] --> F[Movimiento de Bandas]
+    F --> G[Fisión]
+    F --> H[Fusión]
+    
+    G --> I[Formación de nuevas bandas]
+    H --> J[Reunión ceremonial]
+    
+    K[Liderazgo Situacional] --> K1[Mejor cazador]
+    K --> K2[Conocedor de territorio]
+    K --> K3[Mediador de disputas]
+    K --> K4[Especialista ritual]
+    
+    L[Principios de Organización] --> L1[Flexibilidad]
+    L --> L2[Consenso]
+    L --> L3[Reciprocidad]
+    L --> L4[Movilidad]
+    
+    style A fill:#81c784
+    style B fill:#a5d6a7
+    style C fill:#a5d6a7
+    style D fill:#a5d6a7
+    style E fill:#ffcc02
+    style K fill:#f48fb1
+    style L fill:#90caf9
+```
+
+### Mecanismos de resolución de conflictos sin instituciones estatales
+
+```mermaid
+flowchart TD
+    A[Conflicto Surge] --> B{Tipo de Conflicto}
+    
+    B -->|Interpersonal| C[Mediación por Ancianos]
+    B -->|Familiar| D[Intervención de Parientes]
+    B -->|Inter-grupal| E[Consejo de Líderes]
+    
+    C --> C1[Sesión Pública]
+    C1 --> C2[Escucha de ambas partes]
+    C2 --> C3[Búsqueda de consenso]
+    
+    D --> D1[Reunión familiar]
+    D1 --> D2[Presión social]
+    D2 --> D3[Reconciliación ritual]
+    
+    E --> E1[Negociación entre grupos]
+    E1 --> E2[Intercambio de bienes]
+    E2 --> E3[Matrimonio compensatorio]
+    
+    C3 --> F{¿Resolución exitosa?}
+    D3 --> F
+    E3 --> F
+    
+    F -->|Sí| G[Ritual de Reconciliación]
+    F -->|No| H[Escalamiento]
+    
+    H --> H1[Ostracismo temporal]
+    H --> H2[Expulsión del grupo]
+    H --> H3[Venganza controlada]
+    H --> H4[Separación geográfica]
+    
+    G --> I[Restauración del orden social]
+    
+    J[Principios Subyacentes] --> J1[Restauración > Castigo]
+    J --> J2[Mantenimiento de relaciones]
+    J --> J3[Equilibrio social]
+    J --> J4[Prevención de escalamiento]
+    
+    style A fill:#ffcdd2
+    style G fill:#c8e6c9
+    style I fill:#4caf50
+    style J fill:#e1f5fe
+```
+
 ## Relevancia Contemporánea
 
 ### Movimientos Sociales
