@@ -9,7 +9,7 @@
 - Paradigmas reduccionista vs. holístico
 - Principales escuelas y enfoques
 
-### 1.2 Teoría General de Sistemas Aplicada a la Ecología
+### [1.2 Teoría General de Sistemas Aplicada a la Ecología](./01.02-teoria_sistemas_ecologia.md)
 - Conceptos básicos: sistema, elemento, estructura, función
 - Propiedades emergentes de los sistemas
 - Jerarquía de sistemas ecológicos
