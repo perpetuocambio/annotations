@@ -1,0 +1,480 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Red Interactiva de Conflictos Globales</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.8.5/d3.min.js"></script>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            margin: 0;
+            padding: 20px;
+            background: #1a1a2e;
+            color: white;
+        }
+        
+        .container {
+            max-width: 100%;
+            margin: 0 auto;
+        }
+        
+        h1 {
+            text-align: center;
+            color: #e94560;
+            margin-bottom: 10px;
+        }
+        
+        .controls {
+            text-align: center;
+            margin-bottom: 20px;
+            background: #16213e;
+            padding: 15px;
+            border-radius: 8px;
+        }
+        
+        .legend {
+            display: flex;
+            justify-content: center;
+            flex-wrap: wrap;
+            gap: 15px;
+            margin-bottom: 20px;
+        }
+        
+        .legend-item {
+            display: flex;
+            align-items: center;
+            gap: 5px;
+            font-size: 12px;
+        }
+        
+        .legend-color {
+            width: 15px;
+            height: 15px;
+            border-radius: 50%;
+            border: 2px solid #fff;
+        }
+        
+        #network {
+            border: 2px solid #0f4c75;
+            border-radius: 8px;
+            background: #0f1419;
+        }
+        
+        .tooltip {
+            position: absolute;
+            background: rgba(0, 0, 0, 0.9);
+            color: white;
+            padding: 10px;
+            border-radius: 5px;
+            font-size: 12px;
+            max-width: 200px;
+            pointer-events: none;
+            border: 1px solid #e94560;
+        }
+        
+        .node-label {
+            font-size: 10px;
+            fill: white;
+            text-anchor: middle;
+            pointer-events: none;
+            font-weight: bold;
+        }
+        
+        button {
+            background: #e94560;
+            color: white;
+            border: none;
+            padding: 8px 15px;
+            border-radius: 5px;
+            cursor: pointer;
+            margin: 0 5px;
+        }
+        
+        button:hover {
+            background: #c73650;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Red Global de Conflictos Armados y Sus Conexiones</h1>
+        
+        <div class="controls">
+            <div class="legend">
+                <div class="legend-item">
+                    <div class="legend-color" style="background: #ff6b6b;"></div>
+                    <span>Conflictos</span>
+                </div>
+                <div class="legend-item">
+                    <div class="legend-color" style="background: #0984e3;"></div>
+                    <span>Superpotencias</span>
+                </div>
+                <div class="legend-item">
+                    <div class="legend-color" style="background: #74b9ff;"></div>
+                    <span>Potencias Regionales</span>
+                </div>
+                <div class="legend-item">
+                    <div class="legend-color" style="background: #00b894;"></div>
+                    <span>Países Secundarios</span>
+                </div>
+                <div class="legend-item">
+                    <div class="legend-color" style="background: #fdcb6e;"></div>
+                    <span>Industrias</span>
+                </div>
+                <div class="legend-item">
+                    <div class="legend-color" style="background: #a29bfe;"></div>
+                    <span>Organizaciones</span>
+                </div>
+                <div class="legend-item">
+                    <div class="legend-color" style="background: #636e72;"></div>
+                    <span>Grupos Armados</span>
+                </div>
+            </div>
+            <button onclick="resetZoom()">Reiniciar Vista</button>
+            <button onclick="pauseSimulation()">Pausar/Reanudar</button>
+        </div>
+        
+        <svg id="network" width="100%" height="800"></svg>
+    </div>
+
+    <script>
+        // Configuración del SVG
+        const svg = d3.select("#network");
+        const width = window.innerWidth - 40;
+        const height = 800;
+        svg.attr("width", width).attr("height", height);
+        
+        const g = svg.append("g");
+        
+        // Configuración del zoom
+        const zoom = d3.zoom()
+            .scaleExtent([0.3, 3])
+            .on("zoom", (event) => {
+                g.attr("transform", event.transform);
+            });
+        
+        svg.call(zoom);
+        
+        // Tooltip
+        const tooltip = d3.select("body").append("div")
+            .attr("class", "tooltip")
+            .style("opacity", 0);
+
+        // Datos de la red
+        const nodes = [
+            // Conflictos
+            {id: "PI", name: "Palestina-Israel", type: "conflict", casualties: "150,000+", description: "Conflicto más largo activo desde 1948"},
+            {id: "SY", name: "Siria", type: "conflict", casualties: "656,493", description: "Guerra civil con múltiples actores internacionales"},
+            {id: "YE", name: "Yemen", type: "conflict", casualties: "400,000+", description: "Peor crisis humanitaria mundial"},
+            {id: "AF", name: "Afganistán", type: "conflict", casualties: "212,191", description: "Guerra más larga de EEUU (2001-2021)"},
+            {id: "IQ", name: "Irak", type: "conflict", casualties: "300,000-500,000", description: "Invasión EEUU 2003, surgimiento ISIS"},
+            {id: "SD", name: "Sudán", type: "conflict", casualties: "150,000", description: "Guerra civil actual desde 2023"},
+            {id: "NG", name: "Nigeria/Boko Haram", type: "conflict", casualties: "35,000+", description: "Insurgencia islamista en África Occidental"},
+            
+            // Superpotencias
+            {id: "US", name: "Estados Unidos", type: "superpower", role: "Hegemon global, principal exportador armas"},
+            {id: "RU", name: "Rusia", type: "superpower", role: "Potencia revisionista, exportador armas"},
+            {id: "CN", name: "China", type: "superpower", role: "Potencia emergente, reconstrucción post-conflicto"},
+            
+            // Potencias Regionales
+            {id: "SA", name: "Arabia Saudí", type: "regional", role: "Hegemon regional Golfo, intervención Yemen"},
+            {id: "IR", name: "Irán", type: "regional", role: "Eje de resistencia, influencia chiíe"},
+            {id: "TR", name: "Turquía", type: "regional", role: "Potencia neo-otomana, intervención Siria"},
+            {id: "UAE", name: "Emiratos", type: "regional", role: "Proyección poder, intervención Yemen/Sudán"},
+            {id: "EG", name: "Egipto", type: "regional", role: "Estabilidad regional, aliado EEUU"},
+            {id: "PK", name: "Pakistán", type: "regional", role: "Profundidad estratégica Afganistán"},
+            {id: "IL", name: "Israel", type: "regional", role: "Aliado estratégico EEUU, ocupación Palestina"},
+            
+            // Países Secundarios
+            {id: "JO", name: "Jordania", type: "secondary", role: "Estabilidad, campos refugiados"},
+            {id: "DE", name: "Alemania", type: "secondary", role: "Apoyo basado en culpa histórica"},
+            {id: "UK", name: "Reino Unido", type: "secondary", role: "Socio EEUU, exportador armas"},
+            {id: "FR", name: "Francia", type: "secondary", role: "Intervención África, exportador armas"},
+            {id: "TD", name: "Chad", type: "secondary", role: "Refugiados Sudán y Nigeria"},
+            {id: "OM", name: "Omán", type: "secondary", role: "Mediación Yemen"},
+            {id: "QA", name: "Qatar", type: "secondary", role: "Financiación Hamas, mediación Taliban"},
+            {id: "LB", name: "Líbano", type: "secondary", role: "Base Hezbollah, influencia Irán"},
+            {id: "SY_STATE", name: "Siria (Estado)", type: "secondary", role: "Régimen Assad, apoyo Rusia/Irán"},
+            
+            // Industrias
+            {id: "ARMS", name: "Industria Armamentística", type: "industry", role: "Beneficiario global de conflictos"},
+            {id: "OIL", name: "Sector Petrolero", type: "industry", role: "Control recursos energéticos"},
+            {id: "GOLD", name: "Minería Oro", type: "industry", role: "Financiación conflictos África"},
+            {id: "PMC", name: "Contratistas Militares", type: "industry", role: "Privatización guerra"},
+            
+            // Organizaciones
+            {id: "UN", name: "ONU", type: "organization", role: "Respuesta humanitaria limitada"},
+            {id: "NATO", name: "OTAN", type: "organization", role: "Alianza militar occidental"},
+            
+            // Grupos Armados
+            {id: "ISIS", name: "ISIS", type: "militant", role: "Terrorismo transnacional, surgió de Al-Qaeda Irak"},
+            {id: "TAL", name: "Talibanes", type: "militant", role: "Victoria Afganistán, apoyo histórico Pakistán/EEUU"},
+            {id: "BH", name: "Boko Haram", type: "militant", role: "Insurgencia Nigeria"},
+            {id: "HAMAS", name: "Hamas", type: "militant", role: "Gobierno Gaza, apoyo Irán/Qatar"},
+            {id: "HEID", name: "Hezbollah", type: "militant", role: "Partido-milicia Líbano, proxy Irán"},
+            {id: "AQ", name: "Al-Qaeda", type: "militant", role: "Red terrorista global, históricamente apoyada"},
+            {id: "HOUT", name: "Hutíes", type: "militant", role: "Control norte Yemen, apoyo Irán"}
+        ];
+
+        const links = [
+            // Conexiones principales beneficiarios directos
+            {source: "PI", target: "US", type: "direct", relation: "Apoyo militar y político"},
+            {source: "PI", target: "IL", type: "direct", relation: "Ocupante principal"},
+            {source: "PI", target: "ARMS", type: "direct", relation: "Consumidor armas"},
+            
+            {source: "SY", target: "RU", type: "direct", relation: "Intervención militar directa"},
+            {source: "SY", target: "IR", type: "direct", relation: "Apoyo régimen Assad"},
+            {source: "SY", target: "TR", type: "direct", relation: "Control territorios norte"},
+            
+            {source: "YE", target: "SA", type: "direct", relation: "Líder coalición militar"},
+            {source: "YE", target: "UAE", type: "direct", relation: "Socio coalición"},
+            {source: "YE", target: "ARMS", type: "direct", relation: "Comprador masivo armas"},
+            
+            {source: "AF", target: "TAL", type: "direct", relation: "Victoria final"},
+            {source: "AF", target: "PK", type: "direct", relation: "Apoyo talibanes"},
+            {source: "AF", target: "CN", type: "direct", relation: "Acceso recursos minerales"},
+            
+            {source: "IQ", target: "IR", type: "direct", relation: "Influencia post-invasión"},
+            {source: "IQ", target: "PMC", type: "direct", relation: "Contratos reconstrucción"},
+            {source: "IQ", target: "OIL", type: "direct", relation: "Control recursos petroleros"},
+            
+            {source: "SD", target: "UAE", type: "direct", relation: "Apoyo RSF, acceso oro"},
+            {source: "SD", target: "EG", type: "direct", relation: "Apoyo SAF, estabilidad"},
+            {source: "SD", target: "GOLD", type: "direct", relation: "Control minas oro"},
+            
+            {source: "NG", target: "FR", type: "direct", relation: "Operaciones antiterroristas"},
+            {source: "NG", target: "BH", type: "direct", relation: "Insurgencia activa"},
+            
+            // Conexiones transversales industria armamentística
+            {source: "ARMS", target: "US", type: "industry", relation: "Principal exportador global"},
+            {source: "ARMS", target: "RU", type: "industry", relation: "Segundo exportador mundial"},
+            {source: "ARMS", target: "UK", type: "industry", relation: "Exportador principal Europa"},
+            {source: "ARMS", target: "FR", type: "industry", relation: "Cuarto exportador mundial"},
+            
+            // ISIS en múltiples teatros
+            {source: "ISIS", target: "SY", type: "militant", relation: "Territorio histórico"},
+            {source: "ISIS", target: "IQ", type: "militant", relation: "Califato declarado"},
+            {source: "ISIS", target: "AF", type: "militant", relation: "Franquicia ISIS-K"},
+            {source: "ISIS", target: "NG", type: "militant", relation: "Afiliación Boko Haram"},
+            
+            // CONEXIONES HISTÓRICAS Y ACTUALES GRUPOS ARMADOS CON PAÍSES
+            
+            // Talibanes - Conexiones históricas EEUU y actuales
+            {source: "TAL", target: "US", type: "historical", relation: "Apoyo EEUU vs URSS 1980s, enemigo 2001-2021"},
+            {source: "TAL", target: "PK", type: "direct", relation: "Apoyo ISI, refugio histórico"},
+            {source: "TAL", target: "QA", type: "direct", relation: "Oficina política Doha, mediación"},
+            {source: "TAL", target: "CN", type: "current", relation: "Reconocimiento de facto, inversiones"},
+            {source: "TAL", target: "RU", type: "current", relation: "Cooperación contra ISIS-K"},
+            {source: "TAL", target: "IR", type: "current", relation: "Relaciones pragmáticas fronterizas"},
+            
+            // Hamas - Red de apoyo
+            {source: "HAMAS", target: "IR", type: "direct", relation: "Financiación, entrenamiento, armas"},
+            {source: "HAMAS", target: "QA", type: "direct", relation: "Financiación, refugio liderazgo"},
+            {source: "HAMAS", target: "TR", type: "indirect", relation: "Apoyo político, refugio ocasional"},
+            {source: "HAMAS", target: "SY_STATE", type: "historical", relation: "Oficinas históricas Damasco"},
+            {source: "HAMAS", target: "LB", type: "indirect", relation: "Coordinación con Hezbollah"},
+            
+            // Hezbollah - Proxy Irán
+            {source: "HEID", target: "IR", type: "direct", relation: "Creado y financiado por Irán"},
+            {source: "HEID", target: "LB", type: "direct", relation: "Partido político dominante"},
+            {source: "HEID", target: "SY_STATE", type: "direct", relation: "Intervención militar apoyando Assad"},
+            {source: "HEID", target: "YE", type: "indirect", relation: "Entrenamiento hutíes"},
+            
+            // Hutíes - Apoyo iraní
+            {source: "HOUT", target: "IR", type: "direct", relation: "Armas, entrenamiento, asesoría"},
+            {source: "HOUT", target: "HEID", type: "indirect", relation: "Entrenamiento y coordinación"},
+            {source: "YE", target: "HOUT", type: "direct", relation: "Control norte Yemen, capital Saná"},
+            
+            // ISIS - Conexiones complejas origen
+            {source: "ISIS", target: "US", type: "historical", relation: "Surgió de vacío post-invasión Irak"},
+            {source: "ISIS", target: "AQ", type: "historical", relation: "Escisión Al-Qaeda Irak"},
+            {source: "ISIS", target: "SA", type: "indirect", relation: "Financiación privada inicial ciudadanos"},
+            {source: "ISIS", target: "TR", type: "historical", relation: "Frontera porosa, petróleo ilegal"},
+            
+            // Al-Qaeda - Conexiones históricas
+            {source: "AQ", target: "US", type: "historical", relation: "Apoyo anti-soviético, enemigo post-11S"},
+            {source: "AQ", target: "PK", type: "historical", relation: "Refugio tribal, apoyo ISI"},
+            {source: "AQ", target: "SA", type: "historical", relation: "Origen ideológico wahabí"},
+            {source: "AQ", target: "YE", target: "HOUT", type: "militant", relation: "AQPA vs Hutíes"},
+            
+            // Boko Haram - Conexiones regionales
+            {source: "BH", target: "TD", type: "indirect", relation: "Operaciones transfronterizas"},
+            {source: "BH", target: "ISIS", type: "direct", relation: "Lealtad declarada 2015"},
+            {source: "BH", target: "FR", type: "indirect", relation: "Justificación intervención francesa"},
+            
+            // Conexiones refugiados
+            {source: "SY", target: "JO", type: "indirect", relation: "Campo refugiados masivo"},
+            {source: "SY", target: "TR", type: "indirect", relation: "3.6M refugiados sirios"},
+            {source: "AF", target: "PK", type: "indirect", relation: "Millones refugiados afganos"},
+            {source: "SD", target: "TD", type: "indirect", relation: "Flujo masivo refugiados"},
+            
+            // Superpotencias en múltiples conflictos
+            {source: "US", target: "PI", type: "geopolitical", relation: "$3.8B ayuda militar anual"},
+            {source: "US", target: "AF", type: "geopolitical", relation: "Guerra más larga 20 años"},
+            {source: "US", target: "IQ", type: "geopolitical", relation: "Invasión 2003"},
+            {source: "US", target: "YE", type: "geopolitical", relation: "Apoyo coalición saudí"},
+            
+            {source: "RU", target: "SY", type: "geopolitical", relation: "Cambio curso guerra"},
+            {source: "RU", target: "SD", type: "geopolitical", relation: "Grupos Wagner"},
+            
+            {source: "CN", target: "AF", type: "geopolitical", relation: "Extracción litio post-Taliban"},
+            {source: "CN", target: "IQ", type: "geopolitical", relation: "Contratos petróleo post-guerra"},
+            {source: "CN", target: "SY", type: "geopolitical", relation: "Reconstrucción Franja y Ruta"},
+            
+            // Irán eje resistencia
+            {source: "IR", target: "SY", type: "proxy", relation: "Apoyo Assad, Hezbollah"},
+            {source: "IR", target: "YE", type: "proxy", relation: "Apoyo hutíes"},
+            {source: "IR", target: "PI", type: "proxy", relation: "Apoyo Hamas, Hezbollah"}
+        ];
+
+        // Colores por tipo
+        const colors = {
+            conflict: "#ff6b6b",
+            superpower: "#0984e3", 
+            regional: "#74b9ff",
+            secondary: "#00b894",
+            industry: "#fdcb6e",
+            organization: "#a29bfe",
+            militant: "#636e72"
+        };
+
+        // Colores de enlaces por tipo
+        const linkColors = {
+            direct: "#e94560",
+            indirect: "#f39c12",
+            industry: "#9b59b6",
+            geopolitical: "#3498db",
+            proxy: "#e74c3c",
+            militant: "#95a5a6",
+            historical: "#8e44ad",
+            current: "#27ae60"
+        };
+
+        // Configuración de la simulación
+        const simulation = d3.forceSimulation(nodes)
+            .force("link", d3.forceLink(links).id(d => d.id).distance(100).strength(0.3))
+            .force("charge", d3.forceManyBody().strength(-800))
+            .force("center", d3.forceCenter(width / 2, height / 2))
+            .force("collision", d3.forceCollide().radius(25));
+
+        // Crear enlaces
+        const link = g.append("g")
+            .selectAll("line")
+            .data(links)
+            .enter().append("line")
+            .attr("stroke", d => linkColors[d.type] || "#999")
+            .attr("stroke-opacity", 0.6)
+            .attr("stroke-width", d => d.type === 'direct' ? 3 : 1.5);
+
+        // Crear nodos
+        const node = g.append("g")
+            .selectAll("circle")
+            .data(nodes)
+            .enter().append("circle")
+            .attr("r", d => {
+                if (d.type === "conflict") return 20;
+                if (d.type === "superpower") return 18;
+                if (d.type === "regional") return 15;
+                return 12;
+            })
+            .attr("fill", d => colors[d.type])
+            .attr("stroke", "#fff")
+            .attr("stroke-width", 2)
+            .call(d3.drag()
+                .on("start", dragstarted)
+                .on("drag", dragged)
+                .on("end", dragended))
+            .on("mouseover", showTooltip)
+            .on("mouseout", hideTooltip);
+
+        // Etiquetas de nodos
+        const labels = g.append("g")
+            .selectAll("text")
+            .data(nodes)
+            .enter().append("text")
+            .attr("class", "node-label")
+            .text(d => d.name.length > 12 ? d.name.substring(0, 12) + "..." : d.name)
+            .attr("dy", 35);
+
+        // Actualizar posiciones en cada tick
+        simulation.on("tick", () => {
+            link
+                .attr("x1", d => d.source.x)
+                .attr("y1", d => d.source.y)
+                .attr("x2", d => d.target.x)
+                .attr("y2", d => d.target.y);
+
+            node
+                .attr("cx", d => d.x)
+                .attr("cy", d => d.y);
+
+            labels
+                .attr("x", d => d.x)
+                .attr("y", d => d.y);
+        });
+
+        // Funciones de drag
+        function dragstarted(event, d) {
+            if (!event.active) simulation.alphaTarget(0.3).restart();
+            d.fx = d.x;
+            d.fy = d.y;
+        }
+
+        function dragged(event, d) {
+            d.fx = event.x;
+            d.fy = event.y;
+        }
+
+        function dragended(event, d) {
+            if (!event.active) simulation.alphaTarget(0);
+            d.fx = null;
+            d.fy = null;
+        }
+
+        // Funciones de tooltip
+        function showTooltip(event, d) {
+            tooltip.transition().duration(200).style("opacity", 1);
+            let content = `<strong>${d.name}</strong><br/>`;
+            if (d.casualties) content += `Víctimas: ${d.casualties}<br/>`;
+            if (d.role) content += `Rol: ${d.role}<br/>`;
+            if (d.description) content += `${d.description}`;
+            
+            tooltip.html(content)
+                .style("left", (event.pageX + 10) + "px")
+                .style("top", (event.pageY - 10) + "px");
+        }
+
+        function hideTooltip() {
+            tooltip.transition().duration(200).style("opacity", 0);
+        }
+
+        // Funciones de control
+        function resetZoom() {
+            svg.transition().duration(750).call(
+                zoom.transform,
+                d3.zoomIdentity
+            );
+        }
+
+        let simulationRunning = true;
+        function pauseSimulation() {
+            if (simulationRunning) {
+                simulation.stop();
+                simulationRunning = false;
+            } else {
+                simulation.restart();
+                simulationRunning = true;
+            }
+        }
+
+        // Responsivo
+        window.addEventListener('resize', () => {
+            const newWidth = window.innerWidth - 40;
+            svg.attr("width", newWidth);
+            simulation.force("center", d3.forceCenter(newWidth / 2, height / 2));
+            simulation.alpha(0.3).restart();
+        });
+    </script>
+</body>
+</html>
