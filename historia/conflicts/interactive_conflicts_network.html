@@ -73,6 +73,197 @@
             border: 1px solid #e94560;
         }
         
+        /* Estilos para sección explicaciones */
+        .explanations-section {
+            margin-top: 40px;
+            padding: 20px;
+            background: #16213e;
+            border-radius: 12px;
+        }
+        
+        .explanations-section h2 {
+            color: #e94560;
+            text-align: center;
+            margin-bottom: 30px;
+            font-size: 28px;
+        }
+        
+        .category-section {
+            margin-bottom: 40px;
+        }
+        
+        .category-section h3 {
+            color: #74b9ff;
+            margin-bottom: 20px;
+            font-size: 22px;
+            border-bottom: 2px solid #74b9ff;
+            padding-bottom: 8px;
+        }
+        
+        .cards-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(500px, 1fr));
+            gap: 20px;
+        }
+        
+        .connection-card {
+            background: #0f1419;
+            border-radius: 8px;
+            padding: 20px;
+            border: 2px solid;
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+        }
+        
+        .connection-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 8px 20px rgba(233, 69, 96, 0.3);
+        }
+        
+        .connection-card.historical {
+            border-color: #8e44ad;
+        }
+        
+        .connection-card.proxy {
+            border-color: #e74c3c;
+        }
+        
+        .connection-card.industry {
+            border-color: #fdcb6e;
+        }
+        
+        .connection-card.indirect {
+            border-color: #f39c12;
+        }
+        
+        .connection-card h4 {
+            color: #e94560;
+            margin-bottom: 15px;
+            font-size: 18px;
+        }
+        
+        .connection-card h5 {
+            color: #74b9ff;
+            margin: 10px 0 5px 0;
+            font-size: 16px;
+        }
+        
+        .timeline {
+            background: #1a1a2e;
+            padding: 15px;
+            border-radius: 6px;
+        }
+        
+        .timeline-item {
+            display: flex;
+            margin-bottom: 10px;
+            align-items: flex-start;
+        }
+        
+        .timeline-item .year {
+            background: #e94560;
+            color: white;
+            padding: 4px 8px;
+            border-radius: 4px;
+            font-weight: bold;
+            min-width: 80px;
+            text-align: center;
+            margin-right: 10px;
+        }
+        
+        .timeline-item .desc {
+            flex: 1;
+            font-size: 14px;
+        }
+        
+        .double-game {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 15px;
+            margin: 15px 0;
+        }
+        
+        .side {
+            background: #1a1a2e;
+            padding: 15px;
+            border-radius: 6px;
+        }
+        
+        .qatar-roles .role {
+            background: #1a1a2e;
+            padding: 15px;
+            border-radius: 6px;
+            margin-bottom: 10px;
+        }
+        
+        .iran-proxies {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 15px;
+        }
+        
+        .proxy-group {
+            background: #1a1a2e;
+            padding: 15px;
+            border-radius: 6px;
+            border-left: 4px solid #e74c3c;
+        }
+        
+        .arms-trade {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 15px;
+        }
+        
+        .exporter {
+            background: #1a1a2e;
+            padding: 15px;
+            border-radius: 6px;
+            border-left: 4px solid #fdcb6e;
+        }
+        
+        .resources-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 15px;
+        }
+        
+        .resource {
+            background: #1a1a2e;
+            padding: 15px;
+            border-radius: 6px;
+            border-left: 4px solid #00b894;
+        }
+        
+        .refugee-flows .flow {
+            background: #1a1a2e;
+            padding: 15px;
+            border-radius: 6px;
+            margin-bottom: 10px;
+            border-left: 4px solid #f39c12;
+        }
+        
+        .humanitarian-politics {
+            background: #1a1a2e;
+            padding: 15px;
+            border-radius: 6px;
+        }
+        
+        .connection-card ul {
+            margin: 10px 0;
+            padding-left: 20px;
+        }
+        
+        .connection-card li {
+            margin-bottom: 5px;
+            font-size: 14px;
+        }
+        
+        .connection-card p {
+            margin: 10px 0;
+            line-height: 1.5;
+            font-size: 14px;
+        }
+        
         .node-label {
             font-size: 10px;
             fill: white;
@@ -130,12 +321,246 @@
                     <div class="legend-color" style="background: #636e72;"></div>
                     <span>Grupos Armados</span>
                 </div>
+                <div class="legend-item">
+                    <div class="legend-color" style="background: #8e44ad;"></div>
+                    <span>Conexiones Históricas</span>
+                </div>
+                <div class="legend-item">
+                    <div class="legend-color" style="background: #27ae60;"></div>
+                    <span>Conexiones Actuales</span>
+                </div>
             </div>
             <button onclick="resetZoom()">Reiniciar Vista</button>
             <button onclick="pauseSimulation()">Pausar/Reanudar</button>
         </div>
         
         <svg id="network" width="100%" height="800"></svg>
+        
+        <!-- Sección de Cards Explicativas -->
+        <div class="explanations-section">
+            <h2>Análisis Detallado de Conexiones</h2>
+            
+            <!-- Cards por categorías -->
+            <div class="category-section">
+                <h3>🔴 Conexiones Paradójicas: De Aliados a Enemigos</h3>
+                <div class="cards-grid">
+                    <div class="connection-card historical">
+                        <h4>🇺🇸 EEUU ↔️ 🏴 Talibanes</h4>
+                        <div class="timeline">
+                            <div class="timeline-item">
+                                <span class="year">1980s</span>
+                                <span class="desc">EEUU financia y entrena muyahidines (incluidos futuros talibanes) contra URSS vía Pakistán. Operación Ciclón: $3 mil millones.</span>
+                            </div>
+                            <div class="timeline-item">
+                                <span class="year">1996-2001</span>
+                                <span class="desc">Talibanes toman poder. EEUU mantiene relaciones pragmáticas por oleoductos.</span>
+                            </div>
+                            <div class="timeline-item">
+                                <span class="year">2001-2021</span>
+                                <span class="desc">Guerra total. EEUU invade tras 11-S. $2.3 billones gastados, 170,000+ muertes.</span>
+                            </div>
+                            <div class="timeline-item">
+                                <span class="year">2018-2021</span>
+                                <span class="desc">Negociaciones directas Doha. EEUU reconoce talibanes como interlocutor legítimo.</span>
+                            </div>
+                            <div class="timeline-item">
+                                <span class="year">2021-presente</span>
+                                <span class="desc">Victoria Taliban. EEUU mantiene contactos por terrorismo y ayuda humanitaria.</span>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="connection-card historical">
+                        <h4>🇺🇸 EEUU → 🏴 ISIS (Consecuencia No Intencionada)</h4>
+                        <p><strong>Cadena causal:</strong></p>
+                        <ul>
+                            <li><strong>2003:</strong> Invasión Irak destruye Estado iraquí</li>
+                            <li><strong>2003-2006:</strong> Desmantelamiento ejército iraquí crea insurgencia</li>
+                            <li><strong>2004:</strong> Surge "Al-Qaeda en Irak" liderado por Al-Zarqawi</li>
+                            <li><strong>2006-2013:</strong> Evoluciona a "Estado Islámico de Irak"</li>
+                            <li><strong>2013:</strong> Se expande a Siria = ISIS</li>
+                            <li><strong>2014:</strong> Declara "Califato" en territorio iraquí-sirio</li>
+                        </ul>
+                        <p><strong>Ironía:</strong> EEUU crea la coalición anti-ISIS para combatir lo que indirectamente ayudó a crear.</p>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="category-section">
+                <h3>🎭 El Juego Doble: Aliados que Apoyan Enemigos</h3>
+                <div class="cards-grid">
+                    <div class="connection-card proxy">
+                        <h4>🇵🇰 Pakistán: Aliado EEUU que Apoya Talibanes</h4>
+                        <div class="double-game">
+                            <div class="side">
+                                <h5>🤝 Como Aliado EEUU:</h5>
+                                <ul>
+                                    <li>$33 mil millones ayuda militar 2002-2017</li>
+                                    <li>Operaciones antiterroristas conjuntas</li>
+                                    <li>Bases para drones estadounidenses</li>
+                                    <li>Captura líderes Al-Qaeda (incluido KSM)</li>
+                                </ul>
+                            </div>
+                            <div class="side">
+                                <h5>🤫 Como Apoyo Taliban:</h5>
+                                <ul>
+                                    <li>ISI entrena y financia talibanes</li>
+                                    <li>Refugio seguro en áreas tribales</li>
+                                    <li>Hospitales para heridos taliban</li>
+                                    <li>"Profundidad estratégica" vs India</li>
+                                </ul>
+                            </div>
+                        </div>
+                        <p><strong>Resultado:</strong> Pakistán cobra por ayudar a EEUU mientras asegura que EEUU no pueda ganar.</p>
+                    </div>
+                    
+                    <div class="connection-card proxy">
+                        <h4>🇶🇦 Qatar: El Mediador Financiador</h4>
+                        <div class="qatar-roles">
+                            <div class="role">
+                                <h5>💰 Financia Hamas:</h5>
+                                <p>$1.1 mil millones transferidos a Gaza 2012-2021. Salarios funcionarios, combustible, proyectos infraestructura.</p>
+                            </div>
+                            <div class="role">
+                                <h5>🏢 Hospeda Oficina Taliban:</h5>
+                                <p>Oficina política Taliban en Doha desde 2013. Negociaciones directas EEUU-Taliban.</p>
+                            </div>
+                            <div class="role">
+                                <h5>🛡️ Base Militar EEUU:</h5>
+                                <p>Base Aérea Al Udeid: 11,000 soldados estadounidenses. Centro operaciones regionales.</p>
+                            </div>
+                        </div>
+                        <p><strong>Paradoja:</strong> Qatar financia enemigos de Israel mientras aloja bases que protegen Israel.</p>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="category-section">
+                <h3>🕸️ El Eje de Resistencia Iraní</h3>
+                <div class="cards-grid">
+                    <div class="connection-card proxy">
+                        <h4>🇮🇷 Irán: Arquitecto de Red Proxy</h4>
+                        <div class="iran-proxies">
+                            <div class="proxy-group">
+                                <h5>🇱🇧 Hezbollah (Líbano)</h5>
+                                <ul>
+                                    <li><strong>Presupuesto:</strong> $700M anuales</li>
+                                    <li><strong>Arsenal:</strong> 130,000+ cohetes/misiles</li>
+                                    <li><strong>Combatientes:</strong> 20,000+ activos</li>
+                                    <li><strong>Rol:</strong> Partido dominante + milicia</li>
+                                </ul>
+                            </div>
+                            <div class="proxy-group">
+                                <h5>🏴 Hamas (Gaza)</h5>
+                                <ul>
+                                    <li><strong>Apoyo:</strong> $100M+ anuales</li>
+                                    <li><strong>Entrenamiento:</strong> Comandos en Irán</li>
+                                    <li><strong>Armas:</strong> Transferencia vía túneles</li>
+                                    <li><strong>Coordinación:</strong> Ataques sincronizados</li>
+                                </ul>
+                            </div>
+                            <div class="proxy-group">
+                                <h5>🏴 Hutíes (Yemen)</h5>
+                                <ul>
+                                    <li><strong>Armas:</strong> Misiles balísticos avanzados</li>
+                                    <li><strong>Asesores:</strong> IRGC y Hezbollah</li>
+                                    <li><strong>Objetivo:</strong> Presión sobre Arabia Saudí</li>
+                                    <li><strong>Bloqueo:</strong> Estrecho Bab el-Mandab</li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="category-section">
+                <h3>💰 Complejo Militar-Industrial Global</h3>
+                <div class="cards-grid">
+                    <div class="connection-card industry">
+                        <h4>🏭 Industria Armamentística: Los Verdaderos Ganadores</h4>
+                        <div class="arms-trade">
+                            <div class="exporter">
+                                <h5>🇺🇸 Estados Unidos (39% global)</h5>
+                                <ul>
+                                    <li>Lockheed Martin, Boeing, Raytheon</li>
+                                    <li>Principales clientes: Arabia Saudí, Israel</li>
+                                    <li>Yemen: $54.6B armas a coalición saudí</li>
+                                </ul>
+                            </div>
+                            <div class="exporter">
+                                <h5>🇷🇺 Rusia (20% global)</h5>
+                                <ul>
+                                    <li>Rosoboronexport, Kalashnikov</li>
+                                    <li>Principales clientes: India, China, Siria</li>
+                                    <li>Siria: Sistemas S-400, jets Su-30</li>
+                                </ul>
+                            </div>
+                            <div class="exporter">
+                                <h5>🇫🇷 Francia (8% global)</h5>
+                                <ul>
+                                    <li>Dassault, Thales, Naval Group</li>
+                                    <li>Yemen: Jets Mirage a EAU</li>
+                                    <li>África: Justifica intervención = ventas</li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="connection-card industry">
+                        <h4>⛽ Recursos Naturales como Motor de Conflicto</h4>
+                        <div class="resources-grid">
+                            <div class="resource">
+                                <h5>🛢️ Petróleo - Irak/Siria</h5>
+                                <p>China obtiene contratos petroleros post-guerra. ISIS vendió petróleo $500M via Turquía.</p>
+                            </div>
+                            <div class="resource">
+                                <h5>🥇 Oro - Sudán</h5>
+                                <p>EAU apoya RSF para acceder minas oro. 90+ toneladas exportadas ilegalmente.</p>
+                            </div>
+                            <div class="resource">
+                                <h5>🔋 Litio - Afganistán</h5>
+                                <p>China negocia con Taliban acceso $1 billón reservas minerales.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="category-section">
+                <h3>🌊 Crisis Humanitarias como Herramientas Geopolíticas</h3>
+                <div class="cards-grid">
+                    <div class="connection-card indirect">
+                        <h4>👥 Refugiados como Arma Diplomática</h4>
+                        <div class="refugee-flows">
+                            <div class="flow">
+                                <h5>🇸🇾 Siria → 🇹🇷 Turquía</h5>
+                                <p><strong>3.6M refugiados sirios.</strong> Turquía usa como palanca sobre UE: "€6 mil millones o abro fronteras"</p>
+                            </div>
+                            <div class="flow">
+                                <h5>🇸🇩 Sudán → 🇹🇩 Chad</h5>
+                                <p><strong>1.2M refugiados.</strong> Chad recibe fondos internacionales, Francia mantiene influencia regional.</p>
+                            </div>
+                            <div class="flow">
+                                <h5>🇦🇫 Afganistán → 🇵🇰 Pakistán</h5>
+                                <p><strong>3M+ refugiados históricos.</strong> Pakistán recibe ayuda internacional, justifica políticas pro-Taliban.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="connection-card indirect">
+                        <h4>🏥 Ayuda Humanitaria = Influencia Política</h4>
+                        <div class="humanitarian-politics">
+                            <p><strong>Patrón global:</strong> Países crean crisis → ofrecen ayuda humanitaria → ganan influencia</p>
+                            <ul>
+                                <li><strong>Arabia Saudí:</strong> Destruye Yemen, dona $500M ayuda humanitaria</li>
+                                <li><strong>Turquía:</strong> Interviene Siria, aloja refugiados, gana € de UE</li>
+                                <li><strong>Francia:</strong> Interviene Sahel, "protege" civiles, mantiene influencia</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
     </div>
 
     <script>
