@@ -747,20 +747,8 @@ else:
 
 ### 10.2 Recursos Adicionales
 
-#### 10.2.1 Libros Recomendados
-- "Mathematical Logic" - Shoenfield
-- "A Mathematical Introduction to Logic" - Enderton  
-- "Logic for Computer Science" - Huth & Ryan
-- "Handbook of Practical Logic and Automated Reasoning" - Harrison
-
-#### 10.2.2 Cursos Online
-- **Coursera:** "Introduction to Mathematical Thinking" - Stanford
-- **edX:** "Automated Reasoning" - TU Delft
-- **MIT OpenCourseWare:** "6.825 Techniques in Artificial Intelligence"
-- **Khan Academy:** "Algebra Basics" (para fundamentos)
-
-#### 10.2.3 Herramientas Online
-- **Logic Calculator:** https://www.logicmatters.net/resources/
+- **Logic Matters:** https://www.logicmatters.net/
 - **Truth Table Generator:** https://web.stanford.edu/class/cs103/tools/truth-table-tool/
 - **Z3 Online:** https://rise4fun.com/Z3
-- **Lean Web Editor:** https://leanprover.github.io/live/
+- **Lean:** https://leanprover.github.io/
+- **Demostración Asistida por Ordenador con Coq***: https://www.glc.us.es/~jalonso/DAOconCoq/index.php/Demostraci%C3%B3n_Asistida_por_Ordenador_con_Coq
