@@ -68,7 +68,10 @@ flowchart LR
 
 ---
 
-## II. ÍNDICE DE BIENESTAR HISTÓRICO PONDERADO (IBHP)
+## II. PROPUESTA METODOLÓGICA: ÍNDICE DE BIENESTAR HISTÓRICO PONDERADO (IBHP)
+
+### **NOTA METODOLÓGICA IMPORTANTE:**
+El Índice de Bienestar Histórico Ponderado (IBHP) es una **herramienta analítica desarrollada específicamente para esta investigación**. No existe como índice académico estandarizado en la literatura historiográfica. Su construcción se basa en la adaptación de principios de índices de desarrollo humano existentes (HDI, Better Life Index) a las especificidades de la comparación histórica transperiódica.
 
 ### A. Estructura Multidimensional
 
@@ -786,7 +789,7 @@ xychart-beta
 ### A. Contribución a la Historiografía Comparativa
 
 #### 1. **Innovación Metodológica**
-Este estudio representa la **primera aplicación sistemática** de un índice multidimensional de bienestar a períodos históricos extensos, superando limitaciones de:
+Este estudio propone la **primera aplicación sistemática** de un índice multidimensional de bienestar específicamente diseñado para períodos históricos extensos (**IBHP - Índice de Bienestar Histórico Ponderado**), superando limitaciones de:
 
 - **Enfoques puramente cuantitativos**: (salarios reales, PIB per cápita)
 - **Narrativas exclusivamente cualitativas**: (historia social tradicional)
@@ -935,7 +938,7 @@ El **progreso histórico ha sido contradictorio y no-lineal**, requiriendo **aba
 El **estancamiento actual del IBHP** (1950-2025) sugiere que el modelo neoliberal ha agotado su capacidad de mejora social, abriendo posibilidades para **alternativas históricamente informadas**.
 
 **Contribución Académica:**
-Este estudio representa la **primera aplicación sistemática** de metodología multidimensional a períodos históricos extensos, estableciendo **nuevo paradigma** para historia comparativa del bienestar social.
+Este estudio propone la **primera aplicación sistemática** de metodología multidimensional específicamente diseñada para períodos históricos extensos (**IBHP**), estableciendo **nuevo paradigma metodológico** para historia comparativa del bienestar social que puede ser replicado y refinado por futuros investigadores.
 
 **Lección Final:**
 La historia europea demuestra que **"otro mundo es posible"** porque **"otros mundos han existido"**. La tarea historiográfica consiste en recuperar esta diversidad de experiencias para **imaginar futuros más justos y humanos**.
