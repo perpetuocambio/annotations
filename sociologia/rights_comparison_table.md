@@ -450,43 +450,42 @@ La destrucción de este control obrero sobre la producción representa una **reg
 ### 3. Redes Comunitarias vs Individualismo
 
 ```mermaid
-mindmap
-  root((Sistemas de Apoyo Social))
-    (Edad Media)
-      [Familia Extendida]
-        Soporte económico
-        Cuidado ancianos/enfermos
-        Transmisión conocimientos
-      [Comunidad Local]
-        Solidaridad vecinal
-        Trabajo colaborativo
-        Festividades comunitarias
-      [Gremios]
-        Seguros mutuos
-        Formación profesional
-        Representación política
-      [Iglesia]
-        Red social universal
-        Hospitales/asilos
-        Educación básica
-    (Capitalismo Temprano)
-      [Destrucción Vínculos]
-        Migración forzada
-        Familias separadas
-        Pérdida tradiciones
-      [Mercado Individual]
-        Supervivencia individual
-        Competencia destructiva
-        Alienación social
-    (Actualidad)
-      [Estado de Bienestar]
-        Protección formal
-        Burocracia impersonal
-        Crisis de financiación
-      [Individualismo Extremo]
-        Responsabilidad personal
-        Redes virtuales débiles
-        Soledad epidémica
+flowchart TD
+    A[Sistemas de Apoyo Social] --> B[Edad Media]
+    A --> C[Capitalismo Temprano]
+    A --> D[Actualidad]
+    
+    B --> B1[Familia Extendida]
+    B1 --> B1a["✓ Soporte económico<br/>✓ Cuidado ancianos/enfermos<br/>✓ Transmisión conocimientos"]
+    
+    B --> B2[Comunidad Local]
+    B2 --> B2a["✓ Solidaridad vecinal<br/>✓ Trabajo colaborativo<br/>✓ Festividades comunitarias"]
+    
+    B --> B3[Gremios]
+    B3 --> B3a["✓ Seguros mutuos<br/>✓ Formación profesional<br/>✓ Representación política"]
+    
+    B --> B4[Iglesia]
+    B4 --> B4a["✓ Red social universal<br/>✓ Hospitales/asilos<br/>✓ Educación básica"]
+    
+    C --> C1[Destrucción Vínculos]
+    C1 --> C1a["✗ Migración forzada<br/>✗ Familias separadas<br/>✗ Pérdida tradiciones"]
+    
+    C --> C2[Mercado Individual]
+    C2 --> C2a["✗ Supervivencia individual<br/>✗ Competencia destructiva<br/>✗ Alienación social"]
+    
+    D --> D1[Estado de Bienestar]
+    D1 --> D1a["± Protección formal<br/>± Burocracia impersonal<br/>± Crisis de financiación"]
+    
+    D --> D2[Individualismo Extremo]
+    D2 --> D2a["✗ Responsabilidad personal<br/>✗ Redes virtuales débiles<br/>✗ Soledad epidémica"]
+    
+    classDef medieval fill:#4a9eff,stroke:#2171b5,stroke-width:2px,color:#fff
+    classDef capitalist fill:#ff6b6b,stroke:#d63031,stroke-width:2px,color:#fff
+    classDef modern fill:#a8e6cf,stroke:#00b894,stroke-width:2px,color:#000
+    
+    class B1,B2,B3,B4,B1a,B2a,B3a,B4a medieval
+    class C1,C2,C1a,C2a capitalist
+    class D1,D2,D1a,D2a modern
 ```
 
 ## Comparación Honesta de Sistemas Económicos
@@ -587,41 +586,34 @@ graph TB
 ### Realidades Incómodas Documentadas
 
 ```mermaid
-mindmap
-  root((Realidades Actuales Incómodas))
-    (Laboral)
-      [Precarización Creciente]
-        Contratos temporales
-        Falsos autónomos
-        Gig economy
-        Sin protección social
-      [Intensificación]
-        Disponibilidad 24/7
-        Multitarea forzada
-        Estrés crónico
-        Burnout epidémico
-    (Social)
-      [Desigualdad Extrema]
-        1% posee 50% riqueza
-        Herencia determina posición
-        Educación reproduce clases
-        Meritocracia mítica
-      [Aislamiento]
-        Familias fragmentadas
-        Comunidades destruidas
-        Individualismo competitivo
-        Soledad epidémica
-    (Política)
-      [Democracia Formal]
-        Oligarquía mediática
-        Poder corporativo real
-        Partidos intercambiables
-        Ciudadanía espectadora
-      [Control Sutil]
-        Vigilancia digital
-        Manipulación algoritmica
-        Consumo dirigido
-        Pensamiento único
+graph TB
+    A[Realidades Actuales Críticas] --> B[Ámbito Laboral]
+    A --> C[Ámbito Social]
+    A --> D[Ámbito Político]
+    
+    B --> B1["🔴 PRECARIZACIÓN CRECIENTE"]
+    B1 --> B1a["• Contratos temporales masivos<br/>• Falsos autónomos sin derechos<br/>• Gig economy sin protección<br/>• Erosión seguridad social"]
+    
+    B --> B2["🔴 INTENSIFICACIÓN LABORAL"]
+    B2 --> B2a["• Disponibilidad 24/7 exigida<br/>• Multitarea forzada constante<br/>• Estrés crónico normalizado<br/>• Burnout epidémico"]
+    
+    C --> C1["🔴 DESIGUALDAD EXTREMA"]
+    C1 --> C1a["• 1% posee 50% riqueza global<br/>• Herencia determina posición<br/>• Educación reproduce clases<br/>• Meritocracia como mito"]
+    
+    C --> C2["🔴 FRAGMENTACIÓN SOCIAL"]
+    C2 --> C2a["• Familias atomizadas<br/>• Comunidades destruidas<br/>• Individualismo competitivo<br/>• Soledad como epidemia"]
+    
+    D --> D1["🔴 DEMOCRACIA LIMITADA"]
+    D1 --> D1a["• Oligarquía mediática real<br/>• Poder corporativo efectivo<br/>• Partidos intercambiables<br/>• Ciudadanía espectadora"]
+    
+    D --> D2["🔴 CONTROL SOFISTICADO"]
+    D2 --> D2a["• Vigilancia digital ubicua<br/>• Manipulación algorítmica<br/>• Consumo como identidad<br/>• Pensamiento único hegemónico"]
+    
+    classDef critical fill:#dc2626,stroke:#991b1b,stroke-width:3px,color:#fff
+    classDef details fill:#fee2e2,stroke:#dc2626,stroke-width:2px,color:#000
+    
+    class B1,B2,C1,C2,D1,D2 critical
+    class B1a,B2a,C1a,C2a,D1a,D2a details
 ```
 
 ### Comparación Final: Sistemas de Dominación
