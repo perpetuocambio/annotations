@@ -84,16 +84,23 @@ graph TD
 #### Sistema Gremial vs Manufactura
 
 ```mermaid
-sankey-beta
-    Medieval Guilds,60,Skilled Artisans
-    Medieval Church,25,Social Mobility
-    Medieval Noble Service,15,Limited Advancement
+graph LR
+    A[Francia Medieval] --> B[Gremios Artesanales 60%]
+    A --> C[Iglesia 25%]
+    A --> D[Servicio Noble 15%]
     
-    Early Capitalist Destruction,80,Proletarianization
-    Early Capitalist New Bourgeoisie,20,Elite Formation
+    E[Francia Capitalista Temprana] --> F[Nueva Burguesía 20%]
+    E --> G[Proletarización 80%]
     
-    Modern Formal Rights,70,Theoretical Equality
-    Modern Class Reproduction,30,Persistent Hierarchy
+    H[Francia Moderna] --> I[Igualdad Formal 70%]
+    H --> J[Reproducción Clases 30%]
+    
+    B --> K[Movilidad Artesanal]
+    C --> L[Movilidad Eclesiástica]
+    F --> M[Élites Económicas]
+    G --> N[Clase Trabajadora]
+    I --> O[Derechos Teóricos]
+    J --> P[Jerarquías Persistentes]
 ```
 
 | Aspecto | Final Edad Media (S. XIV-XV) | Inicios Capitalismo (S. XVI-XVIII) | Actualidad (S. XXI) |
@@ -282,27 +289,31 @@ xychart-beta
 ### Movilidad Social Comparativa
 
 ```mermaid
-sankey-beta
-    Medieval England,8,Upward Mobility
-    Medieval France,6,Upward Mobility
-    Medieval Germany,12,Upward Mobility
-    Medieval Spain,10,Upward Mobility
-    Medieval Netherlands,15,Upward Mobility
-    Medieval Italy,18,Upward Mobility
+graph TD
+    A[Períodos Históricos] --> B[Edad Media]
+    A --> C[Capitalismo Temprano]
+    A --> D[Era Moderna]
     
-    Early Capitalist England,3,Upward Mobility
-    Early Capitalist France,2,Upward Mobility
-    Early Capitalist Germany,4,Upward Mobility
-    Early Capitalist Spain,3,Upward Mobility
-    Early Capitalist Netherlands,8,Upward Mobility
-    Early Capitalist Italy,2,Upward Mobility
+    B --> B1[Inglaterra: 8%]
+    B --> B2[Francia: 6%]
+    B --> B3[Alemania: 12%]
+    B --> B4[España: 10%]
+    B --> B5[Países Bajos: 15%]
+    B --> B6[Italia: 18%]
     
-    Modern England,5,Upward Mobility
-    Modern France,6,Upward Mobility
-    Modern Germany,7,Upward Mobility
-    Modern Spain,4,Upward Mobility
-    Modern Netherlands,8,Upward Mobility
-    Modern Italy,3,Upward Mobility
+    C --> C1[Inglaterra: 3%]
+    C --> C2[Francia: 2%]
+    C --> C3[Alemania: 4%]
+    C --> C4[España: 3%]
+    C --> C5[Países Bajos: 8%]
+    C --> C6[Italia: 2%]
+    
+    D --> D1[Inglaterra: 5%]
+    D --> D2[Francia: 6%]
+    D --> D3[Alemania: 7%]
+    D --> D4[España: 4%]
+    D --> D5[Países Bajos: 8%]
+    D --> D6[Italia: 3%]
 ```
 
 ### Tabla Comparativa Crítica de Indicadores Cuantificados
