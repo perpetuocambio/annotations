@@ -677,7 +677,7 @@ graph TB
 ### El Problema de las Narrativas Lineales
 
 ```mermaid
-flowchart TD
+flowchart LR
     A[Narrativa Progresista Oficial] --> B["Feudalismo = Atraso"]
     A --> C["Capitalismo = Liberación"]
     A --> D["Presente = Cumbre Progreso"]
