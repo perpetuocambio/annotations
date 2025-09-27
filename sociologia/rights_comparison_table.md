@@ -1,171 +1,195 @@
-# Comparación de Derechos y Calidad de Vida: Final Edad Media vs Inicios Capitalismo vs Actualidad
+# Comparación Crítica de Derechos y Calidad de Vida: Final Edad Media vs Inicios Capitalismo vs Actualidad
 
 ## Introducción
 
-La transición del feudalismo al capitalismo comenzó en los siglos XV-XVI, marcando un cambio fundamental en las estructuras sociales, económicas y laborales. Esta tabla compara los derechos y la calidad de vida de los trabajadores en tres períodos históricos clave.
+La transición del feudalismo al capitalismo comenzó gradualmente entre los siglos XV-XVI, pero se consolidó principalmente durante la revolución industrial (siglos XVIII-XIX). Esta comparación crítica examina tanto los avances formales como las limitaciones reales de derechos y calidad de vida a través de estos períodos.
 
-## Tabla Comparativa por Países
+## Tabla Comparativa Crítica por Países
 
 ### INGLATERRA / REINO UNIDO
 
 | Aspecto | Final Edad Media (S. XIV-XV) | Inicios Capitalismo (S. XVI-XVIII) | Actualidad (S. XXI) |
 |---------|------------------------------|-------------------------------------|---------------------|
-| **Estatus Social** | Siervos vinculados a la tierra | Trabajadores "libres" sin tierra | Ciudadanos con derechos plenos |
-| **Derechos Laborales** | Obligaciones feudales, corvea | Sin protección legal, contratos verbales | Legislación laboral completa, sindicatos |
-| **Jornada Laboral** | Trabajo estacional, descanso dominical | 12-16 horas diarias, 6-7 días/semana | 35-40 horas semanales, vacaciones pagadas |
-| **Protección Social** | Protección señorial básica | Ninguna, ley de pobres limitada | Sistema de salud universal, pensiones |
-| **Vivienda** | Choza en señorío, estable | Hacinamiento urbano, insalubre | Vivienda digna regulada |
-| **Alimentación** | Subsistencia garantizada | Malnutrición frecuente | Seguridad alimentaria |
-| **Educación** | Instrucción religiosa básica | Analfabetismo masivo | Educación obligatoria gratuita |
-| **Movilidad Social** | Muy limitada | Teóricamente posible | Alta movilidad |
-| **Participación Política** | Ninguna | Ninguna (hasta S. XIX) | Sufragio universal |
-| **Salud** | Medicina herbal, mortalidad alta | Condiciones insalubres, epidemias | Sistema sanitario avanzado |
+| **Estatus Social** | Siervos con protecciones tradicionales | "Libertad" para vender fuerza de trabajo | Trabajadores formalmente libres, precariedad creciente |
+| **Derechos Laborales** | Obligaciones recíprocas, días festivos | Explotación sin límites legales | Derechos erosionados por flexibilización |
+| **Jornada Laboral** | 150-200 días/año, muchos festivos | 12-16 horas diarias, trabajo infantil | 40 horas oficiales + trabajo no remunerado |
+| **Protección Social** | Señor obligado a mantener siervos | Ninguna, workhouses punitivas | NHS bajo presión, austeridad |
+| **Vivienda** | Choza propia en señorío | Slums industriales, hacinamiento | Crisis habitacional, gentrificación |
+| **Alimentación** | Subsistencia garantizada, hambrunas excepcionales | Malnutrición sistemática obreros | Desigualdad alimentaria, food banks |
+| **Educación** | Limitada pero existente (monasterios) | Prohibida para trabajadores | Universidades elitistas, deuda estudiantil |
+| **Movilidad Social** | Limitada pero real (Iglesia, oficios) | Teórica, prácticamente inexistente | Mito meritocrático, clases cristalizadas |
+| **Participación Política** | Asambleas comunales | Represión violenta movimientos | Democracia formal, poder económico real |
+| **Salud** | Medicina herbal, comunidad | Condiciones mortíferas, epidemias | Desigualdades en salud persistentes |
 
 ### FRANCIA
 
 | Aspecto | Final Edad Media (S. XIV-XV) | Inicios Capitalismo (S. XVI-XVIII) | Actualidad (S. XXI) |
 |---------|------------------------------|-------------------------------------|---------------------|
-| **Estatus Social** | Siervos y villanos | Obreros manufactureros | Ciudadanos republicanos |
-| **Derechos Laborales** | Obligaciones señoriales | Regulación gremial limitada | Code du Travail extenso |
-| **Jornada Laboral** | Variable según estación | 10-14 horas, manufactura textil | 35 horas semanales legales |
-| **Protección Social** | Señorío + Iglesia | Caridad privada | Sécurité Sociale universal |
-| **Vivienda** | Masías familiares | Barrios obreros precarios | Vivienda social garantizada |
-| **Alimentación** | Dieta básica estable | Hambrunas periódicas (1709, 1788) | Abundancia alimentaria |
-| **Educación** | Monopolio clerical | Analfabetismo 85% | Sistema educativo laico gratuito |
-| **Movilidad Social** | Estamental rígida | Emergencia burguesa | Meritocrática |
-| **Participación Política** | Ninguna | Estamental (hasta 1789) | República democrática |
-| **Salud** | Esperanza vida 30-35 años | Epidemias, medicina rudimentaria | Esperanza vida 82 años |
+| **Estatus Social** | Tres estamentos con funciones definidas | Burgueses vs proletarios | Clases medias en declive |
+| **Derechos Laborales** | Gremios regulaban condiciones | Liberalismo destruye protecciones | 35h/semana pero desempleo estructural |
+| **Jornada Laboral** | Ritmos estacionales naturales | Manufactura intensiva | Productividad alta, salarios estancados |
+| **Protección Social** | Señorío, Iglesia, comunidad | Estado ausente | Sécurité Sociale amenazada |
+| **Vivienda** | Estable en comunidades rurales | Éxodo rural, condiciones urbanas | Banlieues marginadas |
+| **Alimentación** | Dieta local estable | Hambrunas 1709, 1788, 1847 | Abundancia desigual |
+| **Educación** | Limitada a élites | Analfabetismo masivo | Reproducción social persistente |
+| **Movilidad Social** | Iglesia permitía ascenso | Revolución rompe barreras temporalmente | Ascensor social averiado |
+| **Participación Política** | Estados Generales (limitado) | Terror revolucionario | República con élites económicas |
+| **Salud** | Esperanza vida 25-30 años | Medicina inexistente para pobres | Sistema dual público-privado |
 
 ### ESPAÑA
 
 | Aspecto | Final Edad Media (S. XIV-XV) | Inicios Capitalismo (S. XVI-XVIII) | Actualidad (S. XXI) |
 |---------|------------------------------|-------------------------------------|---------------------|
-| **Estatus Social** | Pecheros y hidalgos | Artesanos y jornaleros | Trabajadores con derechos |
-| **Derechos Laborales** | Fueros locales | Ordenanzas gremiales | Estatuto de Trabajadores |
-| **Jornada Laboral** | Sol a sol agrícola | 12 horas manufacturas | 40 horas, flexibilidad |
-| **Protección Social** | Señorío + cofradías | Cofradías y gremios | Seguridad Social |
-| **Vivienda** | Cortijos familiares | Corrales urbanos | Vivienda protegida |
-| **Alimentación** | Dieta mediterránea básica | Pan, aceite, legumbres | Dieta variada |
-| **Educación** | Iglesia únicamente | Jesitas, analfabetismo 90% | Educación pública obligatoria |
-| **Movilidad Social** | Limpieza de sangre | Hidalguía por compra | Meritocracia |
-| **Participación Política** | Cortes estamentales | Absolutismo | Monarquía parlamentaria |
-| **Salud** | Curanderos, mortalidad infantil alta | Médicos para élites | Sistema sanitario público |
+| **Estatus Social** | Reconquista permite movilidad social | Hidalguía comprable, castas coloniales | Clases medias precarias |
+| **Derechos Laborales** | Fueros locales fuertes | Absolutismo destruye autonomías | Temporalidad extrema |
+| **Jornada Laboral** | Siesta tradicional, trabajo estacional | Manufacturas incipientes | Jornadas partidas ineficientes |
+| **Protección Social** | Mayorazgos, tierras comunales | Desamortización destruye redes | Paro estructural juvenil |
+| **Vivienda** | Casas familiares multigeneracionales | Migración a ciudades | Especulación inmobiliaria |
+| **Alimentación** | Dieta mediterránea básica | Imperio genera dependencia | Precios altos, salarios bajos |
+| **Educación** | Universidades medievales pioneras | Inquisición limita conocimiento | Sobrecualificación + subempleo |
+| **Movilidad Social** | Indias, Iglesia, guerra | Limpieza de sangre | Emigración de talentos |
+| **Participación Política** | Cortes con poder real | Despotismo ilustrado | Bipartidismo oligárquico |
+| **Salud** | Hospitales católicos | Medicina para élites únicamente | Sanidad pública deteriorada |
 
-### ALEMANIA/SACRO IMPERIO
-
-| Aspecto | Final Edad Media (S. XIV-XV) | Inicios Capitalismo (S. XVI-XVIII) | Actualidad (S. XXI) |
-|---------|------------------------------|-------------------------------------|---------------------|
-| **Estatus Social** | Siervos (Leibeigene) | Artesanos y campesinos | Ciudadanos federales |
-| **Derechos Laborales** | Zunftwesen (gremios) | Zunftzwang obligatorio | Codeterminación empresarial |
-| **Jornada Laboral** | Regulada por gremios | 10-12 horas | 35-38 horas, flexi-tiempo |
-| **Protección Social** | Gremios + Iglesia | Zünfte (asociaciones) | Sozialstaat (Estado social) |
-| **Vivienda** | Casas gremiales | Habitaciones alquiladas | Vivienda social desarrollada |
-| **Alimentación** | Cerveza, pan, carne | Dieta limitada, hambrunas | Abundancia, agricultura ecológica |
-| **Educación** | Escuelas catedralicias | Protestantismo + escuelas | Sistema dual universidad-formación |
-| **Movilidad Social** | Por gremios | Burguesía emergente | Alta movilidad |
-| **Participación Política** | Ciudades libres | Principados | República federal |
-| **Salud** | Baños públicos, barberos | Medicina primitiva | Sistema sanitario avanzado |
-
-### PAÍSES BAJOS (HOLANDA)
+### ALEMANIA
 
 | Aspecto | Final Edad Media (S. XIV-XV) | Inicios Capitalismo (S. XVI-XVIII) | Actualidad (S. XXI) |
 |---------|------------------------------|-------------------------------------|---------------------|
-| **Estatus Social** | Campesinos libres | Primeros asalariados | Sociedad igualitaria |
-| **Derechos Laborales** | Contratos gremiales | Libertad contractual | Pólders model (consenso) |
-| **Jornada Laboral** | Variable estacional | 10-12 horas, más regulada | 36 horas promedio |
-| **Protección Social** | Gremios marítimos | Primeros seguros marítimos | Estado de bienestar avanzado |
-| **Vivienda** | Casas comerciantes | Viviendas canal, mejores | Vivienda social pionera |
-| **Alimentación** | Pescado, lácteos | Dieta variada, comercio | Seguridad alimentaria total |
-| **Educación** | Escuelas latinas | Alfabetización temprana | Sistema educativo ejemplar |
-| **Movilidad Social** | Comercio marítimo | Meritocracia comercial | Muy alta movilidad |
-| **Participación Política** | Repúblicas urbanas | República de comerciantes | Monarquía constitucional |
-| **Salud** | Hospitales urbanos | Medicina más avanzada | Sistema sanitario eficiente |
+| **Estatus Social** | Ciudades libres, gremios fuertes | Principados absolutistas | Arbeiterklasse integrada |
+| **Derechos Laborales** | Zunftwesen protege artesanos | Zunftzwang vs libertad económica | Codeterminación limitada |
+| **Jornada Laboral** | Regulada estrictamente | Proto-industrialización | Minijobs precarios |
+| **Protección Social** | Gremios + hermandades | Pauperismo rural-urbano | Modelo social bajo presión |
+| **Vivienda** | Casas gremiales sólidas | Migración campo-ciudad | Gentrificación, alquileres altos |
+| **Alimentación** | Cerveza diaria, carne regular | Crisis agrarias | Abundancia con desigualdad |
+| **Educación** | Universidades + formación técnica | Protestantismo + disciplina | Sistema dual exitoso pero selectivo |
+| **Movilidad Social** | Maestría artesanal | Burocracia estatal | Herencia cultural determinante |
+| **Participación Política** | Ciudades-estado | Autoritarismo principesco | Democracia cristiana conservadora |
+| **Salud** | Baños públicos hasta s.XVI | Medicina primitiva | Seguros médicos duales |
 
-### ITALIA (CIUDADES-ESTADO)
+### PAÍSES BAJOS
 
 | Aspecto | Final Edad Media (S. XIV-XV) | Inicios Capitalismo (S. XVI-XVIII) | Actualidad (S. XXI) |
 |---------|------------------------------|-------------------------------------|---------------------|
-| **Estatus Social** | Artesanos urbanos | Manufatureros especializados | Ciudadanos europeos |
-| **Derechos Laborales** | Corporaciones fuertes | Decadencia manufacturas | Código laboral moderno |
-| **Jornada Laboral** | Regulada por corporaciones | Variable por región | 40 horas, norte vs sur |
-| **Protección Social** | Corporaciones + hospitales | Caridad católica | Sistema mixto público-privado |
-| **Vivienda** | Palacios urbanos vs tuguri | Deterioro urbano | Patrimonio histórico preservado |
-| **Alimentación** | Dieta mediterránea rica | Declive económico | Gastronomía reconocida mundialmente |
-| **Educación** | Universidades pioneras | Decadencia relativa | Educación pública gratuita |
-| **Movilidad Social** | Mecenazgo renacentista | Limitada por declive | Movilidad moderada |
-| **Participación Política** | Repúblicas oligárquicas | Dominación extranjera | República parlamentaria |
-| **Salud** | Hospitales avanzados | Medicina empírica | Sistema sanitario regional |
+| **Estatus Social** | Comerciantes libres tempranos | Primera burguesía capitalista | Sociedad consensual estratificada |
+| **Derechos Laborales** | Gremios marítimos | Explotación colonial + doméstica | Flexiseguridad con inseguridad |
+| **Jornada Laboral** | Mareas y estaciones | Comercio global 24/7 | Part-time involuntario |
+| **Protección Social** | Comunidades autogestionadas | Seguros privados pioneros | Estado de bienestar resistente |
+| **Vivienda** | Casas comerciantes sólidas | Expansión urbana planificada | Crisis habitacional, especulación |
+| **Alimentación** | Pesca, lácteos, comercio | Dieta global temprana | Seguridad alimentaria completa |
+| **Educación** | Pragmatismo comercial | Alfabetización por comercio | Sistema eficiente pero desigual |
+| **Movilidad Social** | Comercio permite ascenso | Meritocracia mercantil | Reproducción social sutil |
+| **Participación Política** | Repúblicas mercantiles | Oligarquía comercial | Consenso con exclusiones |
+| **Salud** | Hospitales urbanos | Medicina para comerciantes | Sistema eficiente, desigual |
 
-## Análisis Comparativo General
+### ITALIA
 
-### Indicadores Clave de Calidad de Vida
+| Aspecto | Final Edad Media (S. XIV-XV) | Inicios Capitalismo (S. XVI-XVIII) | Actualidad (S. XXI) |
+|---------|------------------------------|-------------------------------------|---------------------|
+| **Estatus Social** | Repúblicas comerciales dinámicas | Decadencia, dominación extranjera | Norte desarrollado vs Sur atrasado |
+| **Derechos Laborales** | Corporaciones urbanas fuertes | Pérdida autonomía municipal | Dualismo laboral extremo |
+| **Jornada Laboral** | Artesanía regulada | Manufactura decadente | Economía sumergida extendida |
+| **Protección Social** | Hospitales + cofradías | Caridad católica insuficiente | Sistema fragmentado regional |
+| **Vivienda** | Palacios + barrios populares | Deterioro urbano | Patrimonio vs especulación |
+| **Alimentación** | Dieta mediterránea variada | Empobrecimiento relativo | Tradición gastronómica vs globalización |
+| **Educación** | Universidades pioneras mundiales | Estancamiento intelectual | Fuga de cerebros |
+| **Movilidad Social** | Mecenazgo renacentista | Bloqueo por dominación | Clientelismo político |
+| **Participación Política** | Innovación republicana | Absolutismo foráneo | Inestabilidad democrática |
+| **Salud** | Medicina avanzada época | Medicina empírica | Disparidades Norte-Sur |
+
+## Análisis Crítico Realista
+
+### Indicadores Matizados de Calidad de Vida
 
 | Indicador | Final Edad Media | Inicios Capitalismo | Actualidad |
 |-----------|------------------|---------------------|------------|
-| **Esperanza de Vida** | 30-35 años | 35-40 años | 75-85 años |
-| **Mortalidad Infantil** | 30-50% | 25-40% | <1% |
-| **Alfabetización** | 5-10% | 10-30% | >95% |
-| **Horas Trabajo/Año** | 1,400-1,800 | 3,000-4,000 | 1,400-1,800 |
-| **Días Festivos** | 80-120/año | 10-20/año | 25-35/año |
-| **Participación Política** | 0% | 0-5% | >90% |
+| **Esperanza de Vida** | 25-35 años (alta mortalidad infantil) | 30-40 años (condiciones urbanas) | 75-85 años (desigualdades internas) |
+| **Mortalidad Infantil** | 40-60% | 30-50% | <1% (países desarrollados) |
+| **Alfabetización** | 5-15% (élites + clero) | 10-30% (burguesía) | >95% (funcional limitada) |
+| **Horas Trabajo/Año** | 1,200-1,500 (días festivos) | 3,000-4,000 (sin límites) | 1,400-2,000 (trabajo invisible) |
+| **Días Festivos** | 80-120/año (religiosos) | 10-20/año (eliminados) | 25-35/año (comercializados) |
+| **Movilidad Social Real** | 5-10% por generación | 1-3% por generación | 3-7% por generación |
 
-### Tendencias por Período
+### Realidades por Período
 
 #### Final Edad Media (S. XIV-XV)
-**Ventajas:**
-- Seguridad de subsistencia dentro del sistema señorial
-- Protección mutua a través de gremios y cofradías
-- Numerosos días festivos religiosos
-- Trabajo estacional con períodos de descanso
-- Comunidades estables y cohesionadas
+**Aspectos Subestimados:**
+- Sistemas de protección comunitaria efectivos
+- Autonomía local y autogobierno real
+- Tiempo libre significativo y ritmos naturales
+- Oficios especializados con estatus social
+- Redes de solidaridad familiar/comunal
 
-**Desventajas:**
-- Movilidad social extremadamente limitada
-- Falta de derechos individuales
-- Dependencia total del señor feudal
-- Tecnología primitiva, alta mortalidad
-- Educación reservada al clero
+**Problemas Reales:**
+- Alta mortalidad y enfermedad
+- Rigidez estamental para mayorías
+- Dependencia de cosechas y clima
+- Violencia endémica entre señores
+- Opresión femenina sistemática
 
 #### Inicios Capitalismo (S. XVI-XVIII)
-**Ventajas:**
-- Libertad teórica de trabajo y movimiento
-- Oportunidades de enriquecimiento individual
-- Desarrollo tecnológico e intercambio comercial
-- Primeros desarrollos científicos y médicos
-- Diversificación de actividades económicas
+**"Libertades" Problemáticas:**
+- Libertad de morir de hambre
+- Libertad de vender fuerza de trabajo
+- Libertad de migrar sin recursos
+- Libertad de competir desigualmente
+- Libertad de acceso formal sin medios
 
-**Desventajas:**
-- Pérdida de protecciones tradicionales
-- Condiciones laborales extremas
-- Hacinamiento urbano e insalubridad
-- Inseguridad económica total
-- Explotación infantil generalizada
+**Destrucciones Reales:**
+- Cercamientos eliminan subsistencia campesina
+- Gremios destruidos por libre mercado
+- Comunidades rurales disueltas
+- Trabajo infantil generalizado
+- Condiciones urbanas inhumanas
 
 #### Actualidad (S. XXI)
-**Ventajas:**
-- Derechos humanos reconocidos universalmente
-- Sistemas de protección social desarrollados
-- Educación y sanidad universales
-- Libertades políticas y civiles
-- Tecnología que mejora calidad de vida
+**Derechos Formales vs Reales:**
+- Educación universal = reproducción de clases
+- Sanidad universal = medicina a dos velocidades
+- Sufragio universal = oligarquía mediática
+- Movilidad social = mito meritocrático
+- Protección laboral = precarización creciente
 
-**Desventajas:**
-- Inseguridad laboral en economía global
-- Desigualdad económica creciente
-- Estrés y problemas de salud mental
-- Crisis climática y sostenibilidad
-- Pérdida de cohesión comunitaria
+**Nuevas Formas de Control:**
+- Deuda estudiantil = servidumbre educativa
+- Hipotecas = atadura territorial
+- Consumo = alienación sistemática
+- Tecnología = vigilancia ubicua
+- Flexibilidad = inseguridad permanente
 
-## Conclusiones
+## Comparación Honesta de Movilidad Social
 
-### Paradoja Histórica
-La comparación revela una paradoja interesante: mientras que el período inicial del capitalismo representó un retroceso significativo en la calidad de vida para la mayoría de trabajadores respecto al final de la Edad Media, el capitalismo desarrollado actual ha logrado estándares de vida impensables en períodos anteriores.
+### Final Edad Media
+- **Vías reales**: Iglesia (40% origen humilde), oficios especializados, servicio militar, matrimonio estratégico
+- **Limitaciones**: Sistema estamental, pero con permeabilidad práctica
+- **Ejemplo**: Hijo de campesino puede llegar a obispo o maestro artesano
 
-### Factores Determinantes
-1. **Lucha obrera**: Las mejoras actuales son resultado de siglos de organización y lucha de los trabajadores
-2. **Desarrollo tecnológico**: La productividad moderna permite jornadas menores con mayor bienestar
-3. **Democratización política**: El sufragio universal permitió conquistas laborales
-4. **Estado de bienestar**: La intervención estatal regula y protege los derechos laborales
+### Inicios Capitalismo  
+- **Promesa teórica**: Libre empresa y competencia
+- **Realidad**: Capital inicial determina posibilidades
+- **Resultado**: Mayor desigualdad que feudalismo
+
+### Actualidad
+- **Mito oficial**: Meritocracia educativa
+- **Investigación empírica**: 70-80% permanece en clase de origen
+- **Mecanismos**: Capital cultural, redes sociales, herencia encubierta
+
+## Conclusiones Críticas
+
+### La Gran Paradoja
+Los derechos formales actuales son incomparablemente superiores, pero las estructuras de clase son más rígidas y la alienación laboral más profunda que en el feudalismo tardío.
+
+### Factores Ocultados
+1. **Tiempo libre**: Los siervos medievales tenían más tiempo libre real que el trabajador moderno
+2. **Autonomía**: Los gremios medievales controlaban su producción; los trabajadores actuales no
+3. **Comunidad**: Las redes sociales medievales eran más sólidas que el individualismo moderno
+4. **Propósito**: El trabajo medieval tenía sentido social; el moderno es frecuentemente absurdo
+
+### Realidades Incómodas Actuales
+- La movilidad social efectiva es menor que en ciertos períodos históricos
+- La precariedad laboral ha aumentado en las últimas décadas
+- Las desigualdades de riqueza superan las de épocas pre-industriales
+- Los derechos laborales se erosionan sistemáticamente
+- La democracia política coexiste con dictadura económica
 
 ### Reflexión Final
-Los datos sugieren que el sistema feudal tardío, pese a sus limitaciones, ofrecía ciertas protecciones y estabilidad que se perdieron durante la transición capitalista inicial. Solo después de siglos de desarrollo institucional y lucha social, el capitalismo desarrolló mecanismos de protección social que superan los estándares medievales, aunque enfrenta nuevos desafíos en el contexto de globalización y crisis ambiental.
+El progreso no ha sido lineal. Muchas conquistas actuales resultaron de luchas contra el capitalismo, no de su desarrollo natural. Los derechos formales modernos, aunque valiosos, coexisten con nuevas formas de dominación más sofisticadas que las medievales. La comparación revela que cada sistema genera sus propias formas de opresión y que el "progreso" requiere una evaluación más matizada que la narrativa oficial.
