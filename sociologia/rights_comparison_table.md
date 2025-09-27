@@ -153,7 +153,7 @@ graph LR
 #### Del Sistema Gremial al Modelo Renano
 
 ```mermaid
-flowchart TD
+flowchart LR
     A[Alemania Medieval] --> B[Ciudades libres imperiales]
     A --> C[Zunftwesen - Sistema gremial]
     A --> D[Hanseatische Liga comercial]
@@ -231,7 +231,7 @@ timeline
 #### De las Repúblicas Comerciales a la Dualidad Norte-Sur
 
 ```mermaid
-graph TB
+graph LR
     A[Italia Medieval] --> B[Repúblicas comerciales]
     A --> C[Ciudades-estado innovadoras]
     A --> D[Corporaciones urbanas fuertes]
@@ -289,7 +289,7 @@ xychart-beta
 ### Movilidad Social Comparativa
 
 ```mermaid
-graph TD
+graph LR
     A[Períodos Históricos] --> B[Edad Media]
     A --> C[Capitalismo Temprano]
     A --> D[Era Moderna]
@@ -356,7 +356,7 @@ graph TD
 ### 1. Jornadas Laborales: La Gran Ruptura Industrial
 
 ```mermaid
-graph TD
+graph LR
     A[Jornadas Laborales Históricas] --> B[Edad Media: Ritmos Naturales]
     A --> C[Capitalismo Temprano: Disciplina Industrial]
     A --> D[Actualidad: Flexibilidad Precarizante]
@@ -450,7 +450,7 @@ La destrucción de este control obrero sobre la producción representa una **reg
 ### 3. Redes Comunitarias vs Individualismo
 
 ```mermaid
-flowchart TD
+flowchart LR
     A[Sistemas de Apoyo Social] --> B[Edad Media]
     A --> C[Capitalismo Temprano]
     A --> D[Actualidad]
@@ -539,7 +539,7 @@ Las condiciones se volvieron más favorables para la empresa en el oeste, mientr
 ### La Gran Paradoja Temporal
 
 ```mermaid
-graph TB
+graph LR
     A[Paradoja Histórica] --> B[Derechos Formales Avanzados]
     A --> C[Condiciones Reales Regresivas]
     
@@ -586,7 +586,7 @@ graph TB
 ### Realidades Incómodas Documentadas
 
 ```mermaid
-graph TB
+graph LR
     A[Realidades Actuales Críticas] --> B[Ámbito Laboral]
     A --> C[Ámbito Social]
     A --> D[Ámbito Político]
