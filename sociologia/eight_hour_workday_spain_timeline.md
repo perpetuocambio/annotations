@@ -1,6 +1,6 @@
 # Cronología histórica: El establecimiento de la jornada de 8 horas en España
 
-## Línea temporal de acontecimientos (1593-1983)
+## Línea temporal de acontecimientos (1800s-1983)
 
 | **Año**          | **Acontecimiento**                | **Tipo**                     | **Descripción**                                                                                   | **Impacto**                                 |
 | ---------------- | --------------------------------- | ---------------------------- | ------------------------------------------------------------------------------------------------- | ------------------------------------------- |
