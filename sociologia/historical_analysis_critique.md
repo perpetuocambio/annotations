@@ -261,27 +261,35 @@ flowchart LR
     
     C --> C1[Workhouses Punitivas]
     C --> C2[Caridad Privada Limitada]
-    C --> C3[Mercado "Libre"]
+    C --> C3[Mercado Libre]
     
     D --> D1[Seguridad Social]
     D --> D2[Seguros Privados]
     D --> D3[Familia Nuclear]
     D --> D4[ONGs/Tercer Sector]
     
-    B1 --> E1["✓ Obligaciones recíprocas"]
-    B2 --> E2["✓ Seguros mutuos profesionales"]  
-    B3 --> E3["✓ Red asistencial universal"]
-    B4 --> E4["✓ Solidaridad intergeneracional"]
-    B5 --> E5["✓ Ayuda mutua vecinal"]
+    B1 --> E1[Obligaciones recíprocas]
+    B2 --> E2[Seguros mutuos profesionales]  
+    B3 --> E3[Red asistencial universal]
+    B4 --> E4[Solidaridad intergeneracional]
+    B5 --> E5[Ayuda mutua vecinal]
     
-    C1 --> F1["✗ Disciplinamiento de pobres"]
-    C2 --> F2["✗ Insuficiente y selectiva"]
-    C3 --> F3["✗ Supervivencia individual"]
+    C1 --> F1[Disciplinamiento de pobres]
+    C2 --> F2[Insuficiente y selectiva]
+    C3 --> F3[Supervivencia individual]
     
-    D1 --> G1["± Cobertura universal formal"]
-    D2 --> G2["± Acceso según capacidad pago"]
-    D3 --> G3["± Apoyo limitado a núcleo"]
-    D4 --> G4["± Subsidiariedad fragmentada"]
+    D1 --> G1[Cobertura universal formal]
+    D2 --> G2[Acceso según capacidad pago]
+    D3 --> G3[Apoyo limitado a núcleo]
+    D4 --> G4[Subsidiariedad fragmentada]
+    
+    classDef ventajas fill:#90EE90,stroke:#228B22,stroke-width:2px
+    classDef desventajas fill:#FFB6C1,stroke:#DC143C,stroke-width:2px
+    classDef mixtas fill:#F0E68C,stroke:#DAA520,stroke-width:2px
+    
+    class E1,E2,E3,E4,E5 ventajas
+    class F1,F2,F3 desventajas
+    class G1,G2,G3,G4 mixtas
 ```
 
 ### D. Dimensión Autonomía
@@ -577,13 +585,21 @@ La evidencia cuantificada mediante IBHP confirma que **el desarrollo histórico 
 El progreso histórico opera de manera **contradictoria entre dimensiones**:
 
 ```mermaid
-radar
-    title Perfil IBHP por Dimensión - Comparación Histórica
-    "Material" .45 .32 .38 .55 .78
-    "Temporal" .62 .48 .21 .57 .42
-    "Social" .58 .36 .39 .78 .69
-    "Autonomía" .49 .30 .24 .68 .51
+xychart-beta
+    title "Perfil IBHP por Dimensión - Comparación Histórica"
+    x-axis ["1350-1500", "1500-1650", "1650-1800", "1800-1950", "1950-2025"]
+    y-axis "Puntuación IBHP" 0 --> 10
+    line [4.5, 3.2, 3.8, 5.5, 7.8]
+    line [6.2, 4.8, 2.1, 5.7, 4.2]
+    line [5.8, 3.6, 3.9, 7.8, 6.9]
+    line [4.9, 3.0, 2.4, 6.8, 5.1]
 ```
+
+**Leyenda del gráfico:**
+- **Línea 1 (azul)**: Dimensión Material
+- **Línea 2 (roja)**: Dimensión Temporal  
+- **Línea 3 (verde)**: Dimensión Social
+- **Línea 4 (amarilla)**: Dimensión Autonomía
 
 - **Dimensión Material**: Progreso sostenido post-1800
 - **Dimensión Temporal**: Deterioro estructural desde industrialización
