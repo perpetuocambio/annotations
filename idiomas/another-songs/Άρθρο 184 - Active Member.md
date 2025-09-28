@@ -12,10 +12,12 @@ El artículo 184 del Código Penal griego establece sanciones para quienes incit
 
 ### Versión Original en Griego
 
+```text
 [μουσική]
 Σ αυτό το σύμπαν που είναι όλα βία
 φτιαγμένα.
 Παίρνω βαθιές ανάσες θανάτου.
+
 [μουσική]
 Δείχνω αποστροφή στις πλάνας και όσα μου
 χουν χρεωμένα τα χωθαμένα
@@ -41,17 +43,48 @@ El artículo 184 del Código Penal griego establece sanciones para quienes incit
 φτώχεια
 φέρνει κάθε αδικία μην ξεχνάτε τη λέρι
 του τρόμου ελεύθεροι έχουνε κι αφοβία
+```
 
 ### Traducción al Español
 
+```text
 [música]
-En este universo donde todo está hecho de violencia.
+En este universo donde todo está hecho
+de violencia.
 Respiro profundamente la muerte.
-[música]
-Muestro repugnancia hacia las ilusiones y todo lo que me han cargado los que se han metido en las aguas cenagosas del pantano...
-Los cementerios llenos se preparan para incitar a la violencia. Olvidan los funcionarios de los refugios públicos que los libres sufren sin miedo. Para mí los incitadores de violencia son, escucha, el salario básico del hambre. Los precios en los estantes de la tiendita, el petróleo de calefacción y el precio de la gasolina, las escuelas en ruinas y las carreteras. Siemens es la corrupción y los paquetes de los ricos, el alardeo, incluso las vacunas a la fuerza, hermano mío, observa sombríamente la quema de los bosques y las soluciones verdes en los programas matutinos y los noticieros de los privilegiados...
 
-Incitación a la violencia es que los bancos te priven de tu primera vivienda. Que cambien el artículo los legisladores. El estado genera la violencia. Incitación a la violencia desde la pobreza trae cada injusticia. No olviden la suciedad del terror. Los libres tienen coraje.
+[música]
+Muestro repugnancia hacia las ilusiones y todo lo que me
+han cargado los que se han metido
+en las aguas cenagosas del pantano. Como fondo.
+Los cementerios llenos se preparan sin embargo para
+incitar a la violencia. Olvidan los funcionarios
+de los refugios públicos que los libres
+sufren y sin miedo. Para mí
+los incitadores de violencia son, escucha, el salario básico
+del hambre. Los precios en los estantes
+de la tiendita, el petróleo de calefacción y
+el precio de la gasolina, las escuelas en ruinas
+y las carreteras. Siemens es la corrupción
+y los paquetes de los ricos, el alardeo
+incluso las vacunas a la fuerza, hermano mío,
+observa sombríamente la quema de los bosques y las
+soluciones verdes en los programas matutinos y los
+noticieros de los privilegiados y de
+los medios, las operaciones locales, la facilidad de las
+identidades políticas, los montajes para
+espectáculos de masas
+y los ejércitos dispuestos de grupos de
+los ídolos, las canciones peligrosas en el país
+de los Sirvientes y los esclavos.
+Incitación a la violencia es que los bancos te
+priven de tu primera vivienda. Que cambien
+el artículo los legisladores. El estado
+genera la violencia. Incitación a la violencia desde
+la pobreza
+trae cada injusticia. No olviden la suciedad
+del terror. Los libres tienen coraje.
+```
 
 ## La Subversión Jurídica: Un Contra-Artículo 184
 
