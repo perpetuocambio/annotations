@@ -1,4 +1,4 @@
-Este es un documento backup del analisis realizado por [Luis Miranda Acebedo](https://github.com/LuisMirandaAcebedo/security_articles/blob/main/help_flash_iot/README.md) 
+Este es un documento backup del analisis realizado por [Luis Miranda](https://github.com/LuisMirandaAcebedo/security_articles/blob/main/help_flash_iot/README.md). Borro datos personales por privacidad, para el original redirigirse a su github:
 
 --------------
 # Vulnerabilidades en Balizas V16 Conectadas: Cuando la Seguridad Vial se Vuelve Insegura
@@ -407,8 +407,7 @@ Esta investigación se realizó de forma completamente legal y ética:
 - Siguiendo protocolos de divulgación responsable
 - Con el objetivo de mejorar la seguridad del ecosistema IoT
 
-**Investigador**: Luis Miranda Acebedo  
-**Contacto**: luis.miranda.acebedo@gmail.com  
+**Investigador**: Luis Miranda 
 **Fecha publicación**: 05/12/2025
 
 ---
