@@ -1,3 +1,6 @@
+Este es un documento backup del analisis realizado por [Luis Miranda Acebedo](https://github.com/LuisMirandaAcebedo/security_articles/blob/main/help_flash_iot/README.md) 
+
+--------------
 # Vulnerabilidades en Balizas V16 Conectadas: Cuando la Seguridad Vial se Vuelve Insegura
 
 ## Introducción: El Dispositivo que Debía Salvarnos
