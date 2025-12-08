@@ -1,6 +1,11 @@
 # Análisis Técnico Actualizado: Capacidades de Rastreo en Sistemas Vehiculares (2024-2025)
 
-**Documento verificado con fuentes actualizadas a noviembre 2024**
+
+El siguiente documento es teórico sin disponer datos reales solo es analisis usando llm, aqui dejamos un documento técnico ya de alguien especialista que ha hecho un analisis serio realista de los problemas encontrados hasta ahora:
+
+
+- [Vulnerabilidades en Balizas V16 Conectadas: Cuando la Seguridad Vial se Vuelve Insegura - Luis Miranda Acebedo](https://github.com/LuisMirandaAcebedo/security_articles/blob/main/help_flash_iot/README.md)
+
 
 ---
 
