@@ -1,6 +1,5 @@
 # La Continuidad del KGB: Una Transición Controlada del Poder en la Caída de la URSS
 
-**Autor:** Análisis académico basado en fuentes primarias  
 **Fecha:** Diciembre 2025
 
 ---
@@ -237,15 +236,4 @@ Comprender esta dinámica es crucial para analizar la Rusia contemporánea. Como
 [26] Radio Free Europe/Radio Liberty. (2016). Op. cit.
 
 ---
-
-## Nota Metodológica
-
-Este trabajo se basa exclusivamente en fuentes académicas revisadas por pares (Daedalus, Europe-Asia Studies), investigaciones académicas publicadas por editoriales reconocidas (Simon & Schuster), reportes de periodismo investigativo verificable (Radio Free Europe/Radio Liberty, Medium con documentación) y documentos judiciales españoles ampliamente reportados.
-
-Todos los enlaces fueron verificados como accesibles públicamente al momento de la investigación (diciembre 2025). Las traducciones del inglés al español son propias.
-
----
-
-**Conflicto de intereses:** El autor no tiene conflictos de interés que declarar.
-
-**Financiación:** Este trabajo no recibió financiación específica.
+ió financiación específica.
