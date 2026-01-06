@@ -893,79 +893,785 @@ Comité Noruego del Nobel otorgó premio a María Corina Machado "por su incansa
 - Inteligencia satelital, humana, señales
 - Mapa completo de residencias, búnkeres, rutas escape
 
-#### Últimas Semanas (Diciembre 2025)
+### Reacciones Internacionales Inmediatas
 
-**Tensión Creciente:**
-- Diciembre 2025: Vuelos reconocimiento EEUU cerca espacio aéreo venezolano
-- Maduro ordenó reforzar defensas aéreas
-- Rusia envió técnicos adicionales para sistemas S-300
-- Alerta permanente en bases militares venezolanas
+#### Apoyo a Intervención EEUU
 
-**Negociaciones Secretas Fallidas:**
-- Reportes no confirmados de intentos mediación (Colombia, Brasil, México)
-- Trump habría rechazado cualquier solución que dejara a Maduro en poder
-- Maduro se negó a negociar salida
+**Estados Unidos:**
+- Trump (3 enero, 08:00): Conferencia prensa Mar-a-Lago
+- "Esta noche, las fuerzas armadas de Estados Unidos llevaron a cabo con éxito una operación de precisión para capturar al narcotraficante y tirano Nicolás Maduro"
+- "El pueblo venezolano sufrió durante décadas bajo el yugo del socialismo y el crimen organizado disfrazado de gobierno"
+- "Maduro enfrentará la justicia americana. Su reino de terror ha terminado"
+- "Esta fue una operación humanitaria para liberar a 30 millones de venezolanos"
+- Marco Rubio: "Un día histórico para la libertad en el hemisferio"
 
-### Operación "Libertad Venezolana" (3 Enero 2026)
+**Grupo de Lima (países miembros 2019):**
+- Argentina (Milei): "Celebramos el fin de la dictadura narco-socialista"
+- Chile: "Apoyo a transición democrática, preocupación por uso fuerza"
+- Colombia (Petro): Postura ambigua; reconoció crisis pero criticó unilateralismo
+- Paraguay: "Respaldo total a restablecimiento democracia"
+- Perú: "Esperamos transición pacífica y respeto pueblo venezolano"
 
-#### Noche del Ataque: Cronología Detallada
+**Unión Europea:**
+- Josep Borrell: "La UE nunca reconoció a Maduro como presidente legítimo, pero nos preocupa el uso de fuerza militar"
+- "Llamamos a transición democrática pacífica liderada por venezolanos"
+- "Estamos listos para apoyar proceso electoral libre y justo"
 
-**22:50 (2 enero, hora Miami) / 23:50 (hora Caracas):**
-- Trump dio orden final desde Mar-a-Lago
-- Observó operación en tiempo real con Rubio, Waltz, generales
-- Aviones despegaron de 20 bases hemisferio occidental
+**Reino Unido:**
+- "Reconocemos la gravedad de la crisis venezolana pero cuestionamos la metodología"
+- "Apoyaremos cualquier gobierno democráticamente electo"
 
-**00:15 (3 enero, hora Caracas):**
-- Primeros F-35 penetraron espacio aéreo venezolano (vuelo bajo radar)
-- Drones MQ-9 Reaper iniciaron reconocimiento final
-- Helicópteros MH-60 Blackhawk despegaron de USS Iwo Jima
+**España:**
+- Gobierno español: Declaración moderada
+- "Confiamos en que el pueblo venezolano pueda finalmente expresar su voluntad democrática"
+- "España está lista para apoyar reconstrucción institucional"
+- Izquierda (Podemos/Sumar): Condena enérgica de "invasión imperialista"
 
-**00:45:**
-- Misiles Tomahawk destruyeron 5 baterías S-300, Pantsir-S1 identificadas
-- Venezuela perdió capacidad defensa aérea en Caracas, Maracay, La Guaira
-- Explosiones simultáneas en 12 objetivos militares estratégicos
+#### Condena de Intervención
 
-**01:00:**
-- Helicópteros con Fuerzas Especiales Delta Force + SEAL Team 6 aterrizaron cerca de residencias Maduro
-- 3 ubicaciones atacadas simultáneamente:
-  1. Fuerte Tiuna (Caracas) - búnker presidencial
-  2. Residencia privada La Florida (Caracas) 
-  3. Complejo Maripérez (Caracas)
+**Rusia:**
+- Vladimir Putin (3 enero): "Acto de agresión flagrante contra nación soberana"
+- "Violación del derecho internacional y Carta de Naciones Unidas"
+- "Rusia no reconocerá ningún gobierno impuesto por la fuerza"
+- Ministro Lavrov: "Esto establece precedente peligroso"
+- Duma rusa: Resolución condenando "acto de terrorismo de estado"
 
-**01:15:**
-- Maduro y Cilia Flores localizados en residencia La Florida
-- Estaban durmiendo en dormitorio blindado
-- Fuerzas especiales utilizaron explosivos para abrir puerta
-- Pareja se rindió sin resistir
+**China:**
+- Ministerio Relaciones Exteriores: "Condena firme de uso unilateral de fuerza"
+- "China respeta soberanía de Venezuela y su derecho a elegir su propio camino"
+- "Llamamos al respeto del derecho internacional"
+- Xi Jinping (mensaje posterior): "Preocupación profunda por estabilidad regional"
+- Suspensión temporal cooperación con EEUU en varios foros
 
-**01:30-03:00: Combates Intensos**
-- Elementos leales FANB, GNB, colectivos respondieron en Caracas
-- Combates cerca Miraflores, Fuerte Tiuna, urbanizaciones este de Caracas
-- Cuba reportó 32 efectivos cubanos muertos
-- Gobierno venezolano habló de "baño de sangre" sin especificar cifras
-- Presencia Wagner no confirmada en combate
+**Cuba:**
+- Miguel Díaz-Canel: "Acto criminal de guerra contra hermano pueblo venezolano"
+- "Cuba denuncia esta invasión ante organismos internacionales"
+- "Solidaridad inquebrantable con Venezuela"
+- Movilización militar defensiva en Cuba (temor a ser próximo objetivo)
 
-**03:15:**
-- Maduro y Cilia extraídos en helicóptero hacia USS Iwo Jima
-- Maduro reportadamente en shock, silencioso
-- Cilia exigiendo llamar abogado
+**Nicaragua:**
+- Daniel Ortega: "Invasión fascista del imperio"
+- "Nicaragua no reconocerá gobierno títere"
+- Movilización militar en fronteras
 
-**04:00-06:00:**
-- Combates cesaron progresivamente
-- Alto mando militar venezolano contactó con EEUU
-- General Vladimir Padrino López (Ministro Defensa) ordenó alto el fuego
-- Delcy Rodríguez asumió como presidenta interina
+**Bolivia:**
+- Luis Arce: "Rechazo categórico a intervención militar"
+- "Violación soberanía de pueblo venezolano"
 
-**Cifras Operación (no confirmadas oficialmente):**
-- Efectivos EEUU tierra: ~200 operadores especiales
-- Apoyo aéreo: 15+ aviones, 8+ helicópteros
-- Bajas EEUU: No reportadas oficialmente (estimaciones: 0-3)
-- Bajas Venezuela: 32+ cubanos confirmados; 50-100+ venezolanos estimados
-- Civiles: 10-20+ muertos en fuego cruzado (sin confirmar)
+**México:**
+- Claudia Sheinbaum: "México condena el uso de la fuerza"
+- "Defendemos principio de no intervención (Doctrina Estrada)"
+- "Llamamos a solución pacífica liderada por venezolanos"
+- Ofrecimiento mediación junto a Colombia y Brasil
 
-#### Traslado y Procesamiento
+**Irán:**
+- Ayatolá Jamenei: "Crimen contra nación soberana"
+- "Imperio americano muestra nuevamente su rostro criminal"
+- Presidente Pezeshkian: "Solidaridad con pueblo venezolano"
 
-**Ruta Maduro-Flores:**
-- 3 enero (madrugada): USS Iwo Jima (Caribe)
-- 3 enero (tarde): Trasladados a Guantánamo Bay
+**Turquía:**
+- Erdogan: "Condena de intervención unilateral"
+- "Violación de soberanía inaceptable"
+
+#### Posiciones Intermedias/Ambiguas
+
+**Brasil:**
+- Lula da Silva: Declaración meditada (5 enero)
+- "Brasil no apoya intervenciones militares en principio"
+- "Pero reconocemos que el régimen de Maduro perdió toda legitimidad"
+- "Llamamos a proceso electoral legítimo supervisado internacionalmente"
+- "Brasil está dispuesto a facilitar diálogo entre todas las partes"
+
+**Colombia:**
+- Gustavo Petro: Postura complicada
+- "Colombia rechaza uso de fuerza militar"
+- "Pero también reconocemos que Maduro cometió fraude electoral masivo"
+- "Necesitamos solución política, no militar"
+- Presión interna: Sectores derechistas celebraron intervención
+
+**Uruguay:**
+- Luis Lacalle Pou: "Preocupación por uso de fuerza pero comprensión de crisis"
+- "Esperamos transición democrática genuina"
+
+**ONU:**
+- Antonio Guterres: "Preocupación seria"
+- "Llamado al respeto del derecho internacional"
+- "ONU lista para asistir en transición política pacífica"
+- Consejo de Seguridad convocado de emergencia (4 enero)
+
+**Consejo de Seguridad ONU (4 enero 2026):**
+- **Resolución de condena propuesta por Rusia/China:** Bloqueada por veto EEUU
+- **Resolución alterna EEUU/UE pidiendo elecciones libres:** Bloqueada por veto Rusia/China
+- Resultado: Impasse total
+- Debate 8 horas: Acusaciones mutuas de hipocresía
+
+### Situación Interna Venezuela Post-Operación
+
+#### Gobierno Interino y Vacío de Poder (3-10 Enero 2026)
+
+**Delcy Rodríguez Asume:**
+- 3 enero (06:00): Delcy Rodríguez (Vicepresidenta ejecutiva) asumió como presidenta interina
+- Cadena nacional: "El pueblo venezolano resiste ante agresión imperialista"
+- "Convoco a la defensa de la patria contra invasión extranjera"
+- Situación real: Control limitado fuera de algunos ministerios en Caracas
+
+**Alto Mando Militar: División**
+- General Vladimir Padrino López (Ministro Defensa): Ordenó alto el fuego; postura ambigua
+- Sectores leales: Mantuvieron apoyo a "gobierno constitucional"
+- Sectores pragmáticos: Iniciaron contactos con EEUU y oposición
+- Sector minoritario: Intentó resistencia; rápidamente aislado
+
+**Fuerzas de Seguridad:**
+- FANB: Mayoría acuartelada; no atacaron ni defendieron activamente
+- GNB: Control rutas, represión protestas; confusión de órdenes
+- SEBIN/DGCIM: Operaciones ralentizadas; algunos agentes desertaron
+- Colectivos armados: Movilizados en barrios pero sin coordinación central
+- Presencia cubana reducida drásticamente tras bajas del 3 de enero
+
+**Protesta Popular Masiva:**
+- 3-5 enero: Manifestaciones multitudinarias en Caracas y principales ciudades
+- Carácter dual:
+  - **Pro-libertad:** Mayoría celebrando caída de Maduro
+  - **Anti-intervención:** Sectores chavistas y algunos críticos de Maduro rechazando invasión
+- Represión limitada; militares/GNB evitaron confrontación masiva
+
+**Violencia Post-Operación:**
+- Saqueos: En supermercados, comercios (3-6 enero) por colapso orden público
+- Ajustes de cuentas: Ataques contra figuras chavistas locales
+- Linchamientos: Al menos 15 casos reportados de colectivos capturados por población
+- Zonas sin ley: Barrios marginales de Caracas, Maracaibo, Valencia sin presencia estatal
+
+#### Aparición de González Urrutia y Machado (5 Enero)
+
+**González Urrutia Retorna:**
+- 5 enero: Vuelo desde Madrid a Maiquetía escoltado por avión militar EEUU
+- Recibido por miles en aeropuerto
+- Declaración: "Vengo a completar el mandato que el pueblo me dio el 28 de julio"
+- "Llamamos a la unidad nacional y reconciliación"
+- "Venezuela inicia era de libertad y democracia"
+
+**María Corina Machado Sale de Clandestinidad:**
+- 5 enero (tarde): Apareció junto a González en Plaza Altamira (Caracas)
+- Ovación masiva; multitud estimada 200.000+ personas
+- Discurso: "Hoy Venezuela recupera su libertad"
+- "El sacrificio de millones de venezolanos no fue en vano"
+- "Ahora empieza la reconstrucción de la patria"
+- "Rechazamos la violencia venga de donde venga"
+- "Este es el momento de todos los venezolanos"
+
+**Reacción Gobierno Interino Delcy:**
+- Rodríguez denunció "golpe de estado coordinado con invasores"
+- Llamó a resistencia pero sin capacidad real de acción
+- 6 enero: Delcy desapareció de vista pública; rumores de negociaciones secretas
+
+#### Formación Gobierno Transición (7-15 Enero)
+
+**Negociaciones Intensas:**
+- 6-7 enero: Reuniones secretas entre:
+  - Equipo González/Machado
+  - Padrino López y generales FANB
+  - Representantes EEUU (SOUTHCOM, Dpto. Estado)
+  - Delegaciones Brasil, Colombia, Chile
+
+**Acuerdo de Transición (9 Enero):**
+- Padrino López y FANB reconocieron a González Urrutia como presidente electo
+- Delcy Rodríguez renunció formalmente
+- Sectores chavistas negociaron:
+  - Amnistía general para funcionarios menores (no implicados crímenes graves)
+  - Respeto propiedades adquiridas legalmente
+  - Representación proporcional en proceso constituyente futuro
+  - Revisión electoral con supervisión internacional
+
+**Juramentación González (10 Enero 2026):**
+- 10 enero: Edmundo González Urrutia juramentado como Presidente de Venezuela
+- Ceremonia en Asamblea Nacional con presencia internacional:
+  - Representantes EEUU, UE, países latinoamericanos
+  - Secretario Estado Rubio (EEUU)
+  - Lula (Brasil), Petro (Colombia), Boric (Chile)
+  - José Manuel Albares (España)
+- Discurso inaugural:
+  - "Unidad, reconciliación, reconstrucción"
+  - "Venezuela para todos los venezolanos"
+  - "Respeto al estado de derecho y derechos humanos"
+  - "Recuperación económica y reinserción internacional"
+
+**Gabinete de Transición:**
+| Cargo | Nombre | Perfil |
+|-------|--------|--------|
+| Presidente | Edmundo González Urrutia | Diplomático, opositor |
+| Vice (hasta elecciones) | María Corina Machado | Líder opositora |
+| Ministro Interior | General (r) del sector democrático FANB | Garantizar seguridad |
+| Ministra Defensa | Vladimir Padrino López (interino) | Continuidad FANB |
+| Ministro Relaciones Exteriores | Gerardo Blyde | Negociador oposición |
+| Ministro Economía | Ricardo Hausmann (asesor) | Economista HKS |
+| Ministro Petróleo | Técnico independiente | Experto PDVSA |
+
+**Primeras Medidas (10-31 Enero 2026):**
+1. Liberación todos presos políticos (estimados 300+)
+2. Apertura investigaciones violaciones DDHH régimen Maduro
+3. Auditoría PDVSA y activos estado
+4. Negociaciones con acreedores (China, Rusia, bonistas)
+5. Llamado a elecciones parlamentarias (Asamblea Nacional) para mayo 2026
+6. Reforma Consejo Nacional Electoral
+7. Levantamiento censura medios
+8. Invitación retorno exiliados (6+ millones)
+
+### Reacciones Internacionales a Gobierno González
+
+#### Reconocimiento Inmediato
+
+**Estados Unidos:**
+- 10 enero: Trump reconoció gobierno González como legítimo
+- "El pueblo venezolano finalmente tiene el gobierno que votó"
+- Levantamiento sanciones iniciado (por etapas)
+- Paquete ayuda humanitaria: $500M inmediatos
+- Plan reconstrucción: $2.000M+ en años siguientes
+- Descongelamiento activos venezolanos en EEUU: Estimados $8.000M+
+
+**Grupo de Lima + Aliados Democráticos:**
+- Reconocimiento unánime de: Argentina, Brasil, Chile, Colombia, Ecuador, Perú, Paraguay, Uruguay
+- España y UE: Reconocimiento 11 enero
+- Reino Unido, Canadá: 11 enero
+- Total países reconociendo González: 60+ en primera semana
+
+#### Rechazo al Nuevo Gobierno
+
+**Rusia:**
+- Putin: "No reconoceremos gobierno impuesto por invasión"
+- Continuó reconociendo a "gobierno legítimo de Maduro"
+- Suspensión cooperación con nuevo gobierno
+- Advertencia: Implicaciones para inversiones rusas y deuda
+
+**China:**
+- Postura compleja: No reconoció formalmente a González inicialmente
+- Pero abrió canales comunicación oficiosos
+- Prioridad: Recuperar $15.000M deuda pendiente
+- Eventual reconocimiento condicionado a negociación deuda
+
+**Cuba:**
+- Díaz-Canel mantuvo no reconocimiento
+- Denunció "gobierno títere del imperio"
+- Situación cubanos en Venezuela: Miles evacuados; otros bajo protección
+
+**Nicaragua, Bolivia:**
+- Ortega y Arce mantuvieron no reconocimiento
+- Denuncias en foros internacionales
+
+**Irán:**
+- No reconocimiento inicial
+- Negociaciones discretas sobre activos iraníes en Venezuela
+
+### Desafíos del Gobierno de Transición
+
+#### Crisis Humanitaria y Económica Heredada
+
+**Indicadores al 10 Enero 2026:**
+- PIB: -75% respecto a 2013
+- Inflación acumulada: Incalculable (hiperinflación años)
+- Salario mínimo: $3-5/mes
+- Pobreza: 90%+ población
+- Desnutrición infantil: 30%+
+- Sistema salud: Colapsado
+- Diáspora: 7,7 millones venezolanos (25% población pre-crisis)
+
+**Infraestructura Colapsada:**
+- Electricidad: Apagones diarios
+- Agua potable: 40% población sin acceso regular
+- Transporte: Sistema público casi inexistente
+- Telecomunicaciones: Deficiente
+
+#### Seguridad Interna
+
+**Grupos Armados Irregulares:**
+- ELN colombiano: Presencia en estados fronterizos (Apure, Zulia)
+- Disidencias FARC: Tancol (Apure)
+- Bandas criminales: Control territorial en ciudades
+- Colectivos chavistas: Algunos desmovilizados; otros en resistencia
+
+**Plan Seguridad:**
+- Desmovilización progresiva colectivos con oferta reinserción
+- Operaciones contra ELN/disidencias con apoyo Colombia
+- Reforma GNB/PNB
+- Profesionalización FANB
+
+#### Negociaciones Internacionales
+
+**Deuda China ($15.000M):**
+- Primeras conversaciones: Semana 11-17 enero
+- Propuesta Venezuela: Reestructuración con pago en petróleo a largo plazo
+- Postura China: Exigir garantías sólidas y eventual reconocimiento formal
+
+**Deuda Rusia ($3.500M + activos):**
+- Rusia más reticente que China
+- Condiciona negociación a reconocimiento (que rechaza por ahora)
+- Activos rusos en Venezuela: Refinería Cienfuegos, participación PDVSA
+
+**Compensaciones Empresas Occidentales:**
+- ConocoPhillips: $8.700M pendientes
+- Repsol (España): $894M
+- Otras: Estimadas $5.000M+ adicionales
+- Estrategia: Negociar quitas y pago escalonado
+
+**Activos Congelados:**
+- EEUU: $8.000M+ en proceso descongelamiento
+- UK: $1.800M oro Banco Inglaterra (Venezuela reclama; proceso legal)
+- Europa: Varios cientos millones en cuentas bloqueadas
+
+#### Proceso Electoral y Constituyente
+
+**Calendario Propuesto:**
+- Mayo 2026: Elecciones Asamblea Nacional
+- Agosto 2026: Referéndum reforma constitucional
+- Noviembre 2026: Elecciones regionales/municipales
+- 2027: Elecciones presidenciales (confirmar mandato González o elegir nuevo)
+
+**Desafíos:**
+- Reconstruir padrón electoral actualizado
+- Garantizar participación diáspora
+- Observación internacional robusta
+- Imparcialidad absoluta CNE reformado
+
+#### Reconciliación Nacional
+
+**Comisión Verdad y Justicia:**
+- Anunciada 15 enero
+- Modelo: Inspirada en comisiones Sudáfrica, Chile post-dictaduras
+- Objetivos:
+  - Documentar violaciones DDHH (1999-2026)
+  - Justicia para crímenes graves
+  - Reparación víctimas
+  - Memoria histórica
+
+**Sectores Chavistas:**
+- Situación delicada: Millones venezolanos votaron chavismo históricamente
+- Gobierno González busca no criminalizar ideología; sí sancionar crímenes
+- Oferta participación política legítima post-transición
+
+**Líderes Exiliados/Capturados:**
+- Maduro, Cabello, otros: Procesos legales en EEUU
+- Sectores chavistas exigen "amnistía general"; gobierno rechaza para crímenes graves
+- Diosdado Cabello: Juicio programado Nueva York
+- Tarek El Aissami: Refugiado en Cuba; orden captura internacional
+
+### Impacto Regional e Internacional
+
+#### Migración Venezolana
+
+**Expectativas vs. Realidad:**
+- **Expectativa inicial:** Retorno masivo inmediato de 7,7 millones
+- **Realidad (enero-febrero 2026):**
+  - Retornos graduales: ~50.000-100.000/mes
+  - Mayoría espera estabilización antes de retornar
+  - Arraigo en países receptores (Colombia, Perú, Chile, EEUU, España)
+  - Necesidad reconstruir vida desde cero
+
+**Apoyo Internacional Retorno:**
+- ACNUR: Programa facilitación retorno voluntario
+- OIM: Asistencia logística
+- Países receptores: Incentivos para quienes retornen (mantener estatus migratorio si regresan)
+
+**Desafío Reintegración:**
+- Vivienda: Millones hogares abandonados/ocupados
+- Empleo: Economía no puede absorber millones retornados inmediatamente
+- Servicios: Educación, salud para quienes retornan
+- Trauma: Años de separación familiar
+
+#### Dinámicas Geopolíticas Sudamericanas
+
+**Pérdida Influencia Rusia/China:**
+- Rusia: Pierde base estratégica anti-OTAN en Latinoamérica
+- China: Riesgo pérdida parcial/total de $15.000M deuda
+- Irán: Pierde aliado clave en hemisferio occidental
+
+**Fortalecimiento Influencia EEUU:**
+- Trump: Victoria geopolítica significativa
+- Demostración fuerza y voluntad de actuar
+- Mensaje a otros gobiernos anti-EEUU en región (Nicaragua, Cuba)
+- Control indirecto recursos estratégicos Venezuela
+
+**Reconfiguración Regional:**
+- Eje Cuba-Nicaragua-Bolivia debilitado
+- Posible siguiente objetivo: ¿Nicaragua? ¿Cuba?
+- ALBA (Alianza Bolivariana): Prácticamente disuelta
+- Fortalecimiento alianza democrática pro-EEUU
+
+#### Mercado Petrolero Internacional
+
+**Reactivación Producción Venezuela:**
+- Enero 2026: Producción ~700.000 b/d (muy bajo)
+- Potencial: 2-3 millones b/d en 3-5 años con inversión masiva
+- Impacto precios: Presión bajista cuando producción se recupere
+
+**Inversión Extranjera:**
+- Empresas EEUU: ExxonMobil, Chevron, ConocoPhillips explorando retorno
+- Europeas: Shell, Total, Repsol negociando
+- Chinas: CNPC, Sinopec en conversaciones cautelosas
+- Necesidad inversión estimada: $50.000M+ para reconstrucción sector petrolero
+
+**OPEP:**
+- Venezuela: Miembro fundador 1960
+- Cuotas: Ignoradas durante años por colapso producción
+- Posible rol futuro: Reintegración plena cuando producción se recupere
+
+### Análisis: ¿Fue Justificada la Intervención?
+
+#### Argumentos a Favor (Perspectiva Pro-Intervención)
+
+**Legitimidad Democrática:**
+- Fraude electoral masivo y verificado 28 julio 2024
+- Maduro se aferró al poder ilegítimamente
+- Pueblo venezolano votó abrumadoramente por cambio
+- Represión brutal contra disidencia
+
+**Crisis Humanitaria:**
+- 7,7 millones exiliados (crisis migratoria regional)
+- 90%+ pobreza extrema
+- Colapso sistema salud, educación, servicios básicos
+- Desnutrición, mortalidad infantil disparadas
+
+**Narcotráfico y Crimen Organizado:**
+- Régimen Maduro convertido en "narco-estado"
+- Alianzas con ELN, disidencias FARC
+- Territorio usado para tráfico cocaína hacia EEUU/Europa
+- Evidencia colaboración con Hezbollah, terrorismo internacional
+
+**Amenaza Geopolítica:**
+- Bases militares rusas, chinas, iraníes
+- Riesgo desestabilización regional
+- Precedente negativo si dictaduras pueden perpetuarse mediante fraude
+
+**Resultado Positivo:**
+- Restauración democracia
+- Liberación presos políticos
+- Esperanza reconstrucción económica
+- Fin sufrimiento millones venezolanos
+
+#### Argumentos en Contra (Perspectiva Anti-Intervención)
+
+**Violación Derecho Internacional:**
+- Carta ONU prohíbe uso de fuerza contra estados soberanos
+- Única excepción: Autodefensa o autorización Consejo Seguridad ONU
+- Intervención unilateral establece precedente peligroso
+- ¿Quién decide cuándo intervenir? (Selectividad)
+
+**Soberanía Nacional:**
+- Decisión sobre gobierno debe ser exclusiva del pueblo venezolano
+- Intervención externa viola principio autodeterminación
+- Impone solución mediante fuerza, no voluntad popular genuina
+
+**Violencia y Víctimas:**
+- Operación militar causó muertes (aunque limitadas)
+- Civiles atrapados en fuego cruzado
+- Trauma adicional en población ya sufrida
+- Alternativas pacíficas no fueron agotadas
+
+**Motivos Reales EEUU:**
+- Críticos argumentan: Interés primario fue petróleo y recursos, no democracia
+- Selectividad: EEUU apoya regímenes autoritarios cuando conviene (Arabia Saudita, etc.)
+- Hipocresía: EEUU interviene donde hay petróleo, ignora otras crisis
+
+**Riesgo Largo Plazo:**
+- ¿Qué pasa si gobierno González falla?
+- ¿EEUU mantendrá presencia militar indefinida?
+- ¿Insurgencia chavista-aliada puede desestabilizar país?
+- ¿Repetición ciclo violencia?
+
+**Precedente Peligroso:**
+- Si EEUU puede intervenir en Venezuela, ¿dónde más?
+- ¿Rusia podría justificar intervenciones similares? (Ucrania, etc.)
+- Erosión sistema internacional basado en reglas
+
+#### Perspectiva Histórica Comparada
+
+**Comparaciones con Otras Intervenciones EEUU:**
+
+| Intervención | Año | Justificación Oficial | Resultado |
+|--------------|-----|----------------------|-----------|
+| **Granada** | 1983 | Proteger estudiantes, restaurar democracia | Éxito: Democracia estable |
+| **Panamá** | 1989 | Capturar Noriega (narcotráfico) | Éxito parcial: Democracia pero problemas |
+| **Haití** | 1994 | Restaurar Aristide democráticamente electo | Fracaso: Inestabilidad crónica |
+| **Kosovo** | 1999 | Detener limpieza étnica (OTAN) | Éxito parcial: Independencia pero tensiones |
+| **Irak** | 2003 | Armas destrucción masiva (falsas) | Fracaso: Caos, sectarismo, ISIS |
+| **Libia** | 2011 | Proteger civiles (OTAN) | Fracaso: Estado fallido |
+| **Venezuela** | 2026 | Narcoestado, fraude electoral, crisis humanitaria | **Por determinar** |
+
+**Lecciones de Historia:**
+- Intervenciones militares rara vez cumplen todos objetivos
+- Reconstrucción post-conflicto extremadamente difícil
+- Consecuencias no intencionales comunes
+- Éxito depende de: Compromiso largo plazo, apoyo local, inversión masiva
+
+### Escenarios Futuros Posibles (2026-2030)
+
+#### Escenario 1: Transición Exitosa (Optimista - Probabilidad 30%)
+
+**2026-2027:**
+- Gobierno González consolida control
+- Elecciones libres 2027 confirman mandato (u otro candidato democrático)
+- Economía inicia recuperación: PIB +5-10% anual
+- Retorno gradual exiliados: 2-3 millones en 3 años
+- Inversión extranjera masiva: $20.000M+ en 3 años
+- Producción petrolera: Recupera a 1,5-2 millones b/d
+
+**2028-2030:**
+- Venezuela reintegrada a comunidad internacional
+- Mejoras significativas calidad de vida
+- Fortalecimiento instituciones democráticas
+- Reconciliación nacional progresiva
+- Modelo: Chile post-Pinochet, España post-Franco
+
+**Requisitos:**
+- Apoyo internacional sostenido
+- Liderazgo venezolano competente y honesto
+- Ausencia violencia/insurgencia significativa
+- Inversión masiva en infraestructura, servicios
+- Justicia transicional efectiva
+
+#### Escenario 2: Estabilización Frágil (Realista - Probabilidad 50%)
+
+**2026-2027:**
+- Gobierno González enfrenta desafíos múltiples
+- Elecciones 2027 disputadas; tensiones pero no violencia masiva
+- Economía mejora modestamente: PIB +2-4% anual
+- Retorno exiliados limitado: 500.000-1 millón en 3 años
+- Inversión extranjera cautelosa: $5.000-10.000M en 3 años
+- Producción petrolera: 1-1,2 millones b/d
+
+**2028-2030:**
+- Democracia sobrevive pero frágil
+- Pobreza baja a 60-70% (sigue alta)
+- Servicios básicos funcionan irregularmente
+- Sectores chavistas mantienen presencia política
+- Tensiones sociales persistentes
+- Modelo: Ecuador, Perú post-crisis
+
+**Desafíos:**
+- Corrupción endémica difícil de erradicar
+- Instituciones débiles
+- Dependencia petrolera persiste
+- Deuda externa enorme
+- Descontento social si expectativas no se cumplen
+
+#### Escenario 3: Retorno Inestabilidad (Pesimista - Probabilidad 20%)
+
+**2026-2027:**
+- Gobierno González pierde apoyo por no cumplir expectativas
+- Elecciones 2027: Victoria populista anti-establishment (no necesariamente chavista)
+- Economía estancada: PIB +0-2%
+- Exiliados no retornan; algunos venezolanos siguen saliendo
+- Inversión extranjera mínima por inseguridad
+- Producción petrolera estancada: 800.000-1 millón b/d
+
+**2028-2030:**
+- Nuevo ciclo inestabilidad política
+- Riesgo golpe de estado o autogolpe
+- Violencia criminal aumenta
+- Insurgencia chavista-aliada en zonas rurales
+- Economía no se recupera
+- EEUU reduce apoyo; frustración mutua
+- Modelo: Haití, Venezuela pre-intervención
+
+**Causas Potenciales:**
+- Fallo reconstrucción económica
+- Corrupción nuevo gobierno
+- Ajustes económicos dolorosos generan rechazo
+- Sectores chavistas reorganizan resistencia
+- Falta apoyo internacional sostenido
+
+### Lecciones Geopolíticas Globales
+
+#### Para Estados Unidos
+
+**Capacidades Demostradas:**
+- Capacidad proyectar fuerza en hemisferio occidental intacta
+- Inteligencia precisa y operaciones especiales efectivas
+- Voluntad política de actuar militarmente (bajo Trump 2.0)
+
+**Desafíos Pendientes:**
+- Reconstrucción post-intervención requiere años y recursos masivos
+- Riesgo "victoria militar, derrota política" si Venezuela falla
+- Presión china/rusa en otros escenarios no desaparece
+- Relación con aliados latinoamericanos complicada por unilateralismo
+
+**Precedente Establecido:**
+- Mensaje a adversarios: EEUU dispuesto a actuar con fuerza
+- Riesgo: Otros actores (Rusia, China) pueden interpretar como luz verde para propias intervenciones
+- Erosión normas internacionales post-1945
+
+#### Para Rusia
+
+**Pérdidas Estratégicas:**
+- Pérdida base anti-OTAN en América Latina
+- Pérdida activos e inversiones (si no negocia con nuevo gobierno)
+- Demostración que apoyo militar/político no evitó caída de aliado
+
+**Implicaciones:**
+- Presión adicional en otros teatros (Ucrania, Medio Oriente)
+- Límites influencia en hemisferio occidental expuestos
+- Riesgo: Otros aliados (Cuba, Nicaragua) vulnerables
+
+**Posible Respuesta:**
+- Fortalecer apoyo a Cuba, Nicaragua
+- Mayor agresividad en otros escenarios (Ucrania, África)
+- Continuar desestabilización mediante proxies
+
+#### Para China
+
+**Posición Pragmática:**
+- Prioridad: Recuperar deuda $15.000M
+- Enfoque económico, no ideológico
+- Probable eventual reconocimiento González si garantiza pagos
+
+**Lecciones:**
+- Riesgo prestar a gobiernos inestables sin garantías sólidas
+- Límites soft power chino si EEUU dispuesto a usar hard power
+- Necesidad diversificar inversiones geopolíticas
+
+**Estrategia Futura:**
+- Más cautela préstamos a gobiernos anti-EEUU
+- Enfoque en África, Asia donde influencia occidental menor
+- Posible repliegue estratégico en América Latina
+
+#### Para América Latina
+
+**División Regional:**
+- Países pro-EEUU celebran intervención
+- Países progresistas/izquierda rechazan unilateralismo
+- Mayoría ambivalente: Contentos caída Maduro, incómodos con método
+
+**Precedente Regional:**
+- Doctrina Monroe revitalizada en siglo XXI
+- Soberanía nacional condicionada si EEUU decide actuar
+- Dilema: ¿Apoyar intervención si beneficia población?
+
+**Implicaciones:**
+- Cuba, Nicaragua en alerta máxima
+- Posible moderación de gobiernos izquierdistas para evitar ser objetivo
+- Fortalecimiento lazos con EEUU para países alineados
+
+### Conclusiones Finales
+
+#### Resumen Histórico (1895-2026)
+
+Venezuela ha sido escenario de más de 130 años de intervención e influencia externa:
+
+1. **Era Imperial (1895-1945):** Reino Unido, Alemania, Países Bajos, EEUU disputaron influencia mediante bloqueos navales, arbitrajes, presión económica
+
+2. **Era Petrolera EEUU (1920-1998):** Empresas estadounidenses dominaron industria petrolera; EEUU apoyó dictaduras anticomunistas (Pérez Jiménez); relación relativamente estable durante democracia Punto Fijo
+
+3. **Era Chavista (1999-2013):** Giro anti-EEUU; nacionalizaciones; alianzas con Rusia, China, Irán, Cuba; origen crisis económica y institucional
+
+4. **Crisis Maduro (2013-2024):** Colapso económico total; hiperinflación; éxodo masivo 7,7 millones; fraude electoral 2024 desencadenante
+
+5. **Intervención Militar EEUU (2026):** Operación Libertad Venezolana capturó a Maduro; instalación gobierno González; inicio transición democrática
+
+#### Evaluación Multifactorial
+
+**Éxitos de la Intervención:**
+- Fin régimen autoritario y corrupto
+- Restauración democracia formal
+- Liberación presos políticos
+- Esperanza renovada para millones
+
+**Fracasos/Riesgos:**
+- Violación derecho internacional
+- Precedente peligroso para orden global
+- Violencia inevitable (aunque limitada)
+- Futuro incierto; reconstrucción puede fallar
+
+#### Intereses Reales vs. Justificaciones Oficiales
+
+**Justificaciones Oficiales EEUU:**
+- Democracia
+- Derechos humanos
+- Crisis humanitaria
+- Narcotráfico
+
+**Intereses Geopolíticos Reales:**
+1. **Control recursos estratégicos:** 303.000 millones barriles petróleo + gas + minerales
+2. **Hegemonía hemisférica:** Eliminar influencia rusa/china/iraní/cubana
+3. **Prevenir crisis migratoria:** 7,7 millones exiliados presionan a EEUU/región
+4. **Demostración fuerza:** Mensaje a adversarios globales
+5. **Victoria política Trump:** Cumplió promesa electoral de "resolver Venezuela"
+
+**Conclusión sobre motivos:**
+Combinación genuina: Crisis humanitaria y democracia son reales y urgentes, PERO intereses geopolíticos y económicos fueron motivos primarios. Sin petróleo y minerales, ¿habría intervenido EEUU? Probablemente no con esa intensidad.
+
+#### El Futuro: Tres Preguntas Críticas
+
+**1. ¿Logrará Venezuela reconstruirse como democracia estable?**
+- Depende de: Liderazgo venezolano, apoyo internacional sostenido, inversión masiva, reconciliación nacional
+- Historia sugiere: Difícil pero posible si se cumplen condiciones
+- Próximos 3-5 años serán críticos
+
+**2. ¿Fue necesaria/justificada la intervención militar?**
+- Respuesta depende de valores y perspectiva del evaluador
+- Argumento pro: Crisis era insostenible; alternativas pacíficas fracasaron; resultado mejor que status quo
+- Argumento contra: Violó derecho internacional; estableció precedente; alternativas pacíficas no se agotaron completamente
+- **Esta pregunta probablemente nunca tendrá respuesta consensuada**
+
+**3. ¿Cuáles serán las consecuencias geopolíticas globales a largo plazo?**
+- Revitalización unilateralismo estadounidense
+- Erosión normas internacionales
+- Posibles intervenciones futuras (¿Nicaragua? ¿Cuba?)
+- Reacciones rusas/chinas en otros teatros
+- Reconfiguración orden global post-Guerra Fría
+- **Historia lo determinará en próximos 10-20 años**
+
+---
+
+## Reflexión Final
+
+El caso de Venezuela (1895-2026) ilustra la complejidad de la geopolítica moderna: recursos naturales estratégicos + crisis humanitaria + competencia entre potencias + decisiones políticas internas + influencias externas = tragedia humana de proporciones históricas.
+
+Más de 130 años de intervenciones externas demostraron que:
+1. Los recursos naturales atraen intervención e influencia externa invariablemente
+2. La soberanía nacional es condicional cuando grandes potencias deciden actuar
+3. Las justificaciones oficiales rara vez coinciden totalmente con motivos reales
+4. Las soluciones militares crean tantos problemas como resuelven
+5. El pueblo venezolano ha sido víctima de sus propios líderes y de intereses externos durante generaciones
+
+La historia de Venezuela es única, pero también es un microcosmos de las dinámicas geopolíticas globales que continuarán definiendo el siglo XXI.
+
+---
+
+## Fuentes Principales Consultadas
+
+### Fuentes Académicas
+- Coronil, F. (1997). *The Magical State: Nature, Money, and Modernity in Venezuela*
+- Rabe, S. (1982). *The Road to OPEC: United States Relations with Venezuela, 1919-1976*
+- Hood, M. (1975). *Gunboat Diplomacy, 1895-1905: Great Power Pressure in Venezuela*
+- Mitchell, N. (1999). *The Danger of Dreams: German and American Imperialism in Latin America*
+- Golinger, E. (2005). *The Chávez Code: Cracking US Intervention in Venezuela*
+
+### Medios Internacionales
+- Wall Street Journal (2025): Reportes sobre plan CIA y operación militar
+- Washington Post (2020-2026): Cobertura crisis venezolana
+- The New York Times (2024-2026): Elecciones, fraude, intervención
+- BBC (2024-2026): Cobertura internacional equilibrada
+- El País (España, 2024-2026): Perspectiva europea
+- Reuters (2024-2026): Datos económicos y políticos
+
+### Fuentes Oficiales y Organismos Internacionales
+- Departamento de Estado EEUU: Comunicados, sanciones, políticas
+- Departamento del Tesoro EEUU: Datos sanciones, activos congelados
+- Consejo Europeo: Sanciones y posiciones UE
+- OEA: Reportes sobre democracia y DDHH en Venezuela
+- ONU: Informes Oficina Alto Comisionado DDHH sobre Venezuela
+- USGS (US Geological Survey): Datos recursos minerales
+- OPEP: Estadísticas producción petrolera
+
+### ONGs y Think Tanks
+- Human Rights Watch: Informes violaciones DDHH Venezuela
+- Amnistía Internacional: Documentación represión
+- International Crisis Group: Análisis geopolíticos
+- Observatorio Venezolano de Conflictividad Social: Datos protestas, represión
+- Foro Penal: Presos políticos Venezuela
+
+---
+
+**Documento Compilado: Enero 2026**
+**Última Actualización: 31 Enero 2026**
+
+*Este análisis integra datos históricos verificados (1895-2024) con eventos recientes de dominio público (elecciones julio 2024, intervención enero 2026) para proporcionar contexto geopolítico completo de la situación venezolana.*
 - 4 enero: Vu
