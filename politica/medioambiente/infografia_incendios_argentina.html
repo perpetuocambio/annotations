@@ -1,0 +1,1095 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Argentina en Llamas: Anatomía de una Catástrofe Programada</title>
+    <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Crimson+Pro:wght@400;600;700&family=Space+Mono:wght@400;700&display=swap" rel="stylesheet">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/lucide/0.263.1/umd/lucide.min.js"></script>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        :root {
+            --fire-red: #ff4444;
+            --burn-orange: #ff6b35;
+            --ash-gray: #2d2d2d;
+            --smoke-white: #f5f5f5;
+            --blood-dark: #8b0000;
+            --forest-green: #2d5016;
+            --warning-yellow: #ffd700;
+            --shadow: rgba(0, 0, 0, 0.3);
+        }
+
+        body {
+            font-family: 'Crimson Pro', serif;
+            background: linear-gradient(135deg, #1a1a1a 0%, #2d2d2d 100%);
+            color: var(--smoke-white);
+            line-height: 1.6;
+            overflow-x: hidden;
+        }
+
+        .grain {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            opacity: 0.05;
+            pointer-events: none;
+            background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="300" height="300"><filter id="noise"><feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="4"/></filter><rect width="300" height="300" filter="url(%23noise)"/></svg>');
+            z-index: 1000;
+        }
+
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+            padding: 0;
+        }
+
+        /* HERO SECTION */
+        .hero {
+            position: relative;
+            min-height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            background: 
+                linear-gradient(180deg, rgba(255,68,68,0.1) 0%, rgba(139,0,0,0.3) 100%),
+                radial-gradient(ellipse at top, rgba(255,107,53,0.2) 0%, transparent 70%);
+            overflow: hidden;
+            border-bottom: 3px solid var(--fire-red);
+        }
+
+        .hero::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background: 
+                repeating-linear-gradient(90deg, transparent, transparent 2px, rgba(255,68,68,0.03) 2px, rgba(255,68,68,0.03) 4px),
+                repeating-linear-gradient(0deg, transparent, transparent 2px, rgba(255,68,68,0.03) 2px, rgba(255,68,68,0.03) 4px);
+            pointer-events: none;
+        }
+
+        .hero-content {
+            text-align: center;
+            z-index: 2;
+            padding: 4rem 2rem;
+            animation: fadeInUp 1.5s ease-out;
+        }
+
+        .hero-kicker {
+            font-family: 'Space Mono', monospace;
+            font-size: 0.9rem;
+            letter-spacing: 4px;
+            color: var(--warning-yellow);
+            text-transform: uppercase;
+            margin-bottom: 1rem;
+            font-weight: 700;
+        }
+
+        .hero-title {
+            font-family: 'Bebas Neue', sans-serif;
+            font-size: clamp(3rem, 10vw, 8rem);
+            line-height: 0.9;
+            letter-spacing: -2px;
+            color: var(--fire-red);
+            text-shadow: 
+                0 0 20px rgba(255,68,68,0.5),
+                0 5px 10px rgba(0,0,0,0.5);
+            margin-bottom: 1.5rem;
+            animation: flicker 3s ease-in-out infinite;
+        }
+
+        .hero-subtitle {
+            font-size: clamp(1.2rem, 3vw, 2.5rem);
+            color: var(--smoke-white);
+            font-weight: 400;
+            max-width: 900px;
+            margin: 0 auto 2rem;
+            font-style: italic;
+        }
+
+        .hero-stats {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 2rem;
+            max-width: 1000px;
+            margin: 3rem auto 0;
+        }
+
+        .stat {
+            text-align: center;
+            padding: 1.5rem;
+            background: rgba(255,255,255,0.05);
+            border: 1px solid rgba(255,68,68,0.3);
+            backdrop-filter: blur(10px);
+            animation: fadeInUp 1.5s ease-out;
+        }
+
+        .stat:nth-child(2) { animation-delay: 0.2s; }
+        .stat:nth-child(3) { animation-delay: 0.4s; }
+        .stat:nth-child(4) { animation-delay: 0.6s; }
+
+        .stat-number {
+            font-family: 'Bebas Neue', sans-serif;
+            font-size: 3.5rem;
+            color: var(--fire-red);
+            display: block;
+            line-height: 1;
+        }
+
+        .stat-label {
+            font-size: 0.9rem;
+            color: var(--smoke-white);
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            margin-top: 0.5rem;
+        }
+
+        /* SECTION STYLING */
+        section {
+            padding: 5rem 2rem;
+            border-bottom: 1px solid rgba(255,255,255,0.1);
+            position: relative;
+        }
+
+        .section-header {
+            text-align: center;
+            margin-bottom: 4rem;
+        }
+
+        .section-title {
+            font-family: 'Bebas Neue', sans-serif;
+            font-size: clamp(2.5rem, 5vw, 4.5rem);
+            color: var(--fire-red);
+            letter-spacing: -1px;
+            margin-bottom: 1rem;
+            position: relative;
+            display: inline-block;
+        }
+
+        .section-title::after {
+            content: '';
+            position: absolute;
+            bottom: -10px;
+            left: 0;
+            width: 100%;
+            height: 3px;
+            background: linear-gradient(90deg, var(--fire-red), transparent);
+        }
+
+        .section-subtitle {
+            font-size: 1.2rem;
+            color: rgba(255,255,255,0.7);
+            max-width: 700px;
+            margin: 1.5rem auto 0;
+            font-style: italic;
+        }
+
+        /* TIMELINE */
+        .timeline {
+            max-width: 1200px;
+            margin: 0 auto;
+            position: relative;
+            padding-left: 2rem;
+        }
+
+        .timeline::before {
+            content: '';
+            position: absolute;
+            left: 0;
+            top: 0;
+            bottom: 0;
+            width: 3px;
+            background: linear-gradient(180deg, var(--fire-red), var(--burn-orange), var(--fire-red));
+        }
+
+        .timeline-item {
+            position: relative;
+            padding-left: 3rem;
+            margin-bottom: 3rem;
+            animation: slideInLeft 0.8s ease-out;
+        }
+
+        .timeline-marker {
+            position: absolute;
+            left: -8px;
+            top: 0;
+            width: 20px;
+            height: 20px;
+            background: var(--fire-red);
+            border: 3px solid var(--ash-gray);
+            border-radius: 50%;
+            box-shadow: 0 0 20px rgba(255,68,68,0.8);
+        }
+
+        .timeline-date {
+            font-family: 'Space Mono', monospace;
+            font-size: 0.85rem;
+            color: var(--warning-yellow);
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            margin-bottom: 0.5rem;
+        }
+
+        .timeline-title {
+            font-family: 'Bebas Neue', sans-serif;
+            font-size: 1.8rem;
+            color: var(--smoke-white);
+            margin-bottom: 0.5rem;
+        }
+
+        .timeline-description {
+            color: rgba(255,255,255,0.8);
+            line-height: 1.7;
+        }
+
+        /* BENEFICIARIOS GRID */
+        .beneficiarios-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 2rem;
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+
+        .beneficiario-card {
+            background: linear-gradient(135deg, rgba(255,107,53,0.1) 0%, rgba(139,0,0,0.2) 100%);
+            border: 2px solid rgba(255,68,68,0.3);
+            padding: 2rem;
+            position: relative;
+            overflow: hidden;
+            transition: all 0.3s ease;
+        }
+
+        .beneficiario-card::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: -100%;
+            width: 100%;
+            height: 100%;
+            background: linear-gradient(90deg, transparent, rgba(255,68,68,0.2), transparent);
+            transition: left 0.5s ease;
+        }
+
+        .beneficiario-card:hover {
+            transform: translateY(-5px);
+            border-color: var(--fire-red);
+            box-shadow: 0 10px 30px rgba(255,68,68,0.3);
+        }
+
+        .beneficiario-card:hover::before {
+            left: 100%;
+        }
+
+        .beneficiario-icon {
+            font-size: 3rem;
+            margin-bottom: 1rem;
+            display: block;
+            color: var(--fire-red);
+        }
+        
+        .beneficiario-icon svg {
+            width: 48px;
+            height: 48px;
+            stroke-width: 1.5;
+        }
+
+        .beneficiario-title {
+            font-family: 'Bebas Neue', sans-serif;
+            font-size: 1.8rem;
+            color: var(--fire-red);
+            margin-bottom: 1rem;
+        }
+
+        .beneficiario-amount {
+            font-family: 'Space Mono', monospace;
+            font-size: 1.5rem;
+            color: var(--warning-yellow);
+            margin-bottom: 1rem;
+            font-weight: 700;
+        }
+
+        .beneficiario-list {
+            list-style: none;
+            padding: 0;
+        }
+
+        .beneficiario-list li {
+            padding: 0.5rem 0;
+            border-bottom: 1px solid rgba(255,255,255,0.1);
+            color: rgba(255,255,255,0.8);
+        }
+
+        .beneficiario-list li:last-child {
+            border-bottom: none;
+        }
+
+        /* PERJUDICADOS SECTION */
+        .perjudicados-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+            gap: 1.5rem;
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+
+        .perjudicado-card {
+            background: rgba(0,0,0,0.4);
+            border-left: 4px solid var(--warning-yellow);
+            padding: 2rem;
+            transition: all 0.3s ease;
+        }
+
+        .perjudicado-card:hover {
+            background: rgba(0,0,0,0.6);
+            transform: translateX(10px);
+        }
+
+        .perjudicado-icon {
+            font-size: 2.5rem;
+            margin-bottom: 1rem;
+            display: block;
+            color: var(--warning-yellow);
+        }
+        
+        .perjudicado-icon svg {
+            width: 40px;
+            height: 40px;
+            stroke-width: 1.5;
+        }
+
+        .perjudicado-title {
+            font-family: 'Bebas Neue', sans-serif;
+            font-size: 1.5rem;
+            color: var(--warning-yellow);
+            margin-bottom: 1rem;
+        }
+
+        .perjudicado-description {
+            color: rgba(255,255,255,0.8);
+            font-size: 0.95rem;
+            line-height: 1.6;
+        }
+
+        /* CONTEXTO POLITICO */
+        .politico-section {
+            background: linear-gradient(135deg, rgba(139,0,0,0.3) 0%, rgba(0,0,0,0.5) 100%);
+        }
+
+        .politico-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+            gap: 2rem;
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+
+        .politico-card {
+            background: rgba(255,255,255,0.05);
+            border: 2px solid var(--blood-dark);
+            padding: 2rem;
+            position: relative;
+        }
+
+        .politico-card::before {
+            content: '⚠';
+            position: absolute;
+            top: 1rem;
+            right: 1rem;
+            font-size: 2rem;
+            opacity: 0.3;
+        }
+
+        .politico-name {
+            font-family: 'Bebas Neue', sans-serif;
+            font-size: 2rem;
+            color: var(--fire-red);
+            margin-bottom: 0.5rem;
+        }
+
+        .politico-cargo {
+            font-family: 'Space Mono', monospace;
+            font-size: 0.85rem;
+            color: var(--warning-yellow);
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            margin-bottom: 1.5rem;
+        }
+
+        .politico-acciones {
+            list-style: none;
+        }
+
+        .politico-acciones li {
+            padding: 0.8rem 0;
+            border-bottom: 1px solid rgba(255,255,255,0.1);
+            color: rgba(255,255,255,0.8);
+            display: flex;
+            align-items: flex-start;
+        }
+
+        .politico-acciones li::before {
+            content: '▸';
+            color: var(--fire-red);
+            margin-right: 0.5rem;
+            font-weight: bold;
+        }
+
+        /* EVIDENCIAS */
+        .evidencias-container {
+            max-width: 1000px;
+            margin: 0 auto;
+        }
+
+        .evidencia-item {
+            background: linear-gradient(90deg, rgba(255,68,68,0.1) 0%, transparent 100%);
+            border-left: 5px solid var(--fire-red);
+            padding: 2rem;
+            margin-bottom: 2rem;
+        }
+
+        .evidencia-title {
+            font-family: 'Bebas Neue', sans-serif;
+            font-size: 1.8rem;
+            color: var(--fire-red);
+            margin-bottom: 1rem;
+        }
+
+        .evidencia-stat {
+            font-family: 'Space Mono', monospace;
+            font-size: 2.5rem;
+            color: var(--warning-yellow);
+            font-weight: 700;
+            display: block;
+            margin-bottom: 0.5rem;
+        }
+
+        .evidencia-description {
+            color: rgba(255,255,255,0.8);
+            line-height: 1.7;
+        }
+
+        /* COMPARATIVA */
+        .comparativa {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 3rem;
+            max-width: 1200px;
+            margin: 3rem auto;
+        }
+
+        .comparativa-column {
+            padding: 2rem;
+        }
+
+        .comparativa-column.beneficiarios {
+            background: linear-gradient(135deg, rgba(51,207,102,0.1) 0%, rgba(32,201,151,0.2) 100%);
+            border: 2px solid rgba(51,207,102,0.5);
+        }
+
+        .comparativa-column.perjudicados {
+            background: linear-gradient(135deg, rgba(255,68,68,0.1) 0%, rgba(139,0,0,0.2) 100%);
+            border: 2px solid rgba(255,68,68,0.5);
+        }
+
+        .comparativa-title {
+            font-family: 'Bebas Neue', sans-serif;
+            font-size: 2.5rem;
+            margin-bottom: 2rem;
+            text-align: center;
+        }
+
+        .comparativa-column.beneficiarios .comparativa-title {
+            color: #51cf66;
+        }
+
+        .comparativa-column.perjudicados .comparativa-title {
+            color: var(--fire-red);
+        }
+
+        .comparativa-list {
+            list-style: none;
+        }
+
+        .comparativa-list li {
+            padding: 1rem;
+            margin-bottom: 1rem;
+            background: rgba(0,0,0,0.3);
+            border-radius: 5px;
+        }
+
+        .comparativa-list strong {
+            font-family: 'Space Mono', monospace;
+            display: block;
+            margin-bottom: 0.5rem;
+            font-size: 0.9rem;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+
+        .comparativa-column.beneficiarios strong {
+            color: #51cf66;
+        }
+
+        .comparativa-column.perjudicados strong {
+            color: var(--fire-red);
+        }
+
+        /* FOOTER */
+        .footer {
+            text-align: center;
+            padding: 4rem 2rem;
+            background: rgba(0,0,0,0.5);
+            border-top: 3px solid var(--fire-red);
+        }
+
+        .footer-title {
+            font-family: 'Bebas Neue', sans-serif;
+            font-size: 3rem;
+            color: var(--fire-red);
+            margin-bottom: 1rem;
+        }
+
+        .footer-text {
+            max-width: 800px;
+            margin: 0 auto;
+            color: rgba(255,255,255,0.8);
+            font-size: 1.1rem;
+            line-height: 1.8;
+        }
+
+        .footer-sources {
+            margin-top: 3rem;
+            padding-top: 2rem;
+            border-top: 1px solid rgba(255,255,255,0.2);
+        }
+
+        .footer-sources-title {
+            font-family: 'Space Mono', monospace;
+            font-size: 0.9rem;
+            color: var(--warning-yellow);
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            margin-bottom: 1rem;
+        }
+
+        .footer-sources-list {
+            font-size: 0.85rem;
+            color: rgba(255,255,255,0.6);
+            max-width: 900px;
+            margin: 0 auto;
+        }
+
+        /* ANIMATIONS */
+        @keyframes fadeInUp {
+            from {
+                opacity: 0;
+                transform: translateY(30px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        @keyframes slideInLeft {
+            from {
+                opacity: 0;
+                transform: translateX(-50px);
+            }
+            to {
+                opacity: 1;
+                transform: translateX(0);
+            }
+        }
+
+        @keyframes flicker {
+            0%, 100% { opacity: 1; }
+            50% { opacity: 0.95; }
+        }
+
+        /* RESPONSIVE */
+        @media (max-width: 768px) {
+            .comparativa {
+                grid-template-columns: 1fr;
+                gap: 2rem;
+            }
+            
+            .hero-stats {
+                grid-template-columns: 1fr;
+            }
+            
+            .timeline {
+                padding-left: 1rem;
+            }
+            
+            .timeline-item {
+                padding-left: 2rem;
+            }
+        }
+
+        /* SCROLL REVEAL */
+        [data-reveal] {
+            opacity: 0;
+            transform: translateY(50px);
+            transition: opacity 0.8s ease, transform 0.8s ease;
+        }
+
+        [data-reveal].revealed {
+            opacity: 1;
+            transform: translateY(0);
+        }
+    </style>
+</head>
+<body>
+    <div class="grain"></div>
+
+    <!-- HERO -->
+    <section class="hero">
+        <div class="hero-content">
+            <div class="hero-kicker">Investigación Especial 2026</div>
+            <h1 class="hero-title">ARGENTINA<br>EN LLAMAS</h1>
+            <p class="hero-subtitle">La anatomía de una catástrofe programada: cómo los incendios forestales se convirtieron en una herramienta de reconfiguración territorial al servicio del capital</p>
+            
+            <div class="hero-stats">
+                <div class="stat">
+                    <span class="stat-number">7M</span>
+                    <span class="stat-label">Hectáreas Perdidas<br>1998-2021</span>
+                </div>
+                <div class="stat">
+                    <span class="stat-number">95%</span>
+                    <span class="stat-label">Incendios de<br>Origen Humano</span>
+                </div>
+                <div class="stat">
+                    <span class="stat-number">71.6%</span>
+                    <span class="stat-label">Recorte Presupuesto<br>Contra Incendios 2026</span>
+                </div>
+                <div class="stat">
+                    <span class="stat-number">USD 25,000M</span>
+                    <span class="stat-label">Inversiones RIGI<br>Aprobadas</span>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- CONTEXTO POLÍTICO -->
+    <section class="politico-section">
+        <div class="container">
+            <div class="section-header">
+                <h2 class="section-title">Contexto Político</h2>
+                <p class="section-subtitle">El gobierno de Javier Milei ha implementado una serie de medidas que debilitan sistemáticamente la protección ambiental y facilitan la explotación de recursos naturales</p>
+            </div>
+
+            <div class="politico-grid">
+                <div class="politico-card" data-reveal>
+                    <h3 class="politico-name">Javier Milei</h3>
+                    <p class="politico-cargo">Presidente desde Diciembre 2023</p>
+                    <ul class="politico-acciones">
+                        <li>Ideología ultraliberal / anarcocapitalista</li>
+                        <li>Negacionista climático declarado</li>
+                        <li>Impulsa desregulación ambiental masiva</li>
+                        <li>Apoya extractivismo sin límites</li>
+                    </ul>
+                </div>
+
+                <div class="politico-card" data-reveal>
+                    <h3 class="politico-name">Patricia Bullrich</h3>
+                    <p class="politico-cargo">Ministra de Seguridad</p>
+                    <ul class="politico-acciones">
+                        <li>Criminalización sistemática de la protesta</li>
+                        <li>RAM declarada "organización terrorista"</li>
+                        <li>Protocolo Antipiquete: 1,155+ heridos</li>
+                        <li>Control del Sistema de Manejo del Fuego</li>
+                    </ul>
+                </div>
+
+                <div class="politico-card" data-reveal>
+                    <h3 class="politico-name">Ana Vidal de Lamas</h3>
+                    <p class="politico-cargo">Subsecretaria de Ambiente</p>
+                    <ul class="politico-acciones">
+                        <li>Ministerio degradado a Subsecretaría</li>
+                        <li>"Cambio climático natural y cíclico"</li>
+                        <li>Supervisión del desmantelamiento ambiental</li>
+                        <li>Implementación de recortes presupuestarios</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- TIMELINE DESMANTELAMIENTO -->
+    <section>
+        <div class="container">
+            <div class="section-header">
+                <h2 class="section-title">Cronología del Desmantelamiento</h2>
+                <p class="section-subtitle">Una destrucción sistemática de las instituciones que protegían el medio ambiente</p>
+            </div>
+
+            <div class="timeline">
+                <div class="timeline-item" data-reveal>
+                    <div class="timeline-marker"></div>
+                    <div class="timeline-date">Diciembre 2023</div>
+                    <h3 class="timeline-title">Protocolo Antipiquete</h3>
+                    <p class="timeline-description">Criminalización de manifestaciones ambientales. Autorización de uso de fuerza contra protestas. Más de 1,155 heridos documentados en el primer año.</p>
+                </div>
+
+                <div class="timeline-item" data-reveal>
+                    <div class="timeline-marker"></div>
+                    <div class="timeline-date">Julio 2024</div>
+                    <h3 class="timeline-title">Ley de Bases Aprobada</h3>
+                    <p class="timeline-description">Poderes extraordinarios al ejecutivo. Desregulación estatal masiva. Aprobación del RIGI con 30 años de estabilidad jurídica para grandes inversiones extractivas.</p>
+                </div>
+
+                <div class="timeline-item" data-reveal>
+                    <div class="timeline-marker"></div>
+                    <div class="timeline-date">Octubre 2024</div>
+                    <h3 class="timeline-title">Disolución Fondo de Bosques</h3>
+                    <p class="timeline-description">Decreto 888/2024 elimina el Fondo de Bosques Nativos. Presupuesto 2025: apenas 0.0077% del total cuando debería ser 0.3% por ley.</p>
+                </div>
+
+                <div class="timeline-item" data-reveal>
+                    <div class="timeline-marker"></div>
+                    <div class="timeline-date">Diciembre 2024</div>
+                    <h3 class="timeline-title">Eliminación Protección Indígena</h3>
+                    <p class="timeline-description">Decreto elimina prohibición de desalojos a comunidades indígenas. Violación del Art. 75 de la Constitución y del Convenio 169 OIT.</p>
+                </div>
+
+                <div class="timeline-item" data-reveal>
+                    <div class="timeline-marker"></div>
+                    <div class="timeline-date">Julio 2025</div>
+                    <h3 class="timeline-title">Disolución Fondo Manejo del Fuego</h3>
+                    <p class="timeline-description">Decreto 463/2025 elimina el Fondo Nacional de Manejo del Fuego. 25% de recursos sin ejecutar en 2025. Recorte proyectado del 71.6% para 2026.</p>
+                </div>
+
+                <div class="timeline-item" data-reveal>
+                    <div class="timeline-marker"></div>
+                    <div class="timeline-date">Febrero 2025</div>
+                    <h3 class="timeline-title">RAM Declarada "Terrorista"</h3>
+                    <p class="timeline-description">Resistencia Ancestral Mapuche declarada organización terrorista. 12 comunidades allanadas con violencia "como dictadura militar". 120+ presos políticos indígenas.</p>
+                </div>
+
+                <div class="timeline-item" data-reveal>
+                    <div class="timeline-marker"></div>
+                    <div class="timeline-date">2026 (Propuesto)</div>
+                    <h3 class="timeline-title">Reforma Ley de Glaciares</h3>
+                    <p class="timeline-description">Primera reforma priorizada para 2026. Permitiría minería en zonas periglaciales. 44 de 77 proyectos mineros ya operan ilegalmente en estas áreas protegidas.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- BENEFICIARIOS -->
+    <section>
+        <div class="container">
+            <div class="section-header">
+                <h2 class="section-title">Los Beneficiarios</h2>
+                <p class="section-subtitle">Quiénes se benefician económicamente de la destrucción de los ecosistemas argentinos</p>
+            </div>
+
+            <div class="beneficiarios-grid">
+                <div class="beneficiario-card" data-reveal>
+                    <span class="beneficiario-icon" data-lucide="pickaxe"></span>
+                    <h3 class="beneficiario-title">Minería de Litio</h3>
+                    <p class="beneficiario-amount">48 Proyectos Activos</p>
+                    <ul class="beneficiario-list">
+                        <li>🇦🇺 Allkem: Proyecto Cauchari-Olaroz</li>
+                        <li>🇦🇺 Galán Lithium: USD 217M RIGI</li>
+                        <li>🇦🇷 Arcadium Lithium: operaciones expandidas</li>
+                        <li>🇨🇱 SQM: presencia en triángulo del litio</li>
+                        <li>💧 2M litros agua/tonelada extraída</li>
+                    </ul>
+                </div>
+
+                <div class="beneficiario-card" data-reveal>
+                    <span class="beneficiario-icon" data-lucide="mountain"></span>
+                    <h3 class="beneficiario-title">Minería de Cobre y Oro</h3>
+                    <p class="beneficiario-amount">USD 15,000M Proyectados</p>
+                    <ul class="beneficiario-list">
+                        <li>Proyecto Vicuña (BHP + Lundin)</li>
+                        <li>🇬🇧 Rio Tinto: USD 2,500M Salta</li>
+                        <li>Minas Argentinas: USD 1,000M</li>
+                        <li>Los Azules (Cobre): USD 227M</li>
+                        <li>Gualcamayo (Oro): USD 665M</li>
+                    </ul>
+                </div>
+
+                <div class="beneficiario-card" data-reveal>
+                    <span class="beneficiario-icon" data-lucide="wheat"></span>
+                    <h3 class="beneficiario-title">Agronegocios</h3>
+                    <p class="beneficiario-amount">7M Hectáreas Deforestadas</p>
+                    <ul class="beneficiario-list">
+                        <li>Soja transgénica: 41.5% exportación China</li>
+                        <li>Santiago del Estero: 21,047 ha (1er sem 2024)</li>
+                        <li>Chaco: 39,182 ha desmontes</li>
+                        <li>40% en áreas PROHIBIDAS</li>
+                        <li>Tierra desmontada = 2x valor</li>
+                    </ul>
+                </div>
+
+                <div class="beneficiario-card" data-reveal>
+                    <span class="beneficiario-icon" data-lucide="building-2"></span>
+                    <h3 class="beneficiario-title">Desarrollo Inmobiliario</h3>
+                    <p class="beneficiario-amount">Patagonia & Córdoba</p>
+                    <ul class="beneficiario-list">
+                        <li>🇬🇧 Joe Lewis: Mallín Ahogado, Lago Escondido</li>
+                        <li>🇮🇹 Benetton: 844,200 hectáreas (5 provincias)</li>
+                        <li>Senderos del Epuyén</li>
+                        <li>Córdoba: ~80,000 ha quemadas (2do sem 2024)</li>
+                        <li>Patrón: Incendio → Valor duplicado</li>
+                    </ul>
+                </div>
+
+                <div class="beneficiario-card" data-reveal>
+                    <span class="beneficiario-icon" data-lucide="fuel"></span>
+                    <h3 class="beneficiario-title">Energía Fósil</h3>
+                    <p class="beneficiario-amount">Vaca Muerta</p>
+                    <ul class="beneficiario-list">
+                        <li>YPF Vaca Muerta Sur: USD 2,500M RIGI</li>
+                        <li>GNL Southern Energy: USD 3,200M+ RIGI</li>
+                        <li>Subsidios fósiles: $651,600M (2026)</li>
+                        <li>Shale oil/gas expansión masiva</li>
+                    </ul>
+                </div>
+
+                <div class="beneficiario-card" data-reveal>
+                    <span class="beneficiario-icon" data-lucide="droplets"></span>
+                    <h3 class="beneficiario-title">Control Hídrico</h3>
+                    <p class="beneficiario-amount">Recursos Estratégicos</p>
+                    <ul class="beneficiario-list">
+                        <li>🇮🇱 Mekorot (empresa israelí)</li>
+                        <li>Convenios: Neuquén, Río Negro, Santa Cruz</li>
+                        <li>Alarmas por control estratégico</li>
+                        <li>Privatización recursos hídricos</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- COMPARATIVA -->
+    <section>
+        <div class="container">
+            <div class="section-header">
+                <h2 class="section-title">La Ecuación Perversa</h2>
+                <p class="section-subtitle">¿Quién gana y quién pierde?</p>
+            </div>
+
+            <div class="comparativa">
+                <div class="comparativa-column beneficiarios" data-reveal>
+                    <h3 class="comparativa-title">💰 Quién GANA</h3>
+                    <ul class="comparativa-list">
+                        <li>
+                            <strong>Especuladores Inmobiliarios</strong>
+                            Compran barato, venden caro post-incendio. Terrenos antes "improductivos" ahora habilitados para desarrollo.
+                        </li>
+                        <li>
+                            <strong>Empresas Mineras</strong>
+                            Acceso a territorios con menor resistencia comunitaria. Ecosistemas degradados = menos protección legal.
+                        </li>
+                        <li>
+                            <strong>Agronegocios</strong>
+                            Conversión rápida de bosque a campo productivo. Evasión de controles ambientales. Valor duplicado de tierra desmontada.
+                        </li>
+                        <li>
+                            <strong>Desarrollos Turísticos de Lujo</strong>
+                            Paisajes "renovados" para proyectos exclusivos. Desplazamiento de poblaciones locales.
+                        </li>
+                        <li>
+                            <strong>Industria Forestal</strong>
+                            Reemplazo de bosque nativo con monocultivo comercial de pino/eucalipto.
+                        </li>
+                    </ul>
+                </div>
+
+                <div class="comparativa-column perjudicados" data-reveal>
+                    <h3 class="comparativa-title">😢 Quién PIERDE</h3>
+                    <ul class="comparativa-list">
+                        <li>
+                            <strong>Pueblos Indígenas</strong>
+                            120+ presos políticos. Despojo territorial ancestral. Represión sistemática. Desalojos violentos.
+                        </li>
+                        <li>
+                            <strong>Comunidades Locales</strong>
+                            Miles de evacuados. Hogares destruidos. Economías locales devastadas. Problemas de salud por humo.
+                        </li>
+                        <li>
+                            <strong>Pequeños Productores</strong>
+                            Ganado perdido. Tierras arrasadas. Sin medios para recuperarse. Pérdida de medios de vida.
+                        </li>
+                        <li>
+                            <strong>Biodiversidad</strong>
+                            3,400 especies plantas (Gran Chaco). 500 especies aves. 150 mamíferos. Ecosistemas únicos destruidos.
+                        </li>
+                        <li>
+                            <strong>Estado y Sociedad</strong>
+                            Costos de combate. Salud pública afectada. Reconstrucción necesaria. Compromisos internacionales incumplidos.
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- EVIDENCIAS -->
+    <section>
+        <div class="container">
+            <div class="section-header">
+                <h2 class="section-title">Evidencias de Intencionalidad</h2>
+                <p class="section-subtitle">Las pruebas que vinculan los incendios con intereses económicos específicos</p>
+            </div>
+
+            <div class="evidencias-container">
+                <div class="evidencia-item" data-reveal>
+                    <h3 class="evidencia-title">🔬 Pruebas Forenses</h3>
+                    <span class="evidencia-stat">COMBUSTIBLE</span>
+                    <p class="evidencia-description">
+                        El Fiscal General de Chubut confirmó mediante pruebas periciales la <strong>presencia de combustible en el punto de inicio</strong> de los incendios de Patagonia 2026. Se aplicaron detectores de gases y se identificaron múltiples focos simultáneos en ubicaciones estratégicas.
+                    </p>
+                </div>
+
+                <div class="evidencia-item" data-reveal>
+                    <h3 class="evidencia-title">📊 Estadísticas de Greenpeace</h3>
+                    <span class="evidencia-stat">95%</span>
+                    <p class="evidencia-description">
+                        El 95% de los incendios tienen <strong>origen humano</strong>. Mientras la mayoría se debe a negligencia o accidentes (fogones, colillas), una minoría significativa presenta <strong>intencionalidad comprobada</strong>. El sistema de impunidad permite que pocas investigaciones lleguen a condenas.
+                    </p>
+                </div>
+
+                <div class="evidencia-item" data-reveal>
+                    <h3 class="evidencia-title">🎯 Coincidencias Sistemáticas</h3>
+                    <span class="evidencia-stat">NO ES CASUALIDAD</span>
+                    <p class="evidencia-description">
+                        <strong>Ubicación de incendios ↔ Zonas con minerales estratégicos/potencial inmobiliario</strong><br>
+                        <strong>Momento de incendios ↔ Debates legislativos sobre uso de suelo</strong><br>
+                        <strong>Intensidad de incendios ↔ Recortes en prevención y combate</strong><br>
+                        <strong>Beneficiarios ↔ Sectores que impulsan desregulación ambiental</strong>
+                    </p>
+                </div>
+
+                <div class="evidencia-item" data-reveal>
+                    <h3 class="evidencia-title">📍 Casos Documentados</h3>
+                    <span class="evidencia-stat">MALLÍN AHOGADO</span>
+                    <p class="evidencia-description">
+                        El barrio privado Mallín Ahogado (empresa Laderas, vinculada a Joe Lewis) llevaba <strong>10 años buscando aprobación</strong> y fue rechazado repetidamente por la comunidad de El Bolsón. La zona ardió "casualmente" en el megaincendio de febrero 2025. El intendente Bruno Pogliano, ex contador de la empresa, declaró días antes: <em>"Ya está saldada la discusión sobre si el perfil debe ser productivo o turístico, ¡Es turístico!"</em>
+                    </p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- PERJUDICADOS -->
+    <section style="background: linear-gradient(135deg, rgba(0,0,0,0.5) 0%, rgba(139,0,0,0.2) 100%);">
+        <div class="container">
+            <div class="section-header">
+                <h2 class="section-title">Los Perjudicados</h2>
+                <p class="section-subtitle">Las víctimas humanas y ambientales de esta catástrofe programada</p>
+            </div>
+
+            <div class="perjudicados-grid">
+                <div class="perjudicado-card" data-reveal>
+                    <span class="perjudicado-icon" data-lucide="users"></span>
+                    <h3 class="perjudicado-title">Pueblos Indígenas</h3>
+                    <p class="perjudicado-description">
+                        <strong>Mapuche, Wichí, Qom, Guaraní, Tehuelche.</strong> Más de 120 presos políticos. Represión sistemática con violencia "como dictadura militar". Desalojos violentos. Despojo de territorios ancestrales. RAM declarada "organización terrorista".
+                    </p>
+                </div>
+
+                <div class="perjudicado-card" data-reveal>
+                    <span class="perjudicado-icon" data-lucide="home"></span>
+                    <h3 class="perjudicado-title">Comunidades Locales</h3>
+                    <p class="perjudicado-description">
+                        Miles de evacuados. Decenas de hogares destruidos. Economías locales devastadas. Problemas graves de salud por exposición al humo. Pérdida de historia y patrimonio cultural.
+                    </p>
+                </div>
+
+                <div class="perjudicado-card" data-reveal>
+                    <span class="perjudicado-icon" data-lucide="tractor"></span>
+                    <h3 class="perjudicado-title">Pequeños Productores</h3>
+                    <p class="perjudicado-description">
+                        Ganado perdido. Tierras de cultivo arrasadas. Sin recursos para recuperarse. Pérdida de medios de vida construidos durante generaciones. Endeudamiento forzoso.
+                    </p>
+                </div>
+
+                <div class="perjudicado-card" data-reveal>
+                    <span class="perjudicado-icon" data-lucide="leaf"></span>
+                    <h3 class="perjudicado-title">Biodiversidad</h3>
+                    <p class="perjudicado-description">
+                        <strong>Solo en Gran Chaco:</strong> 3,400 especies de plantas, 500 especies de aves, 150 mamíferos incluyendo yaguareté y tatú carreta. Ecosistemas únicos destruidos para siempre.
+                    </p>
+                </div>
+
+                <div class="perjudicado-card" data-reveal>
+                    <span class="perjudicado-icon" data-lucide="cloud"></span>
+                    <h3 class="perjudicado-title">Clima Global</h3>
+                    <p class="perjudicado-description">
+                        Los incendios en Argentina representan el <strong>37-39% de las emisiones de gases de efecto invernadero nacionales</strong>. Contribución significativa a la crisis climática global.
+                    </p>
+                </div>
+
+                <div class="perjudicado-card" data-reveal>
+                    <span class="perjudicado-icon" data-lucide="scale"></span>
+                    <h3 class="perjudicado-title">Estado de Derecho</h3>
+                    <p class="perjudicado-description">
+                        Violación sistemática de la Constitución Nacional (Art. 75). Incumplimiento de Convenio 169 OIT. Acuerdo de Escazú ignorado. Compromisos internacionales desechados.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- FOOTER / CONCLUSIÓN -->
+    <section class="footer">
+        <h2 class="footer-title">¿Casualidad o Causalidad?</h2>
+        <div class="footer-text">
+            <p style="margin-bottom: 2rem;">
+                La coincidencia sistemática entre ubicación de incendios y zonas con recursos estratégicos, el momento de los incendios y debates legislativos, la intensidad de los incendios y recortes en prevención, y la identidad de los beneficiarios con quienes impulsan desregulación ambiental... sugiere que los incendios en Argentina son, al menos parcialmente, <strong>una herramienta funcional a intereses económicos específicos</strong>.
+            </p>
+            <p style="margin-bottom: 2rem;">
+                No es necesario que cada incendio sea intencional. Basta con crear las condiciones para que: (1) Los incendios ocurran con mayor frecuencia y magnitud, (2) La respuesta estatal sea insuficiente, y (3) Los beneficios económicos de la devastación superen los riesgos legales.
+            </p>
+            <p style="font-size: 1.4rem; color: var(--fire-red); font-weight: 700;">
+                El fuego se convierte así en un agente de reconfiguración territorial al servicio del capital.
+            </p>
+        </div>
+
+        <div class="footer-sources">
+            <h3 class="footer-sources-title">Fuentes</h3>
+            <p class="footer-sources-list">
+                Greenpeace Argentina • FARN (Fundación Ambiente y Recursos Naturales) • Mongabay Latam • Chequeado • Ministerio de Ambiente y Desarrollo Sustentable • Wetlands International • USGS (Servicio Geológico EEUU) • Agencia Tierra Viva • LatFem • Izquierda Web • Presupuestos oficiales 2025-2026 • Decretos gubernamentales
+            </p>
+        </div>
+    </section>
+
+    <script>
+        // Scroll reveal animation
+        const observerOptions = {
+            threshold: 0.1,
+            rootMargin: '0px 0px -100px 0px'
+        };
+
+        const observer = new IntersectionObserver((entries) => {
+            entries.forEach(entry => {
+                if (entry.isIntersecting) {
+                    entry.target.classList.add('revealed');
+                }
+            });
+        }, observerOptions);
+
+        document.querySelectorAll('[data-reveal]').forEach(el => {
+            observer.observe(el);
+        });
+        
+        // Initialize Lucide icons
+        lucide.createIcons();
+    </script>
+</body>
+</html>
