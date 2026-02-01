@@ -558,28 +558,137 @@ Comprender estos mecanismos es esencial para:
 
 La transgresión compartida continúa siendo un fenómeno relevante en sociedades contemporáneas, manifestándose en nuevas formas digitales mientras mantiene estructuras antropológicas fundamentales identificadas en sociedades tradicionales.
 
-## Referencias Selectas
+## Referencias
 
-- Acosta, A. (2008). *Non-Prosecution Agreement - United States v. Jeffrey Epstein*. U.S. Attorney's Office, Southern District of Florida
-- Atran, S. (2010). *Talking to the Enemy: Faith, Brotherhood, and the (Un)Making of Terrorists*. Ecco
-- Blee, K. M. (2002). *Inside Organized Racism: Women in the Hate Movement*. University of California Press
-- Brown, J. (2021). *Perversion of Justice: The Jeffrey Epstein Story*. HarperCollins
-- Browning, C. (1992). *Ordinary Men: Reserve Police Battalion 101*. HarperCollins
-- Church Committee (1975). *Intelligence Activities and the Rights of Americans*. U.S. Senate Select Committee
-- Coleman, G. (2014). *Hacker, Hoaxer, Whistleblower, Spy: The Many Faces of Anonymous*. Verso
-- Festinger, L. (1957). *A Theory of Cognitive Dissonance*. Stanford University Press
-- Fujii, L. A. (2009). *Killing Neighbors: Webs of Violence in Rwanda*. Cornell University Press
-- Giuffre, V. (2019). *Testimony in Giuffre v. Maxwell*. U.S. District Court, Southern District of New York
-- Goffman, E. (1963). *Stigma: Notes on the Management of Spoiled Identity*. Prentice-Hall
-- Marchetti, V. & Marks, J. (1974). *The CIA and the Cult of Intelligence*. Knopf
-- Nuwer, H. (2018). *Hazing: Destroying Young Lives*. Indiana University Press
-- Ranelagh, J. (1987). *The Agency: The Rise and Decline of the CIA*. Simon & Schuster
-- Richelson, J. (1995). *A Century of Spies: Intelligence in the Twentieth Century*. Oxford University Press
-- Turner, V. (1969). *The Ritual Process: Structure and Anti-Structure*. Aldine Publishing
-- U.S. District Court SDNY (2024). *Unsealed Documents - Giuffre v. Maxwell*
-- Ward, T. (2013). *Gangsters Without Borders: An Ethnography of a Salvadoran Street Gang*. Oxford University Press
-- Weiner, T. (2007). *Legacy of Ashes: The History of the CIA*. Doubleday
-- Zimbardo, P. (2007). *The Lucifer Effect: Understanding How Good People Turn Evil*. Random House
+### Sobre Ritual, Liminalidad y Communitas:
+
+1. **Victor Turner - "The Ritual Process: Structure and Anti-Structure" (1969)**
+   - *El clásico fundamental*. Turner desarrolla los conceptos de liminalidad y communitas que son esenciales para entender cómo las transgresiones compartidas crean vínculos intensos.
+
+2. **Arnold van Gennep - "The Rites of Passage" (1909)**
+   - La obra original sobre ritos de paso que inspiró a Turner.
+
+3. **Victor Turner - "Dramas, Fields and Metaphors" (1974)**
+   - Extensión de su teoría a contextos contemporáneos.
+
+### Sobre Desviación y Transgresión:
+
+4. **Morris Freilich, Douglas Raybeck, Joel Savishinsky - "Deviance: Anthropological Perspectives" (1991)**
+   - Estudios comparativos cross-culturales sobre desviación desde perspectiva antropológica.
+
+5. **Maggie O'Neill & Lizzie Seal - "Transgressive Imaginations: Crime, Deviance and Culture" (2012)**
+   - Análisis cultural-criminológico de la transgresión.
+
+6. **Tim Cresswell - "In Place/Out of Place: Geography, Ideology, and Transgression" (1996)**
+   - Sobre transgresión geográfica y social.
+
+## **Sociedades Secretas e Iniciaciones**
+
+7. **Brian Hayden - "The Power of Ritual in Prehistory: Secret Societies and Origins of Social Complexity" (2018)**
+   - *Altamente recomendado*. Argumenta que las sociedades secretas eran organizaciones predatorias que usaban transgresión compartida para control social.
+
+8. **Edwin M. Loeb - "Tribal Initiations and Secret Societies" (1929, reeditado)**
+   - Clásico etnográfico sobre iniciaciones.
+
+9. **F.W. Butt-Thompson - "West African Secret Societies" (1929)**
+   - Documentación temprana (aunque problemática por sesgos coloniales) de sociedades secretas africanas.
+
+10. **Beryl L. Bellman - "The Language of Secrecy: Symbols and Metaphors in Poro Ritual" (1984)**
+    - Estudio profundo de sociedad secreta Poro.
+
+11. **Henrik Bogdan - "Western Esotericism and Rituals of Initiation" (2012)**
+    - Sobre rituales iniciáticos en tradiciones esotéricas occidentales.
+
+## **Operaciones de Inteligencia y Kompromat**
+
+12. **Craig Unger - "American Kompromat: How the KGB Cultivated Donald Trump, and Related Tales of Sex, Greed, Power, and Treachery" (2021)**
+    - *Controvertido pero exhaustivamente documentado*. Incluye extensa sección sobre Epstein como operación de kompromat.
+
+13. **Tim Weiner - "Legacy of Ashes: The History of the CIA" (2007)**
+    - Historia documentada de operaciones CIA, incluyendo honey traps.
+
+14. **Christopher Andrew & Vasili Mitrokhin - "The Sword and the Shield: The Mitrokhin Archive and the Secret History of the KGB" (1999)**
+    - Basado en archivos KGB, documenta operaciones kompromat.
+
+15. **John Ranelagh - "The Agency: The Rise and Decline of the CIA" (1987)**
+    - Historia institucional con casos documentados.
+
+16. **Victor Marchetti & John D. Marks - "The CIA and the Cult of Intelligence" (1974)**
+    - Uno de los primeros libros por ex-agentes CIA sobre operaciones encubiertas.
+
+17. **Jeffrey T. Richelson - "A Century of Spies: Intelligence in the Twentieth Century" (1995)**
+    - Historia comparativa de servicios de inteligencia.
+
+## **Casos Específicos Contemporáneos**
+
+18. **Julie K. Brown - "Perversion of Justice: The Jeffrey Epstein Story" (2021)**
+    - Por la periodista que destapó el caso. Documentación judicial extensa.
+
+19. **Catherine Belton - "Putin's People: How the KGB Took Back Russia and Then Took On the West" (2020)**
+    - Sobre uso de kompromat en Rusia post-soviética.
+
+20. **Lars Berge & Axel Gordh Humlesjö - "The Honey Trap" (2024)**
+    - Sobre operaciones FSB contra ejecutivos bancarios suecos.
+
+## **Crimen Organizado y Vinculación**
+
+21. **Diego Gambetta - "Codes of the Underworld: How Criminals Communicate" (2009)**
+    - Análisis económico y antropológico de señales de compromiso en crimen organizado.
+
+22. **Federico Varese - "The Russian Mafia: Private Protection in a New Market Economy" (2001)**
+    - Sobre mecanismos de compromiso en mafia rusa.
+
+23. **Thomas Ward - "Gangsters Without Borders: An Ethnography of a Salvadoran Street Gang" (2013)**
+    - Etnografía de MS-13 con análisis de rituales de iniciación.
+
+## **Genocidio y Violencia Colectiva**
+
+24. **Christopher R. Browning - "Ordinary Men: Reserve Police Battalion 101 and the Final Solution in Poland" (1992)**
+    - *Esencial*. Documenta cómo participación gradual en atrocidades vincula a perpetradores.
+
+25. **Lee Ann Fujii - "Killing Neighbors: Webs of Violence in Rwanda" (2009)**
+    - Sobre complicidad compartida en genocidio ruandés.
+
+26. **Daniel Goldhagen - "Hitler's Willing Executioners" (1996)**
+    - Controvertido pero documenta participación voluntaria.
+
+## **Psicología Social**
+
+27. **Philip Zimbardo - "The Lucifer Effect: Understanding How Good People Turn Evil" (2007)**
+    - Sobre transformación de identidad mediante transgresión.
+
+28. **Leon Festinger - "A Theory of Cognitive Dissonance" (1957)**
+    - Teoría fundamental sobre justificación post-transgresión.
+
+29. **Stanley Milgram - "Obedience to Authority" (1974)**
+    - Sobre conformidad y transgresión de normas morales.
+
+## **Estudios sobre Hazing y Fraternidades**
+
+30. **Hank Nuwer - "Hazing: Destroying Young Lives" (2018)**
+    - Documentación exhaustiva de casos de hazing con análisis.
+
+31. **Hank Nuwer - "Wrongs of Passage: Fraternities, Sororities, Hazing, and Binge Drinking" (1999)**
+    - Análisis sistemático del fenómeno.
+
+## **Teoría Sociológica General**
+
+32. **Erving Goffman - "Stigma: Notes on the Management of Spoiled Identity" (1963)**
+    - Sobre secretos compartidos y identidad desacreditada.
+
+33. **Georg Simmel - "The Sociology of Georg Simmel" (traducción K.H. Wolff, 1950)**
+    - Incluye ensayos clásicos "Secrecy" y "Secret Societies".
+
+34. **Émile Durkheim - "The Elementary Forms of Religious Life" (1912)**
+    - Sobre ritual y cohesión social.
+
+## **Enciclopedias y Referencias**
+
+35. **Craig J. Forsyth & Heith Copes (eds.) - "Encyclopedia of Social Deviance" (2014, 2 vols.)**
+    - Referencia comprehensiva sobre desviación social.
+
+36. **Encyclopedia.com - "Secret Societies" (artículo académico)**
+    - Síntesis con bibliografía extensa.
 
 ## Nota Metodológica Final
 
