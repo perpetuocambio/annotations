@@ -1,5 +1,5 @@
-# ProtectEU: Agenda para Prevenir y Combatir el Terrorismo — COM(2026) 101 final
-## Análisis crítico desde el derecho y la academia — versión verificada
+# ProtectEU: Agenda para Prevenir y Combatir el Terrorismo — COM(2026) 101 
+## Análisis crítico desde el derecho y la academia
 
 > Análisis imparcial basado en el texto del documento COM(2026) 101 final y en fuentes académicas revisadas por pares, jurisprudencia del TJUE y del TEDH, e informes institucionales del Parlamento Europeo. Todas las referencias han sido objeto de verificación mediante búsqueda en fuentes primarias. Las correcciones respecto a versiones anteriores aparecen señaladas.
 
