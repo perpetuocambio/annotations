@@ -5,30 +5,6 @@
 
 ---
 
-## Nota preliminar de verificación
-
-Este documento es el resultado de una revisión sistemática de todas las afirmaciones contenidas en el análisis. A continuación se detalla el resultado de esa verificación:
-
-**Confirmadas sin reservas:**
-- TJUE, C-817/19 (*Ligue des droits humains*, 21 junio 2022): existe, el fallo va en la dirección descrita. Los párrafos 167-168 y 171 sobre la extensión del PNR a vuelos intra-UE han sido verificados mediante fuentes secundarias múltiples y el comunicado oficial de prensa del Tribunal.
-- TJUE, C-293/12 y C-594/12 (*Digital Rights Ireland*, 2014): verificado.
-- TJUE, C-311/18 (*Schrems II*, 2020): verificado.
-- TEDH, *Haidn c. Alemania*, n.º 6587/04, 13 enero 2011: el caso existe y resolvió una violación del artículo 5 §1 del CEDH en relación con la detención preventiva retrospectiva (Sicherungsverwahrung). Verificado en múltiples fuentes académicas.
-- TEDH, *Selahattin Demirtaş c. Turquía (n.º 2)*, n.º 14305/17, 22 diciembre 2020: existe. El caso trata de la detención por discursos políticos y la falta de previsibilidad de la ley penal antiterrorista turca. Verificado.
-- Finn, J.E. (2009/2010): el artículo existe en el *Columbia Journal of Transnational Law*, 48. Diferentes fuentes lo citan como 2009 o 2010. Verificado.
-- Ip, J. (2013), *Public Law*: verificado como referencia existente y citada.
-- Buzan, Wæver y de Wilde (1998): verificado.
-- Mitsilegas, V. (2021), *Surveillance and Privacy in the Digital Age*, Hart Publishing: verificado mediante la propia sentencia C-817/19 que lo cita.
-
-**Corregidas respecto a versiones anteriores:**
-- Haidn c. Alemania: el caso trata de detención preventiva penal post-condena (Sicherungsverwahrung), no específicamente del concepto policial de Gefährder. El argumento en torno al Gefährder es válido, pero se apoya ahora en el principio general extraído de la jurisprudencia del TEDH sobre detención sin condena (art. 5), con Haidn como ejemplo pertinente aunque no exactamente aplicable a la formulación original.
-- Beck y Miner: no son autores de 2026. Son investigadores citados como referencia [28] en un artículo de 2026 del *International Journal for the Semiotics of Law* titulado "Labelling Activists as Terrorists". Su trabajo propio es anterior. Se elimina la atribución incorrecta de año y se cita correctamente como aparece en la fuente.
-- Finn: se corrige el año a 2009 en la referencia del *Columbia Journal* (aunque el artículo puede aparecer en algunas fuentes como 2010 por el año académico).
-- Párrafo específico n.º 103 de *Demirtaş*: no ha podido verificarse con las fuentes disponibles. Se elimina esa referencia concreta y se mantiene la sentencia con la cita verificada de los párrafos 270-282 (art. 10) y 340-354 (art. 5).
-- La cita oral del juez Von Danwitz sobre conciertos de rock: no ha podido verificarse en fuente primaria. Se elimina del documento.
-
----
-
 ## Introducción: el contexto analítico
 
 El documento COM(2026) 101 final se inserta en una tradición de política antiterrorista europea que se remonta a los atentados de Madrid (2004) y Londres (2005), intensificada tras París (2015) y Bruselas (2016). La literatura académica especializada ha documentado de forma consistente que las respuestas legislativas a los atentados terroristas tienden a producir lo que Finn (2009) denominó la paradoja de la legislación de emergencia: medidas concebidas como temporales y excepcionales que se normalizan, se amplían y acaban constituyendo el régimen permanente de derecho ordinario. Este patrón, extensamente documentado en el contexto europeo por Argomaniz (2013), el proyecto SECILE (2013) y los estudios del Comité LIBE del Parlamento Europeo (2011, 2022), es la primera lente desde la que debe leerse el documento objeto de análisis.
