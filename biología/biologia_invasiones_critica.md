@@ -24,7 +24,7 @@ La biología de invasiones no es una disciplina monolítica. Desde dentro de la 
 
 **a) El concepto de «nativa/invasora» es filosóficamente inestable**
 
-Clasificar una especie como nativa o alienígena implica fijar un momento temporal de referencia que es siempre arbitrario. Charles Warren lo ha desarrollado con detalle:
+Clasificar una especie como nativa o invasora implica fijar un momento temporal de referencia que es siempre arbitrario. Charles Warren lo ha desarrollado con detalle:
 
 > Warren, C.R. (2021). *Beyond 'Native V. Alien': Critiques of the Native/alien Paradigm in the Anthropocene, and Their Implications*. **Ethics, Policy & Environment**.  
 > DOI: [10.1080/21550085.2021.1961200](https://doi.org/10.1080/21550085.2021.1961200)
