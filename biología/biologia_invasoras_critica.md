@@ -133,7 +133,6 @@ Este lenguaje no es solo un problema ético. Es un problema epistemológico: est
 | Oceanography — Alien Language (2024) | Crítica al lenguaje y retórica del campo |
 | PMC — Framing challenges in invasion science | Polarización e interdisciplinariedad necesaria |
 | Ethics, Policy & Environment — Beyond Native vs. Alien | Crítica al paradigma nativo/alienígena en el Antropoceno |
-| Springer — Yet another call for the end of invasion biology | Llamada a disolver el campo |
 | Springer — New evidence contradicts rapid spread of invasive genes | Falsación de predicciones específicas del campo |
 | Onlinelibrary — Freshwater mussel misidentification | Sesgo hasta en la taxonomía básica usada para clasificar invasoras |
 | Medel et al. (2024) — Más allá de la pérdida de especies | Marco alternativo: interacciones ecológicas en el Antropoceno |
