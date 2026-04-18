@@ -80,8 +80,8 @@ El argumento central: aplicar marcos de «invasión biológica» a personas es c
 
 No toda la literatura va en dirección abolicionista. Haubrock et al. (2024) proponen integrar las tensiones del campo en una agenda positiva:
 
-> Haubrock, P.J. et al. (2024). *Framing challenges and polarized issues in invasion science: toward an interdisciplinary agenda*. **BioScience**, 74(12), 825.  
-> DOI: [10.1093/biosci/biae109](https://academic.oup.com/bioscience/article/74/12/825/7821000) · PMC: [11660934](https://pmc.ncbi.nlm.nih.gov/articles/PMC11660934/)
+> Guareschi, S. et al. (2024). *Framing challenges and polarized issues in invasion science: toward an interdisciplinary agenda*. **BioScience**, 74(12), 825–839.  
+> DOI: [10.1093/biosci/biae084](https://academic.oup.com/bioscience/article/74/12/825/7821000) · PMC: [11660934](https://pmc.ncbi.nlm.nih.gov/articles/PMC11660934/)
 
 Los autores abogan por integrar ciencias sociales y naturales, reconociendo que debates sobre vocabulario, beneficios potenciales de especies no nativas, y rewilding son legítimos y no pueden resolverse solo desde la ecología.
 
@@ -91,7 +91,7 @@ Los autores abogan por integrar ciencias sociales y naturales, reconociendo que 
 
 Rayne et al. (2025) proponen un marco alternativo que va más allá de la dicotomía nativo/invasor:
 
-> Rayne, A. et al. (2025). *Renegotiating Species Belonging in a Changing World*. **Environment and Society**, 16(1).  
+> Rayne, A. et al. (2025). *Renegotiating Species Belonging in a Changing World*. **Progress in Environmental Geography**, 4(4), 412–435.  
 > DOI: [10.1177/27539687251388150](https://journals.sagepub.com/doi/10.1177/27539687251388150)
 
 El artículo identifica cuatro registros para evaluar si una especie «pertenece»: natividad, naturalidad, contribuciones ecológicas y relaciones de derecho. Esta pluralidad de criterios permite tomar decisiones más transparentes y contextualmente informadas.
@@ -102,7 +102,8 @@ El artículo identifica cuatro registros para evaluar si una especie «pertenece
 
 Un ejemplo concreto de cómo los errores de identificación —informados por el marco conceptual dominante— afectan a la gestión:
 
-> [An alarming tendency towards freshwater mussel misidentification in scientific works may bias the management of endangered and invasive species](https://onlinelibrary.wiley.com/doi/10.1111/maec.XXXX). **Marine Ecology** / Wiley Online Library.
+> *An alarming tendency towards freshwater mussel misidentification in scientific works may bias endangered and invasive species management.* **Aquatic Conservation: Marine and Freshwater Ecosystems**, 34(1), e4061.  
+> DOI: [10.1002/aqc.4061](https://onlinelibrary.wiley.com/doi/10.1002/aqc.4061)
 
 La mala identificación de mejillones de agua dulce en publicaciones científicas puede sesgar tanto la protección de especies amenazadas como las actuaciones contra supuestas invasoras.
 
@@ -230,9 +231,9 @@ Una consecuencia práctica de esta separación es que es perfectamente coherente
 
 4. Frank, D.M. (2021). *Invasion Biology and the Ethics of Biodiversity.* Conferencia. Brown University / Cogut Institute. https://www.youtube.com/watch?v=eXuo2lmeoog
 
-5. [An alarming tendency towards freshwater mussel misidentification in scientific works may bias the management of endangered and invasive species.](https://onlinelibrary.wiley.com/journal/10990590) **Marine Ecology** / Wiley Online Library.
+5. *An alarming tendency towards freshwater mussel misidentification in scientific works may bias endangered and invasive species management.* **Aquatic Conservation: Marine and Freshwater Ecosystems**, 34(1), e4061. https://onlinelibrary.wiley.com/doi/10.1002/aqc.4061
 
-6. Medel, R. et al. (2024). *Más allá de la pérdida de especies: interacciones ecológicas en el Antropoceno.* Iniciativa CYTED. https://rmedel.academicwebsite.com/publications/27814-mas-alla-de-la-perdida-de-especies-interacciones-ecologicas-en-el-antropoceno-2024
+6. Medel, R., Traveset, A. & Navarro, L. (Eds.) (2024). *Más allá de la pérdida de especies: interacciones ecológicas en el Antropoceno.* Ediciones Fremen, Santiago de Chile. ISBN 978-956-6191-13-1. https://rmedel.academicwebsite.com/publications/27814-mas-alla-de-la-perdida-de-especies-interacciones-ecologicas-en-el-antropoceno-2024
 
 7. Pereyra, P.J. et al. (2025). *Human beings and the species they introduce are not a "cancer" of Planet Earth.* **BioScience**, 75(5), 351–353. https://academic.oup.com/bioscience/article/75/5/351/7852727
 
@@ -240,13 +241,13 @@ Una consecuencia práctica de esta separación es que es perfectamente coherente
 
 9. Barbulescu, R., South, J. et al. (2025). *Raising Concerns on the Dangers of Linking Biological Invasions to Human Migration.* **Ethnic and Racial Studies**, 48(13), 2496–2501. https://www.tandfonline.com/doi/full/10.1080/01419870.2025.2527906
 
-10. Rayne, A. et al. (2025). *Renegotiating Species Belonging in a Changing World.* **Environment and Society**, 16(1). https://journals.sagepub.com/doi/10.1177/27539687251388150
+10. Rayne, A. et al. (2025). *Renegotiating Species Belonging in a Changing World.* **Progress in Environmental Geography**, 4(4), 412–435. https://journals.sagepub.com/doi/10.1177/27539687251388150
 
 11. Lower, E. & Campbell, T. (2024). *Alien Language: Reflections on the Rhetoric of Invasion Biology.* **Oceanography**, 37(1), 68–69. https://doi.org/10.5670/oceanog.2024.208
 
 12. Warren, C.R. (2021). *Beyond 'Native V. Alien': Critiques of the Native/alien Paradigm in the Anthropocene, and Their Implications.* **Ethics, Policy & Environment**. https://www.tandfonline.com/doi/full/10.1080/21550085.2021.1961200
 
-13. Haubrock, P.J. et al. (2024). *Framing challenges and polarized issues in invasion science: toward an interdisciplinary agenda.* **BioScience**, 74(12), 825. https://pmc.ncbi.nlm.nih.gov/articles/PMC11660934/
+13. Guareschi, S. et al. (2024). *Framing challenges and polarized issues in invasion science: toward an interdisciplinary agenda.* **BioScience**, 74(12), 825–839. DOI: 10.1093/biosci/biae084. https://pmc.ncbi.nlm.nih.gov/articles/PMC11660934/
 
 14. Hoffmann, B.D. & Courchamp, F. (2016). *Biological invasions and natural colonisations: are they that different?* **NeoBiota**, 29, 1–14. https://doi.org/10.3897/neobiota.29.6959
 
