@@ -6,9 +6,13 @@
 
 ## 1. El caso que dispara el debate
 
-En abril de 2026 la ministra de Ambiente de Colombia, Irene Vélez, confirmó el fracaso de los intentos de reubicación internacional de los hipopótamos descendientes de los cuatro ejemplares traídos por Pablo Escobar en los años 80. La razón central: **endogamia extrema**. Al descender todos de apenas cuatro fundadores, la población —estimada hoy entre 160 y 200 individuos— presenta lo que la propia ministra llamó «pobreza genética», con mutaciones visibles en mandíbula, boca y hocico que han llevado a países como India, México, Sudáfrica, Filipinas y Perú a rechazar su recepción. El gobierno colombiano activó un plan de eutanasia técnica de unos 80 ejemplares para el segundo semestre de 2026.
+El 13 de abril de 2026, el Ministerio de Ambiente y Desarrollo Sostenible de Colombia publicó un comunicado oficial en el que activaba un plan de choque integral para el control de la población de hipopótamos (*Hippopotamus amphibius*) en el Magdalena Medio. La decisión fue anunciada por **Irene Vélez Torres**, quien ejerce como **ministra encargada** de la cartera desde el 5 de agosto de 2025 —mediante el Decreto 0877— siendo simultáneamente directora general de la Autoridad Nacional de Licencias Ambientales (ANLA). Es la tercera responsable del Ministerio de Ambiente durante la administración Petro, tras Susana Muhamad (agosto 2022 – marzo 2025) y Lena Estrada Añozaki (marzo – agosto 2025).
 
-Este episodio concreto ilustra una tensión que lleva más de una década agitando a la comunidad científica: ¿sobre qué bases —empíricas, éticas, políticas— se toman las decisiones de gestión de especies introducidas? ¿La biología de invasiones ofrece criterios objetivos, o mezcla ciencia con ideología?
+El plan contempla la eutanasia técnica de aproximadamente 80 ejemplares durante el segundo semestre de 2026, con una inversión de 7.200 millones de pesos para la primera fase. La medida se enmarca en una estrategia que incluye también esterilización y translocación, aunque esta última ha resultado inviable tras gestiones fallidas con siete países receptores (véase sección 4.1).
+
+La población, estimada hoy entre 160 y 200 individuos, podría alcanzar los 500 en 2030 y superar los 1.000 en 2035 de mantenerse sin control. Desde 2022, los técnicos del Gobierno recomendaban reducir la población en al menos 33 ejemplares por año, cifra que no se había cumplido, acumulando un rezago significativo.
+
+Este episodio ilustra una tensión que lleva más de una década agitando a la comunidad científica: ¿sobre qué bases —empíricas, éticas, políticas— se toman las decisiones de gestión de especies introducidas? ¿La biología de invasiones ofrece criterios objetivos, o mezcla ciencia con ideología?
 
 ---
 
@@ -175,11 +179,24 @@ Sin embargo, este argumento tiene un límite importante: también implicaría qu
 
 ### 4.1 Los hechos básicos
 
-- Cuatro ejemplares introducidos por Pablo Escobar en la Hacienda Nápoles (Magdalena Medio) en los años 80.
-- Población actual: ~160-200 individuos, con proyección de alcanzar 500 en 2030 sin control.
-- Todos los individuos descienden de esos cuatro fundadores: **endogamia extrema**, con mutaciones visibles documentadas por la ministra Vélez (abril de 2026).
-- Fracaso de la reubicación internacional: India, México, Sudáfrica, Filipinas y Perú han rechazado recibir ejemplares, citando la pobreza genética.
-- Decisión gubernamental: eutanasia técnica de ~80 ejemplares en el segundo semestre de 2026.
+- Cuatro ejemplares introducidos por Pablo Escobar en la Hacienda Nápoles (Puerto Triunfo, Antioquia) en los años 80.
+- Población actual: ~160-200 individuos. Proyección: 500 en 2030 y más de 1.000 en 2035 sin control.
+- Todos los individuos descienden de esos cuatro fundadores: **endogamia extrema** con mutaciones visibles documentadas (mandíbula, hocico), denominada por la ministra encargada Vélez Torres como «pobreza genética».
+- Desde 2022 declarados especie exótica invasora; los técnicos recomendaron reducir la población en ≥33 individuos/año, cifra nunca alcanzada.
+- **Fracaso de la translocación internacional** tras gestiones con siete países, cada uno con causas específicas:
+
+| País | Situación a abril 2026 |
+|---|---|
+| **México** | Prohibición legal de importar especies invasoras; solo aceptaría individuos nacidos en cautiverio |
+| **Filipinas** | Ministerio aprobó 5 individuos; el zoológico receptor desistió en agosto de 2024 por costos logísticos |
+| **India** | Santuario Vantara ofreció recibir hasta 60 individuos; pendiente de respuesta del Gobierno a fecha del anuncio (9 de abril de 2026) |
+| **Perú** | Ministerio aprobó; Parque de las Leyendas declinó por falta de espacio |
+| **Ecuador** | En espera de respuesta ministerial |
+| **República Dominicana** | En espera de respuesta |
+| **Sudáfrica** | Reticencia por preocupaciones genéticas y sanitarias |
+
+- Decisión gubernamental: eutanasia técnica de ~80 ejemplares en segundo semestre de 2026; inversión de 7.200 millones de pesos para la primera fase.
+- La medida ha generado división social: comunidades de Doradal (Antioquia) la rechazan por el valor turístico de los hipopótamos; la senadora Esmeralda Hernández cuestionó sus implicaciones éticas y sociales.
 
 ### 4.2 Lo que la endogamia cambia en el debate
 
