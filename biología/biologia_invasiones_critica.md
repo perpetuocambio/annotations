@@ -221,7 +221,7 @@ Una consecuencia práctica de esta separación es que es perfectamente coherente
 
 ---
 
-## 6. Literatura citada (completa)
+## 6. Literatura citada
 
 1. Guiaşu, R.C. & Tindale, C.W. (2023). *Logical fallacies persist in invasion biology and blaming the messengers will not improve accountability in this field.* **Biology & Philosophy**, 38, 3. https://link.springer.com/article/10.1007/s10539-023-09892-3
 
