@@ -63,7 +63,7 @@ Vista de alto nivel con todos los actores y su nivel de acceso, sin detalle de c
   }
 }}%%
 
-flowchart LR
+flowchart TD
     classDef stateNode fill:#4c1d95,stroke:#7c3aed,color:#e9d5ff,stroke-width:2px
     classDef highRisk  fill:#7f1d1d,stroke:#ef4444,color:#fecaca,stroke-width:2px
     classDef midRisk   fill:#78350f,stroke:#f59e0b,color:#fde68a,stroke-width:1.5px
