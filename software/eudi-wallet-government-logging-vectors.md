@@ -18,7 +18,7 @@ de la Comisión Europea en junio de 2024 señalaron explícitamente en el reposi
 "cannot structurally support unlinkability". ZKP está siendo evaluado como Topic G del ARF para
 versiones futuras, pero no forma parte de la implementación actual.
 
-Lo que sí es correcto: el **Relying Party** (la web de cine, el portal administrativo) recibe solo
+Lo que sí es correcto: el **Relying Party** (el portal administrativo) recibe solo
 un "OK, cumple el requisito". No recibe nombre, fecha de nacimiento ni dirección. La privacidad
 frente al RP es real. Pero hay vectores de correlación en otros nodos del ecosistema.
 
