@@ -7,7 +7,7 @@ Pero la antropología nació también manchada por su origen: fue, durante buena
 ## Diagrama del árbol disciplinar
 
 ```mermaid
-graph TD
+graph LR
     A["ANTROPOLOGÍA<br/>(disciplina madre, s. XIX)"]
 
     A --> B["Antropología Física / Biológica<br/>(1859 en adelante)"]
