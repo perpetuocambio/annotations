@@ -1,4 +1,4 @@
-# Jerarquía vs. igualitarismo en la prehistoria: matriz de variables por zona y periodo (v2)
+# Jerarquía vs. igualitarismo en la prehistoria: matriz de variables por zona y periodo
 
 ## Cómo leer este documento
 
