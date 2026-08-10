@@ -1,18 +1,5 @@
 # Jerarquía vs. igualitarismo en la prehistoria: matriz de variables por zona y periodo (v2)
 
-## Nota de versión (v1 → v2)
-
-Esta versión incorpora los hallazgos de un red team dedicado (ver `red-team-jerarquia-igualitarismo.md`). Cambios principales:
-
-1. **Se rompe la circularidad de la matriz maestra.** En v1, la columna "Hipótesis más coherente" era una aplicación directa del propio modelo de 4 variables a cada caso — el modelo explicaba el 100% de sus propios casos porque nunca se enfrentó a un caso fuera de muestra. En v2, esa columna se renombra a **"Lectura desde el modelo de 4 variables"** (una interpretación entre varias, no LA explicación) y se añade una columna nueva, **"Hipótesis rivales aplicables"**, que señala qué otros marcos explicarían el mismo caso con supuestos distintos.
-2. **Se añaden 6 variables/hipótesis candidatas** ausentes en v1: umbral de escala poblacional, tecnología de registro/contabilidad, estructura de género de la producción, carga demográfica/epidemiológica, esquismogénesis relacional, y dinámica de seguro mutuo no lineal (forma de U). Sección 19 nueva.
-3. **Se corrige la asimetría de escrutinio climático**: en v1 solo Tiwanaku recibía el nivel de duda que merece toda correlación clima↔colapso; en v2 la tabla 16.2 declara nivel de disputa para cada evento, no solo para uno.
-4. **Se actualiza la cita de Tiwanaku** con el estudio bayesiano 2025 (Marsh et al., "The center cannot hold" — 102 fechas de radiocarbono), que refuerza la lectura de v1 pero con mayor precisión: el colapso ocurre generaciones antes de cualquier caída de precipitación documentada.
-5. **Se declara explícitamente el sesgo de selección de la muestra** (sección 17, punto 6 nuevo): los 20 casos son ejemplos de manual de un debate ya existente, no una muestra representativa del registro arqueológico mundial.
-6. **Se añade un ejercicio de predicción ciega** (sección 20) como intento de someter el modelo a una prueba fuera de muestra real, en vez de solo explicar retrospectivamente.
-
----
-
 ## Cómo leer este documento
 
 Esta versión mantiene la estructura de capas de v1:
@@ -400,12 +387,3 @@ Como intento de someter el modelo de 4 variables a una prueba fuera de muestra r
 *Fuentes principales: las de v1, más — Kidder, T.R., Baumgartel, O. & Grooms, S. (2025), "Performance, ritual, and revitalization at Poverty Point", Southeastern Archaeology; Marsh, E. et al. (2025), "The center cannot hold: A Bayesian chronology for the collapse of Tiwanaku"; Garlake, P. (1978), "The rise and fall of Zimbabwe" (hipótesis comercial/secundaria, contraparte de Huffman); Spencer, C. & Redmond, E. (2003), "War and early state formation in Oaxaca, Mexico", PNAS; Flannery, K. & Marcus, J., excavaciones en San José Mogote; Stevenson, A. (2016), "The Egyptian Predynastic and State Formation", Journal of Archaeological Research; Carneiro, R. (1970/2012), teoría de circunscripción (los casos originales de Carneiro incluían Egipto y Mesopotamia — ver nota de honestidad epistémica en ficha 22); Buckley, B. et al. (2010), "Climate as a contributing factor in the demise of Angkor, Cambodia", PNAS; estudio de falla en cascada de infraestructura de Angkor (Science Advances, 2018); Larsen, C.S., Knüsel, C. et al. (2019), "Bioarchaeology of Neolithic Çatalhöyük reveals fundamental transitions in health, mobility, and lifestyle in early farmers", PNAS; Cline, E. (2014), *1177 B.C.: The Year Civilization Collapsed*, sobre el colapso de la Edad del Bronce Final.*
 
 ---
-
-## Estado del documento
-
-Esta versión ya no mantiene una lista de ampliaciones pendientes. Las cinco líneas que v1 dejaba como "próximas ampliaciones" —Mesoamérica, Egipto predinástico, Europa megalítica, Sudeste asiático, y el colapso de la Edad del Bronce Final— están desarrolladas como fichas 21 a 25, con evidencia verificada e integradas en la matriz maestra y en el aparato de hipótesis rivales de la sección 19.
-
-Quedan dos límites honestos, no listados como "tareas" sino declarados como lo que son — huecos reales del análisis en su estado actual:
-
-1. **H6 (carga demográfica/epidemiológica)** tiene ahora un caso con datos reales (Çatalhöyük, ficha 3) pero sigue sin verificarse contra Jōmon, donde v1 y v2 no incorporan bioarqueología poblacional específica — la nota de la ficha 11 sigue siendo una hipótesis sin dato de respaldo directo.
-2. La idea de convertir la matriz en una línea de tiempo visual cruzando las 25 filas en un eje cronológico único es un cambio de formato, no de contenido, y queda fuera del alcance de un documento en markdown — no se desarrolla aquí porque hacerlo mal sería peor que no mencionarlo.
