@@ -1,7 +1,5 @@
 # Mapa de posiciones: conservación, antropocentrismo y la guillotina de Hume
 
-*Documento único — revisa e integra conservacion-sin-infalibilismo.md y su v2, y ahora incorpora el Nodo 11 (ecología libertaria/anarquista). No es una versión nueva apilada sobre las anteriores; las reemplaza.*
-
 Esto no es un ensayo que llega a una conclusión. Es un mapa: cada nodo es una posición real, con su mejor caso, y con la tensión que tiene con los nodos vecinos hecha explícita al final. El desacuerdo entre nodos no se resuelve al cierre — se documenta, porque intentar resolverlo aquí sería fingir un consenso que no existe.
 
 ```mermaid
