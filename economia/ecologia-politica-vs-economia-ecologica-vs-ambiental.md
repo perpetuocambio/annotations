@@ -1,6 +1,8 @@
-# Ecología Política, Economía Ecológica, Economía Ambiental y Ecología Marxista/Ecosocialismo
+# Ecología Política, Economía Ecológica, Economía Ambiental, Ecología Marxista/Ecosocialismo — y Antropología Económica / Economías Heterodoxas No Ecológicas
 
 > **Nota sobre solapamiento:** estas categorías no son cajas estancas. Autores como Joan Martínez-Alier trabajan simultáneamente en varias de estas tradiciones; K. William Kapp llegó a proponer explícitamente una "Economía Ecológica Política" que fusionaba dos de ellas; y Enrique Leff, Eduardo Gudynas o Héctor Alimonda —situados aquí dentro de la Ecología Política— escriben en diálogo directo con la tradición marxista descrita en la sección 5. Este documento nace de fusionar dos referencias que originalmente vivían por separado: un comparativo de tres tradiciones económico-ecológicas y un mapa de autores de la ecología marxista y el ecosocialismo. Se unifican aquí porque, como se argumenta en la sección 8, la segunda es en buena medida el tejido conectivo que explica por qué las tres primeras se citan y debaten entre sí. El cuadro sirve para orientarse, no como frontera rígida.
+>
+> **Ampliación (sección 7):** las secciones 2 a 6 comparten un eje común: todas piensan la relación economía-sociedad-naturaleza desde el problema ecológico o desde la crítica al capitalismo industrial. Pero existe un cuerpo de teoría igual de heterodoxo que parte de otra pregunta — no "¿cómo se relaciona la economía con los límites biofísicos?" sino "¿es la economía de mercado la única forma posible de organizar la producción, el intercambio y la reciprocidad humanas?". Esa pregunta es el objeto propio de la antropología económica clásica, del anarquismo económico y de la economía social y solidaria, y se desarrolla en la nueva sección 7. Por alcance explícito de quien encargó esta ampliación, la sección 7 no incorpora autoras o corrientes encuadradas como feminismo económico o ecofeminismo; las ya presentes en el documento (Federici, Herrero, Mellor, Salleh, en §5.5–5.6) se mantienen sin cambios porque forman parte del texto original, pero no se amplían aquí. Vale la pena señalar, aunque solo sea al pasar, que esas corrientes gozan de reconocimiento académico ordinario dentro de la antropología económica y la economía heterodoxa — la exclusión es una decisión editorial de alcance, no un juicio sobre su solidez.
 
 ---
 
@@ -14,7 +16,7 @@
 
 **Idea clave:** la Economía Ambiental sostiene que los problemas ambientales son *fallos de mercado* corregibles mediante precios; la Economía Ecológica sostiene que existen *límites físicos* (entropía, biofísica) que ningún precio puede superar; la Ecología Política pregunta *quién decide, quién gana y quién pierde* en esos conflictos.
 
-No se añade aquí una cuarta columna para la ecología marxista/ecosocialista (sección 5) porque, a diferencia de las tres anteriores, no sostiene una postura única sobre la mercantilización de la naturaleza: Foster y Moore, por ejemplo, discrepan entre sí tanto como discrepan con la Economía Ambiental. En cambio, esa tradición atraviesa transversalmente las tres columnas — ver sección 5.0 y sección 8.
+No se añade aquí una cuarta columna para la ecología marxista/ecosocialista (sección 5) porque, a diferencia de las tres anteriores, no sostiene una postura única sobre la mercantilización de la naturaleza: Foster y Moore, por ejemplo, discrepan entre sí tanto como discrepan con la Economía Ambiental. En cambio, esa tradición atraviesa transversalmente las tres columnas — ver sección 5.0 y sección 8. Tampoco se añade una columna para la sección 7: esta no comparte el eje ecológico del cuadro (ver nota de ampliación al inicio del documento).
 
 ---
 
@@ -88,7 +90,7 @@ Antes de esta narrativa fundacional habitual existe un linaje paralelo de raíz 
 | Herman Daly | Economía de estado estacionario |
 | Robert Costanza | Cofundador y primer presidente de ISEE; valoración de servicios ecosistémicos |
 | Joan Martínez-Alier | Puente con la ecología política; inconmensurabilidad de valores |
-| José Manuel Naredo | Desarrollo de la economía ecológica en España — ver también §5.6 |
+| José Manuel Naredo | Desarrollo de la economía ecológica en España — ver también §5.6 y §7.5 |
 | AnnMari Jansson | Pionera escandinava, Universidad de Estocolmo |
 | Tim Jackson | *Prosperity Without Growth* |
 | Kate Raworth | "Economía de la rosquilla" (*Doughnut Economics*) |
@@ -112,7 +114,7 @@ Antes de esta narrativa fundacional habitual existe un linaje paralelo de raíz 
 
 ### Historia
 
-Se desarrolla dentro de la economía neoclásica desde principios del siglo XX. **Arthur Cecil Pigou** (1920, *The Economics of Welfare*) formuló el concepto de "externalidad" y propuso impuestos correctivos (impuestos pigouvianos). **Ronald Coase** (1960, *"The Problem of Social Cost"*) argumentó que, con derechos de propiedad bien definidos y costos de transacción bajos, las partes podían negociar soluciones eficientes sin intervención estatal (Teorema de Coase). En 1968, el biólogo **Garrett Hardin** publicó *"The Tragedy of the Commons"*, un artículo enormemente influyente (y muy discutido) sobre la sobreexplotación de recursos de acceso abierto, que la economía ambiental adoptó como justificación para privatizar o regular recursos comunes — tesis que **Elinor Ostrom** refutaría empíricamente décadas después (Nobel de Economía 2009), al mostrar que las comunidades locales sí pueden autogestionar recursos comunes sin privatización ni control estatal centralizado.
+Se desarrolla dentro de la economía neoclásica desde principios del siglo XX. **Arthur Cecil Pigou** (1920, *The Economics of Welfare*) formuló el concepto de "externalidad" y propuso impuestos correctivos (impuestos pigouvianos). **Ronald Coase** (1960, *"The Problem of Social Cost"*) argumentó que, con derechos de propiedad bien definidos y costos de transacción bajos, las partes podían negociar soluciones eficientes sin intervención estatal (Teorema de Coase). En 1968, el biólogo **Garrett Hardin** publicó *"The Tragedy of the Commons"*, un artículo enormemente influyente (y muy discutido) sobre la sobreexplotación de recursos de acceso abierto, que la economía ambiental adoptó como justificación para privatizar o regular recursos comunes — tesis que **Elinor Ostrom** refutaría empíricamente décadas después (Nobel de Economía 2009), al mostrar que las comunidades locales sí pueden autogestionar recursos comunes sin privatización ni control estatal centralizado. Ostrom reaparece en §7.1 y §7.5 como referencia empírica compartida con la antropología económica y la economía solidaria.
 
 En los años 60 y 70 la economía ambiental se consolidó como subdisciplina aplicada, dando origen a instrumentos como los mercados de permisos de emisión (*cap-and-trade*) —aplicados por primera vez a gran escala en el Programa de Lluvia Ácida de EE. UU. (autorizado en 1990)— y a los métodos de valoración contingente para poner precio a bienes ambientales sin mercado.
 
@@ -360,7 +362,107 @@ El decrecimiento (*décroissance*) es hoy el punto de encuentro más activo entr
 
 ---
 
-## 7. Resumen de tensiones clave
+## 7. Antropología económica y economías heterodoxas no ecológicas
+
+Esta sección responde a una pregunta distinta de la que organiza las secciones 2–6: no "¿cómo pensar el límite ecológico del capitalismo?" sino "¿qué tan universal es realmente la lógica de mercado como forma de organizar la producción, el intercambio y la propiedad?". Es el terreno propio de la antropología económica clásica, el anarquismo económico y la economía social y solidaria — corrientes que a menudo se ignoran mutuamente pero que comparten el gesto de tratar el mercado capitalista como *una* forma histórica entre otras, no como *la* forma natural de la economía.
+
+### 7.1 El debate sustantivista-formalista y la antropología económica clásica
+
+**Karl Polanyi (1886–1964).** Historiador económico austrohúngaro. En *The Great Transformation* (1944; *La gran transformación*) distingue dos sentidos de "económico": el **formal** (elección racional entre medios escasos, el sentido que asume la economía neoclásica) y el **sustantivo** (cómo los humanos, en cualquier sociedad, obtienen sustento de su entorno natural y social, presuponga o no escasez y cálculo racional). Su tesis central es que solo en las sociedades capitalistas modernas coinciden ambos sentidos; en sociedades preindustriales, el mercado autorregulado no es la institución que organiza la producción, sino la **reciprocidad**, la **redistribución** y la **domesticidad** (*householding*). Polanyi fue, además de historiador, uno de los primeros en aplicar sistemáticamente esta distinción a economías arcaicas (con Conrad Arensberg y Harry Pearson, *Trade and Market in the Early Empires*, 1957).
+
+Esta distinción dio origen, a finales de los años 50 y durante los 60, al **"Gran Debate"** entre **sustantivistas** y **formalistas** dentro de la antropología económica: los formalistas (George Dalton en sus primeros trabajos, luego revisados; Scott Cook) sostenían que los principios de la economía neoclásica —maximización, escasez, elección racional— son aplicables a cualquier sociedad humana; los sustantivistas (Polanyi, y tras él **Marshall Sahlins** y **Maurice Godelier**, entre otros) insistían en que esas categorías son históricamente específicas del capitalismo de mercado y no universales. **Paul Bohannan**, con su estudio de las "esferas de intercambio" entre los Tiv de Nigeria (bienes de subsistencia, bienes de prestigio y personas/matrimonio, no intercambiables entre sí sin conversión moralmente marcada), aportó uno de los casos etnográficos más citados del debate. Herederos posteriores de la línea sustantivista, ya fuera del debate original, incluyen a **Keith Hart** (economía informal, dinero como institución social) y a **Maurice Godelier**, que retomó a Polanyi desde una lectura marxista-estructuralista.
+
+### 7.2 Don, reciprocidad y economía del don
+
+**Marcel Mauss (1872–1950).** Sociólogo francés, sobrino de Durkheim. Su *Ensayo sobre el don* (1925) es el texto fundacional de esta línea: analiza el potlatch de la costa noroeste americana y el kula de las islas Trobriand (ya descrito etnográficamente por Bronisław Malinowski) para mostrar que en muchas sociedades el intercambio de bienes no es un mero cálculo utilitario sino un "hecho social total" regido por la triple obligación de dar, recibir y devolver — con el don funcionando como vínculo social, no como transacción anónima de mercado.
+
+**Marshall Sahlins.** En *Stone Age Economics* (1972) desarrolla, a partir de Mauss y en diálogo crítico con Polanyi y con Chayanov (ver §7.3), la tesis de la **"sociedad opulenta original"** (*original affluent society*): los cazadores-recolectores, lejos de vivir al borde de la subsistencia, satisfacían sus necesidades materiales en pocas horas de trabajo diario, por lo que la escasez —y con ella buena parte de la lógica económica moderna— es un producto de la civilización, no una condición humana universal. También formula el concepto de **"modo doméstico de producción"**, retomando el análisis de Chayanov sobre la unidad doméstica campesina.
+
+**Maurice Godelier.** Antropólogo francés de formación marxista, en diálogo crítico con Polanyi (ver §7.1). Su libro *L'Énigme du don* (1996; *El enigma del don*) revisa y matiza la tesis de Mauss: sostiene que junto a los objetos que circulan (que se dan, se reciben y se devuelven) existen otros que se sustraen deliberadamente del intercambio —objetos sagrados, inalienables— y que es precisamente esa reserva de lo no intercambiable la que sostiene la identidad del grupo.
+
+**Pierre Clastres (1934–1977).** Antropólogo francés, especialista en pueblos indígenas de Sudamérica (los Guayaki). En *La société contre l'État* (1974; *La sociedad contra el Estado*) argumenta que muchas sociedades "sin Estado" no son formas primitivas anteriores al Estado, sino organizaciones que activamente impiden su formación mediante mecanismos sociales concretos (entre ellos, la figura del jefe sin poder coercitivo). No es un texto de economía en sentido estricto, pero es una referencia constante de la antropología anarquista (ver §7.4) y de la economía sustantiva por su tesis sobre la ausencia de acumulación y jerarquía económica en esas sociedades.
+
+### 7.3 Economía campesina y economía moral
+
+**Alexander Chayanov (1888–1937).** Economista agrario ruso, ejecutado en las purgas estalinistas de 1937 tras haber sido acusado de "defender a los kulaks"; no fue rehabilitado ni sus obras reeditadas en la URSS hasta 1987. En *La organización de la unidad económica campesina* (1925) sostiene que la unidad doméstica campesina no se comporta como una empresa capitalista que maximiza beneficio, sino que ajusta su producción al equilibrio entre el esfuerzo del trabajo y la satisfacción de las necesidades del grupo familiar (el "balance trabajo-consumo"), por lo que no busca sistemáticamente el excedente ni la acumulación. Esta tesis influyó directamente en el "modo doméstico de producción" de Sahlins (§7.2), aunque autores posteriores han señalado que el aparato formal (casi neoclásico) que usa Chayanov lo sitúa, paradójicamente, más cerca del formalismo que del sustantivismo.
+
+**E. P. Thompson (1924–1993).** Historiador social británico. En su artículo *"The Moral Economy of the English Crowd in the Eighteenth Century"* (1971) introduce el concepto de **economía moral**: los motines por el precio del pan en la Inglaterra del XVIII no eran estallidos irracionales de hambre, sino acciones colectivas defendiendo una norma consuetudinaria y compartida de precio justo frente al avance del mercado libre de granos.
+
+**James C. Scott.** Politólogo y antropólogo estadounidense (Yale), quien lleva el concepto de Thompson al sudeste asiático campesino.
+
+- **Obra clave:** *The Moral Economy of the Peasant: Rebellion and Subsistence in Southeast Asia* (1976): la subsistencia, no la maximización de beneficio, rige la economía campesina, y las revueltas agrarias explotan cuando terratenientes o el Estado colonial rompen el "principio de subsistencia mínima" garantizado tradicionalmente.
+- También *Weapons of the Weak* (1985), sobre las formas cotidianas y no organizadas de resistencia campesina, y *The Art of Not Being Governed* (2009), un estudio de las poblaciones de las tierras altas del sudeste asiático (Zomia) como sociedades que históricamente huyeron y se organizaron para evitar la incorporación al Estado y su fiscalidad — en diálogo directo con la tesis de Clastres (§7.2).
+
+### 7.4 Anarquismo económico
+
+**Pierre-Joseph Proudhon (1809–1865).** El primero en autodenominarse "anarquista". En *¿Qué es la propiedad?* (1840) formula su célebre "la propiedad es un robo" y desarrolla el **mutualismo**: un sistema de crédito mutuo sin interés (a través de un "banco del pueblo"), cooperativas de producción y intercambio equitativo entre productores independientes, como alternativa tanto al capitalismo como al comunismo de Estado.
+
+**Piotr Kropotkin (1842–1921).** Naturalista, geógrafo y príncipe ruso que abrazó el anarcocomunismo.
+
+- **Obra clave:** *Mutual Aid: A Factor of Evolution* (1902; *El apoyo mutuo*), colección de ensayos publicados originalmente en la revista *The Nineteenth Century* entre 1890 y 1896. Argumenta, contra el darwinismo social y la lectura competitiva de la evolución, que la cooperación (el "apoyo mutuo") ha sido un factor de supervivencia tan importante como la lucha por la existencia, tanto en el reino animal como en las sociedades humanas —desde las comunas medievales hasta los gremios— y que el Estado y la propiedad privada han destruido históricamente instituciones de apoyo mutuo preexistentes.
+- También *La conquista del pan* (1892), su exposición más directa del comunismo libertario como programa económico: producción y distribución organizadas según necesidad, no según salario o propiedad.
+
+**Colin Ward (1924–2010).** Arquitecto y escritor anarquista británico. En *Anarchy in Action* (1973) documenta cómo principios anarquistas de autoorganización operan de facto —sin necesidad de revolución previa— en la vida cotidiana: cooperativas de vivienda, mutualidades, escuelas libres, ocupación de terrenos.
+
+**Murray Bookchin (1921–2006).** Teórico estadounidense, puente entre el anarquismo clásico y la ecología (ver también §2 y §6). Desarrolló la **ecología social** y el **municipalismo libertario**: la crisis ecológica es, para Bookchin, consecuencia de relaciones de dominación humana (jerarquía, Estado, capitalismo) proyectadas sobre la naturaleza, y la alternativa pasa por asambleas municipales confederadas, no por el mercado ni por el Estado centralizado. Obras clave: *Post-Scarcity Anarchism* (1971) y *The Ecology of Freedom* (1982).
+
+**David Graeber (1961–2020).** Antropólogo estadounidense (LSE), la figura más visible del anarquismo económico contemporáneo.
+
+- **Obra clave:** *Debt: The First 5000 Years* (2011; *En deuda*): sostiene, contra el relato estándar de los manuales de economía (que hace del trueque el origen del dinero), que las economías humanas históricamente han funcionado primero sobre sistemas de crédito y deuda social, y que el dinero-mercancía y el trueque generalizado aparecen sobre todo en contextos de colapso institucional o violencia (guerra, esclavitud).
+- También *Fragments of an Anarchist Anthropology* (2004), programa breve para una antropología explícitamente anarquista; *Bullshit Jobs* (2018), sobre el trabajo administrativo sin sentido bajo el capitalismo contemporáneo; y, con el arqueólogo David Wengrow, *The Dawn of Everything* (2021; *El amanecer de todo*), una revisión a gran escala de la prehistoria que cuestiona los relatos evolutivos lineales (de la banda igualitaria al Estado jerárquico) usando, entre otros, los casos de Clastres y Scott.
+
+### 7.5 Economía social y solidaria (tradición latinoamericana y francófona)
+
+**Luis Razeto Migliaro (Chile).** Economista y filósofo, formuló desde los años 80 la noción de **"economía de solidaridad"**, centrada en el llamado **"Factor C"**: el componente específicamente cooperativo y comunitario del trabajo asociativo, que genera un tipo de rendimiento (no solo económico sino social) distinto tanto del capital como del trabajo asalariado individual.
+
+**José Luis Coraggio (Argentina).** Economista, desarrolla la **"economía del trabajo"** y la **"economía popular"**: parte de la idea de que toda economía realmente existente es mixta —conviven en ella la economía empresarial capitalista, la economía pública y la economía popular— y propone la economía del trabajo como programa de fortalecimiento de esa tercera esfera, orientado a la reproducción ampliada de la vida y no a la ganancia.
+
+**Jean-Louis Laville (Francia).** Sociólogo, referencia europea de la **economía solidaria**, en diálogo con Coraggio y Razeto; trabaja la hibridación entre recursos de mercado, recursos públicos y reciprocidad no mercantil dentro de las mismas iniciativas económicas.
+
+**Paul Singer (Brasil, 1932–2018).** Economista, primer titular de la Secretaría Nacional de Economía Solidaria del gobierno de Lula (creada en 2003), impulsor institucional de la economía solidaria brasileña (cooperativas de trabajadores, empresas recuperadas por sus trabajadores) desde el Estado.
+
+Esta tradición dialoga, aunque desde otra disciplina, con el trabajo empírico de **Elinor Ostrom** (§4) sobre gestión comunitaria de recursos comunes sin privatización ni control estatal centralizado.
+
+### 7.6 Dinero alternativo y teoría monetaria heterodoxa
+
+**Silvio Gesell (1862–1930).** Comerciante y economista germano-argentino, fundador de la **Freiwirtschaft** ("economía libre"), corriente asociada al socialismo de mercado.
+
+- **Obra clave:** *The Natural Economic Order* (1916; *El orden económico natural*). Propone un dinero con **oxidación** o "demurrage" (una pérdida de valor programada con el tiempo, mediante sellos que hay que ir adhiriendo al billete) para desincentivar el atesoramiento y forzar la circulación monetaria, junto con una reforma de la propiedad de la tierra. Su teoría monetaria influyó notablemente en John Maynard Keynes, que le dedicó un pasaje elogioso en la *Teoría general* (1936), y sigue siendo la referencia teórica de buena parte de las monedas complementarias y "monedas oxidables" actuales.
+
+**Michael Linton (Canadá).** Creador en 1983 de los **LETS** (*Local Exchange Trading Systems*), redes locales de intercambio que emiten su propia unidad de cuenta para facilitar el trueque de bienes y servicios sin necesidad de moneda de curso legal.
+
+**Bernard Lietaer (1942–2019).** Economista belga, uno de los diseñadores originales del euro, que después se dedicó a estudiar y promover monedas complementarias como herramienta de resiliencia económica local, retomando explícitamente la teoría de Gesell.
+
+### 7.7 Economía participativa y planificación democrática
+
+**Michael Albert y Robin Hahnel.** Teórico político y economista estadounidenses, desarrollan desde los años 90 la **economía participativa** o **"parecon"**, descrita por sus propios autores como una visión económica anarquista: sustituye tanto el mercado como la planificación centralizada por consejos de trabajadores y consumidores que negocian directamente la producción, con "paquetes de tareas equilibrados" (*balanced job complexes*) que reparten el trabajo agradable y el desagradable entre todos los puestos, y remuneración según esfuerzo y sacrificio, no según productividad o propiedad de activos.
+
+- **Obra clave:** *The Political Economy of Participatory Economics* (1991), y la exposición más divulgativa, *Parecon: Life After Capitalism* (2002; Albert en solitario).
+- Entre las influencias reconocidas por Hahnel figuran Marx, Polanyi (§7.1) y el filósofo **Cornelius Castoriadis**, teórico de la autogestión y el "imaginario social instituyente", cuya obra sobre la autonomía colectiva es una referencia habitual del socialismo libertario del que parte el parecon.
+
+### 7.8 Procomún digital y producción entre pares
+
+**Michel Bauwens (Bélgica).** Fundador de la **P2P Foundation**, teoriza la **"producción entre pares basada en los comunes"** (*commons-based peer production*, término acuñado por el jurista **Yochai Benkler** en *The Wealth of Networks*, 2006) como un tercer modo de producción, distinto tanto del mercado como de la jerarquía estatal/empresarial, ejemplificado en proyectos como el software libre o Wikipedia y que Bauwens propone extender más allá de lo digital hacia la producción material (manufactura distribuida, "cosmolocalismo").
+
+### 7.9 Cómo seguir ampliando el mapa
+
+1. **Revistas de referencia:** *Economic Anthropology* (revista de la American Anthropological Association), *HAU: Journal of Ethnographic Theory*, *Anarchist Studies* (Lawrence & Wishart), y en castellano *REVESCO. Revista de Estudios Cooperativos*.
+2. **Conceptos-eje para rastrear citas cruzadas:** *"gift economy"* / *"economía del don"*; *"moral economy"* / *"economía moral"*; *"commons-based peer production"*.
+3. **Coautores y continuadores habituales de Graeber:** David Wengrow (coautor de *The Dawn of Everything*); dentro de la antropología anarquista más amplia, **Harold Barclay** (*People Without Government*, 1982) es otro nombre de referencia clásico poco citado fuera del campo.
+
+### 7.10 Resumen: si solo vas a leer cinco libros (antropología económica y economías heterodoxas)
+
+| Autor | Libro | Por qué |
+| --- | --- | --- |
+| Karl Polanyi | *La gran transformación* | El texto que funda la distinción entre economía formal y sustantiva |
+| Marshall Sahlins | *Stone Age Economics* | La tesis de la "sociedad opulenta original" y el modo doméstico de producción |
+| David Graeber | *En deuda* | Revisión más influyente y leída del origen del dinero y la deuda como institución social |
+| Piotr Kropotkin | *El apoyo mutuo* / *La conquista del pan* | El programa económico anarquista clásico, en su versión más sistemática |
+| José Luis Coraggio o Luis Razeto | *Economía social y solidaria* (Coraggio) / obra de Razeto sobre el Factor C | La versión latinoamericana, contemporánea y con aplicación institucional real |
+
+---
+
+## 8. Resumen de tensiones clave
 
 | Pregunta | Economía Ambiental | Economía Ecológica | Ecología Política | Ecología marxista/ecosocialismo |
 |---|---|---|---|---|
@@ -369,6 +471,6 @@ El decrecimiento (*décroissance*) es hoy el punto de encuentro más activo entr
 | ¿Quién gestiona los recursos comunes? | Privatización o regulación estatal | Metabolismo social, límites biofísicos | Autogestión comunitaria, justicia distributiva | Superación del capitalismo como condición de posibilidad; el "comunismo decrecentista" (Saito) como horizonte |
 | Unidad de análisis | Individuo racional, mercado | Sistema socioecológico, flujos de energía-materia | Poder, clase, género, colonialidad | Relación capital-trabajo-naturaleza como unidad indisoluble (metabolismo social / ecología-mundo) |
 
-*Nota: esta cuarta columna se añade solo en la tabla de tensiones (donde sí tiene sentido comparar posturas específicas por pregunta), no en el cuadro comparativo general de la sección 1 — ver la justificación de esa decisión en §1.*
+*Nota: esta cuarta columna se añade solo en la tabla de tensiones (donde sí tiene sentido comparar posturas específicas por pregunta), no en el cuadro comparativo general de la sección 1 — ver la justificación de esa decisión en §1. La sección 7 queda fuera de esta tabla porque su eje de discusión (universalidad o no de la lógica de mercado) no es directamente comparable pregunta por pregunta con el eje ecológico de las otras cuatro tradiciones.*
 
 ---
