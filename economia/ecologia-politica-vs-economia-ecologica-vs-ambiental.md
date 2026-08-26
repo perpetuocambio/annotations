@@ -1,5 +1,4 @@
 # Ecología Política, Economía Ecológica, Economía Ambiental y Ecología Marxista/Ecosocialismo
-### *(documento unificado, versión corregida)*
 
 > **Nota sobre solapamiento:** estas categorías no son cajas estancas. Autores como Joan Martínez-Alier trabajan simultáneamente en varias de estas tradiciones; K. William Kapp llegó a proponer explícitamente una "Economía Ecológica Política" que fusionaba dos de ellas; y Enrique Leff, Eduardo Gudynas o Héctor Alimonda —situados aquí dentro de la Ecología Política— escriben en diálogo directo con la tradición marxista descrita en la sección 5. Este documento nace de fusionar dos referencias que originalmente vivían por separado: un comparativo de tres tradiciones económico-ecológicas y un mapa de autores de la ecología marxista y el ecosocialismo. Se unifican aquí porque, como se argumenta en la sección 8, la segunda es en buena medida el tejido conectivo que explica por qué las tres primeras se citan y debaten entre sí. El cuadro sirve para orientarse, no como frontera rígida.
 
