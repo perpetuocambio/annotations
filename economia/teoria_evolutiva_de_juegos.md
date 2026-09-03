@@ -10,10 +10,12 @@ El campo nace formalmente en 1973 con el artículo de **John Maynard Smith** y *
 
 | Teoría de juegos clásica | Teoría evolutiva de juegos |
 |---|---|
-| Los jugadores son racionales y eligen su estrategia deliberadamente | Los jugadores no razonan: nacen con una estrategia heredada genéticamente |
-| El equilibrio se busca vía razonamiento estratégico mutuo | El equilibrio emerge de la selección diferencial (reproducción de los más aptos) |
+| Requiere que los jugadores sean racionales y elijan su estrategia deliberadamente, considerando el razonamiento estratégico del oponente | No requiere el supuesto de racionalidad: basta con que cada jugador *tenga* una estrategia, sea cual sea su origen |
+| El equilibrio se busca vía razonamiento estratégico mutuo | El equilibrio emerge de la selección diferencial: la evolución "pone a prueba" las estrategias por su capacidad de sobrevivir y reproducirse, igual que un experimento pone a prueba hipótesis |
 | Foco en el resultado de un juego puntual | Foco en la dinámica de cambio de frecuencias estratégicas en el tiempo |
 | Payoff = utilidad | Payoff = *fitness* (éxito reproductivo relativo) |
+
+**Aclaración importante:** el marco matemático de la TEJ (dinámica de replicador, ESS) es agnóstico respecto al mecanismo de herencia de la estrategia. En su aplicación *biológica* original, Maynard Smith describe las estrategias como rasgos genéticamente heredados que controlan la acción de un individuo, de forma análoga a un programa informático — pero esto es una característica de la aplicación biológica concreta, no un axioma universal de la teoría en sí. Por eso la TEJ se ha podido extender sin contradicción a dominios donde no hay herencia genética alguna (economía, cultura, normas sociales), sustituyendo la herencia genética por otros mecanismos de persistencia y propagación de estrategias, como el aprendizaje, la imitación o la transmisión institucional.
 
 ## 2. Motivación original: el problema del comportamiento ritualizado
 
@@ -44,7 +46,7 @@ La **ESS** (*Evolutionarily Stable Strategy*), formalizada por Maynard Smith, es
 Puntualizaciones importantes sobre qué **no** es una ESS:
 - No es necesariamente la estrategia que maximiza el fitness absoluto de la población.
 - No es necesariamente única: pueden coexistir varios estados ESS posibles según las condiciones iniciales.
-- No siempre existe: hay juegos (como el de "piedra-papel-tijera") sin ningún ESS puro, solo ciclos alrededor de un equilibrio de Nash.
+- No siempre existe: hay juegos (como el de "piedra-papel-tijera") sin ningún ESS —ni puro ni mixto—, donde el sistema solo alcanza un equilibrio de Nash con órbitas cíclicas perpetuas a su alrededor, sin converger nunca a un punto estable.
 - No es una estrategia "invencible" en sentido absoluto, solo no invadible en las condiciones del modelo.
 
 ## 5. Juegos representativos
@@ -64,7 +66,7 @@ Cuando el coste de perder (C) supera el valor del recurso (V) —la situación h
 
 ### 5.2 Guerra de desgaste (War of Attrition)
 
-Modela disputas por un recurso no compartible donde el coste se acumula con el tiempo de espera/despliegue, en lugar de resolverse en un único combate. La solución óptima es una estrategia de "farol" (bluffing) con tiempos de espera aleatorios extraídos de una distribución específica (resuelta por Bishop y Cannings, 1978, y aplicada empíricamente por Parker y Thompson, 1980, al comportamiento de moscas del estiércol).
+Modela disputas por un recurso no compartible donde el coste se acumula con el tiempo de espera/despliegue, en lugar de resolverse en un único combate. La solución óptima es una estrategia de "farol" (bluffing) con tiempos de espera aleatorios extraídos de una distribución de probabilidad, no con un tiempo fijo predecible (cualquier estrategia predecible es invadible por un mutante que espere un poco más). El teorema de Bishop y Cannings (1978) demuestra el resultado general de que cualquier ESS mixto debe seguir este tipo de distribución; Parker y Thompson (1980) calcularon la función de distribución específica para este juego y la contrastaron empíricamente con el comportamiento de moscas del estiércol disputando lugares de apareamiento.
 
 ### 5.3 Estrategia "Bourgeois"
 
@@ -76,7 +78,7 @@ El juego más estudiado en toda la teoría de juegos, central para explicar la e
 
 ### 5.5 Piedra-papel-tijera (RPS) en poblaciones naturales
 
-Un caso empírico célebre: la lagartija de mancha lateral (*Uta stansburiana*) presenta tres morfos de garganta (naranja, azul, amarillo) que compiten en un ciclo no transitivo de dominancia sin ESS puro, documentado por Sinervo y Lively (1996). Es uno de los ejemplos naturales más citados de dinámica evolutiva cíclica sin punto de equilibrio estable.
+Un caso empírico célebre: la lagartija de mancha lateral (*Uta stansburiana*) presenta tres morfos de garganta (naranja, azul, amarillo) que compiten en un ciclo no transitivo de dominancia. Este sistema no tiene ningún ESS —ni puro ni mixto—, solo un equilibrio de Nash rodeado de órbitas cíclicas perpetuas, documentado por Sinervo y Lively (1996). Es uno de los ejemplos naturales más citados de dinámica evolutiva cíclica sin punto de equilibrio estable.
 
 ## 6. Extensiones teóricas relevantes
 
