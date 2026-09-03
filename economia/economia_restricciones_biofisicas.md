@@ -110,4 +110,4 @@ El punto de fricción real entre estos marcos y el resto de la economía no es i
 
 ## Nota metodológica
 
-Se han excluido deliberadamente de este documento marcos como la TMM/chartalismo, el mainstream neoclásico, la escuela austriaca y el marxismo clásico — no por invalidez, sino porque, tal como se planteó en la conversación, no incorporan el límite biofísico planetario como restricción estructural de diseño, sino como variable externa, ausente, o subordinada a otras prioridades (estabilidad monetaria, eficiencia asignativa vía precios, lucha de clases en torno al valor-trabajo, respectivamente).
+Se han excluido deliberadamente de este documento marcos como la TMM/chartalismo, el mainstream neoclásico, la escuela austriaca y el marxismo clásico — no por invalidez, sino porque, no incorporan el límite biofísico planetario como restricción estructural de diseño, sino como variable externa, ausente, o subordinada a otras prioridades (estabilidad monetaria, eficiencia asignativa vía precios, lucha de clases en torno al valor-trabajo, respectivamente).
