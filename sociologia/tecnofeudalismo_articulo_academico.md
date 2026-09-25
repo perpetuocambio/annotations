@@ -64,6 +64,18 @@ Una propuesta intermedia, surgida del debate público, sugiere denominar el fen�
 
 La precisión categorial importa porque las categorías orientan la acción. Si el problema es la concentración monopolista, la solución es la regulación antimonopolio, la desinversión forzosa, la interoperabilidad obligatoria. Si el problema es la sustitución del mercado por la plataforma, la solución es la socialización de la infraestructura o la creación de alternativas públicas. La confusión categorial genera confusión estratégica.
 
+### 3.1 La concentración en inteligencia artificial: hardware, datos y modelos
+
+El caso de la inteligencia artificial ilustra con particular claridad la estructura de concentración que el debate sobre tecnofeudalismo busca nombrar. El desarrollo de modelos de frontera requiere tres recursos escasos: hardware de entrenamiento (GPUs de alta gama), datos de entrenamiento masivos, y capital para financiar entrenamientos que superan los mil millones de dólares.
+
+La concentración del hardware es extrema. NVIDIA controla aproximadamente el 90% del mercado de GPUs para entrenamiento de IA, con dependencias críticas en la cadena de suministro (TSMC para fabricación, ASML para litografía). Esta concentración otorga a NVIDIA una posición de intermediario obligado en todo el ecosistema de IA, con capacidad de establecer precios y condiciones de acceso.
+
+La concentración de datos es igualmente significativa. Los corpus de entrenamiento de mayor calidad —web crawls completos, libros digitales, código fuente, conversaciones— son propiedad de unas pocas corporaciones (Google, Meta, Microsoft/OpenAI) o han sido obtenidos mediante scraping masivo de contenido generado por usuarios sin compensación. La apropiación de datos generados por la actividad pública de Internet como insumo para modelos privados reproduce la estructura de extracción de valor que caracteriza al capitalismo de plataformas.
+
+La concentración de modelos es el resultado final de estas dependencias. Los modelos de frontera (GPT-5, Claude Opus 4.5, Gemini 3 Pro) son desarrollados por unas pocas corporaciones con acceso a los recursos anteriores. Los modelos open source (LLaMA 4, Qwen3, DeepSeek) aunque aparentemente democratizadores, dependen de hardware y datos corporativos, y a menudo son liberados con restricciones de uso que preservan el control efectivo.
+
+Esta estructura de triple concentración —hardware, datos, modelos— genera una forma de dependencia sistémica. Los gobiernos, empresas e instituciones que desean utilizar capacidades de IA deben acceder a través de APIs corporativas, con términos de servicio unilaterales, precios variables y sin garantías de continuidad. La "renta de acceso" a capacidades cognitivas fundamentales se convierte en un mecanismo de extracción análogo a la renta feudal: el acceso a recursos esenciales es controlado por un intermediario que no produce el recurso sino que controla el acceso a él.
+
 ---
 
 ## 5. La discontinuidad técnica: de la catalogación a la inferencia predictiva
@@ -105,6 +117,28 @@ El análisis estructurado revela que las vulnerabilidades más críticas no resi
 
 Además, el STA identifica **asimetrías de poder** estructurales: mientras los componentes técnicos (cámaras, servidores) son propiedad de la corporación, los datos generados son producto de la actividad ciudadana. Esta asimetría reproduce la relación de extracción de valor que el debate sobre tecnofeudalismo identifica: los usuarios generan datos que son apropiados, procesados y monetizados por el controlador de la infraestructura.
 
+### 5.2 Visión por computadora multimodal y vigilancia automatizada
+
+Los avances recientes en modelos de visión por computadora multimodal (VLM) han transformado las capacidades de análisis de video para vigilancia. Los modelos de tercera generación —GPT-5V, Claude Opus 4.5 Vision, Gemini 3 Pro Vision— han alcanzado precisión cercana a la humana en benchmarks de comprensión visual (MMMU >84%), con capacidades de razonamiento espacial, seguimiento de objetos y análisis de comportamiento.
+
+Estas capacidades tienen aplicaciones directas en vigilancia masiva. El análisis de video en tiempo real —previamente limitado por la necesidad de operadores humanos— puede ser automatizado para detectar comportamientos "anómalos", identificar individuos en multitudes, rastrear trayectorias de movimiento y correlacionar actividades a través de múltiples cámaras. La reducción de costes de procesamiento permite el despliegue de estas capacidades a escala municipal, no solo en infraestructuras críticas.
+
+La integración de VLM con sistemas de reconocimiento facial existentes amplifica las capacidades de identificación. Los sistemas actuales pueden identificar individuos en condiciones de baja iluminación, ángulos oblicuos y oclusión parcial, con tasas de precisión que superan el 99% en condiciones controladas. La combinación de reconocimiento facial con análisis de comportamiento (gait analysis, microexpresiones, patrones de movimiento) habilita formas de identificación que no requieren cooperación del sujeto.
+
+El análisis de técnicas estructuradas aplicado a sistemas VLM de vigilancia identifica vulnerabilidades específicas:
+
+**Tabla 5. Análisis estructurado de componentes VLM para vigilancia**
+
+| Componente | Capacidad técnica | Riesgo de vigilancia | Punto de intervención |
+|------------|-------------------|----------------------|----------------------|
+| **Encoder de visión** | Extracción de características visuales | Identificación biométrica masiva | Prohibición de procesamiento de datos biométricos sin consentimiento |
+| **Modelo de lenguaje-visión** | Razonamiento sobre contenido visual | Inferencia de intenciones, estados mentales | Auditorías de sesgo; prohibición de inferencia de estados mentales |
+| **Seguimiento de objetos** | Rastreo de múltiples objetos en video | Vigilancia continua de individuos | Límites de retención de datos de seguimiento |
+| **Análisis de comportamiento** | Detección de "anomalías" | Criminalización de comportamiento atípico; discriminación | Definición legal de "anomalía"; supervisión humana obligatoria |
+| **Correlación multi-cámara** | Reconstrucción de trayectorias | Perfilado de movimientos; chilling effect | Prohibición de correlación sin orden judicial |
+
+El STA revela que las capacidades más problemáticas no son las de identificación directa, sino las de **inferencia**: la capacidad de deducir información no observable directamente (intenciones, estados emocionales, probabilidad de comportamiento futuro) a partir de datos visuales. Esta inferencia habilita formas de vigilancia preventiva que operan sobre categorías probabilísticas, no sobre conductas observables, con implicaciones para el principio de presunción de inocencia y el derecho a no ser objeto de decisiones automatizadas.
+
 ---
 
 ## 6. Delegación cognitiva y reducción de la capacidad crítica
@@ -121,9 +155,47 @@ El fenómeno se acelera con la digitalización integral de la vida social. Los a
 
 La serie de ficción *Black Mirror* ha explorado estas dinámicas con una precisión que el análisis académico a menudo no alcanza. Episodios como "Nosedive" (sistema de puntuación social), "Men Against Fire" (alteración perceptiva mediante implantes) o "Bandersnatch" (elección algorítmica) anticiparon escenarios que la realidad tecnológica ha ido alcanzando con velocidad inquietante. La referencia cultural no es anecdótica: indica que la imaginación pública ha reconocido los riesgos de estas tecnologías antes de que el discurso académico y político los articulara formalmente.
 
+
+
+### 6.2 Estado del arte en inteligencia artificial generativa y sus implicaciones políticas
+
+La generación actual de sistemas de inteligencia artificial representa una discontinuidad cualitativa respecto a tecnologías anteriores, tanto por sus capacidades técnicas como por su concentración en un número reducido de actores corporativos. El análisis de técnicas estructuradas aplicado a estos sistemas revela vectores de riesgo que trascienden la mera consideración técnica.
+
+#### 6.2.1 Modelos de lenguaje de frontera: concentración y capacidad
+
+Los modelos de lenguaje de gran escala (LLMs) de frontera —GPT-5, Claude Opus 4.5, Gemini 3 Pro— han alcanzado capacidades de razonamiento que superan umbrales humanos en dominios específicos. En benchmarks de programación (SWE-bench Verified), estos modelos resuelven correctamente más del 80% de issues reales de GitHub, superando el rendimiento de desarrolladores humanos promedio. Las ventanas de contexto han expandido a más de un millón de tokens, permitiendo el procesamiento de corpus completos en una sola inferencia.
+
+Sin embargo, esta capacidad técnica está concentrada en un número extremadamente reducido de corporaciones. OpenAI, Anthropic, Google y Meta controlan los modelos de frontera, con dependencias críticas de hardware (NVIDIA controla >90% del mercado de GPUs de entrenamiento) y datos de entrenamiento propietarios. Esta concentración reproduce la estructura de renta de plataforma que el debate sobre tecnofeudalismo identifica: el acceso a capacidades fundamentales de procesamiento de lenguaje —infrastructura cognitiva básica de la sociedad contemporánea— está mediado por contratos de acceso y precios de API establecidos unilateralmente por corporaciones.
+
+La dependencia de estos modelos por parte de gobiernos, instituciones educativas y medios de comunicación crea una forma de vulnerabilidad sistémica. La modificación de términos de servicio, la deprecación de capacidades o el aumento de precios pueden alterar las condiciones de acceso al procesamiento de lenguaje de forma unilateral, sin negociación ni alternativas funcionales equivalentes.
+
+#### 6.2.2 Modelos generativos de video y colapso de la evidencia audiovisual
+
+Los modelos de generación de video —Sora 2, Runway Gen-4.5, Pika 2.5, Google Veo 3— han alcanzado capacidades de generación de contenido audiovisual sintético que desafía la distinción entre realidad y simulación. Estos sistemas generan video con audio sincronizado, consistencia de personajes a través de múltiples tomas, y control de cámara que rivaliza con producción profesional. La latencia de generación ha descendido por debajo de 30 segundos por clip en algunos sistemas, con costes decrecientes que democratizan el acceso.
+
+Las implicaciones para la desinformación son profundas. La capacidad de generar video sintético de figuras políticas, eventos falsos o evidencia fabricada compromete la función epistémica del video como registro de realidad. La "crisis de la evidencia" no es prospectiva sino actual: deepfakes de video han sido utilizados en campañas de desinformación política, manipulación de mercados financieros y extorsión.
+
+La respuesta técnica —watermarking, autenticación criptográfica de contenido, detección por artefactos— presenta limitaciones estructurales. Los métodos de detección basados en artefactos de generación pierden eficacia ante cada nueva generación de modelos. El watermarking es vulnerable a eliminación mediante compresión, recodificación o técnicas de ofuscación. La autenticación criptográfica requiere infraestructura de claves públicas y adopción universal que no existe.
+
+#### 6.2.3 Agentes autónomos y delegación de agencia
+
+Los sistemas de agentes autónomos —capaces de ejecutar tareas complejas de múltiples pasos sin supervisión continua— representan una evolución cualitativa en la delegación de agencia. Estos sistemas no solo procesan información sino que actúan sobre el mundo: ejecutan código, navegan interfaces, realizan compras, envían comunicaciones.
+
+El benchmark SWE-bench y sus sucesores (SWE-EVO, Terminal-Bench) documentan capacidades crecientes de resolución autónoma de problemas de software. Sistemas como Devin, SWE-agent y OpenHands demuestran capacidad de navegar repositorios de código, diagnosticar bugs, implementar soluciones y verificar resultados con mínima intervención humana.
+
+Esta delegación de agencia plantea preguntas de responsabilidad y control. Cuando un agente autónomo comete errores, toma decisiones perjudiciales o es utilizado para fines maliciosos, la atribución de responsabilidad se diluye entre el usuario, el desarrollador del agente, el proveedor del modelo de lenguaje subyacente y el fabricante del hardware. La "responsabilidad distribuida" puede convertirse en "irresponsabilidad estructurada" donde ningún actor asume accountability efectivo.
+
+#### 6.2.4 Carrera armamentística deepfake/detección
+
+La dinámica entre generación de contenido sintético y detección reproduce la estructura de carrera armamentística asimétrica. Cada avance en generación —mayor resolución, mejor coherencia temporal, audio más realista— invalida temporalmente las técnicas de detección existentes. Los detectores deben ser reentrenados con datos de la nueva generación, creando un retraso estructural entre capacidad de generación y capacidad de detección.
+
+Esta asimetría tiene implicaciones institucionales. Los sistemas judiciales, los medios de comunicación y las agencias de verificación de hechos operan con herramientas de detección que quedan obsoletas rápidamente. La verificación de autenticidad de contenido audiovisual requiere recursos especializados que no están universalmente disponibles, creando una asimetría entre actores con capacidad de verificación (gobiernos, grandes corporaciones) y actores sin ella (ciudadanos, organizaciones de la sociedad civil, medios locales).
+
+El colapso de la confianza en la evidencia audiovisual tiene efectos de segundo orden: la negación plausible ("el video es fake"), la deslegitimación de evidencia real, y la polarización epistémica donde cada grupo acepta como real solo el contenido que confirma sus creencias previas.
+
 ---
 
-## 7. La dimensión ideológica explícita: neorreaccionarismo, eugenesia y República Tecnológica
+---## 7. La dimensión ideológica explícita: neorreaccionarismo, eugenesia y República Tecnológica
 
 Un tercer elemento, distinto de los anteriores, es que parte de la infraestructura descrita no es tecnología neutral capturada accidentalmente por intereses autoritarios, sino que cuenta con una justificación ideológica pública y explícita.
 
@@ -143,7 +215,7 @@ La pregunta analítica relevante aquí no es "¿qué nombre le damos al sistema 
 
 ---
 
-## 8. Tecnología de control y auge del fascismo contemporáneo
+## 7. Tecnología de control y auge del fascismo contemporáneo
 
 La relación entre las dinámicas descritas y el auge contemporáneo del fascismo no es casual. El resurgimiento de movimientos autoritarios y neofascistas en Estados Unidos, Europa y otras regiones desde mediados de la década de 2010 coincide temporalmente con la consolidación del capitalismo de plataformas y el despliegue de infraestructuras de vigilancia masiva. Esta coincidencia no es meramente cronológica; es estructural.
 
@@ -157,15 +229,15 @@ La literatura sobre el fascismo clásico ha señalado siempre la complicidad ent
 
 ---
 
-## 9. Tecnologías de interfaz cerebro-computadora y neuroderechos: avances terapéuticos y riesgos de dual use
+## 8. Tecnologías de interfaz cerebro-computadora y neuroderechos: avances terapéuticos y riesgos de dual use
 
-### 12.1 Interfaces cerebro-computadora: del laboratorio a la clínica
+### 8.1 Interfaces cerebro-computadora: del laboratorio a la clínica
 
 Las interfaces cerebro-computadora (brain-computer interfaces, BCI) representan uno de los campos de mayor avance en neurotecnología de la última década. Estos sistemas permiten la comunicación directa entre el sistema nervioso y dispositivos externos, con aplicaciones terapéuticas documentadas en parálisis, epilepsia, depresión resistente al tratamiento y pérdida sensorial. El primer implante humano del sistema N1 de Neuralink, realizado en enero de 2024, marcó un hito mediático y científico al permitir a un paciente con tetraplejía controlar dispositivos digitales mediante actividad neuronal (Lavazza et al., 2025).
 
 Los avances clínicos son innegables. Sistemas como el brain-spine interface desarrollado por Lorach et al. (2023) han permitido a pacientes con lesión medular volver a caminar mediante la bypass digital de la lesión. Los implantes cocleares, en uso clínico desde la década de 1980, han restaurado audición funcional a cientos de miles de personas. La estimulación cerebral profunda (DBS) es tratamiento estándar para el Parkinson y otras patologías del movimiento.
 
-### 12.2 La cuestión del dual use
+### 8.2 La cuestión del dual use
 
 Sin embargo, la misma tecnología que habilita estas aplicaciones terapéuticas presenta riesgos de uso dual (dual use) que la comunidad científica y las organizaciones internacionales han comenzado a articular con urgencia creciente. La Recomendación sobre la Ética de la Neurotecnología adoptada por la UNESCO en noviembre de 2025 constituye el primer instrumento normativo internacional específico sobre la materia. El documento identifica explícitamente riesgos de "uso dual, mal uso o uso malicioso" de neurotecnologías y urge a todos los actores a actuar responsablemente y a respetar el derecho internacional, incluyendo el derecho internacional de los derechos humanos (UNESCO, 2025).
 
@@ -173,13 +245,13 @@ La preocupación central es la protección de los datos neuronales. A diferencia
 
 El Comité Asesor Científico de la ONU ha señalado que la regulación de neurotecnologías es actualmente "gestionada casi exclusivamente por gobiernos nacionales u organizaciones regionales", y que la ausencia de normas internacionales acordadas podría impulsar una "carrera armamentística de mejora humana" (augmentation arms race) y permitir usos peligrosos en diversas partes del mundo (UN Scientific Advisory Board, 2025).
 
-### 12.3 Neuroderechos: una propuesta de marco normativo
+### 8.3 Neuroderechos: una propuesta de marco normativo
 
 En respuesta a estos riesgos, Yuste, Genser y Herrmann (2021) han propuesto la formulación de "neuroderechos" como nuevos derechos humanos para la era de la neurotecnología. Esta propuesta, respaldada por el Comité de Bioética de Chile y discutida en foros de la ONU, identifica cinco derechos fundamentales: integridad mental, privacidad mental, continuidad personal, libre albedrío y acceso equitativo a neurotecnologías de mejora.
 
 La Resolución del Consejo de Derechos Humanos de la ONU sobre "Neurotecnología y derechos humanos" (A/HRC/RES/58/6, 2025) representa el reconocimiento más reciente de estas preocupaciones por parte del sistema internacional de derechos humanos. El Consejo ha encargado estudios sobre el impacto de las neurotecnologías en la promoción y protección de todos los derechos humanos, y ha establecido un Comité Asesor para el seguimiento de estas cuestiones.
 
-### 12.4 Escenarios de riesgo: de la especulación a la planificación
+### 8.4 Escenarios de riesgo: de la especulación a la planificación
 
 Los escenarios de riesgo asociados a neurotecnologías no son meramente especulativos. La literatura científica ha identificado vectores concretos de preocupación:
 
@@ -191,13 +263,13 @@ Los escenarios de riesgo asociados a neurotecnologías no son meramente especula
 
 **Dependencia tecnológica y vulnerabilidad corporativa.** Los implantes BCI requieren mantenimiento continuo por parte de las empresas fabricantes. La cesión de operaciones por parte de una empresa que administra implantes cerebrales activos plantea riesgos de salud pública y de dependencia tecnológica sin precedentes (Cassinadri & Ienca, 2024).
 
-### 12.5 El caso de la visión artificial y las prótesis sensoriales
+### 8.5 El caso de la visión artificial y las prótesis sensoriales
 
 El campo de las prótesis sensoriales ilustra de forma particularmente clara la tensión entre avance terapéutico y riesgo de dual use. Las prótesis retinianas, los implantes cocleares y los sistemas de sustitución sensorial visual-auditiva han demostrado capacidad de restaurar o compensar funciones sensoriales perdidas. El sistema The vOICe, desarrollado por Meijer (1992), permite a personas ciegas de nacimiento alcanzar agudeza visual funcional mediante la codificación de imágenes de cámara en paisajes sonoros (Striem-Amit et al., 2012).
 
 Sin embargo, estas mismas tecnologías podrían desplegarse en contextos no terapéuticos: sistemas de visión artificial con reconocimiento facial integrado en dispositivos portátiles, prótesis sensoriales con capacidad de registro continuo de entorno, o interfaces de sustitución sensorial conectadas a bases de datos de vigilancia. La distinción entre asistencia y vigilancia no es técnica sino política, y depende de la gobernanza de los datos generados por estos dispositivos.
 
-### 12.6 Marcos regulatorios: estado de la cuestión
+### 8.6 Marcos regulatorios: estado de la cuestión
 
 La regulación de neurotecnologías se encuentra en estado fragmentario. La FDA ha aprobado dispositivos BCI para aplicaciones específicas mediante vías de autorización acelerada, pero no existe marco regulatorio específico para neuroderechos. La Unión Europea ha incorporado preocupaciones sobre neurotecnología en su Estrategia de Datos de Salud, pero sin desarrollo normativo específico. Chile es el primer país que ha incorporado neuroderechos en su legislación nacional, con reformas constitucionales y legales iniciadas en 2021.
 
@@ -205,56 +277,35 @@ La Recomendación de UNESCO de 2025 establece un marco de principios y áreas de
 
 La pregunta analítica central no es si estas tecnologías deben desarrollarse —sus aplicaciones terapéuticas justifican plenamente la investigación—, sino bajo qué condiciones de gobernanza, qué límites normativos y qué mecanismos de supervisión democrática debe operar su despliegue. La historia de tecnologías anteriores —desde la energía nuclear hasta Internet— demuestra que la ausencia de marcos regulatorios tempranos genera dependencias y externalidades difíciles de revertir.
 
-### 9.1 Análisis de técnicas estructuradas: matriz de dual use en neurotecnologías
+## 9. Soberanía digital y vigilancia estatal: el caso europeo
 
-La evaluación de riesgos en neurotecnologías mediante análisis de técnicas estructuradas permite descomponer sistemas de interfaz cerebro-computadora (BCI) en componentes funcionales y evaluar el potencial de uso dual (terapéutico/malicioso) de cada elemento.
-
-**Tabla 3. Matriz de análisis estructurado de dual use en tecnologías BCI**
-
-| Componente | Función terapéutica legítima | Potencial de uso malicioso | Umbral de riesgo | Nivel de regulación requerido |
-|------------|------------------------------|----------------------------|------------------|-------------------------------|
-| **Electrodos/sensores** | Detección de actividad neuronal para control de prótesis | Extracción no consensuada de estados mentales; vigilancia de intenciones | Alto | Consentimiento explícito; prohibición de uso coercitivo; certificación médica |
-| **Amplificadores de señal** | Mejora de relación señal/ruido para precisión clínica | Interceptación de señales neuronales débiles; amplificación de "ruido" para confusión | Medio | Estándares de cifrado de señal; aislamiento electromagnético |
-| **Procesamiento de señal** | Filtrado y decodificación para comandos de dispositivos | Inferencia de contenidos cognitivos no expresados; detección de "pensamientos disidentes" | Crítico | Prohibición de decodificación de contenido sin consentimiento; auditorías algorítmicas |
-| **Estimulación neural** | Tratamiento de depresión, Parkinson; restauración sensorial | Modulación coercitiva del comportamiento; supresión de impulsos; "reprogramación" | Crítico | Supervisión médica estricta; prohibición de uso no terapéutico; registros públicos de uso |
-| **Almacenamiento de datos neuronales** | Historiales clínicos para tratamiento longitudinal | Perfiles de neurodivergencia para discriminación; datos de estado mental para manipulación | Alto | Minimización de datos; cifrado de extremo a extremo; derecho al olvido neuronal |
-| **Interfaces de salida** | Control de dispositivos externos; comunicación asistida | Transmisión de datos neuronales a terceros; integración con sistemas de vigilancia | Alto | Control de acceso; logs de auditoría; prohibición de integración con infraestructuras estatales |
-
-El análisis estructurado revela que los componentes de **procesamiento de señal** y **estimulación neural** presentan el umbral de riesgo más elevado, dado que habilitan capacidades de inferencia y modulación que trascienden la funcionalidad terapéutica. La regulación propuesta por la UNESCO (2025) y discutida en foros de la ONU se alinea con esta evaluación, centrándose en el consentimiento, la privacidad mental y la prohibición de manipulación indebida.
-
-Sin embargo, el STA identifica un **punto ciego** en los marcos regulatorios actuales: la **integración de componentes BCI con infraestructuras de datos existentes**. La conexión de interfaces neurales con sistemas de cloud computing, análisis de big data y algoritmos predictivos crea capacidades emergentes que superan la suma de sus partes. Esta observación sugiere que la regulación efectiva requiere evaluar no solo componentes aislados, sino **arquitecturas de sistemas completas**.
-
----
-
-## 10. Soberanía digital y vigilancia estatal: el caso europeo
-
-### 12.1 El marco regulatorio europeo: entre la protección y la vigilancia
+### 9.1 El marco regulatorio europeo: entre la protección y la vigilancia
 
 El marco regulatorio europeo en materia de datos y vigilancia presenta una tensión estructural entre la protección de derechos fundamentales y la expansión de capacidades estatales de vigilancia. Por un lado, el Reglamento General de Protección de Datos (RGPD) de 2018 estableció estándares globales en protección de datos personales. Por otro, iniciativas posteriores como eIDAS 2.0 (2024), el Reglamento de Servicios Digitales (DSA) y el Reglamento de Inteligencia Artificial (AI Act) han introducido mecanismos que, según críticos como la Electronic Frontier Foundation y más de 500 expertos en ciberseguridad, podrían facilitar la vigilancia estatal sobre la población europea.
 
 La propuesta de Reglamento eIDAS 2.0, aprobada en 2024, ha sido particularmente controvertida. Expertos en cifrado han advertido que la obligación de navegadores de confiar en autoridades de certificación estatales designadas podría permitir a gobiernos interceptar comunicaciones cifradas, comprometiendo la seguridad de la infraestructura de Internet en su conjunto (EFF, 2022). La Coalición por la Ciberseguridad de la Web, integrada por más de 500 especialistas, ha señalado que eIDAS 2.0 "establece un precedente peligroso para la seguridad web" al introducir puntos de fallo únicos controlados por estados.
 
-### 12.2 La jurisprudencia del TJUE: límites y contradicciones
+### 9.2 La jurisprudencia del TJUE: límites y contradicciones
 
 El Tribunal de Justicia de la Unión Europea ha establecido jurisprudencia significativa sobre los límites de la vigilancia estatal. En *Digital Rights Ireland* (C-293/12, 2014), el TJUE anuló la Directiva de Retención de Datos, estableciendo que la recolección masiva de metadatos constituía una interferencia desproporcionada con los derechos fundamentales. En *Ligue des droits humains* (C-817/19, 2022), el Tribunal precisó que la transferencia de datos PNR (Passenger Name Record) solo es compatible con la Carta de Derechos Fundamentales si se aplica a amenazas "genuinas, presentes o previsibles" y por "tiempo limitado".
 
 Sin embargo, la propuesta de agenda antiterrorista de la Comisión Europea (COM(2026) 101) presenta tensiones con esta jurisprudencia. El documento propone expandir el marco PNR al transporte marítimo, terrestre y vuelos privados de forma permanente, sin referencia a los criterios de proporcionalidad exigidos por el TJUE. Asimismo, la ampliación del mandato de Europol para incluir procesamiento de grandes conjuntos de datos, análisis OSINT y monitorización de plataformas de gaming ha sido criticada por organizaciones de derechos civiles por carecer de mecanismos de supervisión democrática proporcionales a la expansión de capacidades (Fair Trials, EDRi, 2022).
 
-### 12.3 La paradoja de la legislación de emergencia
+### 9.3 La paradoja de la legislación de emergencia
 
 La literatura académica sobre legislación antiterrorista ha identificado un patrón recurrente que Finn (2009) denominó "paradoja de la legislación de emergencia": medidas concebidas como temporales y excepcionales que se normalizan, se amplían y acaban constituyendo el régimen permanente de derecho ordinario. Este patrón, documentado extensamente en el contexto europeo por Argomaniz (2013) y el proyecto SECILE (2013), se reproduce en el ciclo legislativo contemporáneo.
 
 El análisis de la agenda COM(2026) 101 revela ausencia de cláusulas de revisión temporal en las propuestas normativas, expansión de definiciones de amenaza que incluyen categorías vagas como "ideologías anti-sistema" o "rechazo de valores democráticos" sin definición operativa, y externalización de funciones de censura a plataformas privadas sin proceso judicial previo. Estas características reproducen el patrón de erosión incremental de garantías que la literatura ha documentado en contextos previos (Ní Aoláin, 2018).
 
-### 12.4 Transferencia de soberanía digital: el CLOUD Act y la dependencia tecnológica
+### 9.4 Transferencia de soberanía digital: el CLOUD Act y la dependencia tecnológica
 
-Un fenómeno de particular relevancia para el debate sobre tecnofeudalismo es la transferencia de soberanía digital que resulta de la dependencia de infraestructuras tecnológicas extranjeras. El CLOUD Act (Clarifying Lawful Overseas Use of Data Act) de 2018 permite al gobierno estadounidense acceder a datos almacenados por empresas estadounidenses. Esta legislación ha generado tensiones con el marco europeo de protección de datos, particularmente en relación con la jurisprudencia del TJUE en *Schrems II* (C-311/18, 2020), que estableció que toda transferencia de datos personales a terceros países requiere garantías equivalentes a las del derecho europeo. El Convenio 108+ del Consejo de Europa, ratificado por la mayoría de estados europeos, establece estándares adicionales de protección de datos que el CLOUD Act puede comprometer "sin importar dónde estén almacenados físicamente". Esto significa que datos de ciudadanos europeos almacenados en servidores de Microsoft, Google o Amazon —incluso ubicados en territorio europeo— son accesibles para autoridades estadounidenses.
+Un fenómeno de particular relevancia para el debate sobre tecnofeudalismo es la transferencia de soberanía digital que resulta de la dependencia de infraestructuras tecnológicas extranjeras. El CLOUD Act (Clarifying Lawful Overseas Use of Data Act) de 2018 permite al gobierno estadounidense acceder a datos almacenados por empresas estadounidenses "sin importar dónde estén almacenados físicamente". Esto significa que datos de ciudadanos europeos almacenados en servidores de Microsoft, Google o Amazon —incluso ubicados en territorio europeo— son accesibles para autoridades estadounidenses.
 
 La concentración del mercado de cloud computing refuerza esta dependencia. Tres empresas estadounidenses (Amazon Web Services, Microsoft Azure y Google Cloud) controlan aproximadamente el 65% de la infraestructura cloud global. Esta concentración tiene implicaciones de soberanía que trascienden la economía: los gobiernos europeos que implementan sistemas de vigilancia digital para "proteger" a sus ciudadanos están simultáneamente transfiriendo el control efectivo de esos datos a actores extranjeros.
 
 Microsoft ha reconocido públicamente que no puede garantizar la protección de datos europeos frente a solicitudes del gobierno estadounidense bajo el CLOUD Act, incluso cuando los datos están almacenados en territorio europeo. Esta admisión corporativa confirma la paradoja de soberanía: los sistemas de vigilancia implementados por estados para proteger su seguridad nacional pueden resultar en la subordinación de esos mismos estados a potencias extranjeras.
 
-### 12.5 Vigilancia vehicular como caso de estudio: V16, eCall y telemática
+### 9.5 Vigilancia vehicular como caso de estudio: V16, eCall y telemática
 
 El análisis técnico de sistemas de emergencia vehicular ilustra de forma concreta las tensiones entre funcionalidad, privacidad y vulnerabilidad. El sistema eCall, obligatorio en vehículos nuevos en la UE desde 2018, transmite datos de localización y identificación del vehículo (VIN) en caso de accidente. La evolución hacia NG-eCall (Next Generation) introduce capacidades ampliadas, incluyendo transmisión de datos de velocidad, aceleración y ocupantes.
 
@@ -262,7 +313,7 @@ Sin embargo, el análisis técnico revela vulnerabilidades significativas. Los s
 
 Este caso ilustra el principio de dual use en tecnologías de emergencia: las mismas capacidades que permiten una respuesta rápida en accidentes habilitan formas de vigilancia y rastreo que, en manos de actores autoritarios o corporativos sin escrúpulos, comprometen la privacidad y seguridad de los usuarios. La regulación de estos sistemas requiere equilibrar la funcionalidad de emergencia con garantías de minimización de datos, cifrado robusto y supervisión democrática.
 
-### 10.1 Análisis de técnicas estructuradas: cadena de transferencia de datos y puntos de soberanía
+### 9.6 Análisis de técnicas estructuradas: cadena de transferencia de datos y puntos de soberanía
 
 El análisis de técnicas estructuradas aplicado a la arquitectura de transferencia de datos permite identificar los puntos donde la soberanía nacional se ejerce, se pierde o se transfiere a actores extranjeros. La cadena de transferencia de datos de vigilancia puede descomponerse en seis nodos funcionales, cada uno con implicaciones de soberanía específicas.
 
@@ -285,7 +336,7 @@ El STA sugiere que la protección de la soberanía digital requiere intervenció
 
 ---
 
-## 11. Evidencia de reversibilidad institucional
+## 10. Evidencia de reversibilidad institucional
 
 Frente a la lectura que presenta estas dinámicas como una trayectoria irreversible, existe evidencia empírica reciente de fricción democrática efectiva.
 
@@ -297,7 +348,7 @@ La narrativa de la inevitabilidad tecnológica —presente tanto en el discurso 
 
 ---
 
-## 12. Conclusiones
+## 11. Conclusiones
 
 ### 12.1. Sobre la categoría de "tecnofeudalismo"
 
@@ -338,6 +389,14 @@ Primero, desagregar el análisis: separar claramente las dimensiones económica,
 ACLU (2026). *You Are Being Tracked: License Plate Readers in Your Community*. American Civil Liberties Union.
 
 ACLU (2026). *Get the Flock Out: Campaign to Cancel ALPR Contracts*. American Civil Libert Liberties Union.
+
+Anthropic (2025). *Claude Opus 4.5 System Card*. https://www.anthropic.com/claude-opus-4-5-system-card
+
+Meta AI (2025). *Llama 4: Multimodal Mixture of Experts Models*. https://ai.meta.com/blog/llama-4-multimodal-intelligence/
+
+OpenAI (2025). *GPT-5 System Card*. https://openai.com/gpt-5-system-card
+
+Runway (2025). *Gen-4.5: Consistent Characters and Cinematic Control*. https://runwayml.com/research/introducing-gen-4-5
 
 Argomaniz, J. (2013). *A Decade of EU Counter-Terrorism and Intelligence: A Critical Assessment*. International Relations.
 
