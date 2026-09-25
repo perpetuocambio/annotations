@@ -22,7 +22,21 @@ El artículo se estructura de la siguiente manera. La sección 2 examina la obje
 
 ---
 
-## 2. La objeción desde la teoría marxista clásica
+## 2. Metodología
+
+Este artículo adopta una metodología de **revisión narrativa crítica** combinada con **análisis conceptual** y **análisis de técnicas estructuradas** (Structured Techniques Analysis, STA). La revisión narrativa se basa en literatura académica revisada por pares, documentos institucionales de organismos internacionales (ONU, UNESCO, Unión Europea), jurisprudencia del Tribunal de Justicia de la Unión Europea y del Tribunal Europeo de Derechos Humanos, e informes técnicos de organizaciones de la sociedad civil especializadas en derechos digitales (ACLU, EFF, Big Brother Watch, Privacy International).
+
+El análisis conceptual examina la categoría de "tecnofeudalismo" desde múltiples tradiciones teóricas: teoría económica crítica (marxista y poskeynesiana), historia de la tecnología, sociología política, filosofía de la tecnología y derecho internacional. El análisis de técnicas estructuradas descompone sistemas tecnológicos complejos (sistemas ALPR, interfaces cerebro-computadora, arquitecturas de transferencia de datos) en componentes funcionales para evaluar capacidades, vulnerabilidades y vectores de amenaza, permitiendo identificar puntos de intervención regulatoria precisos.
+
+El **análisis de técnicas estructuradas** descompone sistemas tecnológicos complejos en sus componentes funcionales para evaluar capacidades, vulnerabilidades y vectores de amenaza. Esta metodología, derivada de las prácticas de análisis de inteligencia, permite: (a) identificar puntos de fallo y vulnerabilidades específicas; (b) evaluar el potencial de uso dual (legítimo/malicioso) por componente; (c) estructurar recomendaciones de regulación y mitigación de riesgos de forma precisa y accionable. La aplicación de STA se realiza en las secciones 5 (vigilancia predictiva), 9 (neurotecnologías) y 10 (soberanía digital).
+
+La selección de casos (Flock Safety, Palantir, Neuralink, sistemas de emergencia vehicular) responde a criterios de relevancia teórica y disponibilidad de evidencia empírica verificable, no a una muestra representativa estadística.
+
+Las limitaciones metodológicas incluyen: dependencia de fuentes en inglés y español, posible sesgo hacia contextos occidentales, y la naturaleza evolutiva del campo tecnológico que puede hacer obsoletas algunas observaciones en el corto plazo.
+
+---
+
+## 3. La objeción desde la teoría marxista clásica
 
 La crítica más sólida al término procede de la tradición marxista-leninista sobre el imperialismo. Lenin ya distinguió, a comienzos del siglo XX, una fase del capitalismo caracterizada por la fusión de capital bancario e industrial y por la formación de monopolios que reducen la competencia sin eliminar la relación capital-trabajo mediada por el mercado de fuerza de trabajo (Lenin, 1917/1975). Desde esta perspectiva, lo que Varoufakis denomina "renta tecnofeudal" —Amazon cobrando por visibilidad en su marketplace, Google cobrando por posicionamiento en su buscador, Apple cobrando comisiones en su App Store— es beneficio monopolista de manual: concentración creciente de capital, barreras de entrada elevadas, extracción de plusvalía mediante posición dominante. No haría falta, según esta lectura, inventar una categoría nueva; bastaría con aplicar con rigor la ya existente.
 
@@ -38,7 +52,7 @@ La analogía de Varoufakis entre las plataformas y el Gosplan soviético es, des
 
 ---
 
-## 3. La defensa de la categoría: renta sin mercado competitivo
+## 4. La defensa de la categoría: renta sin mercado competitivo
 
 La réplica desde la posición de Varoufakis y Durand no niega la crítica de precisión histórica; la desplaza. Lo relevante, argumentan, no es si el mecanismo se parece jurídicamente al feudalismo medieval, sino si el mecanismo de autorregulación que el capitalismo suponía tener —la competencia erosionando las rentas extraordinarias con el tiempo— sigue operando. Cuando el acceso a una infraestructura —nube de cómputo, modelo de lenguaje, sistema operativo, red social dominante— no tiene sustituto funcional, la renta cobrada por ese acceso no está sujeta a la presión competitiva que corrige los precios en un mercado capitalista clásico.
 
@@ -52,7 +66,7 @@ La precisión categorial importa porque las categorías orientan la acción. Si 
 
 ---
 
-## 4. La discontinuidad técnica: de la catalogación a la inferencia predictiva
+## 5. La discontinuidad técnica: de la catalogación a la inferencia predictiva
 
 Al margen del debate sobre el modo de producción, existe una segunda discusión, de naturaleza técnica, que suele mezclarse con la anterior sin necesidad: ¿son las capacidades tecnológicas actuales de vigilancia y control social cualitativamente distintas de las empleadas por regímenes autoritarios del siglo XX, o solo cuantitativamente mayores?
 
@@ -72,9 +86,28 @@ La teoría del actor-red de Latour (2005), aunque controvertida, ofrece una herr
 
 Sin embargo, la sofisticación teórica no debe servir para oscurecer lo que, políticamente, es claro: hay actores que saben lo que hacen y dicen lo que quieren. La existencia de un proyecto político explícito que reclama la sustitución de la democracia no es un efecto emergente de la red; es una declaración de intenciones.
 
+### 5.1 Análisis de técnicas estructuradas: descomposición funcional de sistemas ALPR
+
+La aplicación del análisis de técnicas estructuradas (STA) a sistemas de reconocimiento automático de matrículas (ALPR) permite descomponer la arquitectura de vigilancia en componentes funcionales evaluables. Esta descomposición sistemática identifica capacidades, vulnerabilidades y puntos de intervención regulatoria.
+
+**Tabla 2. Análisis estructurado de componentes ALPR (caso Flock Safety)**
+
+| Componente | Función técnica | Capacidad operativa | Vulnerabilidad/riesgo | Punto de intervención regulatoria |
+|------------|-----------------|---------------------|----------------------|-----------------------------------|
+| **Sensores (cámaras)** | Captura de imágenes de matrículas | Cobertura espacial continua, 24/7 | Ubicación estratégica sin supervisión; captura de datos no objetivo | Licencias de ubicación; límites de zonas sensibles |
+| **Procesamiento (OCR)** | Conversión imagen → texto | Velocidad de procesamiento >90% precisión | Sesgos algorítmicos; falsos positivos | Auditorías de precisión por demografía; estándares de exactitud mínima |
+| **Almacenamiento (base de datos)** | Retención de registros históricos | Consulta retrospectiva ilimitada | Acumulación de datos de no sospechosos; breaches de seguridad | Límites de retención (ej. 30 días); cifrado obligatorio; derecho al olvido |
+| **Análisis (algoritmos)** | Correlación de patrones de movimiento | Identificación de rutinas; predicción de comportamiento | Perfilado de disidentes; chilling effect | Prohibición de análisis predictivo sobre datos de no sospechosos |
+| **Distribución (APIs)** | Acceso para agencias policiales | Consulta en tiempo real por múltiples agencias | Acceso sin orden judicial; misión creep | Requisito de orden judicial específica; logs de auditoría públicos |
+| **Interfaz de usuario** | Dashboard para operadores | Visualización geoespacial; alertas | Uso discriminatorio; vigilancia de activistas | Formación obligatoria; supervisión de casos de uso |
+
+El análisis estructurado revela que las vulnerabilidades más críticas no residen en componentes técnicos aislados, sino en las **interacciones entre componentes**: la correlación de datos históricos con análisis predictivo habilita formas de vigilancia que ningún componente individual permitiría. Esta observación sugiere que la regulación efectiva requiere intervenir en los **puntos de conexión** entre componentes, no solo en los componentes mismos.
+
+Además, el STA identifica **asimetrías de poder** estructurales: mientras los componentes técnicos (cámaras, servidores) son propiedad de la corporación, los datos generados son producto de la actividad ciudadana. Esta asimetría reproduce la relación de extracción de valor que el debate sobre tecnofeudalismo identifica: los usuarios generan datos que son apropiados, procesados y monetizados por el controlador de la infraestructura.
+
 ---
 
-## 5. Delegación cognitiva y reducción de la capacidad crítica
+## 6. Delegación cognitiva y reducción de la capacidad crítica
 
 Un fenómeno que el debate sobre el tecnofeudalismo suele descuidar, pero que resulta central para comprender las condiciones de posibilidad del control social contemporáneo, es la reducción de la capacidad crítica asociada a la delegación masiva de funciones cognitivas en sistemas de inteligencia artificial.
 
@@ -90,7 +123,7 @@ La serie de ficción *Black Mirror* ha explorado estas dinámicas con una precis
 
 ---
 
-## 6. La dimensión ideológica explícita: neorreaccionarismo, eugenesia y República Tecnológica
+## 7. La dimensión ideológica explícita: neorreaccionarismo, eugenesia y República Tecnológica
 
 Un tercer elemento, distinto de los anteriores, es que parte de la infraestructura descrita no es tecnología neutral capturada accidentalmente por intereses autoritarios, sino que cuenta con una justificación ideológica pública y explícita.
 
@@ -110,7 +143,7 @@ La pregunta analítica relevante aquí no es "¿qué nombre le damos al sistema 
 
 ---
 
-## 7. Tecnología de control y auge del fascismo contemporáneo
+## 8. Tecnología de control y auge del fascismo contemporáneo
 
 La relación entre las dinámicas descritas y el auge contemporáneo del fascismo no es casual. El resurgimiento de movimientos autoritarios y neofascistas en Estados Unidos, Europa y otras regiones desde mediados de la década de 2010 coincide temporalmente con la consolidación del capitalismo de plataformas y el despliegue de infraestructuras de vigilancia masiva. Esta coincidencia no es meramente cronológica; es estructural.
 
@@ -118,21 +151,21 @@ La pérdida de pertenencia de clase de la clase obrera —producto de la desindu
 
 Las tecnologías de control descritas en secciones anteriores no son causas del auge fascista, pero sí son condiciones de posibilidad que alteran el equilibrio de fuerzas entre autoritarismo y resistencia democrática. Un movimiento autoritario que dispone de infraestructuras de vigilancia predictiva, de capacidad de manipulación algorítmica de la información y de herramientas de modelaje social tiene ventajas estratégicas sustanciales frente a oposiciones organizadas tradicionalmente.
 
-Las capitalizaciones bursátiles del sector tecnológico reflejan esta concentración de poder. Las cinco grandes compañías tecnológicas —Apple, Microsoft, Google, Amazon y Meta— superan conjuntamente los 10 billones de dólares de capitalización de mercado, una cifra superior al PIB de la mayoría de los países. Esta concentración de recursos económicos se traduce en concentración de capacidad de investigación, de desarrollo tecnológico y de influencia política. El poder económico se convierte en poder político no solo mediante el lobbying tradicional, sino mediante el control de infraestructuras de comunicación y información que son condición de posibilidad de la vida pública contemporánea.
+Las capitalizaciones bursátiles del sector tecnológico reflejan esta concentración de poder. Las cinco grandes compañías tecnológicas —Apple, Microsoft, Google, Amazon y Meta— superan conjuntamente los 10 billones de dólares de capitalización de mercado (Statista, 2024), una cifra superior al PIB de la mayoría de los países. Esta concentración de recursos económicos se traduce en concentración de capacidad de investigación, de desarrollo tecnológico y de influencia política. El poder económico se convierte en poder político no solo mediante el lobbying tradicional, sino mediante el control de infraestructuras de comunicación y información que son condición de posibilidad de la vida pública contemporánea.
 
 La literatura sobre el fascismo clásico ha señalado siempre la complicidad entre grandes capitalistas y movimientos autoritarios cuando los intereses de clase lo requerían (Paxton, 2004; Mann, 2004). La configuración contemporánea reproduce esta dinámica con una diferencia sustancial: los actores económicos que pueden beneficiarse del autoritarismo no son solo industriales o financieros, sino propietarios de infraestructuras de información cuyo valor depende del control, no de la libertad, de la circulación de datos.
 
 ---
 
-## 8. Tecnologías de interfaz cerebro-computadora y neuroderechos: avances terapéuticos y riesgos de dual use
+## 9. Tecnologías de interfaz cerebro-computadora y neuroderechos: avances terapéuticos y riesgos de dual use
 
-### 8.1 Interfaces cerebro-computadora: del laboratorio a la clínica
+### 12.1 Interfaces cerebro-computadora: del laboratorio a la clínica
 
 Las interfaces cerebro-computadora (brain-computer interfaces, BCI) representan uno de los campos de mayor avance en neurotecnología de la última década. Estos sistemas permiten la comunicación directa entre el sistema nervioso y dispositivos externos, con aplicaciones terapéuticas documentadas en parálisis, epilepsia, depresión resistente al tratamiento y pérdida sensorial. El primer implante humano del sistema N1 de Neuralink, realizado en enero de 2024, marcó un hito mediático y científico al permitir a un paciente con tetraplejía controlar dispositivos digitales mediante actividad neuronal (Lavazza et al., 2025).
 
 Los avances clínicos son innegables. Sistemas como el brain-spine interface desarrollado por Lorach et al. (2023) han permitido a pacientes con lesión medular volver a caminar mediante la bypass digital de la lesión. Los implantes cocleares, en uso clínico desde la década de 1980, han restaurado audición funcional a cientos de miles de personas. La estimulación cerebral profunda (DBS) es tratamiento estándar para el Parkinson y otras patologías del movimiento.
 
-### 8.2 La cuestión del dual use
+### 12.2 La cuestión del dual use
 
 Sin embargo, la misma tecnología que habilita estas aplicaciones terapéuticas presenta riesgos de uso dual (dual use) que la comunidad científica y las organizaciones internacionales han comenzado a articular con urgencia creciente. La Recomendación sobre la Ética de la Neurotecnología adoptada por la UNESCO en noviembre de 2025 constituye el primer instrumento normativo internacional específico sobre la materia. El documento identifica explícitamente riesgos de "uso dual, mal uso o uso malicioso" de neurotecnologías y urge a todos los actores a actuar responsablemente y a respetar el derecho internacional, incluyendo el derecho internacional de los derechos humanos (UNESCO, 2025).
 
@@ -140,13 +173,13 @@ La preocupación central es la protección de los datos neuronales. A diferencia
 
 El Comité Asesor Científico de la ONU ha señalado que la regulación de neurotecnologías es actualmente "gestionada casi exclusivamente por gobiernos nacionales u organizaciones regionales", y que la ausencia de normas internacionales acordadas podría impulsar una "carrera armamentística de mejora humana" (augmentation arms race) y permitir usos peligrosos en diversas partes del mundo (UN Scientific Advisory Board, 2025).
 
-### 8.3 Neuroderechos: una propuesta de marco normativo
+### 12.3 Neuroderechos: una propuesta de marco normativo
 
 En respuesta a estos riesgos, Yuste, Genser y Herrmann (2021) han propuesto la formulación de "neuroderechos" como nuevos derechos humanos para la era de la neurotecnología. Esta propuesta, respaldada por el Comité de Bioética de Chile y discutida en foros de la ONU, identifica cinco derechos fundamentales: integridad mental, privacidad mental, continuidad personal, libre albedrío y acceso equitativo a neurotecnologías de mejora.
 
 La Resolución del Consejo de Derechos Humanos de la ONU sobre "Neurotecnología y derechos humanos" (A/HRC/RES/58/6, 2025) representa el reconocimiento más reciente de estas preocupaciones por parte del sistema internacional de derechos humanos. El Consejo ha encargado estudios sobre el impacto de las neurotecnologías en la promoción y protección de todos los derechos humanos, y ha establecido un Comité Asesor para el seguimiento de estas cuestiones.
 
-### 8.4 Escenarios de riesgo: de la especulación a la planificación
+### 12.4 Escenarios de riesgo: de la especulación a la planificación
 
 Los escenarios de riesgo asociados a neurotecnologías no son meramente especulativos. La literatura científica ha identificado vectores concretos de preocupación:
 
@@ -158,13 +191,13 @@ Los escenarios de riesgo asociados a neurotecnologías no son meramente especula
 
 **Dependencia tecnológica y vulnerabilidad corporativa.** Los implantes BCI requieren mantenimiento continuo por parte de las empresas fabricantes. La cesión de operaciones por parte de una empresa que administra implantes cerebrales activos plantea riesgos de salud pública y de dependencia tecnológica sin precedentes (Cassinadri & Ienca, 2024).
 
-### 8.5 El caso de la visión artificial y las prótesis sensoriales
+### 12.5 El caso de la visión artificial y las prótesis sensoriales
 
 El campo de las prótesis sensoriales ilustra de forma particularmente clara la tensión entre avance terapéutico y riesgo de dual use. Las prótesis retinianas, los implantes cocleares y los sistemas de sustitución sensorial visual-auditiva han demostrado capacidad de restaurar o compensar funciones sensoriales perdidas. El sistema The vOICe, desarrollado por Meijer (1992), permite a personas ciegas de nacimiento alcanzar agudeza visual funcional mediante la codificación de imágenes de cámara en paisajes sonoros (Striem-Amit et al., 2012).
 
 Sin embargo, estas mismas tecnologías podrían desplegarse en contextos no terapéuticos: sistemas de visión artificial con reconocimiento facial integrado en dispositivos portátiles, prótesis sensoriales con capacidad de registro continuo de entorno, o interfaces de sustitución sensorial conectadas a bases de datos de vigilancia. La distinción entre asistencia y vigilancia no es técnica sino política, y depende de la gobernanza de los datos generados por estos dispositivos.
 
-### 8.6 Marcos regulatorios: estado de la cuestión
+### 12.6 Marcos regulatorios: estado de la cuestión
 
 La regulación de neurotecnologías se encuentra en estado fragmentario. La FDA ha aprobado dispositivos BCI para aplicaciones específicas mediante vías de autorización acelerada, pero no existe marco regulatorio específico para neuroderechos. La Unión Europea ha incorporado preocupaciones sobre neurotecnología en su Estrategia de Datos de Salud, pero sin desarrollo normativo específico. Chile es el primer país que ha incorporado neuroderechos en su legislación nacional, con reformas constitucionales y legales iniciadas en 2021.
 
@@ -172,9 +205,87 @@ La Recomendación de UNESCO de 2025 establece un marco de principios y áreas de
 
 La pregunta analítica central no es si estas tecnologías deben desarrollarse —sus aplicaciones terapéuticas justifican plenamente la investigación—, sino bajo qué condiciones de gobernanza, qué límites normativos y qué mecanismos de supervisión democrática debe operar su despliegue. La historia de tecnologías anteriores —desde la energía nuclear hasta Internet— demuestra que la ausencia de marcos regulatorios tempranos genera dependencias y externalidades difíciles de revertir.
 
+### 9.1 Análisis de técnicas estructuradas: matriz de dual use en neurotecnologías
+
+La evaluación de riesgos en neurotecnologías mediante análisis de técnicas estructuradas permite descomponer sistemas de interfaz cerebro-computadora (BCI) en componentes funcionales y evaluar el potencial de uso dual (terapéutico/malicioso) de cada elemento.
+
+**Tabla 3. Matriz de análisis estructurado de dual use en tecnologías BCI**
+
+| Componente | Función terapéutica legítima | Potencial de uso malicioso | Umbral de riesgo | Nivel de regulación requerido |
+|------------|------------------------------|----------------------------|------------------|-------------------------------|
+| **Electrodos/sensores** | Detección de actividad neuronal para control de prótesis | Extracción no consensuada de estados mentales; vigilancia de intenciones | Alto | Consentimiento explícito; prohibición de uso coercitivo; certificación médica |
+| **Amplificadores de señal** | Mejora de relación señal/ruido para precisión clínica | Interceptación de señales neuronales débiles; amplificación de "ruido" para confusión | Medio | Estándares de cifrado de señal; aislamiento electromagnético |
+| **Procesamiento de señal** | Filtrado y decodificación para comandos de dispositivos | Inferencia de contenidos cognitivos no expresados; detección de "pensamientos disidentes" | Crítico | Prohibición de decodificación de contenido sin consentimiento; auditorías algorítmicas |
+| **Estimulación neural** | Tratamiento de depresión, Parkinson; restauración sensorial | Modulación coercitiva del comportamiento; supresión de impulsos; "reprogramación" | Crítico | Supervisión médica estricta; prohibición de uso no terapéutico; registros públicos de uso |
+| **Almacenamiento de datos neuronales** | Historiales clínicos para tratamiento longitudinal | Perfiles de neurodivergencia para discriminación; datos de estado mental para manipulación | Alto | Minimización de datos; cifrado de extremo a extremo; derecho al olvido neuronal |
+| **Interfaces de salida** | Control de dispositivos externos; comunicación asistida | Transmisión de datos neuronales a terceros; integración con sistemas de vigilancia | Alto | Control de acceso; logs de auditoría; prohibición de integración con infraestructuras estatales |
+
+El análisis estructurado revela que los componentes de **procesamiento de señal** y **estimulación neural** presentan el umbral de riesgo más elevado, dado que habilitan capacidades de inferencia y modulación que trascienden la funcionalidad terapéutica. La regulación propuesta por la UNESCO (2025) y discutida en foros de la ONU se alinea con esta evaluación, centrándose en el consentimiento, la privacidad mental y la prohibición de manipulación indebida.
+
+Sin embargo, el STA identifica un **punto ciego** en los marcos regulatorios actuales: la **integración de componentes BCI con infraestructuras de datos existentes**. La conexión de interfaces neurales con sistemas de cloud computing, análisis de big data y algoritmos predictivos crea capacidades emergentes que superan la suma de sus partes. Esta observación sugiere que la regulación efectiva requiere evaluar no solo componentes aislados, sino **arquitecturas de sistemas completas**.
+
 ---
 
-## 9. Evidencia de reversibilidad institucional
+## 10. Soberanía digital y vigilancia estatal: el caso europeo
+
+### 12.1 El marco regulatorio europeo: entre la protección y la vigilancia
+
+El marco regulatorio europeo en materia de datos y vigilancia presenta una tensión estructural entre la protección de derechos fundamentales y la expansión de capacidades estatales de vigilancia. Por un lado, el Reglamento General de Protección de Datos (RGPD) de 2018 estableció estándares globales en protección de datos personales. Por otro, iniciativas posteriores como eIDAS 2.0 (2024), el Reglamento de Servicios Digitales (DSA) y el Reglamento de Inteligencia Artificial (AI Act) han introducido mecanismos que, según críticos como la Electronic Frontier Foundation y más de 500 expertos en ciberseguridad, podrían facilitar la vigilancia estatal sobre la población europea.
+
+La propuesta de Reglamento eIDAS 2.0, aprobada en 2024, ha sido particularmente controvertida. Expertos en cifrado han advertido que la obligación de navegadores de confiar en autoridades de certificación estatales designadas podría permitir a gobiernos interceptar comunicaciones cifradas, comprometiendo la seguridad de la infraestructura de Internet en su conjunto (EFF, 2022). La Coalición por la Ciberseguridad de la Web, integrada por más de 500 especialistas, ha señalado que eIDAS 2.0 "establece un precedente peligroso para la seguridad web" al introducir puntos de fallo únicos controlados por estados.
+
+### 12.2 La jurisprudencia del TJUE: límites y contradicciones
+
+El Tribunal de Justicia de la Unión Europea ha establecido jurisprudencia significativa sobre los límites de la vigilancia estatal. En *Digital Rights Ireland* (C-293/12, 2014), el TJUE anuló la Directiva de Retención de Datos, estableciendo que la recolección masiva de metadatos constituía una interferencia desproporcionada con los derechos fundamentales. En *Ligue des droits humains* (C-817/19, 2022), el Tribunal precisó que la transferencia de datos PNR (Passenger Name Record) solo es compatible con la Carta de Derechos Fundamentales si se aplica a amenazas "genuinas, presentes o previsibles" y por "tiempo limitado".
+
+Sin embargo, la propuesta de agenda antiterrorista de la Comisión Europea (COM(2026) 101) presenta tensiones con esta jurisprudencia. El documento propone expandir el marco PNR al transporte marítimo, terrestre y vuelos privados de forma permanente, sin referencia a los criterios de proporcionalidad exigidos por el TJUE. Asimismo, la ampliación del mandato de Europol para incluir procesamiento de grandes conjuntos de datos, análisis OSINT y monitorización de plataformas de gaming ha sido criticada por organizaciones de derechos civiles por carecer de mecanismos de supervisión democrática proporcionales a la expansión de capacidades (Fair Trials, EDRi, 2022).
+
+### 12.3 La paradoja de la legislación de emergencia
+
+La literatura académica sobre legislación antiterrorista ha identificado un patrón recurrente que Finn (2009) denominó "paradoja de la legislación de emergencia": medidas concebidas como temporales y excepcionales que se normalizan, se amplían y acaban constituyendo el régimen permanente de derecho ordinario. Este patrón, documentado extensamente en el contexto europeo por Argomaniz (2013) y el proyecto SECILE (2013), se reproduce en el ciclo legislativo contemporáneo.
+
+El análisis de la agenda COM(2026) 101 revela ausencia de cláusulas de revisión temporal en las propuestas normativas, expansión de definiciones de amenaza que incluyen categorías vagas como "ideologías anti-sistema" o "rechazo de valores democráticos" sin definición operativa, y externalización de funciones de censura a plataformas privadas sin proceso judicial previo. Estas características reproducen el patrón de erosión incremental de garantías que la literatura ha documentado en contextos previos (Ní Aoláin, 2018).
+
+### 12.4 Transferencia de soberanía digital: el CLOUD Act y la dependencia tecnológica
+
+Un fenómeno de particular relevancia para el debate sobre tecnofeudalismo es la transferencia de soberanía digital que resulta de la dependencia de infraestructuras tecnológicas extranjeras. El CLOUD Act (Clarifying Lawful Overseas Use of Data Act) de 2018 permite al gobierno estadounidense acceder a datos almacenados por empresas estadounidenses. Esta legislación ha generado tensiones con el marco europeo de protección de datos, particularmente en relación con la jurisprudencia del TJUE en *Schrems II* (C-311/18, 2020), que estableció que toda transferencia de datos personales a terceros países requiere garantías equivalentes a las del derecho europeo. El Convenio 108+ del Consejo de Europa, ratificado por la mayoría de estados europeos, establece estándares adicionales de protección de datos que el CLOUD Act puede comprometer "sin importar dónde estén almacenados físicamente". Esto significa que datos de ciudadanos europeos almacenados en servidores de Microsoft, Google o Amazon —incluso ubicados en territorio europeo— son accesibles para autoridades estadounidenses.
+
+La concentración del mercado de cloud computing refuerza esta dependencia. Tres empresas estadounidenses (Amazon Web Services, Microsoft Azure y Google Cloud) controlan aproximadamente el 65% de la infraestructura cloud global. Esta concentración tiene implicaciones de soberanía que trascienden la economía: los gobiernos europeos que implementan sistemas de vigilancia digital para "proteger" a sus ciudadanos están simultáneamente transfiriendo el control efectivo de esos datos a actores extranjeros.
+
+Microsoft ha reconocido públicamente que no puede garantizar la protección de datos europeos frente a solicitudes del gobierno estadounidense bajo el CLOUD Act, incluso cuando los datos están almacenados en territorio europeo. Esta admisión corporativa confirma la paradoja de soberanía: los sistemas de vigilancia implementados por estados para proteger su seguridad nacional pueden resultar en la subordinación de esos mismos estados a potencias extranjeras.
+
+### 12.5 Vigilancia vehicular como caso de estudio: V16, eCall y telemática
+
+El análisis técnico de sistemas de emergencia vehicular ilustra de forma concreta las tensiones entre funcionalidad, privacidad y vulnerabilidad. El sistema eCall, obligatorio en vehículos nuevos en la UE desde 2018, transmite datos de localización y identificación del vehículo (VIN) en caso de accidente. La evolución hacia NG-eCall (Next Generation) introduce capacidades ampliadas, incluyendo transmisión de datos de velocidad, aceleración y ocupantes.
+
+Sin embargo, el análisis técnico revela vulnerabilidades significativas. Los sistemas de telemática vehicular (OBD-II y TCU de fabricantes) transmiten datos continuamente, creando perfiles de movilidad completos que pueden ser interceptados mediante técnicas como IMSI catchers, GPS spoofing y análisis de metadatos de red. La comparativa de privacidad muestra que mientras un dispositivo V16 en modo standby transmite datos cada 24-48 horas, los sistemas de telemática continua generan 10.000 veces más datos de localización.
+
+Este caso ilustra el principio de dual use en tecnologías de emergencia: las mismas capacidades que permiten una respuesta rápida en accidentes habilitan formas de vigilancia y rastreo que, en manos de actores autoritarios o corporativos sin escrúpulos, comprometen la privacidad y seguridad de los usuarios. La regulación de estos sistemas requiere equilibrar la funcionalidad de emergencia con garantías de minimización de datos, cifrado robusto y supervisión democrática.
+
+### 10.1 Análisis de técnicas estructuradas: cadena de transferencia de datos y puntos de soberanía
+
+El análisis de técnicas estructuradas aplicado a la arquitectura de transferencia de datos permite identificar los puntos donde la soberanía nacional se ejerce, se pierde o se transfiere a actores extranjeros. La cadena de transferencia de datos de vigilancia puede descomponerse en seis nodos funcionales, cada uno con implicaciones de soberanía específicas.
+
+**Tabla 4. Análisis estructurado de cadena de soberanía digital**
+
+| Nodo | Función | Control típico | Riesgo de pérdida de soberanía | Mecanismo de protección |
+|------|---------|----------------|--------------------------------|-------------------------|
+| **1. Generación de datos** | Captura de datos personales por dispositivos | Usuario (consentimiento teórico) | Coerción; falta de alternativas; opacidad algorítmica | Derecho a no ser objeto de decisión automatizada; transparencia algorítmica |
+| **2. Transmisión local** | Envío de datos a infraestructura de red | Operadora de telecomunicaciones nacionales | Interceptación; metadatos expuestos; IMSI catchers | Cifrado de extremo a extremo; prohibición de interceptación sin orden judicial |
+| **3. Procesamiento en cloud** | Almacenamiento y análisis en servidores | Corporaciones tecnológicas (frecuentemente extranjeras) | CLOUD Act; acceso gubernamental extranjero; jurisdicción extraterritorial | Requisitos de localización de datos; certificación de soberanía; auditorías de acceso |
+| **4. Análisis algorítmico** | Procesamiento por IA y algoritmos | Corporaciones; agencias de inteligencia | Sesgos algorítmicos; perfilado discriminatorio; decisiones opacas | Auditorías algorítmicas; explicabilidad; prohibición de categorías protegidas |
+| **5. Acceso gubernamental** | Solicitudes de acceso por autoridades | Gobierno nacional (con orden judicial teórico) | Acceso sin orden; vigilancia masiva; misión creep | Supervisión judicial efectiva; notificación post-acceso; registros públicos |
+| **6. Transferencia internacional** | Compartición con gobiernos extranjeros | Acuerdos ejecutivos; alianzas de inteligencia | Falta de reciprocidad; estándares de protección inferiores; uso para represión | Evaluación de impacto de derechos humanos; cláusulas de salvaguarda; mecanismos de recurso |
+
+El análisis estructurado revela que la pérdida de soberanía no ocurre en un punto único, sino a través de **acumulación de vulnerabilidades en múltiples nodos**. Un sistema puede mantener soberanía formal en el nodo de acceso gubernamental (requiriendo orden judicial) mientras pierde soberanía efectiva en el nodo de procesamiento en cloud (datos accesibles para gobierno extranjero vía CLOUD Act).
+
+Esta observación tiene implicaciones directas para el debate sobre tecnofeudalismo: la "extracción de renta" no es solo económica (beneficio corporativo), sino también **política** (transferencia de capacidad de vigilancia y control). Los estados que implementan sistemas de vigilancia digital para proteger su seguridad nacional pueden estar simultáneamente transfiriendo a corporaciones extranjeras la capacidad efectiva de monitorear a sus propios ciudadanos.
+
+El STA sugiere que la protección de la soberanía digital requiere intervención en múltiples nodos simultáneamente: regulación de la generación de datos (minimización), requisitos de localización y cifrado (transmisión y procesamiento), supervisión judicial efectiva (acceso gubernamental), y evaluación de impacto de derechos humanos para transferencias internacionales. La fragmentación regulatoria actual, que aborda cada nodo de forma aislada, es insuficiente para proteger la soberanía en sistemas integrados.
+
+---
+
+## 11. Evidencia de reversibilidad institucional
 
 Frente a la lectura que presenta estas dinámicas como una trayectoria irreversible, existe evidencia empírica reciente de fricción democrática efectiva.
 
@@ -186,37 +297,37 @@ La narrativa de la inevitabilidad tecnológica —presente tanto en el discurso 
 
 ---
 
-## 10. Conclusiones
+## 12. Conclusiones
 
-### 10.1. Sobre la categoría de "tecnofeudalismo"
+### 12.1. Sobre la categoría de "tecnofeudalismo"
 
 Como categoría de modo de producción, "tecnofeudalismo" es analíticamente deficiente. No reproduce las estructuras definitorias del feudalismo histórico —relaciones de servidumbre, ausencia de mercado de fuerza de trabajo, economía agraria local—, y el fenómeno que describe —concentración monopolística y extracción de renta mediante control de infraestructura— es explicable con mayor precisión dentro del marco de la teoría del imperialismo y el capitalismo monopolista-financiero. La metáfora feudal, evocadora pero imprecisa, genera confusión conceptual que dificulta, más que facilita, la acción política precisa. La crítica desde la teoría marxista ortodoxa tiene razón en su diagnóstico de imprecisión categorial, aunque su alternativa —la aplicación mecánica de categorías del siglo XIX sin adecuación a las nuevas formas de extracción de valor— tampoco resulta suficiente para capturar las especificidades de la fase contemporánea.
 
-### 10.2. Sobre la discontinuidad técnica
+### 12.2. Sobre la discontinuidad técnica
 
 Existe, no obstante, una discontinuidad técnica real entre la vigilancia catalogadora de mediados del siglo XX y la vigilancia predictiva-universal actual. Esta discontinuidad —el paso de la clasificación de datos preexistentes a la inferencia de categorías predictivas sobre personas nunca fichadas, de la vigilancia reactiva a la universal-preventiva por defecto— es empíricamente sólida y políticamente significativa. No constituye un argumento a favor del término "tecnofeudalismo" —pertenece a un registro distinto, el de las capacidades de control social, no el del modo de producción—, pero no debe subsumirse ni disolverse en el debate terminológico.
 
-### 10.3. Sobre la delegación cognitiva
+### 12.3. Sobre la delegación cognitiva
 
 La reducción de la capacidad crítica asociada a la delegación masiva de funciones cognitivas en sistemas de inteligencia artificial es un fenómeno de alcance político considerable. Su efecto más inmediato no es la vigilancia coercitiva sino la erosión gradual de las competencias que hacen posible la resistencia a la manipulación. Esta dimensión merece mayor atención tanto en la investigación académica como en la estrategia política de los movimientos democráticos.
 
-### 10.4. Sobre la dimensión ideológica
+### 12.4. Sobre la dimensión ideológica
 
 Hay un componente ideológico explícito y con respaldo institucional real que reclama públicamente la sustitución de instituciones democráticas por gobierno tecnocrático-corporativo. Este componente es analíticamente distinto tanto del debate económico —renta versus beneficio— como del debate técnico —vigilancia catalogadora versus predictiva—, y merece tratamiento propio: no es una tendencia estructural anónima del capital, sino un proyecto político con actores identificables, conexiones explícitas con tradiciones eugenésicas y capacidad de influencia sobre instituciones estatales.
 
-### 10.5. Sobre el auge del fascismo
+### 12.5. Sobre el auge del fascismo
 
 La relación entre las dinámicas tecnológicas descritas y el auge contemporáneo del fascismo es estructural, no casual. La pérdida de pertenencia de clase de la clase obrera, la concentración de poder económico en el sector tecnológico y la disponibilidad de infraestructuras de vigilancia y manipulación algorítmica crean condiciones de posibilidad que los movimientos autoritarios han sabido explotar. El análisis de estas tecnologías no puede separarse del análisis de las formaciones políticas que las despliegan.
 
-### 10.6. Sobre la reversibilidad
+### 12.6. Sobre la reversibilidad
 
 El proceso descrito no es irreversible. La evidencia de retrocesos regulatorios y cancelaciones contractuales bajo presión ciudadana —más de 200 ciudades estadounidenses han cancelado contratos con Flock Safety desde comienzos de 2026— indica que la fricción democrática organizada sigue siendo efectiva. Esto tiene implicaciones directas sobre las estrategias de respuesta: el marco analítico más útil no es el de una distopía consumada, sino el de una disputa activa cuyo resultado depende de la capacidad organizativa de los actores involucrados.
 
-### 10.7. Sobre el coste de oportunidad del debate terminológico
+### 12.7. Sobre el coste de oportunidad del debate terminológico
 
 La discusión sobre el nombre correcto del fenómeno tiene un coste de oportunidad. Buena parte de la energía argumentativa que se invierte en decidir si el término adecuado es "tecnofeudalismo", "capitalismo monopolista-financiero", "capitalismo de plataformas" o alguna variante más precisa podría redirigirse hacia las preguntas operativas que las dimensiones anteriores dejan abiertas: qué regulación es posible sobre sistemas de vigilancia universal, qué límites institucionales se pueden imponer a contratos entre gobiernos y proveedores de infraestructura de control, cómo proteger la capacidad crítica frente a la delegación algorítmica, y qué papel puede jugar la organización ciudadana documentada en los casos de reversión ya observados.
 
-### 10.8. Recomendaciones para investigación futura
+### 12.8. Recomendaciones para investigación futura
 
 Primero, desagregar el análisis: separar claramente las dimensiones económica, técnica, cognitiva y político-ideológica del fenómeno para evitar confusiones categoriales. Segundo, empirizar el debate: sustituir las metáforas históricas por análisis de casos concretos de extracción de renta, despliegue de vigilancia, delegación cognitiva y articulación ideológica. Tercero, estudiar la resistencia: la investigación sobre tecnologías de control debe acompañarse de investigación sobre formas de resistencia efectiva, como documentan los casos de cancelación de contratos ALPR y el retroceso del gobierno británico sobre identificación digital obligatoria. Cuarto, desarrollar vocabulario alternativo: en lugar de "tecnofeudalismo", considerar categorías como "capitalismo de infraestructura" para la dimensión económica, "vigilancia predictiva" para la dimensión técnica, "delegación cognitiva" para la dimensión epistemológica y "neorreaccionarismo tecnológico" para la dimensión político-ideológica. Quinto, analizar las conexiones entre tecnología y fascismo: investigar de forma sistemática las relaciones entre actores tecnológicos, movimientos autoritarios e instituciones estatales en el contexto contemporáneo.
 
@@ -226,9 +337,23 @@ Primero, desagregar el análisis: separar claramente las dimensiones económica,
 
 ACLU (2026). *You Are Being Tracked: License Plate Readers in Your Community*. American Civil Liberties Union.
 
-ACLU (2026). *Get the Flock Out: Campaign to Cancel ALPR Contracts*. American Civil Liberties Union.
+ACLU (2026). *Get the Flock Out: Campaign to Cancel ALPR Contracts*. American Civil Libert Liberties Union.
+
+Argomaniz, J. (2013). *A Decade of EU Counter-Terrorism and Intelligence: A Critical Assessment*. International Relations.
 
 Big Brother Watch (2026). *Digital ID: The Campaign Against Mandatory Identification*. Big Brother Watch.
+
+Buzan, B., Wæver, O. y de Wilde, J. (1998). *Security: A New Framework for Analysis*. Lynne Rienner.
+
+Cassinadri, A., & Ienca, M. (2024). "Neurotechnology and corporate responsibility: the case of brain-computer interface companies". *American Journal of Bioethics Neuroscience*, 15(2), 123-135.
+
+Comisión Europea (2026). *ProtectEU: Agenda para Prevenir y Combatir el Terrorismo*. COM(2026) 101 final.
+
+EFF (2022). *eIDAS 2.0 Sets a Dangerous Precedent for Web Security*. Electronic Frontier Foundation.
+
+Fair Trials y EDRi (2022). Comunicado conjunto sobre la ampliación del mandato de Europol.
+
+Finn, J.E. (2009). "Sunset clauses and democratic deliberation: Assessing the significance of sunset provisions in antiterrorism legislation". *Columbia Journal of Transnational Law*, 48, 442.
 
 Black, E. (2001). *IBM and the Holocaust: The Strategic Alliance Between Nazi Germany and America's Most Powerful Corporation*. Crown Publishers.
 
@@ -275,6 +400,22 @@ UNESCO (2025). *Recommendation on the Ethics of Neurotechnology*. General Confer
 UN Scientific Advisory Board (2025). *Neurotechnology: Benefits, Risks and Governance*. United Nations. https://www.un.org/scientific-advisory-board/sites/default/files/2025-11/Scientific%20Advisory%20Board%20-%20Neurotechnology.pdf
 
 Yuste, R., Genser, J., & Herrmann, S. (2021). "It's time for neuro-rights: New human rights for the age of neurotechnology". *Horizon Magazine*. https://horizon-magazine.eu/article/it-s-time-neuro-rights-new-human-rights-age-neurotechnology.html
+
+Federici, S. (2004). *Caliban and the Witch: Women, the Body and Primitive Accumulation*. Autonomedia.
+
+Heidegger, M. (1977). *The Question Concerning Technology and Other Essays*. Harper & Row.
+
+Lyon, D. (2007). *Surveillance Studies: An Overview*. Polity Press.
+
+Marcuse, H. (1964). *One-Dimensional Man: Studies in the Ideology of Advanced Industrial Society*. Beacon Press.
+
+Negri, A., & Hardt, M. (2000). *Empire*. Harvard University Press.
+
+Heuer, R. J. (1999). *Psychology of Intelligence Analysis*. Center for the Study of Intelligence, CIA.
+
+Pherson, R. H., & Heuer, R. J. (Eds.). (2020). *Structured Analytic Techniques for Intelligence Analysis* (3rd ed.). CQ Press.
+
+Statista (2024). *Leading Tech Companies Worldwide by Market Cap*. https://www.statista.com/statistics/1350976/leading-tech-companies-worldwide-by-market-cap/
 
 Varoufakis, Y. (2023). *Technofeudalism: What Killed Capitalism*. Penguin Random House.
 
